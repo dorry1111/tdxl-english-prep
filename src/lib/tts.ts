@@ -20,6 +20,8 @@
  */
 import { whenIdle } from './idle';
 import { perfLog, perfMark } from './perf';
+import { IS_IOS } from './platform';
+import { TtsBridge } from './nativeTts';
 
 /** 发音参数（来自 Settings 的 TTS 字段子集） */
 export interface SpeakOptions {
@@ -131,7 +133,16 @@ const RATE_MAX = 1.5;
  * - 任何异常（静音模式、权限、磁盘无语音包）都吞掉，不向上抛。
  */
 export function speakText(text: string, options: SpeakOptions): Promise<void> {
-  if (!isSpeechSupported() || text.trim().length === 0) {
+  if (text.trim().length === 0) {
+    return Promise.resolve();
+  }
+  // iOS 原生壳：走 AVSpeechSynthesizer（媒体路径，忽略静音键），绕过 WKWebView speechSynthesis
+  if (IS_IOS) {
+    const lang = options.accent === 'us' ? 'en-US' : 'en-GB';
+    void TtsBridge.speak({ text, lang, rate: options.rate }).catch(() => undefined);
+    return Promise.resolve();
+  }
+  if (!isSpeechSupported()) {
     return Promise.resolve();
   }
   try {
@@ -162,6 +173,14 @@ export function speakText(text: string, options: SpeakOptions): Promise<void> {
 
 /** 停止当前朗读（切卡、退出会话时调用） */
 export function cancelSpeech(): void {
+  if (IS_IOS) {
+    try {
+      void TtsBridge.stop().catch(() => undefined);
+    } catch {
+      // 忽略
+    }
+    return;
+  }
   if (!isSpeechSupported()) {
     return;
   }
@@ -250,6 +269,11 @@ export function warmupTts(): void {
  */
 export function primeSpeechOnFirstGesture(): void {
   if (!isSpeechSupported() || typeof document === 'undefined' || primed) {
+    return;
+  }
+  if (IS_IOS) {
+    // 原生 iOS 走 AVSpeechSynthesizer（媒体路径，无需用户手势解锁），无需 WKWebView 解锁逻辑
+    primed = true;
     return;
   }
   if (!requiresGestureUnlock()) {
