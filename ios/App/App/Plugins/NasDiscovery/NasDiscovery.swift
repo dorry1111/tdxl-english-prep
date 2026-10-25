@@ -4,11 +4,20 @@ import Capacitor
 /// 局域网 NAS 发现（mDNS / Bonjour）。
 /// 扫描常见服务类型，解析出主机名与端口，供 app 自动填充 WebDAV 地址。
 @objc(NasDiscovery)
-public class NasDiscovery: CAPPlugin {
+public class NasDiscovery: CAPPlugin, CAPBridgedPlugin {
+    /// Capacitor 8 插件注册（Swift-only 方式）：必须 conform CAPBridgedPlugin
+    /// 并声明 identifier / jsName / pluginMethods，否则 JS 调用会抛 not implemented。
+    public let identifier = "NasDiscovery"
+    public let jsName = "NasDiscovery"
+    public let pluginMethods: [CAPPluginMethod] = [
+        CAPPluginMethod(name: "startDiscovery", returnType: CAPPluginReturnPromise),
+        CAPPluginMethod(name: "stopDiscovery", returnType: CAPPluginReturnPromise),
+    ]
+
     private var browsers: [NetServiceBrowser] = []
     private var services: [NetService] = []
 
-    @objc func startDiscovery(_ call: CAPPluginCall) {
+    @objc public func startDiscovery(_ call: CAPPluginCall) {
         let types = call.getArray("types", String.self) ?? ["_http._tcp", "_https._tcp", "_webdav._tcp"]
         DispatchQueue.main.async { [weak self] in
             self?.stopInternal()
@@ -23,7 +32,7 @@ public class NasDiscovery: CAPPlugin {
         call.resolve()
     }
 
-    @objc func stopDiscovery(_ call: CAPPluginCall) {
+    @objc public func stopDiscovery(_ call: CAPPluginCall) {
         DispatchQueue.main.async { [weak self] in
             self?.stopInternal()
         }

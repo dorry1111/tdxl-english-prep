@@ -49,6 +49,11 @@ export interface Settings {
   ttsAccent: 'us' | 'uk';
   /** TTS 默认口径 v2 迁移标记（英式 + 自动朗读）；缺失即旧版默认值，启动时一次性升级 */
   ttsDefaultsV2?: boolean;
+  /**
+   * iOS 同步默认开启迁移标记（v1.8.0 一次性）：缺失即旧版 iOS 默认关闭同步。
+   * 迁移后用户手动关闭 syncEnabled 也不会再被覆盖。
+   */
+  iosSyncDefaultsApplied?: boolean;
 
   // 显示
   theme: 'auto' | 'light' | 'dark';

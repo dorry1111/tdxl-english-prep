@@ -20,6 +20,8 @@ export const PER_DEVICE_FILES = {
   reviewLogs: (deviceId: string, month: string): string => `reviewLogs.${deviceId}.${month}.json`,
   sessions: (deviceId: string): string => `sessions.${deviceId}.json`,
   studyDays: (deviceId: string): string => `studyDays.${deviceId}.json`,
+  /** 真题域（v1.8.0）：已交卷 Attempt + 其明细 + 全量 WrongItem（草稿永不上传） */
+  attempts: (deviceId: string): string => `attempts.${deviceId}.json`,
   /** 全局单文件，LWW */
   settings: 'settings.json',
   /** 设备清单 + 各设备最后同步时间 */
@@ -39,6 +41,16 @@ export interface WordbookPayload {
   textHighlights?: unknown[];
 }
 
+/** 真题域文件的内容结构（answers / wrongItems 为可选：旧版本文件允许缺字段） */
+export interface AttemptsPayload {
+  /** 只含已交卷（submittedAt !== null）的 Attempt，含 deletedAt 墓碑；草稿永不上传 */
+  attempts: unknown[];
+  /** 上述 Attempt 的作答明细（按 attemptId 过滤） */
+  answers?: unknown[];
+  /** 错题本全量（跨试卷共享，不做 attempt 过滤） */
+  wrongItems?: unknown[];
+}
+
 /** meta.json 的内容结构 */
 export interface MetaDeviceInfo {
   deviceId: string;
@@ -51,9 +63,9 @@ export interface MetaFile {
   devices: MetaDeviceInfo[];
 }
 
-/** 非流水的设备文件（wordStates / sessions / studyDays / wordbook） */
+/** 非流水的设备文件（wordStates / sessions / studyDays / wordbook / attempts） */
 export interface ParsedDeviceFile {
-  kind: 'wordStates' | 'sessions' | 'studyDays' | 'wordbook';
+  kind: 'wordStates' | 'sessions' | 'studyDays' | 'wordbook' | 'attempts';
   deviceId: string;
 }
 
@@ -79,13 +91,17 @@ export function parseDeviceFileName(name: string): ParsedRemoteFile | null {
       return { kind: 'reviewLogs', deviceId, month };
     }
   }
-  const plain = /^(wordStates|sessions|studyDays|wordbook)\.([^.]+)\.json$/.exec(name);
+  const plain = /^(wordStates|sessions|studyDays|wordbook|attempts)\.([^.]+)\.json$/.exec(name);
   if (plain) {
     const kind = plain[1];
     const deviceId = plain[2];
     if (
       deviceId &&
-      (kind === 'wordStates' || kind === 'sessions' || kind === 'studyDays' || kind === 'wordbook')
+      (kind === 'wordStates' ||
+        kind === 'sessions' ||
+        kind === 'studyDays' ||
+        kind === 'wordbook' ||
+        kind === 'attempts')
     ) {
       return { kind, deviceId };
     }
@@ -101,6 +117,8 @@ export function parseDeviceFileName(name: string): ParsedRemoteFile | null {
  * - `study.json` → sessions.{deviceId}.json + studyDays.{deviceId}.json
  * - `wordbook.json` → wordbook.{deviceId}.json
  * - `settings.json` → settings.json
+ * - `exam-index.json`（真题域脏标记）→ attempts.{deviceId}.json
+ * - `exams/<paperId>.json`（答题明细草稿）→ []（永不上传，映射为空）
  */
 export function localEntityToDeviceFiles(entity: string, deviceId: string): string[] {
   if (entity === REMOTE_FILES.settings) {
@@ -111,6 +129,13 @@ export function localEntityToDeviceFiles(entity: string, deviceId: string): stri
   }
   if (entity === REMOTE_FILES.study) {
     return [PER_DEVICE_FILES.sessions(deviceId), PER_DEVICE_FILES.studyDays(deviceId)];
+  }
+  if (entity === REMOTE_FILES.examIndex) {
+    return [PER_DEVICE_FILES.attempts(deviceId)];
+  }
+  // 答题明细（草稿每 3s 落库）只在交卷后随 attempts 文件上传，本身永不上传
+  if (/^exams\/[^/]+\.json$/.test(entity)) {
+    return [];
   }
   if (/^wordstate-\d+\.json$/.test(entity)) {
     return [PER_DEVICE_FILES.wordStates(deviceId)];

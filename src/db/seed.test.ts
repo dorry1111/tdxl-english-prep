@@ -3,10 +3,27 @@
  *
  * 示范卷 JSON 本体由试卷管线产出（public/data/exams/*.json），
  * 这里用注入 loader 验证导入 / 幂等 / 缺文件跳过 / 坏数据报错四条链路。
+ *
+ * iOS 迁移测试通过 getter mock 控制平台标志（IS_IOS 在原生壳内才为 true，
+ * jsdom/PWA 环境恒为 false，因此必须可注入）。
  */
-import { beforeEach, describe, expect, it } from 'vitest';
+import { beforeEach, describe, expect, it, vi } from 'vitest';
+
+/** 平台标志的测试内可控状态（vi.hoisted 保证 mock 工厂与测试共享同一引用） */
+const platformState = vi.hoisted(() => ({ isIos: false }));
+
+vi.mock('@/lib/platform', () => ({
+  get IS_IOS() {
+    return platformState.isIos;
+  },
+  get IS_NATIVE() {
+    return platformState.isIos;
+  },
+  IS_ANDROID: false,
+}));
 
 import { db } from '@/db';
+import { setSecret } from '@/db/repos/settingsRepo';
 import { DEMO_EXAM_IDS, ensureDemoExamsSeeded, ensureSeeded, importExamJson } from '@/db/seed';
 import { getPaperDetail } from '@/db/repos/examRepo';
 import type { DemoExamLoader } from '@/db/seed';
@@ -210,6 +227,75 @@ describe('ensureSeeded：TTS 默认口径 v2 迁移', () => {
     const settings = (await db.settings.get('global'))!;
     expect(settings.ttsAccent).toBe('us');
     expect(settings.ttsAutoPlay).toBe(false);
+  });
+});
+
+describe('ensureSeeded：iOS syncEnabled 一次性迁移（v1.8.0）', () => {
+  beforeEach(async () => {
+    platformState.isIos = false;
+    await Promise.all(db.tables.map((table) => table.clear()));
+  });
+
+  it('iOS 且未配置过 WebDAV：一次性开启 syncEnabled，SeedResult.iosSyncEnabled=true', async () => {
+    platformState.isIos = true;
+    const legacy = { ...buildLegacySettings(), webdavUrl: '' };
+    await db.settings.put(legacy);
+    const result = await ensureSeeded();
+    expect(result.iosSyncEnabled).toBe(true);
+    const settings = (await db.settings.get('global'))!;
+    expect(settings.syncEnabled).toBe(true);
+    expect(settings.iosSyncDefaultsApplied).toBe(true);
+  });
+
+  it('幂等：迁移后手动关闭 syncEnabled，再次 seed 不覆盖（永不复活）', async () => {
+    platformState.isIos = true;
+    const legacy = { ...buildLegacySettings(), webdavUrl: '' };
+    await db.settings.put(legacy);
+    await ensureSeeded();
+    expect((await db.settings.get('global'))?.syncEnabled).toBe(true);
+
+    // 用户手动关闭
+    const current = (await db.settings.get('global'))!;
+    await db.settings.put({ ...current, syncEnabled: false, updatedAt: current.updatedAt + 1000 });
+
+    const second = await ensureSeeded();
+    expect(second.iosSyncEnabled).toBe(false);
+    expect((await db.settings.get('global'))?.syncEnabled).toBe(false);
+  });
+
+  it('已配置过同步（webdavUrl 非空）的 iOS 用户：不改动现有开关，仅打标记', async () => {
+    platformState.isIos = true;
+    // buildLegacySettings 自带坚果云地址且 syncEnabled=false：视为已配置过
+    await db.settings.put(buildLegacySettings());
+    const result = await ensureSeeded();
+    expect(result.iosSyncEnabled).toBe(false);
+    const settings = (await db.settings.get('global'))!;
+    expect(settings.syncEnabled).toBe(false);
+    expect(settings.iosSyncDefaultsApplied).toBe(true);
+  });
+
+  it('secret 已存在但 webdavUrl 为空：视为已配置过，仅打标记不覆盖 syncEnabled', async () => {
+    platformState.isIos = true;
+    const legacy = { ...buildLegacySettings(), webdavUrl: '' };
+    await db.settings.put(legacy);
+    // 密码已保存 = 用户配置过同步（只是地址此刻为空），绝不替用户打开开关
+    await setSecret('saved-password');
+    const result = await ensureSeeded();
+    expect(result.iosSyncEnabled).toBe(false);
+    const settings = (await db.settings.get('global'))!;
+    expect(settings.syncEnabled).toBe(false);
+    expect(settings.iosSyncDefaultsApplied).toBe(true);
+  });
+
+  it('PWA / 非原生端：不触发迁移（IS_IOS=false）', async () => {
+    platformState.isIos = false;
+    const legacy = { ...buildLegacySettings(), webdavUrl: '' };
+    await db.settings.put(legacy);
+    const result = await ensureSeeded();
+    expect(result.iosSyncEnabled).toBe(false);
+    const settings = (await db.settings.get('global'))!;
+    expect(settings.syncEnabled).toBe(false);
+    expect(settings.iosSyncDefaultsApplied).toBeUndefined();
   });
 });
 

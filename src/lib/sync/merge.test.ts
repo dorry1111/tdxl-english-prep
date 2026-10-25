@@ -10,9 +10,9 @@
 import { describe, expect, it } from 'vitest';
 
 import { stateKeyOfNorm } from '@/lib/hash';
-import type { NotebookEntry, ReviewLog, Settings, WordState } from '@/types';
+import type { NotebookEntry, ReviewLog, Settings, WordState, WrongItem } from '@/types';
 
-import { lwwById, mergeAppendOnly, mergeRecords, mergeSettings, pickWinner } from './merge';
+import { lwwById, mergeAppendOnly, mergeRecords, mergeSettings, mergeWrongItems, pickWinner } from './merge';
 
 function makeState(norm: string, updatedAt: number, overrides?: Partial<WordState>): WordState {
   return {
@@ -285,5 +285,81 @@ describe('notebook 类型可参与 lwwById', () => {
     const remote: NotebookEntry = { ...local, note: '新笔记', updatedAt: 50 };
     const result = lwwById([local], [remote]);
     expect(result.merged[0]?.note).toBe('新笔记');
+  });
+});
+
+describe('mergeWrongItems（真题域错题本，宁多勿删）', () => {
+  function makeWrong(id: string, updatedAt: number, overrides?: Partial<WrongItem>): WrongItem {
+    return {
+      id,
+      questionId: id.replace(/^wrong:/, ''),
+      paperId: 'paper-1',
+      sectionType: 'reading',
+      wrongCount: 1,
+      lastWrongAt: updatedAt,
+      resolved: false,
+      updatedAt,
+      deletedAt: null,
+      ...overrides,
+    };
+  }
+
+  it('双端都在册：同 id 比 updatedAt LWW，新者胜', () => {
+    const local = makeWrong('wrong:q1', 100, { wrongCount: 1 });
+    const remote = makeWrong('wrong:q1', 300, { wrongCount: 3 });
+    const result = mergeWrongItems([local], [remote]);
+    expect(result.merged[0]?.wrongCount).toBe(3);
+    expect(result.toApply).toHaveLength(1);
+    expect(result.conflicts).toBe(1);
+  });
+
+  it('一侧墓碑一侧在册：一律保留在册方（本地墓碑更晚也不能删除远端在册记录）', () => {
+    const localTombstone = makeWrong('wrong:q1', 500, { deletedAt: 500 });
+    const remoteAlive = makeWrong('wrong:q1', 100, { wrongCount: 2 });
+    const result = mergeWrongItems([localTombstone], [remoteAlive]);
+    expect(result.merged[0]?.deletedAt).toBeNull(); // 在册方胜出，墓碑被拒绝
+    expect(result.merged[0]?.wrongCount).toBe(2);
+    expect(result.toApply).toHaveLength(1);
+  });
+
+  it('一侧墓碑一侧在册：远端墓碑再新也压不掉本地在册记录（宁多勿删）', () => {
+    const localAlive = makeWrong('wrong:q1', 100, { wrongCount: 2 });
+    const remoteTombstone = makeWrong('wrong:q1', 900, { deletedAt: 900 });
+    const result = mergeWrongItems([localAlive], [remoteTombstone]);
+    expect(result.merged[0]?.deletedAt).toBeNull();
+    expect(result.merged[0]?.wrongCount).toBe(2);
+    expect(result.toApply).toHaveLength(0); // 本地已是在册方，无需写回
+    expect(result.conflicts).toBe(1);
+  });
+
+  it('双侧都是墓碑：按 updatedAt LWW 收敛到同一条，不复活', () => {
+    const localTomb = makeWrong('wrong:q1', 100, { deletedAt: 100 });
+    const remoteTomb = makeWrong('wrong:q1', 600, { deletedAt: 600 });
+    const result = mergeWrongItems([localTomb], [remoteTomb]);
+    expect(result.merged[0]?.deletedAt).toBe(600);
+    expect(result.toApply).toHaveLength(1);
+    // 反向：远端墓碑更旧，本地胜出，不写回
+    const reverse = mergeWrongItems([remoteTomb], [localTomb]);
+    expect(reverse.merged[0]?.deletedAt).toBe(600);
+    expect(reverse.toApply).toHaveLength(0);
+  });
+
+  it('远端独有记录（含墓碑）直接并入；本地独有记录原样保留', () => {
+    const local = makeWrong('wrong:q1', 100);
+    const remoteNew = makeWrong('wrong:q2', 200);
+    const remoteTomb = makeWrong('wrong:q3', 300, { deletedAt: 300 });
+    const result = mergeWrongItems([local], [remoteNew, remoteTomb]);
+    expect(result.merged).toHaveLength(3);
+    expect(result.toApply).toHaveLength(2);
+    expect(result.conflicts).toBe(0);
+  });
+
+  it('updatedAt 相同（双端都在册）：本地胜出（C3，避免抖动）', () => {
+    const local = makeWrong('wrong:q1', 100, { wrongCount: 1 });
+    const remote = makeWrong('wrong:q1', 100, { wrongCount: 5 });
+    const result = mergeWrongItems([local], [remote]);
+    expect(result.merged[0]?.wrongCount).toBe(1);
+    expect(result.toApply).toHaveLength(0);
+    expect(result.conflicts).toBe(0);
   });
 });

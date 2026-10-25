@@ -9,7 +9,17 @@ import AVFoundation
 /// 修复：改用系统 `AVSpeechSynthesizer`，并把音频会话类别设为 `.playback`（媒体路径），
 /// 该类别**忽略静音键**，从而即使在静音模式下单词朗读也能出声。
 @objc(TtsBridge)
-public class TtsBridge: CAPPlugin {
+public class TtsBridge: CAPPlugin, CAPBridgedPlugin {
+    /// Capacitor 8 插件注册（Swift-only 方式）：必须 conform CAPBridgedPlugin
+    /// 并声明 identifier / jsName / pluginMethods，否则 JS 调用会抛 not implemented。
+    public let identifier = "TtsBridge"
+    public let jsName = "TtsBridge"
+    public let pluginMethods: [CAPPluginMethod] = [
+        CAPPluginMethod(name: "speak", returnType: CAPPluginReturnPromise),
+        CAPPluginMethod(name: "stop", returnType: CAPPluginReturnPromise),
+        CAPPluginMethod(name: "isSupported", returnType: CAPPluginReturnPromise),
+    ]
+
     private let synthesizer = AVSpeechSynthesizer()
     private var sessionConfigured = false
 
@@ -31,7 +41,7 @@ public class TtsBridge: CAPPlugin {
         }
     }
 
-    @objc func speak(_ call: CAPPluginCall) {
+    @objc public func speak(_ call: CAPPluginCall) {
         guard let text = call.getString("text"), !text.isEmpty else {
             call.reject("missing text")
             return
@@ -56,14 +66,14 @@ public class TtsBridge: CAPPlugin {
         }
     }
 
-    @objc func stop(_ call: CAPPluginCall) {
+    @objc public func stop(_ call: CAPPluginCall) {
         DispatchQueue.main.async {
             self.synthesizer.stopSpeaking(at: .immediate)
             call.resolve()
         }
     }
 
-    @objc func isSupported(_ call: CAPPluginCall) {
+    @objc public func isSupported(_ call: CAPPluginCall) {
         call.resolve(["supported": true])
     }
 }

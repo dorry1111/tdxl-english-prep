@@ -8,10 +8,12 @@
  *
  * 覆盖：
  * 1. 桌面 Windows Chrome/Edge → pointerdown 后 speak 0 次（本次修复的核心断言）；
- * 2. iPhone → pointerdown 后 speak 1 次且 volume === 0（iOS 解锁不能坏）；
+ * 2. iPhone → pointerdown 后 speak 1 次：真实短文本 'a' + volume 0.01（v1.8.0：
+ *    空白/零音量 utterance 会被 WebKit 跳过导致解锁失效，故改用真实字符）；
  * 3. 重复调用 primeSpeechOnFirstGesture → 监听只绑一次、只解锁一次（幂等）；
  * 4. iPadOS 伪装 macOS（Macintosh + maxTouchPoints > 1）→ 仍走 Apple 解锁；
- * 5. speakText → 语音列表为空时也同步发声（不等 voices），有列表时按口音选 voice。
+ * 5. speakText → 语音列表为空时也同步发声（不等 voices），有列表时按口音选 voice；
+ * 6. Apple PWA 未解锁时自动播请求入队，解锁后立即补播（v1.8.0）。
  *
  * 说明：tts.ts 用模块级变量保存 `primed` / `gestureBound` / `voicesCache`，
  * 因此每个用例都要 `vi.resetModules()` + 动态 import，拿到干净实例。
@@ -224,7 +226,7 @@ describe('primeSpeechOnFirstGesture — 桌面端（本次修复的核心）', (
 });
 
 describe('primeSpeechOnFirstGesture — Apple 端（手势解锁不能被改坏）', () => {
-  it('iPhone：pointerdown 触发一次 volume=0 的静音解锁', async () => {
+  it('iPhone：pointerdown 触发一次真实短文本解锁（"a" + volume 0.01）', async () => {
     setUserAgent(UA.iphone, 5);
     const synth = installFakeSpeechSynthesis([voice('en-GB', 'Daniel')]);
     const tts = await import('./tts');
@@ -238,7 +240,11 @@ describe('primeSpeechOnFirstGesture — Apple 端（手势解锁不能被改坏�
     dispatchPointerDown();
 
     expect(synth.speak).toHaveBeenCalledTimes(1);
-    expect(synth.spoken[0]?.volume).toBe(0);
+    // v1.8.0：空白/零音量 utterance 会被 WebKit 跳过导致解锁失效，
+    // 必须是真实可发声字符 + 极低音量（几乎不可闻但 WebKit 认定「发过声」）
+    expect(synth.spoken[0]?.text).toBe('a');
+    expect(synth.spoken[0]?.volume).toBeCloseTo(0.01, 5);
+    expect(synth.spoken[0]?.rate).toBeCloseTo(0.5, 5);
   });
 
   it('iPadOS 伪装成 macOS（Macintosh + maxTouchPoints > 1）仍走 Apple 解锁', async () => {
@@ -252,7 +258,8 @@ describe('primeSpeechOnFirstGesture — Apple 端（手势解锁不能被改坏�
     dispatchPointerDown();
 
     expect(synth.speak).toHaveBeenCalledTimes(1);
-    expect(synth.spoken[0]?.volume).toBe(0);
+    expect(synth.spoken[0]?.text).toBe('a');
+    expect(synth.spoken[0]?.volume).toBeCloseTo(0.01, 5);
   });
 });
 
@@ -296,6 +303,12 @@ describe('primeSpeechOnFirstGesture — 幂等（StudyPage effect 反复重跑�
 });
 
 describe('speakText — 不等待语音列表', () => {
+  beforeEach(() => {
+    // 本组只测语音挑选逻辑：固定桌面 UA（无手势解锁），避免前面 Apple 用例的
+    // navigator 残留把 speakText 送进「未解锁入队」分支
+    setUserAgent(UA.winChrome, 0);
+  });
+
   it('getVoices() 返回空数组时仍同步 speak，且不抛错', async () => {
     const synth = installFakeSpeechSynthesis([]);
     const tts = await import('./tts');
@@ -337,5 +350,56 @@ describe('speakText — 不等待语音列表', () => {
 
     expect(synth.speak).toHaveBeenCalledTimes(0);
     expect(synth.cancel).toHaveBeenCalledTimes(0);
+  });
+});
+
+describe('speakText — Apple PWA 解锁队列（v1.8.0）', () => {
+  it('未解锁时自动播请求入队不发声；解锁后立即补播', async () => {
+    setUserAgent(UA.iphone, 5);
+    const synth = installFakeSpeechSynthesis([voice('en-GB', 'Daniel')]);
+    const tts = await import('./tts');
+
+    tts.primeSpeechOnFirstGesture();
+    // 未交互：出卡自动播（或喇叭点击）入队，不直接 speak（会被 WebKit 丢弃）
+    void tts.speakText('hello', { rate: 1, accent: 'uk' });
+    expect(synth.speak).toHaveBeenCalledTimes(0);
+
+    // 首次手势：解锁 utterance（'a'）+ 立即补播 'hello'
+    dispatchPointerDown();
+    expect(synth.speak).toHaveBeenCalledTimes(2);
+    expect(synth.spoken[0]?.text).toBe('a'); // 解锁 utterance 先行
+    expect(synth.spoken[1]?.text).toBe('hello'); // 补播请求紧随其后（100ms 内）
+    expect(synth.spoken[1]?.lang).toBe('en-GB');
+  });
+
+  it('解锁后 speakText 直接放行，不再入队', async () => {
+    setUserAgent(UA.iphone, 5);
+    const synth = installFakeSpeechSynthesis([voice('en-GB', 'Daniel')]);
+    const tts = await import('./tts');
+
+    tts.primeSpeechOnFirstGesture();
+    dispatchPointerDown();
+    const afterUnlock = synth.speak.mock.calls.length;
+
+    void tts.speakText('apple', { rate: 1, accent: 'uk' });
+    expect(synth.speak).toHaveBeenCalledTimes(afterUnlock + 1);
+    expect(synth.spoken[synth.spoken.length - 1]?.text).toBe('apple');
+  });
+
+  it('多次入队只保留最近 8 条（防自动播刷屏撑爆内存）', async () => {
+    setUserAgent(UA.iphone, 5);
+    const synth = installFakeSpeechSynthesis([voice('en-GB', 'Daniel')]);
+    const tts = await import('./tts');
+
+    tts.primeSpeechOnFirstGesture();
+    for (let i = 0; i < 10; i += 1) {
+      void tts.speakText(`word-${i}`, { rate: 1, accent: 'uk' });
+    }
+    dispatchPointerDown();
+
+    // 1 次解锁 utterance + 8 条补播（最旧的 2 条被丢弃）
+    expect(synth.speak).toHaveBeenCalledTimes(9);
+    expect(synth.spoken[1]?.text).toBe('word-2');
+    expect(synth.spoken[8]?.text).toBe('word-9');
   });
 });

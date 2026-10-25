@@ -164,7 +164,7 @@ export const SETTINGS_SYNC = {
   statLine: (up: number, down: number, conflicts: number) =>
     `上传 ${up} 条 · 下载 ${down} 条 · 解决冲突 ${conflicts} 次`,
   failed: (msg: string) => `同步失败（${msg}）`,
-  hintStrategy: '同步采用「每设备独立文件 + 最后写入胜出」策略；真题做题记录暂不在同步范围。',
+  hintStrategy: '同步采用「每设备独立文件 + 最后写入胜出」策略；真题做题记录与错题本已纳入同步（未交卷草稿除外）。',
   hintProxy: '网页版（PWA）跨端口访问会被浏览器拦截，需走同源反代（NAS 已配好 /dav/）；电脑版选直连即可。',
   secretSaved: '密码已保存',
   secretNotSet: '未设置密码',

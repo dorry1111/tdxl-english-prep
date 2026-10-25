@@ -33,7 +33,7 @@ import { now } from '@/lib/time';
 import { IS_IOS } from '@/lib/platform';
 import type { Settings, WordBook } from '@/types';
 
-import { ensureSettings, getSettings, patchSettings } from './repos/settingsRepo';
+import { ensureSettings, getSecret, getSettings, patchSettings } from './repos/settingsRepo';
 import { getBook, upsertBook } from './repos/bookRepo';
 import { getExam, savePaper } from './repos/examRepo';
 
@@ -112,6 +112,8 @@ export interface SeedResult {
   notebookBookCreated: boolean;
   /** 本次实际导入的示范卷数（已存在或文件缺失都计 0） */
   demoExamCount: number;
+  /** 本次是否触发了 iOS「默认开启云同步」迁移（用于一次性 toast 提示） */
+  iosSyncEnabled: boolean;
 }
 
 /** 内置示范卷的固定试卷 ID（与 JSON 文件名一一对应） */
@@ -203,6 +205,22 @@ export async function ensureSeeded(): Promise<SeedResult> {
     await patchSettings({ ttsAccent: 'uk', ttsAutoPlay: true, ttsDefaultsV2: true });
   }
 
+  // iOS 同步默认开启迁移（v1.8.0 一次性，对标 ttsDefaultsV2 的标志位模式）：
+  // 旧版 iOS 安装升级上来时 syncEnabled 默认是 false，这里一次性打开——
+  // 仅当用户尚未配置过任何 WebDAV 信息（地址为空且未存密码）时才开启，
+  // 已配置过同步的用户绝不改动其现有开关。幂等：标记位写入后，
+  // 此后用户手动关闭 syncEnabled 永不覆盖。
+  let iosSyncEnabled = false;
+  if (current && IS_IOS && current.iosSyncDefaultsApplied !== true) {
+    const unconfigured = current.webdavUrl.trim() === '' && (await getSecret()) === null;
+    if (unconfigured && current.syncEnabled !== true) {
+      await patchSettings({ syncEnabled: true, iosSyncDefaultsApplied: true });
+      iosSyncEnabled = true;
+    } else {
+      await patchSettings({ iosSyncDefaultsApplied: true });
+    }
+  }
+
   let builtinBookCreated = false;
   if (!(await getBook(BUILTIN_BOOK_ID))) {
     await upsertBook(buildBuiltinBook(stamp));
@@ -222,5 +240,6 @@ export async function ensureSeeded(): Promise<SeedResult> {
     builtinBookCreated,
     notebookBookCreated,
     demoExamCount,
+    iosSyncEnabled,
   };
 }

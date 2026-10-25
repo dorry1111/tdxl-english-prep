@@ -9,7 +9,8 @@
  *
  * 【重要：手势解锁只在 Apple 平台做】
  * iOS/Safari 要求「首次发声发生在用户手势调用栈内」，否则后续 speak() 全部静默；
- * 所以 Apple 平台必须在 pointerdown 里朗读一个静音 utterance（见 8.1）。
+ * 所以 Apple 平台必须在 pointerdown 里用「真实短文本 + 极低音量」完成一次发声
+ * （空白/零音量会被 WebKit 跳过，见 8.1 与 primeSpeechOnFirstGesture 注释）。
  * 但桌面 Chromium（Windows Chrome/Edge）没有任何手势限制，反过来它的
  * `speechSynthesis.speak()`/`getVoices()` 首次调用会拉起系统语音引擎
  * （Windows SAPI / OneCore voices），这一步可能占用主线程数百毫秒到数秒——
@@ -19,6 +20,7 @@
  * 结论：桌面端不在手势里 speak，改为首屏之后空闲时段预热语音列表（`warmupTts`）。
  */
 import { whenIdle } from './idle';
+import { isNativePluginAvailable } from './nativePlugins';
 import { perfLog, perfMark } from './perf';
 import { IS_IOS } from './platform';
 import { TtsBridge } from './nativeTts';
@@ -121,6 +123,20 @@ const RATE_MIN = 0.5;
 const RATE_MAX = 1.5;
 
 /**
+ * ≤1KB 内联静音 wav（44 字节 RIFF 头 + 0 数据）。
+ * 解锁时先用 <audio> 播一次，激活 WKWebView 的媒体会话——
+ * 部分iOS 版本上 speechSynthesis 与媒体会话绑定，会话未激活时首段语音会被丢弃。
+ */
+const SILENT_WAV_DATA_URI =
+  'data:audio/wav;base64,UklGRiQAAABXQVZFZm10IBAAAAABAAEAQB8AAEAfAAABAAgAZGF0YQAAAAA=';
+
+/** Apple PWA 未解锁期间最多缓存的自动播请求数（防内存无限增长，超出丢最旧） */
+const PENDING_SPEAK_MAX = 8;
+
+/** 「TtsBridge 不可用回落」只警告一次（避免每次朗读刷日志） */
+let ttsBridgeMissingWarned = false;
+
+/**
  * 朗读一段文本。
  *
  * - 每次朗读前 cancel 上一段，避免排队连读；
@@ -130,7 +146,11 @@ const RATE_MAX = 1.5;
  *   的 utterance 让系统按语言选默认音发声（听得清，只是口音可能是默认那个），
  *   同时后台把列表补进缓存，下一次朗读就能命中口音；
  * - voice 加载失败时只设 lang，由系统按 lang 选默认音；
- * - 任何异常（静音模式、权限、磁盘无语音包）都吞掉，不向上抛。
+ * - 任何异常（静音模式、权限、磁盘无语音包）都吞掉，不向上抛；
+ * - iOS 原生壳且 TtsBridge 已注册 → 走 AVSpeechSynthesizer（媒体路径，忽略静音键）；
+ *   插件不可用（旧 IPA / 未注册）→ 警告一次并回落 Web speechSynthesis；
+ * - Apple PWA（非原生壳）且尚未手势解锁时，本次播报入队，解锁后自动补播
+ *   （WebKit 会丢弃解锁前的 speak，直接调用等于无声）。
  */
 export function speakText(text: string, options: SpeakOptions): Promise<void> {
   if (text.trim().length === 0) {
@@ -138,11 +158,28 @@ export function speakText(text: string, options: SpeakOptions): Promise<void> {
   }
   // iOS 原生壳：走 AVSpeechSynthesizer（媒体路径，忽略静音键），绕过 WKWebView speechSynthesis
   if (IS_IOS) {
-    const lang = options.accent === 'us' ? 'en-US' : 'en-GB';
-    void TtsBridge.speak({ text, lang, rate: options.rate }).catch(() => undefined);
-    return Promise.resolve();
+    if (isNativePluginAvailable('TtsBridge')) {
+      const lang = options.accent === 'us' ? 'en-US' : 'en-GB';
+      void TtsBridge.speak({ text, lang, rate: options.rate }).catch((error: unknown) => {
+        // 不抛出（保持吞错语义），但留排查痕迹：桥接层异常在这里现形
+        console.warn('[tts] TtsBridge.speak 失败：', error);
+      });
+      return Promise.resolve();
+    }
+    // 防御性回落：旧 IPA / 插件未注册时 Capacitor 会抛 not implemented，
+    // 回落到 Web speechSynthesis（受静音键控制，但有声总比无声好）
+    if (!ttsBridgeMissingWarned) {
+      ttsBridgeMissingWarned = true;
+      console.warn('[tts] TtsBridge 原生插件不可用，回落 Web speechSynthesis');
+    }
+    // 继续走下方通用 speechSynthesis 路径
   }
   if (!isSpeechSupported()) {
+    return Promise.resolve();
+  }
+  // Apple PWA 且未手势解锁：入队，等解锁后在手势栈内补播（详见 primeSpeechOnFirstGesture）
+  if (requiresGestureUnlock() && !primed) {
+    enqueuePendingSpeak(text, options);
     return Promise.resolve();
   }
   try {
@@ -171,15 +208,39 @@ export function speakText(text: string, options: SpeakOptions): Promise<void> {
   return Promise.resolve();
 }
 
+/** Apple PWA 未解锁期间的自动播请求队列（解锁后补播） */
+const pendingAutoSpeak: Array<() => void> = [];
+
+/** 把一次播报请求放入解锁队列（超出上限丢最旧的，防自动播刷屏撑爆内存） */
+function enqueuePendingSpeak(text: string, options: SpeakOptions): void {
+  if (pendingAutoSpeak.length >= PENDING_SPEAK_MAX) {
+    pendingAutoSpeak.shift();
+  }
+  pendingAutoSpeak.push(() => {
+    void speakText(text, options);
+  });
+}
+
+/** 解锁后补播全部入队请求（同步调用，仍处于手势调用栈内，满足 iOS 要求） */
+function flushPendingSpeak(): void {
+  const queued = pendingAutoSpeak.splice(0, pendingAutoSpeak.length);
+  for (const speak of queued) {
+    speak();
+  }
+}
+
 /** 停止当前朗读（切卡、退出会话时调用） */
 export function cancelSpeech(): void {
   if (IS_IOS) {
-    try {
-      void TtsBridge.stop().catch(() => undefined);
-    } catch {
-      // 忽略
+    if (isNativePluginAvailable('TtsBridge')) {
+      try {
+        void TtsBridge.stop().catch(() => undefined);
+      } catch {
+        // 忽略
+      }
+      return;
     }
-    return;
+    // 插件不可用：与 speakText 同口径，回落 Web speechSynthesis
   }
   if (!isSpeechSupported()) {
     return;
@@ -254,27 +315,35 @@ export function warmupTts(): void {
 }
 
 /**
- * 首次交互时的语音准备（StudyPage 挂载时调用）。
+ * 首次交互时的语音准备（App 根挂载时调用一次；StudyPage 既有调用保留，幂等）。
  *
  * 分平台处理，行为差异是有意为之：
- * - **Apple 平台（iOS/Safari）**：在首次 pointerdown 的手势调用栈内朗读一个
- *   volume=0 的单空格 utterance。这不是为了「预热」，而是 iOS 的硬性要求：
- *   首次发声必须在手势栈内，否则后续 speak() 全部静默（ARCHITECTURE 8.1）。
+ * - **Apple 平台（iOS/Safari）**：监听 pointerdown + touchend（capture，一次性），
+ *   在首次手势调用栈内完成三件事（ARCHITECTURE 8.1）：
+ *   ① 播一个 ≤1KB 的内联静音 wav，激活 WKWebView 媒体会话；
+ *   ② 朗读一个真实短文本（'a'，volume 0.01 / rate 0.5）完成 WebKit 的
+ *     「首次发声必须在手势栈内」解锁——旧实现的 `' ' + volume=0` 会被
+ *     WebKit 视为空白/零音量 utterance 直接跳过，解锁失效、后续 speak 全静默；
+ *   ③ 立即补播解锁前入队的自动播请求（speakText 队列）。
  *   顺手 `loadVoices()` 预热列表。监听器一次性、只绑一次、触发即自移除。
  * - **桌面端（Chromium/Firefox）**：绝不在手势栈里 speak（见文件头注释），
  *   只调度空闲预热 `warmupTts()`。
  *
- * 幂等：重复调用不会重复绑定监听（此前每次 effect 重跑都会新增一个 pointerdown
- * 监听器，虽然功能上无碍，但属于明确的重复绑定缺陷）。
+ * 幂等：重复调用不会重复绑定监听。
  */
 export function primeSpeechOnFirstGesture(): void {
   if (!isSpeechSupported() || typeof document === 'undefined' || primed) {
     return;
   }
   if (IS_IOS) {
-    // 原生 iOS 走 AVSpeechSynthesizer（媒体路径，无需用户手势解锁），无需 WKWebView 解锁逻辑
-    primed = true;
-    return;
+    // 原生 iOS 且 TtsBridge 已注册：走 AVSpeechSynthesizer（媒体路径，无需手势解锁）
+    if (isNativePluginAvailable('TtsBridge')) {
+      primed = true;
+      return;
+    }
+    // 插件不可用（旧 IPA / 未注册）：speakText 会回落 Web speechSynthesis，
+    // 因此必须保留 WKWebView 的手势解锁——不置 primed，继续落入下方
+    // requiresGestureUnlock 分支（iOS 的 UA 天然满足 isAppleSpeechPlatform）
   }
   if (!requiresGestureUnlock()) {
     // 桌面端：不做手势内发声，只安排空闲预热
@@ -292,16 +361,33 @@ export function primeSpeechOnFirstGesture(): void {
     }
     primed = true;
     document.removeEventListener('pointerdown', unlock, true);
+    document.removeEventListener('touchend', unlock, true);
+    try {
+      // ① 内联静音 wav：激活 WKWebView 媒体会话（无数据块，不产生可闻声音）
+      const silent = new Audio(SILENT_WAV_DATA_URI);
+      const played = silent.play();
+      if (played && typeof played.catch === 'function') {
+        played.catch(() => undefined);
+      }
+    } catch {
+      // jsdom / 不支持 Audio：忽略，wav 激活只是尽力而为
+    }
     try {
       void loadVoices();
-      const utterance = new SpeechSynthesisUtterance(' ');
-      utterance.volume = 0;
+      // ② 真实短文本解锁：空白/零音量 utterance 会被 WebKit 跳过导致解锁失效，
+      //    必须用可发声的字符 + 极低音量（几乎不可闻，但 WebKit 认定「发过声」）
+      const utterance = new SpeechSynthesisUtterance('a');
+      utterance.volume = 0.01;
+      utterance.rate = 0.5;
       utterance.lang = 'en-GB';
       window.speechSynthesis.speak(utterance);
       perfMark('perf:tts:gesture-unlock');
     } catch {
       // 忽略：解锁失败不影响后续手动发音
     }
+    // ③ 解锁后立即补播入队的自动播请求（仍处于手势调用栈内）
+    flushPendingSpeak();
   };
   document.addEventListener('pointerdown', unlock, true);
+  document.addEventListener('touchend', unlock, true);
 }

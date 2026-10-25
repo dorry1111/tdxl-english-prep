@@ -10,7 +10,7 @@
  * - 追加型实体（ReviewLog）按 id 取并集去重（C5）；
  * - Settings 整条 LWW，但 deviceId / lastSyncAt / lastExportAt 永不被对端覆盖（C6）。
  */
-import type { Settings, Syncable } from '@/types';
+import type { Settings, Syncable, WrongItem } from '@/types';
 
 /** 合并结果：merged 是合并后的完整集合；toApply 是需要写回本地库的记录 */
 export interface MergeResult<T> {
@@ -119,6 +119,63 @@ export interface SettingsMergeResult {
   merged: Settings;
   /** 本地库是否需要写回（远端胜出时为 true） */
   changed: boolean;
+}
+
+/**
+ * 错题本合并（真题域，v1.8.0）：在 LWW 之上叠加「宁多勿删」规则。
+ *
+ * - 同 id 且双侧生存状态一致（都在册 / 都是墓碑）：按 updatedAt LWW，相同时间本地胜；
+ * - 「一侧墓碑一侧在册」：**一律保留在册方**（无视 updatedAt）——
+ *   错题删除可能来自误操作或旧端数据损毁，多留一条错题的代价远低于
+ *   误删一条真实错题，因此墓碑永远不能压过在册记录；
+ * - 远端独有记录（含墓碑）直接并入，与 mergeRecords 行为一致。
+ */
+export function mergeWrongItems(
+  local: readonly WrongItem[],
+  remote: readonly WrongItem[],
+): MergeResult<WrongItem> {
+  const isAlive = (item: WrongItem): boolean => item.deletedAt === null;
+
+  const merged: WrongItem[] = [...local];
+  const indexOf = new Map<string, number>();
+  merged.forEach((item, index) => {
+    indexOf.set(item.id, index);
+  });
+
+  const toApply: WrongItem[] = [];
+  let conflicts = 0;
+
+  for (const remoteItem of remote) {
+    const localIndex = indexOf.get(remoteItem.id);
+    // 远端独有：直接并入（含远端墓碑，与其他实体行为一致）
+    if (localIndex === undefined) {
+      indexOf.set(remoteItem.id, merged.length);
+      merged.push(remoteItem);
+      toApply.push(remoteItem);
+      continue;
+    }
+    const localItem = merged[localIndex];
+    if (localItem === undefined) {
+      continue; // 理论不可达（indexOf 与 merged 同步维护），防御性跳过
+    }
+    let winner: WrongItem;
+    if (isAlive(localItem) !== isAlive(remoteItem)) {
+      // 生存状态分歧：在册方无条件胜出（宁多勿删），计入一次冲突
+      winner = isAlive(localItem) ? localItem : remoteItem;
+      conflicts += 1;
+    } else {
+      winner = pickWinner(localItem, remoteItem);
+      if (remoteItem.updatedAt !== localItem.updatedAt) {
+        conflicts += 1;
+      }
+    }
+    if (winner !== localItem) {
+      merged[localIndex] = winner;
+      toApply.push(winner);
+    }
+  }
+
+  return { merged, toApply, conflicts };
 }
 
 /**

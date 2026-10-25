@@ -67,6 +67,8 @@ describe('attemptRepo', () => {
   it('创建 → 读取 → patchAttempt 局部更新（交卷写分数）', async () => {
     await createAttempt(makeAttempt('att-1', 'paper-1', STAMP));
     expect((await getAttempt('att-1'))?.paperId).toBe('paper-1');
+    // 草稿期（v1.8.0）：创建不标脏，不上传
+    expect(await db.syncMeta.get('exam-index.json')).toBeUndefined();
     const patched = await patchAttempt('att-1', {
       submittedAt: STAMP + 1000,
       durationSec: 3600,
@@ -76,6 +78,9 @@ describe('attemptRepo', () => {
     expect(patched?.objectiveScore).toBe(70);
     expect(patched?.totalScore).toBe(100); // 未提交的字段保持原值
     expect(await patchAttempt('att-missing', { durationSec: 1 })).toBeUndefined();
+    // 交卷路径标脏 exam-index.json（由 sync 引擎映射为 attempts.<deviceId>.json）
+    const meta = await db.syncMeta.get('exam-index.json');
+    expect(meta?.dirtyAt).not.toBeNull();
   });
 
   it('putAnswers 批量写入 + getAnswers 读取；getAnswer 复合主键查询', async () => {
@@ -91,6 +96,8 @@ describe('attemptRepo', () => {
     const single = await getAnswer('att-1', 'q2');
     expect(single?.choice).toBe('C');
     expect(await getAnswer('att-other', 'q2')).toBeUndefined();
+    // 草稿期（v1.8.0）：批量写明细不标脏（exams/<paperId>.json 永不上传）
+    expect(await db.syncMeta.count()).toBe(0);
   });
 
   it('updateAnswer 单条落库（3s 草稿）：新写 + 覆盖同主键', async () => {
@@ -101,9 +108,8 @@ describe('attemptRepo', () => {
     await updateAnswer(makeAnswer('att-1', 'q1', 'B'));
     expect((await getAnswer('att-1', 'q1'))?.choice).toBe('B');
     expect(await db.attemptAnswers.count()).toBe(1);
-    // 脏标记挂在答卷所属试卷的 exams/<paperId>.json 上
-    const meta = await db.syncMeta.get('exams/paper-1.json');
-    expect(meta?.pendingCount).toBe(2);
+    // 草稿期（v1.8.0）：单条写明细不标脏
+    expect(await db.syncMeta.count()).toBe(0);
   });
 
   it('listByPaper 按开考时间倒序（历史成绩都保留）', async () => {

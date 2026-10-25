@@ -1,8 +1,14 @@
 /**
  * 答卷仓库：Attempt / AttemptAnswer。
  *
+ * 【v1.8.0 标脏语义】只有「已交卷」的答卷才参与云同步（随 attempts.<deviceId>.json 上传）：
+ * - createAttempt / putAnswers / updateAnswer（草稿期写入）**不标脏**——
+ *   中途放弃的作答不应跨设备恢复，草稿只存在本地；
+ * - patchAttempt（交卷路径）与 softDeleteAttempt 标脏 `exam-index.json`，
+ *   由 sync 引擎映射为 attempts.<deviceId>.json 上传（含明细与错题）。
+ *
  * 远端实体：Attempt → `exam-index.json`；AttemptAnswer → `exams/<paperId>.json`
- * （答题明细跟着试卷走，避免 exam-index 膨胀）。
+ * （答题明细跟着试卷走，避免 exam-index 膨胀；exams/<paperId>.json 永不上传）。
  */
 import { REMOTE_FILES } from '@/constants';
 import { db, markDirty, toDbError } from '@/db';
@@ -11,12 +17,11 @@ import type { Attempt, AttemptAnswer } from '@/types';
 
 const EXAM_INDEX_ENTITY = REMOTE_FILES.examIndex;
 
-/** 新建答卷（开考时写入，submittedAt 为 null） */
+/** 新建答卷（开考时写入，submittedAt 为 null；草稿不标脏，不上传） */
 export async function createAttempt(attempt: Attempt): Promise<void> {
   try {
-    await db.transaction('rw', db.attempts, db.syncMeta, async () => {
+    await db.transaction('rw', db.attempts, async () => {
       await db.attempts.put(attempt);
-      await markDirty(EXAM_INDEX_ENTITY, 1);
     });
   } catch (error) {
     throw toDbError(error);
@@ -28,7 +33,7 @@ export async function getAttempt(id: string): Promise<Attempt | undefined> {
   return db.attempts.get(id);
 }
 
-/** 局部更新答卷（交卷时写分数与提交时间） */
+/** 局部更新答卷（交卷时写分数与提交时间；交卷标脏 → 随 attempts 文件上传） */
 export async function patchAttempt(
   id: string,
   partial: Partial<Omit<Attempt, 'id'>>,
@@ -91,15 +96,17 @@ export async function softDeleteAttempt(id: string): Promise<void> {
   }
 }
 
-/** 批量写入作答明细（答题草稿每 3s 落库一次，用 put 覆盖同主键） */
-export async function putAnswers(paperId: string, answers: AttemptAnswer[]): Promise<void> {
+/**
+ * 批量写入作答明细（答题草稿每 3s 落库一次，用 put 覆盖同主键）。
+ * 草稿期不标脏：明细在交卷时随 attempts 文件一次性上传。
+ */
+export async function putAnswers(_paperId: string, answers: AttemptAnswer[]): Promise<void> {
   if (answers.length === 0) {
     return;
   }
   try {
-    await db.transaction('rw', db.attemptAnswers, db.syncMeta, async () => {
+    await db.transaction('rw', db.attemptAnswers, async () => {
       await db.attemptAnswers.bulkPut(answers);
-      await markDirty(REMOTE_FILES.exam(paperId), answers.length);
     });
   } catch (error) {
     throw toDbError(error);
@@ -114,17 +121,13 @@ export async function getAnswers(attemptId: string): Promise<AttemptAnswer[]> {
 /**
  * 写入/覆盖单条作答明细（答题草稿每 3s 落库一次，T14 用）。
  *
- * AttemptAnswer 没有 paperId 字段，dirty 计数挂在答卷所属试卷的
- * `exams/<paperId>.json` 上，因此需要在同一事务里读一次 Attempt。
+ * 草稿期不标脏：明细在交卷时随 attempts 文件一次性上传，
+ * 因此这里不再读取 Attempt / 不再向 exams/<paperId>.json 标脏。
  */
 export async function updateAnswer(answer: AttemptAnswer): Promise<void> {
   try {
-    await db.transaction('rw', db.attempts, db.attemptAnswers, db.syncMeta, async () => {
+    await db.transaction('rw', db.attemptAnswers, async () => {
       await db.attemptAnswers.put(answer);
-      const attempt = await db.attempts.get(answer.attemptId);
-      if (attempt) {
-        await markDirty(REMOTE_FILES.exam(attempt.paperId), 1);
-      }
     });
   } catch (error) {
     throw toDbError(error);

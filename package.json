@@ -1,7 +1,7 @@
 {
   "name": "tdxl-english-prep",
   "private": true,
-  "version": "1.7.4",
+  "version": "1.8.0",
   "type": "module",
   "description": "同等学力申硕英语备考 PWA + Windows 桌面版（单用户、离线优先、三端适配）",
   "main": "dist-electron/main.cjs",

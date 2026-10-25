@@ -23,6 +23,8 @@ import { getSecret } from '@/db/repos/settingsRepo';
 import { dayjs } from '@/lib/dayjs';
 import { now } from '@/lib/time';
 import type {
+  Attempt,
+  AttemptAnswer,
   NotebookEntry,
   RemoteFileEntry,
   Settings,
@@ -38,12 +40,14 @@ import type {
   WordNote,
   WordState,
   ReviewLog,
+  WrongItem,
 } from '@/types';
 
 import {
   mergeAppendOnly,
   mergeRecords,
   mergeSettings,
+  mergeWrongItems,
   type MergeResult,
 } from './merge';
 import {
@@ -51,6 +55,7 @@ import {
   parseDeviceFileName,
   PER_DEVICE_FILES,
   resolveBaseUrl,
+  type AttemptsPayload,
   type MetaFile,
   type WordbookPayload,
 } from './remoteFiles';
@@ -91,6 +96,10 @@ interface PullPayloads {
   wordNotes: WordNote[];
   wordHighlights: WordHighlight[];
   textHighlights: TextHighlight[];
+  /** 真题域（v1.8.0）：答卷 / 作答明细 / 错题 */
+  attempts: Attempt[];
+  attemptAnswers: AttemptAnswer[];
+  wrongItems: WrongItem[];
   settings: Settings | null;
   meta: MetaFile | null;
 }
@@ -107,6 +116,9 @@ function emptyPayloads(): PullPayloads {
     wordNotes: [],
     wordHighlights: [],
     textHighlights: [],
+    attempts: [],
+    attemptAnswers: [],
+    wrongItems: [],
     settings: null,
     meta: null,
   };
@@ -310,6 +322,54 @@ function absorb(raw: string, name: string, payloads: PullPayloads, issues: Parse
     return;
   }
 
+  // attempts（真题域，v1.8.0）：{ attempts, answers?, wrongItems? }
+  if (parsedName.kind === 'attempts') {
+    const parsed = parseObject(raw, name);
+    if (parsed.issue || !parsed.value) {
+      if (parsed.issue) {
+        issues.push(parsed.issue);
+      }
+      return;
+    }
+    const value = parsed.value as unknown as AttemptsPayload;
+    const ok =
+      absorbArrayField(
+        payloads.attempts,
+        value.attempts,
+        name,
+        'attempts',
+        issues,
+        (row) =>
+          typeof (row as Attempt).id === 'string' &&
+          typeof (row as Attempt).paperId === 'string' &&
+          hasUpdatedAt(row),
+      ) &&
+      absorbArrayField(
+        payloads.attemptAnswers,
+        value.answers,
+        name,
+        'answers',
+        issues,
+        (row) =>
+          typeof (row as AttemptAnswer).id === 'string' &&
+          typeof (row as AttemptAnswer).attemptId === 'string',
+      ) &&
+      absorbArrayField(
+        payloads.wrongItems,
+        value.wrongItems,
+        name,
+        'wrongItems',
+        issues,
+        (row) => typeof (row as WrongItem).id === 'string' && hasUpdatedAt(row),
+      );
+    // 校验通过也要终止解析：attempts 文件到此为止，绝不能继续落入下方的
+    // wordbook 对象解析（未来 attempts 文件若出现同名字段会被误并入词库载荷）
+    if (!ok) {
+      return;
+    }
+    return;
+  }
+
   // wordbook：{ books, words, notebook }
   const parsed = parseObject(raw, name);
   if (parsed.issue || !parsed.value) {
@@ -331,6 +391,31 @@ function absorb(raw: string, name: string, payloads: PullPayloads, issues: Parse
   }
 }
 
+/** 校验并并入对象载荷（wordbook / attempts）的一个子数组字段；返回 false 表示该文件整体判定为损坏 */
+function absorbArrayField(
+  target: unknown[],
+  rows: unknown,
+  file: string,
+  field: string,
+  issues: ParseIssue[],
+  guard: (row: unknown) => boolean,
+): boolean {
+  if (rows === undefined) {
+    return true; // 旧版本文件允许缺字段
+  }
+  if (!Array.isArray(rows)) {
+    issues.push({ file, message: `${field} 期望数组` });
+    return false;
+  }
+  const checked = takeRows(rows, file, guard);
+  if (checked.issue) {
+    issues.push(checked.issue);
+    return false;
+  }
+  target.push(...checked.rows);
+  return true;
+}
+
 /** 校验并并入 wordbook 的一个子字段；返回 false 表示该文件整体判定为损坏 */
 function absorbWordbookField(
   target: unknown[],
@@ -339,24 +424,14 @@ function absorbWordbookField(
   field: string,
   issues: ParseIssue[],
 ): boolean {
-  if (rows === undefined) {
-    return true; // 旧版本文件允许缺字段
-  }
-  if (!Array.isArray(rows)) {
-    issues.push({ file, message: `wordbook.${field} 期望数组` });
-    return false;
-  }
-  const checked = takeRows(
+  return absorbArrayField(
+    target,
     rows,
     file,
+    `wordbook.${field}`,
+    issues,
     (row) => typeof (row as Word).id === 'string' && hasUpdatedAt(row),
   );
-  if (checked.issue) {
-    issues.push(checked.issue);
-    return false;
-  }
-  target.push(...checked.rows);
-  return true;
 }
 
 function errorOf(code: SyncErrorCode, detail?: unknown): SyncReport['error'] {
@@ -513,6 +588,45 @@ export async function syncNow(settings: Settings, deps: SyncDeps = {}): Promise<
     await mergeIdTable('wordNotes', db.wordNotes, payloads.wordNotes, report);
     await mergeIdTable('wordHighlights', db.wordHighlights, payloads.wordHighlights, report);
     await mergeIdTable('textHighlights', db.textHighlights, payloads.textHighlights, report);
+
+    // 真题域（v1.8.0）：attempts 记录级 LWW / answers 按 id 并集 / wrongItems 走 mergeWrongItems
+    const localAttempts = await db.attempts.toArray();
+    const attemptMerge = mergeRecords(localAttempts, payloads.attempts, (item) => item.id);
+    addCount(
+      report.downloaded,
+      'attempts',
+      await applyMerged(attemptMerge, async (rows) => {
+        await db.transaction('rw', db.attempts, async () => {
+          await db.attempts.bulkPut(rows);
+        });
+      }),
+    );
+    report.conflicts += attemptMerge.conflicts;
+
+    const localAnswers = await db.attemptAnswers.toArray();
+    const answerMerge = mergeAppendOnly(localAnswers, payloads.attemptAnswers);
+    addCount(
+      report.downloaded,
+      'attemptAnswers',
+      await applyMerged(answerMerge, async (rows) => {
+        await db.transaction('rw', db.attemptAnswers, async () => {
+          await db.attemptAnswers.bulkPut(rows);
+        });
+      }),
+    );
+
+    const localWrongItems = await db.wrongItems.toArray();
+    const wrongMerge = mergeWrongItems(localWrongItems, payloads.wrongItems);
+    addCount(
+      report.downloaded,
+      'wrongItems',
+      await applyMerged(wrongMerge, async (rows) => {
+        await db.transaction('rw', db.wrongItems, async () => {
+          await db.wrongItems.bulkPut(rows);
+        });
+      }),
+    );
+    report.conflicts += wrongMerge.conflicts;
 
     // settings：全局单文件 LWW
     const localSettings = (await db.settings.get('global')) ?? settings;
@@ -675,6 +789,22 @@ async function serializeAndPut(
     const rows = await db.studyDays.toArray();
     await client.putText(file, JSON.stringify(rows));
     return [['studyDays', rows.length]];
+  }
+
+  // attempts（真题域，v1.8.0）：只上传已交卷的答卷（含墓碑）+ 其明细 + 全量错题。
+  // 草稿（submittedAt === null）永不上传——中途放弃的作答不应跨设备恢复。
+  if (parsed.kind === 'attempts') {
+    const [allAttempts, allAnswers, wrongItems] = await Promise.all([
+      db.attempts.toArray(),
+      db.attemptAnswers.toArray(),
+      db.wrongItems.toArray(),
+    ]);
+    const synced = allAttempts.filter((attempt) => attempt.submittedAt !== null);
+    const syncedIds = new Set(synced.map((attempt) => attempt.id));
+    const answers = allAnswers.filter((answer) => syncedIds.has(answer.attemptId));
+    const payload: AttemptsPayload = { attempts: synced, answers, wrongItems };
+    await client.putText(file, JSON.stringify(payload));
+    return [['attempts', synced.length + answers.length + wrongItems.length]];
   }
 
   // wordbook：词库 + 自定义词条 + 生词本/笔记 + 每词笔记 + 划词高亮 + 真题划词

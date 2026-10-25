@@ -70,7 +70,11 @@ scheduleWarmup();
  */
 async function bootstrap(): Promise<void> {
   try {
-    await ensureSeeded();
+    const seedResult = await ensureSeeded();
+    // iOS 一次性迁移把云同步打开时提示一次（旧版升级用户需要知道这个变化）
+    if (seedResult.iosSyncEnabled) {
+      useUiStore.getState().toast.success('已为你开启云同步');
+    }
   } catch (error) {
     useUiStore.getState().toast.error(toUserMessage(error));
     console.error('[db] 初始化失败：', error);

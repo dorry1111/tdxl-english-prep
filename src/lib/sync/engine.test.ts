@@ -15,6 +15,13 @@ import {
   appendMany,
   reviewLogEntityOf,
 } from '@/db/repos/logRepo';
+import {
+  createAttempt,
+  patchAttempt,
+  putAnswers,
+  softDeleteAttempt,
+} from '@/db/repos/attemptRepo';
+import { upsertWrong } from '@/db/repos/wrongRepo';
 import { ensureSettings, setSecret } from '@/db/repos/settingsRepo';
 import { addTextHighlight } from '@/db/repos/textHighlightRepo';
 import { add as addNote } from '@/db/repos/notebookRepo';
@@ -24,7 +31,16 @@ import { createSession } from '@/db/repos/sessionRepo';
 import { buildDefaultSettings } from '@/db/seed';
 import { db, listSyncMeta, markDirty } from '@/db';
 import type { FetchLike } from '@/lib/sync/webdav';
-import type { ReviewLog, Settings, StudyDay, StudySession, WordState } from '@/types';
+import type {
+  Attempt,
+  AttemptAnswer,
+  ReviewLog,
+  Settings,
+  StudyDay,
+  StudySession,
+  WordState,
+  WrongItem,
+} from '@/types';
 
 import { syncNow } from './engine';
 
@@ -455,5 +471,149 @@ describe('reviewLog 月分片与旧实体名映射', () => {
     ) as ReviewLog[];
     expect(nowFile.map((log) => log.id)).toEqual(['log_now']);
     expect((await listSyncMeta()).every((meta) => meta.dirtyAt === null)).toBe(true);
+  });
+});
+
+// ---------------------------------------------------------------------------
+// 真题域（v1.8.0）：attempts.<deviceId>.json 往返
+// ---------------------------------------------------------------------------
+
+function makeAttempt(id: string, updatedAt: number, overrides?: Partial<Attempt>): Attempt {
+  return {
+    id,
+    paperId: 'paper-1',
+    mode: 'full',
+    sectionType: null,
+    startedAt: updatedAt - 60_000,
+    submittedAt: null,
+    durationSec: 0,
+    objectiveScore: 0,
+    subjectiveScore: null,
+    totalScore: 100,
+    deviceId: 'devA',
+    updatedAt,
+    deletedAt: null,
+    ...overrides,
+  };
+}
+
+function makeAnswer(attemptId: string, questionId: string, choice: string | null): AttemptAnswer {
+  return {
+    id: `${attemptId}:${questionId}`,
+    attemptId,
+    questionId,
+    choice,
+    text: null,
+    isCorrect: null,
+    flagged: false,
+    selfScore: null,
+    answeredAt: NOW_TS,
+  };
+}
+
+describe('syncNow 真题域（attempts 文件）', () => {
+  beforeEach(async () => {
+    await ensureSettings(makeSettings());
+    await setSecret('pass');
+  });
+
+  it('草稿（未交卷）不上传；交卷后随 attempts 文件上传（含明细与错题）', async () => {
+    const stub = createWebdavStub();
+    const attempt = makeAttempt('att_1', NOW_TS);
+    await createAttempt(attempt);
+    await putAnswers('paper-1', [makeAnswer('att_1', 'q1', 'A')]);
+    await upsertWrong({ questionId: 'q1', paperId: 'paper-1', sectionType: 'reading' });
+
+    // 第一轮：错题标脏 → attempts 文件上传，但草稿答卷绝不出现在文件里
+    const draft = await syncNow(makeSettings(), {
+      fetchImpl: stub.fetchImpl,
+      nowTs: () => NOW_TS,
+    });
+    expect(draft.error).toBeNull();
+    expect(stub.files.has('attempts.devA.json')).toBe(true);
+    const draftPayload = JSON.parse(stub.files.get('attempts.devA.json') ?? '{}') as {
+      attempts: Attempt[];
+      answers?: AttemptAnswer[];
+      wrongItems?: WrongItem[];
+    };
+    expect(draftPayload.attempts).toHaveLength(0); // 草稿不上传
+    expect(draftPayload.wrongItems).toHaveLength(1);
+
+    // 交卷（patchAttempt 标脏 exam-index → 映射为 attempts 文件）
+    await patchAttempt('att_1', { submittedAt: NOW_TS, objectiveScore: 80 });
+    const submitted = await syncNow(makeSettings(), {
+      fetchImpl: stub.fetchImpl,
+      nowTs: () => NOW_TS,
+    });
+    expect(submitted.error).toBeNull();
+    const payload = JSON.parse(stub.files.get('attempts.devA.json') ?? '{}') as {
+      attempts: Attempt[];
+      answers?: AttemptAnswer[];
+      wrongItems?: WrongItem[];
+    };
+    expect(payload.attempts).toHaveLength(1);
+    expect(payload.attempts[0]?.submittedAt).toBe(NOW_TS);
+    expect(payload.answers).toHaveLength(1);
+    expect(payload.answers?.[0]?.choice).toBe('A');
+    expect(payload.wrongItems).toHaveLength(1);
+    // exams/<paperId>.json（明细草稿）永不上传
+    expect(stub.files.has('exams/paper-1.json')).toBe(false);
+  });
+
+  it('墓碑删除随 attempts 文件同步；换设备恢复后墓碑不复活、明细与错题还原', async () => {
+    const stub = createWebdavStub();
+    const attempt = makeAttempt('att_1', NOW_TS, { submittedAt: NOW_TS });
+    await createAttempt(attempt);
+    await patchAttempt('att_1', { submittedAt: NOW_TS, objectiveScore: 80 });
+    await putAnswers('paper-1', [makeAnswer('att_1', 'q1', 'B')]);
+    await upsertWrong({ questionId: 'q1', paperId: 'paper-1', sectionType: 'reading' });
+    const first = await syncNow(makeSettings(), {
+      fetchImpl: stub.fetchImpl,
+      nowTs: () => NOW_TS,
+    });
+    expect(first.error).toBeNull();
+
+    // 软删除 → 墓碑上传
+    await softDeleteAttempt('att_1');
+    const afterDelete = await syncNow(makeSettings(), {
+      fetchImpl: stub.fetchImpl,
+      nowTs: () => NOW_TS,
+    });
+    expect(afterDelete.error).toBeNull();
+    const payload = JSON.parse(stub.files.get('attempts.devA.json') ?? '{}') as {
+      attempts: Attempt[];
+    };
+    expect(payload.attempts[0]?.deletedAt).not.toBeNull();
+
+    // 换设备恢复
+    await resetButKeepRemoteSettingsLike();
+    await ensureSettings(makeSettings({ lastSyncAt: null }));
+    await setSecret('pass');
+    const restore = await syncNow(makeSettings({ lastSyncAt: null }), {
+      fetchImpl: stub.fetchImpl,
+      nowTs: () => NOW_TS,
+    });
+    expect(restore.error).toBeNull();
+
+    const restored = await db.attempts.get('att_1');
+    expect(restored?.deletedAt).not.toBeNull(); // 墓碑不复活
+    expect(await db.attemptAnswers.count()).toBe(1);
+    expect((await db.wrongItems.toArray())[0]?.id).toBe('wrong:q1');
+    expect(restore.downloaded.attempts).toBe(1);
+    expect(restore.downloaded.wrongItems).toBe(1);
+  });
+
+  it('远端 attempts 文件记录损坏 → PARSE：整文件跳过，其余实体照常同步', async () => {
+    const stub = createWebdavStub();
+    // attempt 缺 paperId → guard 拦下
+    stub.files.set('attempts.devB.json', JSON.stringify({ attempts: [{ id: 'x', updatedAt: 1 }] }));
+    await seedLocalData();
+    const report = await syncNow(makeSettings(), {
+      fetchImpl: stub.fetchImpl,
+      nowTs: () => NOW_TS,
+    });
+    expect(report.error?.code).toBe('PARSE');
+    expect(await db.attempts.count()).toBe(0); // 坏文件未入库
+    expect(report.uploaded.wordStates).toBe(1); // 其余实体照常
   });
 });
