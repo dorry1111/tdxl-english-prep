@@ -637,6 +637,12 @@ export const EXAMS = {
   recordsSummaryStale: '有些记录的试卷已被删除，标题显示为「已删除的试卷」。',
 } as const;
 
+/** 学习计划入口行（选词页 / 设置页共用，指向 /plan） */
+export const PLAN_ENTRY = {
+  title: '每日学习量',
+  desc: '设置每日学习量（待复习 + 新学）、学习推算与复习压力',
+} as const;
+
 /** 学习计划页（P04） */
 export const PLAN = {
   title: '学习计划',

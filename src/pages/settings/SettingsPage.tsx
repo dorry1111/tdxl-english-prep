@@ -22,6 +22,7 @@ import {
   BG_THEME_ORDER,
   DB,
   DEFAULT_EXAM_DATE,
+  PLAN_ENTRY,
   ROUTES,
   SETTINGS_ABOUT,
   SETTINGS_EXAM,
@@ -189,8 +190,14 @@ export default function SettingsPage() {
       </Card>
 
       <ListRow
+        title={PLAN_ENTRY.title}
+        subtitle={PLAN_ENTRY.desc}
+        onClick={() => navigate(ROUTES.plan)}
+      />
+
+      <ListRow
         title="词库启用"
-        subtitle="词库的启用开关与叠加顺序在「单词」页管理"
+        subtitle="词库的启用开关与叠加顺序在「选词」页管理"
         onClick={() => navigate(ROUTES.books)}
       />
 

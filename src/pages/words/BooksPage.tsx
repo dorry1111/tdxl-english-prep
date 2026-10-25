@@ -24,7 +24,7 @@ import { Icon } from '@/components/ui/Icon';
 import { ListRow } from '@/components/ui/ListRow';
 import { ProgressBar } from '@/components/ui/ProgressBar';
 import { Tag } from '@/components/ui/Tag';
-import { BUILTIN_BOOK_ID, BOOKS, HOME, NOTEBOOK_BOOK_ID, ROUTES } from '@/constants';
+import { BUILTIN_BOOK_ID, BOOKS, HOME, NOTEBOOK_BOOK_ID, PLAN_ENTRY, ROUTES } from '@/constants';
 import { listBooks } from '@/db/repos/bookRepo';
 import { countDueByBook, countLearnedByBook } from '@/db/repos/forecastRepo';
 import { countActive as countNotebook } from '@/db/repos/notebookRepo';
@@ -223,6 +223,15 @@ export default function BooksPage() {
           </Button>
           {status !== 'active' ? <p className="text-xs text-text-3">{BOOKS.addFiveHint}</p> : null}
         </div>
+      </Card>
+
+      {/* 每日学习量入口：设置卡片在「学习计划」页（/plan），这里给出直达入口 */}
+      <Card>
+        <ListRow
+          title={PLAN_ENTRY.title}
+          subtitle={PLAN_ENTRY.desc}
+          onClick={() => navigate(ROUTES.plan)}
+        />
       </Card>
 
       {/* 导入入口（目标页本身仍在后续批次，这里只做入口，保持 ComingSoon 不动） */}
