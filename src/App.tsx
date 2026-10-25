@@ -13,6 +13,7 @@ import { UPDATE } from '@/constants';
 import { usePwaUpdate } from '@/hooks/usePwaUpdate';
 import { AppRoutes } from '@/router';
 import { useUiStore } from '@/store/uiStore';
+import { maybeAutoSync } from '@/lib/sync/autorun';
 
 export default function App() {
   const { needRefresh, offlineReady, applyUpdate, dismiss } = usePwaUpdate();
@@ -24,6 +25,13 @@ export default function App() {
       showInfo(UPDATE.offlineReady);
     }
   }, [offlineReady, showInfo]);
+
+  // 启动即尝试一次自动同步（已配置 NAS 时静默拉取最新进度）；之后每 5 分钟兜底一次
+  useEffect(() => {
+    void maybeAutoSync();
+    const timer = setInterval(() => void maybeAutoSync(), 5 * 60 * 1000);
+    return () => clearInterval(timer);
+  }, []);
 
   return (
     <ErrorBoundary>

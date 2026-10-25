@@ -30,6 +30,7 @@ import { openDb } from '@/db';
 import { buildExamFromJson } from '@/lib/importers/examJson';
 import { newId } from '@/lib/id';
 import { now } from '@/lib/time';
+import { IS_IOS } from '@/lib/platform';
 import type { Settings, WordBook } from '@/types';
 
 import { ensureSettings, getSettings, patchSettings } from './repos/settingsRepo';
@@ -59,8 +60,9 @@ export function buildDefaultSettings(stamp: number = now()): Settings {
     ttsDefaultsV2: true,
     theme: 'auto',
     fontScale: 1,
-    syncEnabled: false,
-    webdavUrl: 'https://dav.jianguoyun.com/dav/',
+    // iOS 默认开启同步并直连局域网 NAS（地址由 mDNS 发现填充）；其余端保持原默认
+    syncEnabled: IS_IOS,
+    webdavUrl: IS_IOS ? '' : 'https://dav.jianguoyun.com/dav/',
     webdavUser: '',
     useProxy: false,
     proxyUrl: '',

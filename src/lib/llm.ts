@@ -12,6 +12,7 @@
  *   因此除「AI 释义」历史先例外，新增三功能均为桌面端独占（IS_DESKTOP 门控在调用方）。
  */
 import type { Settings } from '@/types';
+import { nativeAwareFetch } from '@/lib/http';
 
 export type LlmProviderId = NonNullable<Settings['llmProvider']>;
 
@@ -83,7 +84,7 @@ export async function chat(
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), timeoutMs);
   try {
-    const response = await fetch(`${config.baseUrl}/chat/completions`, {
+    const response = await nativeAwareFetch(`${config.baseUrl}/chat/completions`, {
       method: 'POST',
       signal: controller.signal,
       headers: {

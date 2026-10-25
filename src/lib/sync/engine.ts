@@ -55,6 +55,7 @@ import {
   type WordbookPayload,
 } from './remoteFiles';
 import { DEFAULT_TIMEOUT_MS, SyncError, WebdavClient, type FetchLike } from './webdav';
+import { nativeAwareFetch } from '@/lib/http';
 
 /** SyncErrorCode → 用户可见中文文案（ERROR_MESSAGES 唯一真源） */
 export const SYNC_ERROR_MESSAGES: Record<SyncErrorCode, string> = {
@@ -424,7 +425,7 @@ export async function syncNow(settings: Settings, deps: SyncDeps = {}): Promise<
       password,
       timeoutMs: DEFAULT_TIMEOUT_MS,
     },
-    deps.fetchImpl ?? ((url, init) => fetch(url, init)),
+    deps.fetchImpl ?? nativeAwareFetch,
   );
 
   const deviceId = settings.deviceId;

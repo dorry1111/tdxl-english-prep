@@ -9,6 +9,7 @@
  * 由 engine 捕获后写入 SyncReport，本模块不与 UI 直接交互。
  */
 import type { RemoteFileEntry, SyncErrorCode } from '@/types';
+import { nativeAwareFetch } from '@/lib/http';
 
 /** 可注入的 fetch 签名（测试用内存 mock，不再触网） */
 export type FetchLike = (url: string, init: RequestInit) => Promise<Response>;
@@ -91,9 +92,9 @@ export function parseMultistatus(xml: string): RemoteFileEntry[] {
   return entries;
 }
 
-/** 默认 fetch（保留独立函数便于注入测试） */
+/** 默认 fetch：原生平台走 CapacitorHttp 绕过 CORS，Web 回落全局 fetch（保留独立函数便于注入测试） */
 function defaultFetch(url: string, init: RequestInit): Promise<Response> {
-  return fetch(url, init);
+  return nativeAwareFetch(url, init);
 }
 
 export class WebdavClient {
