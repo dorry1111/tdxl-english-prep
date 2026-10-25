@@ -1,12 +1,13 @@
 /**
- * 数据同步卡（设置页，T18 接线）。
+ * 数据同步卡（设置页，v1.9.0 重构：免输入一键连接）。
  *
- * 把批次 1 留白的「WebDAV 地址与账号在后续版本开放配置」补齐：
- * - 表单：服务器地址 / 账号 / 应用密码（写 secrets 表，不回显明文）/ 代理开关 / 自动同步开关；
- * - 保存 = patchSettings({syncEnabled, webdavUrl, webdavUser, useProxy, proxyUrl}) + setSecret（密码非空时）；
- * - 「立即同步」= 先把表单当前编辑按保存规则落库，再读库里的最新配置走 syncNow，与自动同步同一条链路；
- * - 代理默认值按端形态给建议：PWA 跨端口会被浏览器拦，默认走同源 /dav/ 反代；
- *   桌面版 Electron 无 CORS，默认直连。
+ * 两态 UI：
+ * - 未连接：大按钮「连接 NAS」→ connectNas 探测管线（上次地址 → 同源 → mDNS → 子网扫描），
+ *   命中后自动写入配置（含托管凭据）并开启同步；失败给出具体阶段 + 引导高级设置。
+ * - 已连接：状态条（绿点 + 主机 + 最近同步 + 统计）+ 自动同步 toggle + 立即同步；
+ *   高级设置折叠区保留全部手填能力（地址/账号/密码/代理）与断开连接。
+ *
+ * 兼容：旧版本已配置的设备（webdavUrl 非空且 syncEnabled）直接进入已连接态，无需重新连接。
  */
 import { useEffect, useRef, useState } from 'react';
 import { useLiveQuery } from 'dexie-react-hooks';
@@ -17,8 +18,9 @@ import { Card } from '@/components/ui/Card';
 import { SegmentedControl } from '@/components/ui/SegmentedControl';
 import { getSecret, getSettings, patchSettings, setSecret } from '@/db/repos/settingsRepo';
 import { IS_DESKTOP } from '@/lib/desktop';
+import { IS_NATIVE } from '@/lib/platform';
 import { syncNow, SYNC_ERROR_MESSAGES } from '@/lib/sync/engine';
-import { NasDiscovery, type NasService } from '@/lib/nasDiscovery';
+import { connectNas, connectionPatchFor, NAS_DAV_PASSWORD } from '@/lib/sync/autoConnect';
 import { checkAndApplyDatasetUpdates } from '@/lib/dataset';
 import { fmtDate } from '@/lib/time';
 import { useUiStore } from '@/store/uiStore';
@@ -26,6 +28,11 @@ import type { SyncReport } from '@/types';
 
 const INPUT_CLASS =
   'h-11 w-full rounded-md border border-border bg-surface px-3 text-sm text-text placeholder:text-text-3 focus:outline-none focus:ring-1 focus:ring-primary';
+
+/** 判定当前是否处于「已连接」态：显式启用 且 有可用目标 */
+function isConnectedForm(syncEnabled: boolean | undefined, webdavUrl: string | undefined): boolean {
+  return syncEnabled === true && (webdavUrl ?? '') !== '';
+}
 
 export function SyncCard() {
   const showSuccess = useUiStore((state) => state.toast.success);
@@ -36,12 +43,13 @@ export function SyncCard() {
   /** 库里是否已存密码（只显示状态，绝不回显明文） */
   const hasSecret = useLiveQuery(async () => (await getSecret()) !== null, [], undefined);
 
+  /** 高级设置折叠区（默认收起） */
+  const [advancedOpen, setAdvancedOpen] = useState(false);
   const [url, setUrl] = useState('');
   const [user, setUser] = useState('');
   const [password, setPassword] = useState('');
   const [useProxy, setUseProxy] = useState(IS_DESKTOP ? false : true);
   const [proxyUrl, setProxyUrl] = useState(IS_DESKTOP ? '' : '/dav/');
-  const [enabled, setEnabled] = useState(false);
   /** settings 首包只初始化一次表单，之后的 useLiveQuery 刷新不覆盖用户正在输入的内容 */
   const initializedRef = useRef(false);
 
@@ -52,53 +60,102 @@ export function SyncCard() {
     initializedRef.current = true;
     setUrl(settings.webdavUrl);
     setUser(settings.webdavUser);
-    setEnabled(settings.syncEnabled);
     if (settings.webdavUrl !== '' || settings.proxyUrl !== '') {
-      // 已有配置：原样回显
       setUseProxy(settings.useProxy);
       setProxyUrl(settings.proxyUrl);
     }
   }, [settings]);
 
-  // 组件卸载时清理 mDNS 监听，避免原生插件泄漏回调
-  useEffect(() => {
-    return () => {
-      void stopDiscovery();
-    };
-  }, []);
-
+  const [connecting, setConnecting] = useState(false);
+  const [connectStage, setConnectStage] = useState<string | null>(null);
   const [saving, setSaving] = useState(false);
   const [syncing, setSyncing] = useState(false);
   const [report, setReport] = useState<SyncReport | null>(null);
   const [lastSyncAt, setLastSyncAt] = useState<number | null>(null);
 
-  // 局域网发现（mDNS，原生端可用）
-  const [discovered, setDiscovered] = useState<NasService[]>([]);
-  const [discovering, setDiscovering] = useState(false);
-  const discoveryHandleRef = useRef<{ remove: () => void } | null>(null);
+  const connected = isConnectedForm(settings?.syncEnabled, settings?.webdavUrl);
+  /** 状态条展示的主机名（从 webdavUrl 提取 host，代理模式下从代理配置还原） */
+  const connectedHost = (() => {
+    try {
+      return settings ? new URL(settings.webdavUrl).host : '';
+    } catch {
+      return settings?.webdavUrl ?? '';
+    }
+  })();
 
-  /**
-   * 校验并把当前表单内容持久化（「保存配置」与「立即同步」共用）。
-   * 为什么抽出：点「立即同步」必须先落库表单里的最新编辑（含密码写 secrets），
-   * 否则 syncNow 读到的是旧配置，用户刚填的地址/账号/开关都不生效。
-   * 返回是否持久化成功，供调用方决定是否继续后续动作。
-   */
-  const persistConfig = async (): Promise<boolean> => {
-    // 校验规则与原 handleSave 完全一致：启用时 url/user 必填；走代理时 proxyUrl 必填
+  /** 自动同步开关：直接落库，无独立保存按钮 */
+  const handleToggleEnabled = async (next: boolean): Promise<void> => {
+    try {
+      await patchSettings({ syncEnabled: next });
+    } catch {
+      showError(SETTINGS_SYNC.saveFailed);
+    }
+  };
+
+  /** 一键连接：探测管线 + 写配置（含托管凭据） */
+  const handleConnect = async (): Promise<void> => {
+    if (connecting || !settings) {
+      return;
+    }
+    setConnecting(true);
+    setConnectStage(null);
+    try {
+      const result = await connectNas({
+        lastKnownUrl: settings.webdavUrl,
+        isWeb: !IS_DESKTOP && !IS_NATIVE,
+        isNative: IS_NATIVE,
+        isDesktop: IS_DESKTOP,
+        onProgress: (stage) => setConnectStage(stage),
+      });
+      if (!result.ok) {
+        showError(`${SETTINGS_SYNC.connectFailedPrefix}（${result.stages.join(' → ')}）。${SETTINGS_SYNC.connectFailedHint}`);
+        setAdvancedOpen(true);
+        return;
+      }
+      const form = IS_DESKTOP || IS_NATIVE ? 'direct' : 'web';
+      await patchSettings(connectionPatchFor(result.origin, form));
+      await setSecret(NAS_DAV_PASSWORD);
+      setUrl(connectionPatchFor(result.origin, form).webdavUrl);
+      setUser(connectionPatchFor(result.origin, form).webdavUser);
+      setUseProxy(form === 'web');
+      setProxyUrl(form === 'web' ? '/dav/' : '');
+      showSuccess(SETTINGS_SYNC.connectDone(result.origin));
+      // 连接成功后立即跑一轮同步，让用户马上看到数据到位
+      const fresh = await getSettings();
+      if (fresh) {
+        const syncResult = await syncNow(fresh);
+        setReport(syncResult);
+        const after = await getSettings();
+        setLastSyncAt(after?.lastSyncAt ?? null);
+        if (!syncResult.error) {
+          showSuccess(SETTINGS_SYNC.syncDone);
+        }
+      }
+    } finally {
+      setConnecting(false);
+      setConnectStage(null);
+    }
+  };
+
+  /** 手填配置持久化（高级设置区「保存配置」） */
+  const handleSave = async (): Promise<void> => {
+    if (saving || !settings) {
+      return;
+    }
     const trimmedUrl = url.trim();
     const trimmedUser = user.trim();
-    if (enabled && (trimmedUrl === '' || trimmedUser === '')) {
+    if (trimmedUrl === '' || trimmedUser === '') {
       showError(SETTINGS_SYNC.needServerUser);
-      return false;
+      return;
     }
     if (useProxy && proxyUrl.trim() === '') {
       showError(SETTINGS_SYNC.needProxyUrl);
-      return false;
+      return;
     }
     setSaving(true);
     try {
       await patchSettings({
-        syncEnabled: enabled,
+        syncEnabled: settings.syncEnabled,
         webdavUrl: trimmedUrl,
         webdavUser: trimmedUser,
         useProxy,
@@ -107,36 +164,19 @@ export function SyncCard() {
       const trimmedPassword = password.trim();
       if (trimmedPassword !== '') {
         await setSecret(trimmedPassword);
-        setPassword(''); // 保存后清空输入框，状态回到「已保存」
+        setPassword('');
       }
-      return true;
+      showSuccess(SETTINGS_SYNC.saved);
     } catch {
       showError(SETTINGS_SYNC.saveFailed);
-      return false;
     } finally {
       setSaving(false);
     }
   };
 
-  const handleSave = async (): Promise<void> => {
-    if (saving) {
-      return;
-    }
-    const ok = await persistConfig();
-    if (ok) {
-      showSuccess(SETTINGS_SYNC.saved);
-    }
-  };
-
   const handleSync = async (): Promise<void> => {
     if (syncing || saving) {
-      return; // 单飞：同步进行中不允许重复触发；保存中也不触发，避免与 persistConfig 并发写库
-    }
-    // 先把表单当前编辑按保存的校验规则落库，失败则中断同步（错误提示已由 persistConfig 弹出）
-    // 注意此处成功后不再弹「已保存」toast，避免与「同步完成」双提示
-    const ok = await persistConfig();
-    if (!ok) {
-      return;
+      return; // 单飞：同步进行中不允许重复触发
     }
     const fresh = await getSettings();
     if (!fresh) {
@@ -159,44 +199,10 @@ export function SyncCard() {
     }
   };
 
-  const stopDiscovery = async (): Promise<void> => {
-    try {
-      await NasDiscovery.stopDiscovery();
-    } catch {
-      /* 非原生端无插件，忽略 */
-    }
-    discoveryHandleRef.current?.remove();
-    discoveryHandleRef.current = null;
-    setDiscovering(false);
-  };
-
-  const startDiscovery = async (): Promise<void> => {
-    if (discovering) {
-      return;
-    }
-    setDiscovered([]);
-    setDiscovering(true);
-    try {
-      const handle = await NasDiscovery.addListener('serviceFound', (s: NasService) => {
-        setDiscovered((prev) =>
-          prev.some((p) => p.host === s.host && p.port === s.port) ? prev : [...prev, s],
-        );
-      });
-      discoveryHandleRef.current = handle;
-      await NasDiscovery.startDiscovery({ types: ['_http._tcp', '_https._tcp', '_webdav._tcp'] });
-      setTimeout(() => void stopDiscovery(), 5000);
-    } catch {
-      setDiscovering(false);
-      showError('当前端不支持自动发现，请手动填写 NAS 地址');
-    }
-  };
-
-  const selectService = async (s: NasService): Promise<void> => {
-    const filled = `${s.scheme}://${s.host}:${s.port}/`;
-    setUrl(filled);
-    setEnabled(true);
-    await stopDiscovery();
-    showSuccess(`已填入 ${s.name}（${filled}），请在上方输入账号密码后点「立即同步」`);
+  const handleDisconnect = async (): Promise<void> => {
+    // 只关开关，保留配置：重新连接时 last-known 候选可秒连
+    await handleToggleEnabled(false);
+    showInfo(SETTINGS_SYNC.disconnectDone);
   };
 
   const handleCheckUpdates = async (): Promise<void> => {
@@ -210,175 +216,205 @@ export function SyncCard() {
     }
   };
 
+  /** 高级设置手填表单（未连接/已连接共用） */
+  const advancedForm = (
+    <div className="flex flex-col gap-3 border-t border-border pt-3">
+      <div className="flex flex-col gap-1">
+        <label htmlFor="sync-url" className="text-xs font-medium text-text-2">
+          {SETTINGS_SYNC.serverLabel}
+        </label>
+        <input
+          id="sync-url"
+          type="url"
+          inputMode="url"
+          autoComplete="off"
+          value={url}
+          onChange={(event) => setUrl(event.target.value)}
+          placeholder={SETTINGS_SYNC.serverPlaceholder}
+          className={INPUT_CLASS}
+        />
+        <p className="text-xs text-text-3">{SETTINGS_SYNC.serverHint}</p>
+      </div>
+
+      <div className="grid grid-cols-1 gap-3 tablet:grid-cols-2">
+        <div className="flex flex-col gap-1">
+          <label htmlFor="sync-user" className="text-xs font-medium text-text-2">
+            {SETTINGS_SYNC.userLabel}
+          </label>
+          <input
+            id="sync-user"
+            type="text"
+            autoComplete="off"
+            value={user}
+            onChange={(event) => setUser(event.target.value)}
+            className={INPUT_CLASS}
+          />
+        </div>
+        <div className="flex flex-col gap-1">
+          <label htmlFor="sync-password" className="text-xs font-medium text-text-2">
+            {SETTINGS_SYNC.passwordLabel}
+          </label>
+          <input
+            id="sync-password"
+            type="password"
+            autoComplete="new-password"
+            value={password}
+            onChange={(event) => setPassword(event.target.value)}
+            placeholder={
+              hasSecret
+                ? SETTINGS_SYNC.passwordPlaceholderSaved
+                : SETTINGS_SYNC.passwordPlaceholderEmpty
+            }
+            className={INPUT_CLASS}
+          />
+        </div>
+      </div>
+
+      <div className="flex flex-col gap-2">
+        <SegmentedControl<'on' | 'off'>
+          options={[
+            { value: 'on', label: SETTINGS_SYNC.proxyOn },
+            { value: 'off', label: SETTINGS_SYNC.proxyOff },
+          ]}
+          value={useProxy ? 'on' : 'off'}
+          ariaLabel={SETTINGS_SYNC.proxyAria}
+          onChange={(value) => setUseProxy(value === 'on')}
+        />
+        {useProxy ? (
+          <div className="flex flex-col gap-1">
+            <label htmlFor="sync-proxy" className="text-xs font-medium text-text-2">
+              {SETTINGS_SYNC.proxyUrlLabel}
+            </label>
+            <input
+              id="sync-proxy"
+              type="text"
+              autoComplete="off"
+              value={proxyUrl}
+              onChange={(event) => setProxyUrl(event.target.value)}
+              placeholder={SETTINGS_SYNC.proxyUrlPlaceholder}
+              className={INPUT_CLASS}
+            />
+          </div>
+        ) : null}
+      </div>
+
+      <div className="flex flex-wrap items-center gap-2">
+        <Button variant="secondary" size="sm" onClick={() => void handleSave()} disabled={saving}>
+          {saving ? SETTINGS_SYNC.saving : SETTINGS_SYNC.save}
+        </Button>
+        {connected ? (
+          <Button variant="ghost" size="sm" onClick={() => void handleDisconnect()}>
+            {SETTINGS_SYNC.disconnect}
+          </Button>
+        ) : null}
+      </div>
+    </div>
+  );
+
   return (
     <Card title={SETTINGS_SYNC.title}>
       <div className="flex flex-col gap-3">
-        {/* 连接表单 */}
-        <div className="flex flex-col gap-1">
-          <label htmlFor="sync-url" className="text-xs font-medium text-text-2">
-            {SETTINGS_SYNC.serverLabel}
-          </label>
-          <input
-            id="sync-url"
-            type="url"
-            inputMode="url"
-            autoComplete="off"
-            value={url}
-            onChange={(event) => setUrl(event.target.value)}
-            placeholder={SETTINGS_SYNC.serverPlaceholder}
-            className={INPUT_CLASS}
-          />
-          <p className="text-xs text-text-3">{SETTINGS_SYNC.serverHint}</p>
+        {/* 状态徽标行 */}
+        <div className="flex items-center justify-between">
+          <span
+            className={
+              connected
+                ? 'rounded-full border border-success-fg/40 px-2.5 py-0.5 text-xs text-success-fg'
+                : 'rounded-full border border-border px-2.5 py-0.5 text-xs text-text-3'
+            }
+          >
+            {connected ? SETTINGS_SYNC.badgeConnected : SETTINGS_SYNC.badgeDisconnected}
+          </span>
+          <button
+            type="button"
+            className="text-xs text-text-3 hover:text-text-2"
+            onClick={() => setAdvancedOpen((open) => !open)}
+          >
+            {advancedOpen ? SETTINGS_SYNC.advancedClose : SETTINGS_SYNC.advancedOpen}
+          </button>
         </div>
 
-        <div className="grid grid-cols-1 gap-3 tablet:grid-cols-2">
-          <div className="flex flex-col gap-1">
-            <label htmlFor="sync-user" className="text-xs font-medium text-text-2">
-              {SETTINGS_SYNC.userLabel}
-            </label>
-            <input
-              id="sync-user"
-              type="text"
-              autoComplete="off"
-              value={user}
-              onChange={(event) => setUser(event.target.value)}
-              className={INPUT_CLASS}
-            />
-          </div>
-          <div className="flex flex-col gap-1">
-            <label htmlFor="sync-password" className="text-xs font-medium text-text-2">
-              {SETTINGS_SYNC.passwordLabel}
-            </label>
-            <input
-              id="sync-password"
-              type="password"
-              autoComplete="new-password"
-              value={password}
-              onChange={(event) => setPassword(event.target.value)}
-              placeholder={
-                hasSecret
-                  ? SETTINGS_SYNC.passwordPlaceholderSaved
-                  : SETTINGS_SYNC.passwordPlaceholderEmpty
-              }
-              className={INPUT_CLASS}
-            />
-          </div>
-        </div>
-
-        {/* 代理：PWA 默认走 /dav/ 反代，桌面默认直连 */}
-        <div className="flex flex-col gap-2">
-          <SegmentedControl<'on' | 'off'>
-            options={[
-              { value: 'on', label: SETTINGS_SYNC.proxyOn },
-              { value: 'off', label: SETTINGS_SYNC.proxyOff },
-            ]}
-            value={useProxy ? 'on' : 'off'}
-            ariaLabel={SETTINGS_SYNC.proxyAria}
-            onChange={(value) => setUseProxy(value === 'on')}
-          />
-          {useProxy ? (
-            <div className="flex flex-col gap-1">
-              <label htmlFor="sync-proxy" className="text-xs font-medium text-text-2">
-                {SETTINGS_SYNC.proxyUrlLabel}
-              </label>
-              <input
-                id="sync-proxy"
-                type="text"
-                autoComplete="off"
-                value={proxyUrl}
-                onChange={(event) => setProxyUrl(event.target.value)}
-                placeholder={SETTINGS_SYNC.proxyUrlPlaceholder}
-                className={INPUT_CLASS}
-              />
-            </div>
-          ) : null}
-          <p className="text-xs text-text-3">{SETTINGS_SYNC.hintProxy}</p>
-        </div>
-
-        {/* 自动同步开关 */}
-        <div className="flex flex-col gap-2">
-          <span className="text-xs font-medium text-text-2">{SETTINGS_SYNC.enableLabel}</span>
-          <SegmentedControl<'on' | 'off'>
-            options={[
-              { value: 'on', label: SETTINGS_SYNC.enableOn },
-              { value: 'off', label: SETTINGS_SYNC.enableOff },
-            ]}
-            value={enabled ? 'on' : 'off'}
-            ariaLabel={SETTINGS_SYNC.enableAria}
-            onChange={(value) => setEnabled(value === 'on')}
-          />
-        </div>
-
-        {/* 局域网发现（mDNS）：原生端自动扫 NAS，免手填地址 */}
-        <div className="flex flex-col gap-2 rounded-md border border-border bg-surface-2 p-3">
-          <div className="flex items-center justify-between gap-2">
-            <span className="text-xs font-medium text-text-2">局域网 NAS 发现</span>
-            <Button
-              variant="ghost"
-              size="sm"
-              onClick={() => void (discovering ? stopDiscovery() : startDiscovery())}
-              disabled={saving || syncing}
-            >
-              {discovering ? '停止扫描' : '扫描局域网 NAS'}
+        {!connected ? (
+          <>
+            {/* 未连接态：一键连接 */}
+            <p className="text-sm text-text-2">{SETTINGS_SYNC.introDisconnected}</p>
+            <Button onClick={() => void handleConnect()} disabled={connecting || !settings}>
+              {connecting ? SETTINGS_SYNC.connecting : SETTINGS_SYNC.connect}
             </Button>
-          </div>
-          <p className="text-xs text-text-3">
-            仅原生端（iOS/Android）可用，扫描约 5 秒。发现后点选即可自动填入服务器地址并开启同步。
-          </p>
-          {discovered.length > 0 ? (
-            <ul className="flex flex-col gap-1">
-              {discovered.map((s) => (
-                <li key={`${s.host}:${s.port}`}>
-                  <button
-                    type="button"
-                    onClick={() => void selectService(s)}
-                    className="w-full rounded-md border border-border bg-surface px-3 py-2 text-left text-sm text-text hover:border-primary hover:bg-surface-2"
-                  >
-                    <span className="font-medium">{s.name}</span>
-                    <span className="ml-2 text-xs text-text-3">
-                      {s.scheme}://{s.host}:{s.port}
-                    </span>
-                  </button>
-                </li>
-              ))}
-            </ul>
-          ) : null}
-        </div>
-
-        <div className="flex flex-wrap gap-2">
-          <Button variant="secondary" onClick={() => void handleSave()} disabled={saving}>
-            {saving ? SETTINGS_SYNC.saving : SETTINGS_SYNC.save}
-          </Button>
-          <Button onClick={() => void handleSync()} disabled={syncing}>
-            {syncing ? SETTINGS_SYNC.syncing : SETTINGS_SYNC.syncNow}
-          </Button>
-          <Button variant="ghost" onClick={() => void handleCheckUpdates()}>
-            检查数据更新
-          </Button>
-        </div>
-
-        <p className="text-xs text-text-3">
-          {lastSyncAt !== null
-            ? SETTINGS_SYNC.lastAt(fmtDate(lastSyncAt))
-            : SETTINGS_SYNC.lastNever}
-        </p>
-
-        {report !== null ? (
-          <div className="rounded-md bg-surface-2 p-2 text-xs text-text-2">
-            <p>
-              {SETTINGS_SYNC.statLine(
-                Object.values(report.uploaded).reduce((sum, count) => sum + count, 0),
-                Object.values(report.downloaded).reduce((sum, count) => sum + count, 0),
-                report.conflicts,
-              )}
-            </p>
-            {report.error ? (
-              <p className="mt-1 text-danger-fg">
-                {SETTINGS_SYNC.failed(SYNC_ERROR_MESSAGES[report.error.code])}
-              </p>
+            {connectStage !== null ? (
+              <p className="text-xs text-text-3">{connectStage}</p>
             ) : null}
-          </div>
-        ) : null}
+          </>
+        ) : (
+          <>
+            {/* 已连接态：状态条 + 自动同步 + 立即同步 */}
+            <div className="flex items-center gap-2 rounded-md bg-surface-2 px-3 py-2">
+              <span className="h-2 w-2 flex-shrink-0 rounded-full bg-success-fg" />
+              <div className="min-w-0">
+                <p className="truncate text-sm font-medium text-text">{connectedHost}</p>
+                <p className="text-xs text-text-3">
+                  {lastSyncAt !== null
+                    ? SETTINGS_SYNC.lastAt(fmtDate(lastSyncAt))
+                    : SETTINGS_SYNC.lastNever}
+                </p>
+              </div>
+            </div>
+
+            <div className="flex items-center justify-between">
+              <span className="text-sm text-text">{SETTINGS_SYNC.autoSyncLabel}</span>
+              <button
+                type="button"
+                role="switch"
+                aria-checked={settings?.syncEnabled ?? false}
+                aria-label={SETTINGS_SYNC.autoSyncLabel}
+                onClick={() => void handleToggleEnabled(!(settings?.syncEnabled ?? false))}
+                className={
+                  settings?.syncEnabled
+                    ? 'relative h-6 w-10 rounded-full bg-success-fg transition-colors'
+                    : 'relative h-6 w-10 rounded-full bg-border transition-colors'
+                }
+              >
+                <span
+                  className={
+                    settings?.syncEnabled
+                      ? 'absolute right-0.5 top-0.5 h-5 w-5 rounded-full bg-white'
+                      : 'absolute left-0.5 top-0.5 h-5 w-5 rounded-full bg-white'
+                  }
+                />
+              </button>
+            </div>
+
+            <div className="flex flex-wrap gap-2">
+              <Button onClick={() => void handleSync()} disabled={syncing}>
+                {syncing ? SETTINGS_SYNC.syncing : SETTINGS_SYNC.syncNow}
+              </Button>
+              <Button variant="ghost" onClick={() => void handleCheckUpdates()}>
+                {SETTINGS_SYNC.dataUpdate}
+              </Button>
+            </div>
+
+            {report !== null ? (
+              <div className="rounded-md bg-surface-2 p-2 text-xs text-text-2">
+                <p>
+                  {SETTINGS_SYNC.statLine(
+                    Object.values(report.uploaded).reduce((sum, count) => sum + count, 0),
+                    Object.values(report.downloaded).reduce((sum, count) => sum + count, 0),
+                    report.conflicts,
+                  )}
+                </p>
+                {report.error ? (
+                  <p className="mt-1 text-danger-fg">
+                    {SETTINGS_SYNC.failed(SYNC_ERROR_MESSAGES[report.error.code])}
+                  </p>
+                ) : null}
+              </div>
+            ) : null}
+
+            <p className="text-xs text-text-3">{SETTINGS_SYNC.credentialManaged}</p>
+          </>
+        )}
+
+        {advancedOpen ? advancedForm : null}
 
         <p className="text-xs text-text-3">{SETTINGS_SYNC.hintStrategy}</p>
       </div>

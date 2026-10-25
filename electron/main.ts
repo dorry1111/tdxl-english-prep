@@ -13,6 +13,7 @@
  */
 import { app, BrowserWindow, dialog, ipcMain, Menu, nativeTheme, net, protocol, shell, Tray } from 'electron';
 import fs from 'node:fs';
+import os from 'node:os';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
@@ -373,6 +374,20 @@ function registerIpc(): void {
   // --- 主题跟随（renderer 的三态同步到 nativeTheme，影响窗口按钮区配色） ---
   ipcMain.handle('tdxl:set-theme-source', (_event, mode: ThemeSource) => {
     nativeTheme.themeSource = mode;
+  });
+
+  // --- 本机局域网 IPv4（同步卡「连接 NAS」子网探测用，v1.9.0） ---
+  ipcMain.handle('tdxl:get-lan-ips', () => {
+    const result: string[] = [];
+    const interfaces = os.networkInterfaces();
+    for (const addresses of Object.values(interfaces)) {
+      for (const address of addresses ?? []) {
+        if (address.family === 'IPv4' && !address.internal) {
+          result.push(address.address);
+        }
+      }
+    }
+    return result;
   });
 
   // --- 数据目录 ---

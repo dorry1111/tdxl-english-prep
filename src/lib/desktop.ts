@@ -19,6 +19,8 @@ export interface TdxlDesktopApi {
   getConfig: () => Promise<DesktopConfigBridge>;
   setConfig: (patch: Partial<DesktopConfigBridge>) => Promise<DesktopConfigBridge>;
   setThemeSource: (mode: 'system' | 'light' | 'dark') => Promise<void>;
+  /** 本机局域网 IPv4 列表（同步卡「连接 NAS」子网探测用，v1.9.0） */
+  getLanIps: () => Promise<string[]>;
   openDataDir: () => Promise<void>;
   exportFile: (defaultName: string, contents: string) => Promise<string | null>;
   pickImportFile: () => Promise<{ name: string; content: string } | null>;

@@ -40,6 +40,9 @@ const api = {
   setThemeSource: (mode: 'system' | 'light' | 'dark'): Promise<void> =>
     ipcRenderer.invoke('tdxl:set-theme-source', mode),
 
+  // 本机局域网 IPv4（同步卡「连接 NAS」子网探测用）
+  getLanIps: (): Promise<string[]> => ipcRenderer.invoke('tdxl:get-lan-ips'),
+
   // 数据目录
   openDataDir: (): Promise<void> => ipcRenderer.invoke('tdxl:open-data-dir'),
 

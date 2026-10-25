@@ -132,9 +132,25 @@ export const SETTINGS_HOTKEYS = {
 /** 数据同步设置（设置页「数据同步」卡片，T18） */
 export const SETTINGS_SYNC = {
   title: '数据同步',
+  badgeDisconnected: '未连接',
+  badgeConnected: '已连接',
+  /** 未连接态说明 */
+  introDisconnected: '自动发现同一局域网内的 NAS，无需填写地址与账号密码。',
+  /** 连接按钮 */
+  connect: '连接 NAS',
+  connecting: '连接中…',
+  connectDone: (host: string) => `已连接 NAS（${host}），同步已开启。`,
+  connectFailedPrefix: '未能发现 NAS',
+  connectFailedHint: '请确认电脑/手机与 NAS 在同一局域网，且 NAS 已开机。也可在高级设置中手动填写。',
+  /** 已连接态状态条 */
+  autoSyncLabel: '自动同步',
+  dataUpdate: '数据更新',
+  advancedToggle: '高级设置',
+  advancedOpen: '高级设置 ▾',
+  advancedClose: '高级设置 ▴',
   serverLabel: 'WebDAV 服务器地址',
-  serverPlaceholder: 'http://192.168.31.239:5005/业务/tdxl-sync/',
-  serverHint: '同步文件会存放在该目录下，按设备分文件写入。',
+  serverPlaceholder: 'http://192.168.31.239:8100/dav/',
+  serverHint: '同步文件按设备分文件写入该目录。',
   userLabel: '账号',
   passwordLabel: '应用密码',
   passwordPlaceholderSaved: '已保存（留空表示不修改）',
@@ -145,10 +161,6 @@ export const SETTINGS_SYNC = {
   proxyOff: '直连',
   proxyUrlLabel: '代理地址前缀',
   proxyUrlPlaceholder: '/dav/',
-  enableLabel: '自动同步',
-  enableAria: '是否启用自动同步',
-  enableOn: '启用',
-  enableOff: '停用',
   save: '保存配置',
   saving: '保存中…',
   saved: '同步配置已保存。',
@@ -160,14 +172,15 @@ export const SETTINGS_SYNC = {
   syncDone: '同步完成。',
   settingsMissing: '设置尚未初始化，请重启应用。',
   lastNever: '尚未同步过',
-  lastAt: (when: string) => `上次同步：${when}`,
+  lastAt: (when: string) => `最近同步 ${when}`,
   statLine: (up: number, down: number, conflicts: number) =>
-    `上传 ${up} 条 · 下载 ${down} 条 · 解决冲突 ${conflicts} 次`,
+    `上传 ${up} · 下载 ${down} · 冲突 ${conflicts}`,
   failed: (msg: string) => `同步失败（${msg}）`,
+  disconnect: '断开连接',
+  disconnectDone: '已断开同步，配置已保留，可随时重新连接。',
+  /** 免输入说明（已连接态状态条下的辅助行） */
+  credentialManaged: '账号密码已由本机托管，无需填写。',
   hintStrategy: '同步采用「每设备独立文件 + 最后写入胜出」策略；真题做题记录与错题本已纳入同步（未交卷草稿除外）。',
-  hintProxy: '网页版（PWA）跨端口访问会被浏览器拦截，需走同源反代（NAS 已配好 /dav/）；电脑版选直连即可。',
-  secretSaved: '密码已保存',
-  secretNotSet: '未设置密码',
 } as const;
 
 /** AI 释义设置（设置页「AI 释义」卡片，供搜索弹窗调用大模型） */
