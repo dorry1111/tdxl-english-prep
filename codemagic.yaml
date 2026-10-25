@@ -22,12 +22,19 @@ workflows:
           npx cap sync ios
       - name: Build unsigned IPA (签名交给全能签)
         script: |
+          set -e
           cd ios/App
+          # 用 build 而非 archive：archive 对“无签名”最挑剔，常瞬间失败产出空壳；
+          # build 对未签名更宽容。CODE_SIGN_IDENTITY="-" 才是真正“不签名”，
+          # 空字符串 "" 会被 Xcode 当成仍要签名 → 构建机无证书时瞬失败。
           xcodebuild -project App.xcodeproj -target App -configuration Release \
-            -archivePath build/App.xcarchive archive \
-            CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
+            -sdk iphoneos \
+            -destination 'generic/platform=iOS' \
+            build \
+            CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="-" CODE_SIGNING_REQUIRED=NO \
+            CONFIGURATION_BUILD_DIR="$PWD/build/Release-iphoneos"
           mkdir -p build/Payload
-          cp -r "build/App.xcarchive/Products/Applications/App.app" build/Payload/
+          cp -r build/Release-iphoneos/App.app build/Payload/
           cd build && zip -r "$CM_EXPORT_DIR/tdxl-english-prep.ipa" Payload
     artifacts:
       - $CM_EXPORT_DIR/tdxl-english-prep.ipa
