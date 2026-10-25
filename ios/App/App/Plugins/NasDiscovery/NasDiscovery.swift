@@ -49,7 +49,7 @@ public class NasDiscovery: CAPPlugin {
         if host.hasSuffix(".") {
             host = String(host.dropLast())
         }
-        let type = service.type
+        let type = service.type ?? ""
         let scheme: String = (type.contains("https") || type.contains("webdav")) ? "https" : "http"
         notifyListeners("serviceFound", data: [
             "name": service.name,

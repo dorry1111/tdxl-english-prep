@@ -46,7 +46,7 @@ public class TtsBridge: CAPPlugin {
         if let voice = AVSpeechSynthesisVoice(language: lang) {
             utterance.voice = voice
         }
-        utterance.rate = avRate
+        utterance.rate = Float(avRate)
         synthesizer.stopSpeaking(at: .immediate)
         synthesizer.speak(utterance)
         call.resolve()
