@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2015 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2015-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Sometimes a race is not enough. Sometimes a runner just wants to go further. That’s what happened to\nDennis Martin and Brooke Curran. Martin, 68, a retired detective form New York City, took up running after his first wife died. Curran, 46, a\nphilanthropist (慈善家) from Alexandria, started running to get out of the house and collect her thoughts. Both she\nand Martin got good at running but felt the desire to do more. “The more I trained, the better I got,” Curran said,” but I would cross the finish line with no sense of accomplishment.” Eventually, they worked up to running marathons (马拉松) (and longer races) in other countries, on other\ncountries. Now both have achieved a notable -and increasingly less rate- milestone; running the 26.2-mile race on\nall seven continents. They are part of a phenomenon that has grown out of the running culture in the past two decades, at the\nintersection of athleticism and leisure: “runcations,” which combine distance running with travel to exotic places. These trips, as expensive as they are physically challenging, are a growing and competitive market in the travel\nindustry. “In the beginning, running was enough,” said Steen Albrechtsen, a press manager. “The classic marathon was\nthe ultimate goal, then came the super marathons, like London and New York. But when 90,000 people a year can\ntake that challenge, it is no longer exciting and adventurous .Hence, the search for new adventures began.”\n“No one could ever have imagined that running would become the lifestyle activity that it is today,” said\nThom Gilligan, founder and president of Boston-based Marathon Tours and Travel. Gilligan, who has been in\nbusiness since 1979, is partly responsible for the seven-continent phenomenon. It started with a casual talk to an interviewer about his company offering trips to every continent except\nAntarctica. And then in 1995, Marathon tours hosted its first Antarctica Marathon on King George Island. Off the\ntip of the Antarctic Peninsula; 160 runners got to the starting line of a dirt-and ice-trail route via a Russian\nicebreaker through the Drake Passage."
+    },
+    {
+      "id": "e2015-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "Before the 1970s, college students were treated as children. So many colleges ran in loco parentis system. “In\nloco parentis” is a Latin term meaning “in the place of a parent.” It describes when someone else accepts\nresponsibility to act in the interests of a child. This idea developed long ago in British common law to define the responsibility of teachers toward their\nstudents. For years, American courts upheld in loco parentis in cases such as Gott versus Berea College in 1913. Gott owned a restaurant off campus. Berea threatened to expel students who ate at places not owned by the\nschool. The Kentucky high court decided that in loco parentis justified that rule. In loco parentis meant that male and female college students usually had to live in separate buildings. Women\nhad to be back at their dorms by ten or eleven on school nights. But in the 1960s, students began to protest rules and restrictions like these. At the same time, courts began to\nsupport students who were being punished for political and social dissent. In 1960, Alabama State College expelled six students who took part in a civil rights demonstration. They\nsued the school and won. After that it became harder and harder to defend in loco parentis. At that time, students were not considered adults until 21. Then, in 1971, the 24th amendment to the\nConstitution set the voting age at eighteen. So in loco parentis no longer really applied. Slowly, colleges began to treat students not as children, but as adults. Students came to be seen as consumers\nof educational services. Gary Dickstein, an assistant vice president at Wright State University in Dayton, Ohio, says in loco parentis\nis not really gone. It just looks different. Today’s parents, he says, are often heavily involved in students’ lives. They are known as “helicopter parents.” They always seem to hover over their children. Gary Dickstein says these\nparents are likely to question decisions, especially about safety issues and grades. They want to make sure their\nfinancial investment is not being wasted."
+    },
+    {
+      "id": "e2015-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "We tend to think of plants as the furniture of the natural world. They don’t move they don’t make sounds;\nthey don’t seem to respond to anything—at least not very quickly. But as is often the case, our human view of the\nworld misses quite a lot. Plants talk to each other all the time. And the language is chemical. Over the years scientists have reported that different types of plants, from trees to tomatoes, release\ncompounds into the air to help neighboring plants. These chemical warnings all have the same purpose—to spread\ninformation about one plant’s disease so other plants can defend themselves. But exactly how plants receive and\nact on many of these signals is still mysterious. In this week’s Proceedings of the National Academy of Sciences, researchers in Japan offer some\nexplanations. They have identified one chemical message and traced it all the way from release to action. The scientists looked at tomato plants infested (侵害) by common pest, the cutworm caterpillar (毛毛虫). To\nstart out, they grew plants in two plastic compartments connected by a tube. One plant was infested and placed\nupwind and the others were uninfested and placed downwind. The downwind plants were later exposed to the\ncutworm caterpillar. The results showed that plants that had previously been near sick neighbors were able to\ndefend themselves better against the caterpillar. The researchers also studied leaves from exposed and unexposed plants. They found one compound showed\nup more often in the exposed plants. The substance is called Hex Vic. When the scientists fed Hex Vic to\ncutworms, it knocked down their survival rate by 17%. The scientists identified the source of Hex Vic, and\nsprayed it lightly over healthy plants. Those plants were then able to start producing the caterpillar-killing Hex Vic. Researchers confirmed that uninfested plants have to build their own weapon to fight off bugs and diseases. How\ndo they know when to play defense? They are warned first by their friendly plant neighbors. It is a complex tale, and it may be happening in more plant species than tomatoes. It may also be happening\nwith more chemical signals that are still unknown to us. For now though, we know that plants not only\ncommunicate, they look out for one another."
+    },
+    {
+      "id": "e2015-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "Vancouver is the best place to live in the Americas; according to a quality-of-life ranking published earlier\nthis month .The city regularly tops such indexes as its clean air, spacious homes and weekend possibilities of\nsailing and skiing. But its status as a liveable city is threatened by worsening congestion (拥挤). Over the next\nthree decades, another 1 million residents are expected to live in the Greater Vancouver region, adding more cars, bicycles and lorries to roads that are already struggling to serve the existing 2.3 million residents. A proposal by Vancouver’s mayor seeks to prevent the worsening conditions. Upgrades would be made to\n2,300 kilometers of road lanes, as well as bus routes and cycle paths. Four hundred new buses would join the fleet\nof 1,830. There would be more trains and more “sea bus” ferry crossings between Vancouver and its wealthy\nnorthern suburbs. To get all that, residents must vote to accept an increase in sales tax, from 7% to 7.5%. Polls\nsuggest they will vote no. Everyone agrees that a more efficient transport system is needed. Confined by mountains to the north, the\nUnited States to the south and the Pacific Ocean to the west, Vancouver has spread in the only direction where\nthere is still land, into the Fraser Valley, which just a few decades ago was mostly farmland. The road is often\novercrowded. Yet commuters’ suspicion of local bureaucrats may exceed their dislike of congestion. TransLink, which runs\npublic transport in the region, is unloved by taxpayers. Passengers blame it when Skytrain, the light-rail system, comes to a standstill because of mechanical or electrical faults, as happened twice in one week last summer, leaving commuters stuck in carriages with nothing to do but expressing their anger on Twitter. That sort of thing\nhas made voters less willing to pay the C$7.5 billion in capital spending that the ten-year trafficupgrade would\ninvolve. Despite the complaints, Vancouver’s transport system is a decent, well-integrated one on which to build, reckons Todd Litman, a transport consultant who has worked for TransLink. “These upgrades are all-important if\nVancouver wants to maintain its reputation for being a destination others want to go to.” He says."
+    },
+    {
+      "id": "e2015-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "and comments are followed by questions or unfinished statements, each with four suggested answers A, B, C\nand D. Choose the best answer and mark your answer on the Answer Sheet. Towards the end of the 1990s, more than a decade and a half Diet Coke was first introduced, sale of Coca\nCola’s best-selling low caloric drink appeared to slow down. However, in the decade that followed, diet sodas grew by more than 30 percent. In 2009, sales pushed above\n$8.5 billion for the first time. But America’s thirst for Diet Coke is running dry again-and this time it could be for\ngood.The diet soda slowdown isn’t merely an American thing—it’s also happening worldwide. But the future of\ndiet colas is particularly cloudy in the United States. Low calorie sodas are fighting a hard battle against not one but two trends among American consumers. The\nfirst is that overall soda consumption has been on the decline since before 2000. Diet sodas, though they might\ncome sugar- and calorie-free, are still sodas, something Americans are proving less and less interested in drinking. The second, and perhaps more significant trend, is a growing mistrust of artificial sweeteners(甜 味剂 ). “Consumers’ attitudes towards sweeteners have really changed.” said Howard Telford, an industry analyst. “There’s a very negative perception about artificial sweeteners. The industry is still trying to get its head around\nthis.”Comment 1\nAdd me to the number of people addicted to diet colas who quit drinking soda altogether. I honestly think\nsoda is addictive and I’m happy not to be drinking it anymore. Comment 2\nPerhaps the slowdown has something more to do with the skyrocketing cost of soft drinks. Comment 3\nI LOVE diet drinks! Am I unhealthy? Who knows? I guarantee I have a better physique than most\n43-year-old men. Comment4\nThis is a silly and shallow piece.The reason for the fall off is simply the explosion in consumption of bottled\nwaters and energy drinks. Comment5\nAs people learn more about health and wellness they will consume less sugar, less soda, less artificial\nsweeteners.\n8"
+    },
+    {
+      "id": "e2015-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "When asked about the impact of disturbing news on children, one mother said: “My 11-year-old daughter\ndoesn’t like watching the news. She has 46 about what she has seen. One time, she watched a report about a\nperson who killed a family member with a knife. That night she dreamed that she too was being killed.” Another\ninterviewee said: “ My six-year-old niece saw reports of tornadoes (龙卷风) from elsewhere in the country. For\nweeks 47 , she was terrified. She 48 call me on the phone, convinced that a tornado was coming her way\nand that she was going to die.” Do you think disturbing news reports can frighten children? In one survey, nearly 40 percent of parents said\nthat their children had been 49 by something they saw in the news and that, 50 the children had feared\nthat a similar event would happen to them or their loved ones. Why? One factor is that children often 51 the\nnews differently from adults. For example, small children may believe that a 52 that is broadcast repeatedly is\nreally happening repeatedly. A second factor is that daily reports of disturbing events can distort a child’s 53 of the world. True, we\nlive in “critical times hard to 54 .” But repeated exposure to disturbing news reports can cause children to\ndevelop lasting fears. “Children who watch a lot of TV news 55 to overestimate the occurrence of crime and\nmay perceive the world to be a more dangerous place than it actually is,” observes the Kaiser Family Foundation."
+    },
+    {
+      "id": "e2015-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. angrier\nB. getting\nC. action\nPhrases:\nA. which makes you 56\nB. like 57 any compensation\nC. to take any 58\n\nPicture this situation: you have bought a faulty item from a shop and you take it back to complain. You go\ndirectly to the shop assistant and tell them your problem. They say they cannot help you, 59 to the point\nperhaps where you start insulting the poor shop assistant. This will do you no favours, 60 , or even your\nmoney back. If you go directly to the first person you see, you may be wasting your time as they may be\npowerless 61 . So the important lesson to be learnt is to make sure firstly that you are speaking to the\nrelevant person, the one who has the authority to make decisions."
+    },
+    {
+      "id": "e2015-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. the smaller\nB. as much as\nC. up to a year\nD. more likely\nPhrases:\nA. 20% 62 to feel happy\nB. 63 the physical distance between friends\nC. but not 64 happiness\nD. lasted for 65\n\nThe new study found that friends of happy people had a greater chance of being happy themselves. And\n66 , the larger the effect they had on each other's happiness. For example, a person was 67 if a friend\nliving within one and a half kilometers was also happy. Having a happy neighbor who lived next door increased\nan individual’s chance of being happy by 34%. The effects of friends' happiness 68 . The researcher found\nthat happiness really is contagious (传染的).Sadness also spread among friends, 69 ."
+    },
+    {
+      "id": "e2015-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. later regretted\nB. spending\nC. tend to\nPhrases:\nA. remember past impulse purchases that you 70\nB. you may 71 purchase on impulse\nC. keep 72 under control\n\nIn addition to the external pressure we face from marketing, our own feelings and habits can contribute to\nexcessive spending. Here are some suggestions to help you 73 . First, resist your impulse buying. Do you\nenjoy the excitement of shopping and finding a bargain? If so,\n\n10\n74 . To resist, slow down and think realistically about the long-term consequences of buying, owning, and\nmaintaining what you are planning to buy. Stop and 75 . Give yourself a “cool down” period before making\nyour final decision.\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2015-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Student: I drive an automobile. Clerk: Fine. You can either park in the student lot or on the street.  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "Do you know what a handicapped space is?"
+        },
+        {
+          "key": "B",
+          "text": "The signs always tell you how long you can park there and on what days."
+        },
+        {
+          "key": "C",
+          "text": "Then you also need to be aware of the time limits on the street signs."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据下文学生的回答“yes”,可以得知此处是一般疑问句,问对方是否了解残疾人停车区,因\n此选 A。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Student: I park in the evenings. Clerk:  ____  Have you seen those signs?",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "Do you know what a handicapped space is?"
+        },
+        {
+          "key": "B",
+          "text": "The signs always tell you how long you can park there and on what days."
+        },
+        {
+          "key": "C",
+          "text": "Then you also need to be aware of the time limits on the street signs."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据接待员在确定学生要停车的时间后,接着提示学生要注意停车时间限制的标识牌,因此\n选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Student: Yes, I have seen those signs. Clerk:  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "Do you know what a handicapped space is?"
+        },
+        {
+          "key": "B",
+          "text": "The signs always tell you how long you can park there and on what days."
+        },
+        {
+          "key": "C",
+          "text": "Then you also need to be aware of the time limits on the street signs."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据学生所看到的停车时间限制标识牌后,接待员补充说明了标识牌上应注意的地方,因此\n选 B。\n【参考译文】\n学生: 能告诉我在哪可以停车吗?\n接待员: 你开的是摩托车还是汽车?\n学生: 我开的是汽车。\n接待员: 好的。你可以停在学生停车区或者街道上。你知道残疾人区域吗?\n学生: 是的,我看到过这些区域。\n接待员:好的,如果你看到标有残疾人的蓝色区域,不要停在那里,除非你有特定的许可证才可以。\n你是打算白天还是晚上停车?\n学生: 晚上停车。\n接待员:那么你也要注意街道上标有停车时间限制的标识牌。你看到了这些标识牌吗?\n学生: 是的,我看到了。\n接待员:这标识牌上也说明了你可以在哪天可以停车以及停多久。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2015-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Student: Excuse me. I am interested in getting a library card. Librarian: Sure, let me give you an application. You can fill it out right here at the counter. Student: Thank you. I’ll do it right now. Librarian: Let me take a look at this for you.  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "The hours and limitations are printed on the card and this handout."
+        },
+        {
+          "key": "B",
+          "text": "May I have your driver’s license, please?"
+        },
+        {
+          "key": "C",
+          "text": "Are you familiar with our rules and fines?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据图书管理员在审核申请表格,结合学生的回答,可以管理员要查看相关的证件,因此选\nB。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Student: Here it is. Librarian: You seem to have filled the form out all right.  ____ ",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "The hours and limitations are printed on the card and this handout."
+        },
+        {
+          "key": "B",
+          "text": "May I have your driver’s license, please?"
+        },
+        {
+          "key": "C",
+          "text": "Are you familiar with our rules and fines?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据图书管理员审核表格没问题,结合学生的回答是知道如何做,说明是个一般疑问句,因\n此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）Student: Yes. I know what to do. Librarian:  ____ ",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "The hours and limitations are printed on the card and this handout."
+        },
+        {
+          "key": "B",
+          "text": "May I have your driver’s license, please?"
+        },
+        {
+          "key": "C",
+          "text": "Are you familiar with our rules and fines?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据该学生的申请表格已通过,在借书证发放给学生时,图书管理员强调了使用规定,因此\n选 A。\n【参考译文】\n学生:打扰一下,我想办理一张借书证。\n图书管理员:好的,我先给你张申请表,你可以在这个柜台上填写。\n学生:谢谢。我现在就填写。\n图书管理员:让我看看你的申请表,可以看看你的驾驶证吗?\n学生:给你。\n图书管理员:你的表格没有问题,你熟悉我们图书馆的借书规则和罚款规定吗?\n学生:是的,我知道怎么做。\n图书管理员:借阅时间和相关的限定都印在借书证和这份宣传册上。\n学生:好的,明白了。\n2\n图书管理员:感谢你加入图书馆,我们期待为你服务。\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2015-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Winfrey: So, this is the first time we’ve met. Rowling: Yes, it is . Winfrey: And my producers tell me that your real name is J.O.  ____ ",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "And fooled the boys for a while."
+        },
+        {
+          "key": "B",
+          "text": "And I don’t think the boys have minded."
+        },
+        {
+          "key": "C",
+          "text": "Well, it’s because my British publisher."
+        },
+        {
+          "key": "D",
+          "text": "All this time I thought you were ‘J.K’."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前所述了关于罗琳的名字,温弗里对此提出了自己的疑惑,因此选 D。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）Rowling:  ____  When the first book came out, they thought ‘this is a book that will appeal to boys ’, but",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "And fooled the boys for a while."
+        },
+        {
+          "key": "B",
+          "text": "And I don’t think the boys have minded."
+        },
+        {
+          "key": "C",
+          "text": "Well, it’s because my British publisher."
+        },
+        {
+          "key": "D",
+          "text": "All this time I thought you were ‘J.K’."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格后所述罗琳的由来可知,J.K.是应出版商的要求而取的,因此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）grandmother’s name, Kathleen. Winfrey:  ____ ",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "And fooled the boys for a while."
+        },
+        {
+          "key": "B",
+          "text": "And I don’t think the boys have minded."
+        },
+        {
+          "key": "C",
+          "text": "Well, it’s because my British publisher."
+        },
+        {
+          "key": "D",
+          "text": "All this time I thought you were ‘J.K’."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据上文所述,因为书的内容更吸引男性。出版商为了吸引读者,要求罗琳用名字的首字母,\n从而暂时性地欺骗了读者,因此选 A。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）pretend I was a man anymore. Winfrey:  ____ ",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "And fooled the boys for a while."
+        },
+        {
+          "key": "B",
+          "text": "And I don’t think the boys have minded."
+        },
+        {
+          "key": "C",
+          "text": "Well, it’s because my British publisher."
+        },
+        {
+          "key": "D",
+          "text": "All this time I thought you were ‘J.K’."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前所述:作者的照片已刊登,读者就知道了作者是一位女性,因此选 B。\n【参考译文】\n温弗里: 那么,这是我们第一次见面。\n罗琳: 是的,是第一次。\n温弗里: 而我的制片人告诉我你的真实名字是 J. O., 我一直以为你叫 J.K.. 罗琳: (笑)是的。\n温弗里: J.K.是...... 罗琳: 这来源于我英国的出版商。当我的第一本书出版时,他们认为这本书会吸引男性,但是他们又\n不想让这些男性知道这本书是一位女性写的。所以他们对我说:“可以用你名字的首字母吗?”,我说:“可\n以”。而我的缩写名只有一个首字母,我没有中名,因此我用了我最喜爱的奶奶的名字:凯思琳。\n温弗里: 这可骗了男孩们一阵子。\n罗琳: 是。但没过多久,因为报纸上开始有我的照片,没有人能够再假装说我是一个男人。\n温弗里: 而且我认为男孩们并不介意。\n罗琳: 不介意—这对于我没有负面影响,不是吗?",
+      "score": 1
+    },
+    {
+      "id": "e2015-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "There are several different options for getting Internet access.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "choices"
+        },
+        {
+          "key": "B",
+          "text": "definitions"
+        },
+        {
+          "key": "C",
+          "text": "channels"
+        },
+        {
+          "key": "D",
+          "text": "reasons"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 option 选择。\nA. choices 选择 B. definitions 定义\nC. channels 海峡;频道;途径 D. reasons 理由\n【译文】可以通过几种不同的选择来上网。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "Earth has an atmosphere, which protects the surface from harmful rays.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "minerals"
+        },
+        {
+          "key": "B",
+          "text": "substances"
+        },
+        {
+          "key": "C",
+          "text": "gases"
+        },
+        {
+          "key": "D",
+          "text": "beams"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 ray 射线、光束。\nA. minerals矿物质 B. substances 物质\nC. gases 气体 D. beams 光束\n【译文】地球有大气层,用来保护地球表面不受有害光线的照射。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "The manager gave one of the salesgirls an accusing look for her hostile attitude toward customers.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "unfriendly"
+        },
+        {
+          "key": "B",
+          "text": "optimistic"
+        },
+        {
+          "key": "C",
+          "text": "impatient"
+        },
+        {
+          "key": "D",
+          "text": "positive"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 hostile 敌意的,敌对的。\nA. unfriendly 不友善的,有敌意的 B. optimistic 乐观的\nC. impatient 不耐烦的 D. positive 积极的\n【译文】因女销售员对顾客持有的敌意态度,经理给了她一个责备的眼神。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "Since it is late to change my mind now, I am resolved to carry out the plan.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "revise"
+        },
+        {
+          "key": "B",
+          "text": "implement"
+        },
+        {
+          "key": "C",
+          "text": "review"
+        },
+        {
+          "key": "D",
+          "text": "improve"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 carry out 实施,执行。\nA. revise 校对 B. implement 实施,执行\nC. review 复习 D. improve 改善,提高\n【译文】既然现在改变主意已经晚了,那么我就下定决心去执行该计划。\n3",
+      "score": 1
+    },
+    {
+      "id": "e2015-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "Security guards dispersed the crowd that had gathered around the Capitol.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "arrested"
+        },
+        {
+          "key": "B",
+          "text": "stopped"
+        },
+        {
+          "key": "C",
+          "text": "scattered"
+        },
+        {
+          "key": "D",
+          "text": "watched"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 disperse 分散,散布。\nA. arrested 逮捕 B. stopped 停止\nC. scattered 分散,驱散 D. watched 观看\n【译文】警卫驱散了聚集在美国国会大厦周围的人群。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "To start the program, insert the disk and follow the instructions.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "take out"
+        },
+        {
+          "key": "B",
+          "text": "turn over"
+        },
+        {
+          "key": "C",
+          "text": "track down"
+        },
+        {
+          "key": "D",
+          "text": "put in"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 insert 插入。\nA. take out 取出,除去 B. turn over 倾覆;移交\nC. track down 追踪到;追查到 D. put in放入,投入\n【译文】开始运行该程序,插入光盘并按提示进行。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "The patient’s condition has deteriorated since last night.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "improved"
+        },
+        {
+          "key": "B",
+          "text": "returned"
+        },
+        {
+          "key": "C",
+          "text": "worsened"
+        },
+        {
+          "key": "D",
+          "text": "changed"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 deteriorate 恶化,变坏。\nA. improved 改善,提高 B. returned 归还\nC. worsened 恶化,更坏 D. changed 改变\n【译文】自昨晚开始,病人的情况开始恶化。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "I couldn’t afford to fly home, and a train ticket was likewise beyond my means.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "also"
+        },
+        {
+          "key": "B",
+          "text": "nonetheless"
+        },
+        {
+          "key": "C",
+          "text": "furthermore"
+        },
+        {
+          "key": "D",
+          "text": "otherwise"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 likewise 同样地。\nA. also 同样,也 B. nonetheless 既然\nC. furthermore 而且 D. otherwise 否则\n【译文】我买不起回家的机票,同样也买不起火车票。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "Despite years of searching, scientists have detected no signs of life beyond our own solar system.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "within"
+        },
+        {
+          "key": "B",
+          "text": "besides"
+        },
+        {
+          "key": "C",
+          "text": "outside"
+        },
+        {
+          "key": "D",
+          "text": "except"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 beyond 超出,超过。\nA. within 在…里面 B. besides 除了(包含)\nC. outside 在…外面 D. except 除了(不包含)\n【译文】尽管数十年的搜寻,科学家还是没有在太阳系之外探查出生命的迹象。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "I prefer chicken to fish because I am worried about accidentally swallowing a small bone.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "intentionally"
+        },
+        {
+          "key": "B",
+          "text": "unexpectedly"
+        },
+        {
+          "key": "C",
+          "text": "anxiously"
+        },
+        {
+          "key": "D",
+          "text": "hurriedly 3"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 accidentally 偶然地,意外地。\nA. intentionally 有意地 B. unexpectedly意外地,出乎意料地\nC. anxiously 焦虑地,担忧地 D. hurriedly 匆忙地\n【译文】相比于吃鱼,我更喜欢吃鸡肉,因为吃鱼时我担心会不小心地吞食了鱼刺。\nReading Comprehension\nPassage One\n【文章介绍】\n本文主要说明人们有时候觉得一场赛跑比赛是不够的,人们想要的更多,这时“runcations” 就应运而\n生,这是一种运动与休闲相结合的运动方式,是旅游行业的一个不断增长和竞争激烈的市场。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q21",
+      "sectionType": "reading",
+      "passageId": "e2015-p1",
+      "seq": 21,
+      "stem": "At the beginning, Martin took up running just to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "meet requirements of his job"
+        },
+        {
+          "key": "B",
+          "text": "win a running race"
+        },
+        {
+          "key": "C",
+          "text": "join in a philanthropic activity"
+        },
+        {
+          "key": "D",
+          "text": "get away from his sadness"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】马丁开始跑步的原因仅仅是因为什么。\n在文章第二段第一句我们可以找到答案:68 岁的马丁是一位来自纽约市退休的侦探,他开始跑步是在\n他第一任妻子去世之后。因此,此题选 D 项“摆脱他的悲伤”。\n【误项排除】A 项“满足工作需要”,B 项“赢得一场赛跑比赛”,C 项“参加慈善活动”,这三项不符合\n题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q22",
+      "sectionType": "reading",
+      "passageId": "e2015-p1",
+      "seq": 22,
+      "stem": "Martin and Curran are mentioned as good examples of .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "winners in the 26.2-mile race on all seven continents"
+        },
+        {
+          "key": "B",
+          "text": "people who enjoy long running as a lifestyle activity"
+        },
+        {
+          "key": "C",
+          "text": "running racers satisfied with their own performance"
+        },
+        {
+          "key": "D",
+          "text": "old people who live an active life after retirement"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】文中提到的马丁和科伦是什么的最好的例子。\n在文章第二段最后两句我们可以找到答案:她和马丁都擅长跑步,但是仍觉得不够,想要做更多。另\n4\n外,第四段第一句可知,他们很好地把远距离长跑和异地旅行结合了起来。因此,此题选 B 项“把长跑当\n作一种生活方式活动并乐在其中的人”。\n【误项排除】A 项“在所有七大洲的 26.2 英里比赛中的胜出者”,C 项“满足自己表现的跑步选手”,D\n项“退休后过着积极生活的老年人”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q23",
+      "sectionType": "reading",
+      "passageId": "e2015-p1",
+      "seq": 23,
+      "stem": "A new trend in the travel industry is the development of .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "challenging runcations"
+        },
+        {
+          "key": "B",
+          "text": "professional races"
+        },
+        {
+          "key": "C",
+          "text": "Antarctica travel market 4"
+        },
+        {
+          "key": "D",
+          "text": "expensive tours"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】旅游业发展的新趋势是什么。\n在文章第四段可知:“runcations”是一种运动与休闲相结合的运动方式,是旅游行业的一个不断增长和\n竞争激烈的市场。因此,此题选 A 项“具有挑战性的跑步旅游”。\n【误项排除】B 项“专业的比赛”,C 项“南极旅游市场”,D 项“昂贵的旅行”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q24",
+      "sectionType": "reading",
+      "passageId": "e2015-p1",
+      "seq": 24,
+      "stem": "The classic marathon no longer satisfies some people because .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "it does not provide enough challenge"
+        },
+        {
+          "key": "B",
+          "text": "it may be tough and dangerous"
+        },
+        {
+          "key": "C",
+          "text": "it involves too fierce a competition"
+        },
+        {
+          "key": "D",
+          "text": "it has attracted too many people"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】经典马拉松不再满足一些人的原因是什么。\n在文章第五段倒数第二句可知:但是当每年有 90,000 人能够挑战,它也不再是使人感到兴奋和惊险。\n因此,此题选 A 项“它没有提供足够的挑战”。\n【误项排除】B 项“它可能是艰难和危险的”,C 项“它涉及非常激烈的竞争”,D 项“它已经吸引了太多\n的人”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q25",
+      "sectionType": "reading",
+      "passageId": "e2015-p1",
+      "seq": 25,
+      "stem": "The first Antarctica Marathon on King George Island indicates that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "international cooperation is a must to such an event"
+        },
+        {
+          "key": "B",
+          "text": "runcations are expensive and physically challenging"
+        },
+        {
+          "key": "C",
+          "text": "Marathon Tours is a leader of the travel industry"
+        },
+        {
+          "key": "D",
+          "text": "adventurous running has become increasingly popular"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】在乔治王岛举办的第一届南极马拉松比赛表明什么。\n在文章第七段可知:1995 年第一届南极马拉松比赛是在乔治王岛上举办的,共有 160 名选手参赛,可\n知这种冒险运动越来越受到人们的欢迎。因此,此题选 D 项“冒险跑步已经变得日益流行起来”。\n【误项排除】A 项“对于这样的大事件来说,国际合作是必须的”,B 项“跑步旅行是昂贵的,也是一种\n身体上的挑战”,C 项“马拉松之旅是旅游业的领导者”,这三项不符合题意。\n【参考译文】\n有时候,一场赛跑比赛是不够的。有时,赛跑者只是想要更进一步。丹尼斯·马丁和布鲁克·科伦就是\n这样的。\n68 岁的马丁是一位来自纽约市退休的侦探,他开始跑步是在他第一任妻子去世之后。而 46 岁的科伦\n是一位来自亚历山大的慈善家,她开始跑步是为了走出家门来整理一下自己的思绪。她和马丁都擅长跑步,\n但是仍觉得不够,想要做更多。她说:“训练越多,跑的状态越好,但是当我穿过终点线时缺少了那种成\n就感。” 最终,他们逐渐地在其他国家,以其他国家的模式来跑马拉松(和更长的比赛)。现在在马拉松比赛中,\n随着他们逐步缩减地速率,并最终跑完全程,他们创造了引人瞩目的里程碑。而且他们参加所有七大洲举\n办的 26.2 英里的马拉松比赛。\n它们是源于 20 年前跑步文化现象的一部分,运动与休闲相交叉:“runcations”, 既可以长跑也可以到异\n域风情的地方去旅行。跑步旅行是昂贵的,也是一种身体上的挑战,是旅游行业的一个不断增长和竞争激\n烈的市场。\n斯蒂恩·阿尔布雷克特森,是一名新闻部经理,说到:“一开始,跑步就足够了”。“像伦敦和纽约一样,\n经典马拉松是终极目标,然后才是超级马拉松。但是当每年有 90,000 人能够挑战,它也不再是使人感到兴\n奋和惊险。因此,寻求新的冒险开始了。” 汤姆·吉利根,是总部位于波士顿的马拉松旅行公司的创始人和总裁,表示:“没有人能够想象到跑步\n会成为今天的一种生活方式的活动 ”。汤姆·吉利根,自 1979 年以来就一直从事这项业务,在一定程度上,\n促成了七大洲马拉松比赛现象的形成。\n它开始于和一位面试官的偶然谈话中,谈话是关于他们公司提供除南美洲之外的其它各大洲的旅行。\n然后在 1995 年,马拉松之旅在乔治王岛举办了第一次南极马拉松比赛。从南极半岛顶端开始,160 名选手\n乘坐俄罗斯破冰船穿过德雷克海峡到了一个肮脏,布满冰的道路的起跑线上。\n5\nPassage Two\n【文章介绍】\n本文主要介绍“代替父母”一词的起源,含义,演变及说明“代替父母”并没有消失,而是通过另一种形\n式来表现出来。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q26",
+      "sectionType": "reading",
+      "passageId": "e2015-p2",
+      "seq": 26,
+      "stem": "Before the 1970s, many colleges ran in loco parentis system because .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "they could take the place of the students’ parents"
+        },
+        {
+          "key": "B",
+          "text": "parents asked them to do it for the interests of their children"
+        },
+        {
+          "key": "C",
+          "text": "this was a tradition established by British colleges"
+        },
+        {
+          "key": "D",
+          "text": "college students were regarded as too young to be treated as adults"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】20 世纪 70 年代之前,许多的大学运行“代替父母”体系的原因是什么。\n在文章第一段前两句我们可以找到答案:在 20 世纪 70 年代之前,大学生都被当作孩子对待。因此许\n多大学运行“代替父母”这一体系。因此,此题选 D 项“大学生因为太年轻而被当成孩子对待”。\n【误项排除】A 项“他们能够代替学生的父母”,B 项“为了孩子的利益,孩子的父母让学校这么做的”,\nC 项“这是英国大学的一个传统”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q27",
+      "sectionType": "reading",
+      "passageId": "e2015-p2",
+      "seq": 27,
+      "stem": "Who won the case of Gott versus Berea College in 1913?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Berea College."
+        },
+        {
+          "key": "B",
+          "text": "Gott"
+        },
+        {
+          "key": "C",
+          "text": "It was a win-win case."
+        },
+        {
+          "key": "D",
+          "text": "The students."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】1913 年戈特对伯里亚学院的诉讼案中谁胜出了?\n在文章第二段第两句:多年以来,美国法庭在案子中支持“代替父母”方,比如 1913 年戈特对伯里亚学\n院的诉讼案。而“代替父母”方指的是学校。因此,此题选 A 项“伯里亚学院”。\n【误项排除】B 项“戈特”,C 项“这是一例双赢案件”,D 项“学生”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q28",
+      "sectionType": "reading",
+      "passageId": "e2015-p2",
+      "seq": 28,
+      "stem": "The word “dissent”(Para.5) probably means “ ”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "extreme behaviors"
+        },
+        {
+          "key": "B",
+          "text": "violation of laws"
+        },
+        {
+          "key": "C",
+          "text": "strong disagreement"
+        },
+        {
+          "key": "D",
+          "text": "wrong doings 5"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义推断\n【解析】第五段“dissent”一词最可能指的是什么。\n在文章第五段第一句:但是在 20 世纪 60 年代,学生开始抗议类似的规定和约束。可知学生对此有异\n议。因此,此题选 C 项“强烈的异议”。\n【误项排除】A 项“极端行为”,B 项“违反法律”,D 项“坏事”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q29",
+      "sectionType": "reading",
+      "passageId": "e2015-p2",
+      "seq": 29,
+      "stem": "In 1960, the court ruled that Alabama State College .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "had no right to expel the students"
+        },
+        {
+          "key": "B",
+          "text": "was justified to have expelled the students"
+        },
+        {
+          "key": "C",
+          "text": "shouldn’t interfere with students’ daily life"
+        },
+        {
+          "key": "D",
+          "text": "should support civil rights demonstrations"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】1960 年法院判决阿拉巴马州立大学怎么样?\n在文章第六段第一句:1960 年,阿拉巴马州立大学开除了六名参与公民权利示威的学生。学生将学校\n告上法庭并获得胜诉。可知学生将学校告上法庭的原因是其过分干涉其公民权利。因此,此题选 C 项“不\n应该干涉学生的日常生活”。\n【误项排除】A 项“无权开除学生”违背常识,B 项“开除学生是合理的”,D 项“应该支持公民权利示威”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q30",
+      "sectionType": "reading",
+      "passageId": "e2015-p2",
+      "seq": 30,
+      "stem": "According to Gary Dickstein, today’s “helicopter parents .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "don’t set their hearts at rest with college administrators"
+        },
+        {
+          "key": "B",
+          "text": "keep a watchful eye on their children’s life and study"
+        },
+        {
+          "key": "C",
+          "text": "care less about their children’s education than before"
+        },
+        {
+          "key": "D",
+          "text": "have different opinions on their children’s education"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义推断\n【解析】加里·迪克斯坦认为,“直升机父母”是什么样的父母?\n在文章最后一段倒数第二句:加里·迪克斯坦说,这些父母可能会质疑孩子的决定,特别是关于安全问\n题和学习成绩。因此,此题选 B 项“密切关注孩子的生活和学习”。\n【误项排除】A 项“不放心学校管理者”,C 项“不像以前那样关心孩子的教育情况”,D 项“对孩子的教\n育有不同的观点”,这三项不符合题意。\n【参考译文】\n在 20 世纪 70 年代之前,大学生都被当作孩子对待。因此许多大学运行“代替父母”这一体系。“In loco\nparentis”是一个拉丁词,意为“代替父母”。它描述的是那些为孩子的利益着想而承担起父母职责的人。\n这一观念源于很久以前的英国普通法,用来定义教师对学生的职责。多年以来,美国法庭在案子中支\n持“代替父母”方,比如 1913 年戈特对伯里亚学院的诉讼案。\n戈特在校园外拥有一家饭馆。伯里亚学院威胁将那些在非校方开办的饭馆用餐的学生开除。肯塔基州\n高等法院判决“代替父母”方(学校)胜诉。\n“代替父母”意味着男女大学生通常必须住在不同的宿舍楼。女同学在校期间必须在 10 点或 11 点前回\n6\n到宿舍。\n但是在 20 世纪 60 年代,学生开始抗议类似的规定和约束。同时,法院开始支持那些因在政治社会方\n面持有异议而被处罚的学生。\n1960 年,阿拉巴马州立大学开除了六名参与公民权利示威的学生。学生将学校告上法庭并获得胜诉。\n从那以后,对“代替父母”方的辩护变得越来越困难了。\n学生直到 21 岁才被认为是成人。随后,1971 年第 24 项宪法修正案规定 18 岁开始拥有投票的权利。\n所以,“代替父母”的概念不再真正适用。慢慢地,大学开始不再将学生当孩子,而是当作成人来对待。学\n生被视为教育服务的消费者。\n加里·迪克斯坦是俄亥俄州戴顿市怀特州立大学的一名助理副校长,他说“代替父母”的概念并没有真正\n消失,而只是看上去不同了。他说,当今的父母常常过分干预孩子的生活,他们被称作“直升机父母”。他\n们似乎总是在孩子的头顶盘旋。加里·迪克斯坦说,这些父母可能会盘问孩子的决定,特别是关于安全问题\n和学习成绩。他们想要确保他们在教育上的投资不会被浪费。\nPassage Three\n【文章介绍】\n本文叙述了一项新的研究发现植物间通过相互交流来警告危险。人们认为植物是自然界的家具,不动\n无声而且没有任何反应。但事实并非如此,接着作者通过饮用科研人员的实验详细介绍了植物之间是可以\n通过释放滑雪物质进行交流、发出危险警告的。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q31",
+      "sectionType": "reading",
+      "passageId": "e2015-p3",
+      "seq": 31,
+      "stem": "What does the author try to emphasize Paragraph 1?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "How plants communicate is still a mystery."
+        },
+        {
+          "key": "B",
+          "text": "Enough attention has been paid to plant talk."
+        },
+        {
+          "key": "C",
+          "text": "Plants are the furniture of the natural world."
+        },
+        {
+          "key": "D",
+          "text": "Plants can communicate with each other."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】作者在第一段中试图强调什么?\n定位到文章第一段,主要讲人们原以为植物是不能动,不能发出声音,但是实际上植物之间一直交流\n着,只不过沟通的语言是一种化学物质。因此,此题选 D 项“植物之间能够相互交流”。\n【误项排除】A 项“植物交流的方式仍是未解之谜”,B 项“植物交流得到了足够的关注”,这些在文章\n第一段中没有提及,C 项“植物是自然界的家具”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q32",
+      "sectionType": "reading",
+      "passageId": "e2015-p3",
+      "seq": 32,
+      "stem": "According to Paragraph2, what remains unknown is .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "how plants receive and handle the signals from their neighbors"
+        },
+        {
+          "key": "B",
+          "text": "why plants spread chemical information to their neighbor"
+        },
+        {
+          "key": "C",
+          "text": "how many types of plants release compounds into the air"
+        },
+        {
+          "key": "D",
+          "text": "whether plants send chemical warnings to their neighbors 6"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】根据文章第二段,什么事情是仍然未知的?\n在文章第二段最后一句:但是,植物是如何确切地接收并付诸于行动的,这仍然是一个谜。因此,此\n题选 A 项“植物是如何接收并处理邻居传递的信号”。\n【误项排除】B 项“植物为什么将化学信息传播给它们的邻居”,C 项“有多少种植物释放化学物质到空\n气中”,D 项“植物是否给它们的邻居发送化学警告物质”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q33",
+      "sectionType": "reading",
+      "passageId": "e2015-p3",
+      "seq": 33,
+      "stem": "The tomato plants in the experiment were .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "placed separately but connected through air"
+        },
+        {
+          "key": "B",
+          "text": "exposed to different kinds of pests"
+        },
+        {
+          "key": "C",
+          "text": "exposed to the pest at the same time"
+        },
+        {
+          "key": "D",
+          "text": "placed together in a closed compartment"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】科学家怎样用西红柿做的实验?\n在文章第四段第二句:从一开始,它们在两个由一根管子连起来的单独的塑料空间内栽种植物。因此,\n此题选 A 项“分开放置但是通过空气连在一起”。\n【误项排除】B 项“暴露给不同的害虫”,C 项“同时暴露给害虫”,D 项“一同放置一个密闭的空间里”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q34",
+      "sectionType": "reading",
+      "passageId": "e2015-p3",
+      "seq": 34,
+      "stem": "The experiment shows that the infested plant helps its neighbors by .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "making more Hex Vic to attract the pest"
+        },
+        {
+          "key": "B",
+          "text": "releasing Hex Vic into the air to warn them"
+        },
+        {
+          "key": "C",
+          "text": "letting them know how to produce Hex Vic"
+        },
+        {
+          "key": "D",
+          "text": "producing enough Hex Vic to kill the pest"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】实验表明遭虫害的植物通过什么方式来帮助它们的邻居?\n在文章第五段可知,遭虫害的植物会释放出 Hex Vic,来提醒别的植物。因此,此题选 B 项“在空气中\n释放 Hex Vic 来提醒它们”。\n【误项排除】A 项“制造出更多的 Hex Vic 物质来吸引害虫”,C 项“让邻居们知道如何生产出 Hex Vic\n物质”,D 项“产生足够多的 Hex Vic 物质来杀死害虫”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q35",
+      "sectionType": "reading",
+      "passageId": "e2015-p3",
+      "seq": 35,
+      "stem": "What may be the best title for the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Survival of Plants"
+        },
+        {
+          "key": "B",
+          "text": "Plant World"
+        },
+        {
+          "key": "C",
+          "text": "Talking Plants"
+        },
+        {
+          "key": "D",
+          "text": "Plant Bug Killer"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "7\n【考点】文章主旨\n【解析】下面哪一个选择最适合做文章的标题?\n文章主要讲述的是植物之间能够相互沟通来警告危险,沟通语言是一种化学物质。因此,此题选 C 项\n“说话的植物”。\n【误项排除】A 项“植物的生存”,B 项“植物世界”,D 项“植物界的害虫杀手”,这三项不符合题意。\n【参考译文】\n我们常常把植物看作是自然界的家具。它们不能动,不能发出声音来,它们似乎不对任何事情做出回\n应—至少是不会快速地做出回应。但是通常情况下,人类的世界观错过了许多。植物却一直在互相交谈着,\n并且,用以交流的语言就是一种化学物质。\n几年来,科学家们曾报道不同种类的植物,从树到西红柿,释放出化学物质到空气中来帮助周围植物。\n这些化学警告物质都有着相同的目的—传播有关一种植物的病虫害信息,以便其他植物可以保护它们自己。\n但是,植物是如何确切地接收并付诸于行动的,这仍然是一个谜。\n在本周的《美国国家科学院院刊》,日本研究家给出了解释。他们已经发现一种化学信息,并从释放\n这种化学信号到植物对这种信号做出反应进行全程跟踪。\n科学家观察几株遭受普通虫害(毛虫)的西红柿。从一开始,他们在两个由一根管子连起来的单独的塑\n料空间内栽种植物。一株遭了虫害的植物被放置在迎风的地方,另一个没遭虫害的被放置在背风的地方。\n背风放置的植物随后也遭到了虫害。结果表明,以前挨着生病邻居的植物能更好地保护自己免受虫害。\n研究人员们也研究了暴露的和没暴露的植株的叶子,发现一种化学物质频繁出现在暴露给害虫的植株\n上。这种化学物质被称作 Hex Vic。当科学家给毛虫喂 Hex Vic 这种化学物质后,其生存率降低了 17%。科\n学家查明了 HexVic 来源,并把它轻轻地喷洒在健康的植株上。那些植株然后就能生产出 HexVic 这种杀虫\n物质来。研究家已经证实了没遭受虫害的植株为了能够抵御害虫和疾病不得不制造出自己的武器。它们怎\n么知道何时保护自己呢?它们首先得到了它们友好的邻近植株的警告。\n它绝非是一个简单的故事,也绝非只产生在西红柿植株上。它也许和许多我们还不知晓的其它化学信\n号一起产生的。现在,我们知道植物不仅能够进行交谈,而且也能够相互照应对方。\nPassage Four\n【文章介绍】\n本文叙述了温哥华,作为宜居城市的地位遭到每况愈下的交通拥挤的威胁,为了改善这一状况,温哥\n华市市长提出一项建议,但这需要增加销售税,人们对此抱着否定的态度及其原因。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q36",
+      "sectionType": "reading",
+      "passageId": "e2015-p4",
+      "seq": 36,
+      "stem": "The biggest problem threatening Vancouver as a liveable city is .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "increasing congestion"
+        },
+        {
+          "key": "B",
+          "text": "climate change"
+        },
+        {
+          "key": "C",
+          "text": "shortage of land"
+        },
+        {
+          "key": "D",
+          "text": "lack of money"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】威胁温哥华作为宜居城市地位的最大的问题是什么?\n定位到文章第一段第三句,但其作为宜居城市的地位受到了每况愈下的交通拥挤的威胁。因此,此题\n选 A 项“日益严重的交通堵塞”。\n【误项排除】B 项“气候变化”,C 项“土地短缺”,D 项“缺钱”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q37",
+      "sectionType": "reading",
+      "passageId": "e2015-p4",
+      "seq": 37,
+      "stem": "The upgrade proposal by Vancouver’s mayor may be turned down by residents because .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "they do not want more people to move in"
+        },
+        {
+          "key": "B",
+          "text": "they are reluctant to move to new places"
+        },
+        {
+          "key": "C",
+          "text": "upgrades would take away their living space 7"
+        },
+        {
+          "key": "D",
+          "text": "upgrades would add to their financial burdens"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】温哥华市市长提出的改造建议可能会被居民拒绝的原因是什么?\n定位到文章第二段的最后两句,为了实现上面这些目标,居民们必须投票同意将销售税从 7%提高到\n7.5%。民意调查显示他们将投反对票。因此,此题选 D 项“改造将会增加他们的财政负担”。\n【误项排除】A 项“他们不想让更多的人住进来”,B 项“他们不愿意搬到新的地方”,C 项“改造将会剥\n夺他们的生活空间”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q38",
+      "sectionType": "reading",
+      "passageId": "e2015-p4",
+      "seq": 38,
+      "stem": "The only direction for Vancouver to further expand is towards .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "the east"
+        },
+        {
+          "key": "B",
+          "text": "the west"
+        },
+        {
+          "key": "C",
+          "text": "the south"
+        },
+        {
+          "key": "D",
+          "text": "the north"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】对于温哥华来说,进一步扩张的唯一方向是哪面?\n定位到文章第三段第一,二句,温哥华北邻山脉,南邻美国,西邻太平洋。因此,此题选 A 项“东面”。\n【误项排除】B 项“西面”,C 项“南面”,D 项“北面”,这三项不符合题意。\n8",
+      "score": 1
+    },
+    {
+      "id": "e2015-q39",
+      "sectionType": "reading",
+      "passageId": "e2015-p4",
+      "seq": 39,
+      "stem": "TransLink is mentioned (Para.4) as an example of .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "world famous transport companies"
+        },
+        {
+          "key": "B",
+          "text": "local residents’ complaints about the bureaucrats"
+        },
+        {
+          "key": "C",
+          "text": "local effort to improve public transport"
+        },
+        {
+          "key": "D",
+          "text": "worsening traffic congestion"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】第四段提到的运输联线公司是作为一个什么的例子?\n定位到文章第四段,然而,上班族对当地官员的怀疑已经超过了他们对交通拥堵的厌恶。运输联线,\n是一家经营该地区的公共交通的服务机构,不受纳税人爱戴。因此,此题选 B 项“当地居民对于官员的抱\n怨”。\n【误项排除】A 项“世界级著名运输公司”,C 项“为改善公共交通当地所作努力”, D 项“日益恶化的\n交通拥挤”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q40",
+      "sectionType": "reading",
+      "passageId": "e2015-p4",
+      "seq": 40,
+      "stem": "According to Todd Litman, the upgrade proposal .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "will solve the traffic problem"
+        },
+        {
+          "key": "B",
+          "text": "will benefit local economy"
+        },
+        {
+          "key": "C",
+          "text": "satisfies the transport company"
+        },
+        {
+          "key": "D",
+          "text": "deserves public support"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】根据托德·利特曼,改造建议怎么样?\n定位到文章最后一段最后一句,他说:“如果温哥华想要保持其作为一个人人想要去的目的地的名气,\n这些改造是非常重要的。”因此,此题选 D 项“值得公众支持”。\n【误项排除】A 项“将会解决交通问题”,B 项“将会有益于当地经济”,C 项“满足运输公司”,这三项\n不符合题意。\n【参考译文】\n根据本月初公布的一份生活质量排名表显示,温哥华是北美洲最佳居住城市。该城市连续多年在空气\n清新、房屋宽敞及周末帆船和滑雪运动的可能性等指数上位居榜首。但其作为宜居城市的地位受到了每况\n愈下的交通拥挤的威胁。未来的 30 年,预计还会有 100 万人口住进大温哥华地区,这就给服务于现有的\n230 万居民,本身就苦不堪言的道路增加更多的车辆,自行车和卡车。\n温哥华市市长提出一项建议,旨在防止恶化的状况。该建议包括改造 2.3 千米的道路车道,及公交线\n路和自行车道。在原有的 1,830 辆公交车的基础上增加 400 辆新公交车。在温哥华和富裕的北部郊区之间,\n将有更多的火车及“公交船”渡口。为了实现上面这些目标,居民们必须投票同意将销售税从 7%提高到 7.5%。\n民意调查显示他们将投反对票。\n人们都同意一个更高效的运输系统是必须的。温哥华北邻山脉,南邻美国,西邻太平洋。温哥华朝着\n还有土地的唯一方位进行蔓延,进入菲沙河谷,仅仅在几十年前,菲沙河谷还主要是农田。这条路通常拥\n挤不堪。\n然而,上班族对当地官员的怀疑已经超过了他们对交通拥堵的厌恶。运输联线,是一家经营该地区的\n公共交通的服务机构,不受纳税人爱戴。乘客抱怨,由于机械或电气故障使空中列车(一种轻轨系统)陷\n入停顿。该故障去年夏天一周里发生了两次,使得上下班人员困在车厢内无事可做,除了在推特上表达自\n己的愤怒。类似的事情使选民不愿意支付 75 亿加元的资本支出在十年的交通升级上面。\n托德·利特曼,运输联线的一名交通顾问,认为尽管有诸多抱怨,但是温哥华的交通是一个体面的,完\n整的体系。他说:“如果温哥华想要保持其作为一个人人想要去的目的地的名气,这些改造是非常重要的。”\nSection B\n【文章介绍】本文主要论述了无糖汽水的销售在全世界都有下降的趋势,在美国尤为明显;同时说明\n了产生这种状况的可能性原因;最后阐述了对于此种趋势,对此人们看法不一。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q41",
+      "sectionType": "reading",
+      "passageId": "e2015-p5",
+      "seq": 41,
+      "stem": "What do we know about diet soda sale?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It began to undergo a gradual drop starting from 2000."
+        },
+        {
+          "key": "B",
+          "text": "It was on the decline since the 1990s but is on the rise now."
+        },
+        {
+          "key": "C",
+          "text": "It reached its peak in the 2000s but began to drop since then."
+        },
+        {
+          "key": "D",
+          "text": "It has been decreasing since the 1990s."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】关于无糖汽水的销售,我们了解哪些?\n根据第二段的第二句可知,无糖汽水在 2009 年达到的顶峰,但之后就再次下降。因此选 C 项“21 世纪\n初,无糖汽水的销售达到了最高峰,但是之后就开始下降”。\n【误项排除】A 项“从 2000 年开始,无糖汽水的销售量就开始逐步下降”,B 项“自 20 世纪 90 年代起,\n无糖汽水的销售处于下降的状况,但是现在已经开始上升了”,D 项“自 20 世纪 90 年代起,无糖汽水的销\n售一直都在减少”,该三项与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q42",
+      "sectionType": "reading",
+      "passageId": "e2015-p5",
+      "seq": 42,
+      "stem": "What does the author think of the prospects of diet soda sale?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It will continue to drop."
+        },
+        {
+          "key": "B",
+          "text": "It will get better soon."
+        },
+        {
+          "key": "C",
+          "text": "It is hard to say for sure."
+        },
+        {
+          "key": "D",
+          "text": "It may have ups and downs."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n9\n【解析】作者如何看待无糖汽水的销售前景?\n根据第三段第二句可知,无糖汽水的销售前景是模糊的、不清楚的,即未来是无法确定的。因此选 C\n项“这很难说”。\n【误项排除】A 项“它将继续下降”,B 项“它将很快好转”,和 D 项“它将起伏不定”,\n该三项与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q43",
+      "sectionType": "reading",
+      "passageId": "e2015-p5",
+      "seq": 43,
+      "stem": "Which comment gives a personal reason for quitting diet colas?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 5."
+        },
+        {
+          "key": "B",
+          "text": "Comment 4."
+        },
+        {
+          "key": "C",
+          "text": "Comment 3."
+        },
+        {
+          "key": "D",
+          "text": "Comment 1."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】哪一个评论者给出了放弃无糖汽水的个人理由?\n根据评论 1 所述:“我以前也是很爱喝无糖汽水的,但现在完全戒掉了。我真的认为喝汽水是上瘾的,\n我很高兴我再也不想喝它了”。因此选 D 项。\n【误项排除】A 项“评论 5”,B 项“评论 4”,C 项“评论 3”,该三项与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q44",
+      "sectionType": "reading",
+      "passageId": "e2015-p5",
+      "seq": 44,
+      "stem": "Which comment supports the author’s point of view?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 2."
+        },
+        {
+          "key": "B",
+          "text": "Comment 3."
+        },
+        {
+          "key": "C",
+          "text": "Comment 4."
+        },
+        {
+          "key": "D",
+          "text": "Comment 5."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】哪一个评论者支持作者的观点?\n根据评论 5 所述:随着人们对于健康与保健了解的越多,人们饮用的糖分、汽水和人造甜味剂就越少。\n再结合作者论述了人们对于饮料的两种趋势可知,作者认为人们对于健康的越来越重视,因此选 D 项“评\n论 5”。\n【误项排除】A 项“评论 2”,B 项“评论 3”,C 项“评论 4”,该三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q45",
+      "sectionType": "reading",
+      "passageId": "e2015-p5",
+      "seq": 45,
+      "stem": "Which comments disagree with the author on the author on the cause of soda sale slowdown?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 3 and Comment 5."
+        },
+        {
+          "key": "B",
+          "text": "Comment 2 and Comment 4."
+        },
+        {
+          "key": "C",
+          "text": "Comment1 and Comment 4."
+        },
+        {
+          "key": "D",
+          "text": "Comment 2 and Comment 3."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】哪些评论者不赞成作者所述造成无糖汽水销售下降的原由?\n根据作者所述,造成无糖汽水销售下降的原因:一个是美国人对此日益失去兴趣,另一个是人们对于\n人造甜味剂的不信任日益增长。而评论 2 所述的是:或许这种下滑,更多的是与软饮猛涨的成本有关;评\n论 4 所述了对于无糖汽水销售的下滑,这只是瓶装水和能量饮料消费的膨胀,都与作者的观点不符合,因\n此选 B 项。\n【误项排除】A 项“评论 3 和评论 5”,C 项“评论 1 和评论 4”,D 项“评论 2 和评论 3”,该三项不符合\n题意。\n【参考译文】\n在 20 世纪 90 年代末,也就是首次推出的健怡可乐—最畅销的低热量可口可乐后的十几年里,其销售\n量似乎降了下来。\n然而,在接下来的十年里,无糖汽水的销售增加了 30%多。在 2009 年,其销售额首次超过了 85 亿美\n元。虽然美国人对于健怡可乐的渴望再次日益消退,而这一次这种渴望将不复存在。\n无糖汽水的销售下滑并不只是出现在美国—在全世界也是如此。但在美国,无糖汽水的未来尤为不乐\n观。\n低热量的汽水正在进行一场艰难的战争,美国消费者的饮料喜好不是一种而是两种趋势。第一种趋势,\n自 2000 年前以来,整个汽水的消费处于下降的状况。尽管无糖汽水不含糖或无卡路里,美国人对该汽水\n是日益失去兴趣。\n第二种趋势,或许是更为重要的趋势,消费者对于人造甜味剂的不信任日益增长。一位名叫霍华德·德\n福的行业分析师说:“消费者对于甜味剂的态度真地变了。”“对于人造甜味剂有一种极为否定的看法。但该\n行业仍尽全力在处理这一状况”。\n评论 1\n我是属于完全放弃汽水却沉迷于健怡可乐的一员。其实我认为汽水是可以上瘾的,我很高兴自己没有\n再喝。\n评论 2\n或许这种下滑,更多的是与软饮猛涨的成本有关。\n评论 3\n10\n我爱低卡饮料!我不健康吗?谁知道了?我敢保证我的体格比许多 43 岁的男人要好。\n评论 4\n这真是一件愚蠢又肤浅的事。对于无糖汽水销售的下滑,这只是瓶装水和能量饮料消费的膨胀。\n评论 5\n随着人们对于健康与保健了解的越多,人们饮用的糖分、汽水和人造甜味剂就越少。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q46",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "thoughts"
+        },
+        {
+          "key": "B",
+          "text": "nightmares"
+        },
+        {
+          "key": "C",
+          "text": "ideas"
+        },
+        {
+          "key": "D",
+          "text": "pictures"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词的辨析。\n【解析】根据空格的下一句所述,她女儿看了杀人的报道后,随后就梦到自己被杀。由此可以推知她\n女儿对于看到的事情会有梦魇,因此选 B 项 nightmare 梦魇。\n【误项排除】A 项 thought 想法;C 项 idea 主意;D 项 picture 图片,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q47",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "afterward"
+        },
+        {
+          "key": "B",
+          "text": "ago"
+        },
+        {
+          "key": "C",
+          "text": "before"
+        },
+        {
+          "key": "D",
+          "text": "later"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查副词辨析。\n【解析】根据原文所述,另一位被采访者的女儿,在看了龙卷风的报道后,随后的几周都处于恐惧中,\n因此选 A 项 afterward 随后,之后,符合原文。\n【误项排除】B 项 ago 以前;C 项 before 之前;D 项 later 以后(该词常指具体时间之后,而 afterward\n强调的是一整段时间之后),该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q48",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "should"
+        },
+        {
+          "key": "B",
+          "text": "might"
+        },
+        {
+          "key": "C",
+          "text": "could"
+        },
+        {
+          "key": "D",
+          "text": "would"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查情态动词的辨析。\n【解析】根据句意:她侄女害怕时,就会给她打电话,因此选 D 项 would 会,将要,符合原文。\n【误项排除】A 项 should 应当;B 项 might 可能;C 项 could 能够,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q49",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "bored"
+        },
+        {
+          "key": "B",
+          "text": "angered"
+        },
+        {
+          "key": "C",
+          "text": "upset"
+        },
+        {
+          "key": "D",
+          "text": "disappointed"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查形容词的辨析。\n【解析】根据空格前后句意:孩子们对于所看到的新闻是有困扰的,因此选 C 项 upset 苦恼的,心烦\n的,符合原文。\n【误项排除】A 项 bored 无聊的;B 项 angered 生气的;D 项 disappointed 失望的,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q50",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "in no time"
+        },
+        {
+          "key": "B",
+          "text": "by all means"
+        },
+        {
+          "key": "C",
+          "text": "all the more"
+        },
+        {
+          "key": "D",
+          "text": "as a result"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查词组的辨析。\n【解析】本题考查对固定词组的掌握及理解上下句之间逻辑关系的能力。题句是一并列句,前一个分\n句说:在一项调查中,近 40%的父母说他们的孩子由于看到新闻报道而感到不安,下一个分句又说,他们\n害怕类似的情况会发生在自己或亲人身上,所以这里选 D 项 as a result 结果,因此,符合上下句逻辑关系。\n【误项排除】A 项 in no time 马上,立即;B 项 by all means 一定,务必;C 项 all the more 更加,甚至,\n都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q51",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "tell"
+        },
+        {
+          "key": "B",
+          "text": "interpret"
+        },
+        {
+          "key": "C",
+          "text": "narrate"
+        },
+        {
+          "key": "D",
+          "text": "treat"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词辨析。\n【解析】根据后文,如果新闻被重复报道,那么孩子会认为这种事情也一样重复发生了。所以孩子与\n大人的解读新闻的方式不同,因此选 B 项 interpret 解释,理解,符合原文。\n【误项排除】A 项 tell 告知; C 项 narrate 叙述;D 项 treat 对待,处理,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q52",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "tragedy"
+        },
+        {
+          "key": "B",
+          "text": "comedy"
+        },
+        {
+          "key": "C",
+          "text": "play"
+        },
+        {
+          "key": "D",
+          "text": "drama"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词辨析。\n【解析】根据上文阐述了令人担忧的新闻报道对孩子的影响,孩子们会恐惧,甚至会梦魇,由此可见,\n令人担忧的新闻报道都是一些悲惨性事件,因此选 A 项 tragedy 悲剧,符合原文。\n【误项排除】B 项 comedy 喜剧,C 项 play 戏剧,D 项 drama 话剧,与原文不符合。\n11",
+      "score": 1
+    },
+    {
+      "id": "e2015-q53",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "imagination"
+        },
+        {
+          "key": "B",
+          "text": "view"
+        },
+        {
+          "key": "C",
+          "text": "sight"
+        },
+        {
+          "key": "D",
+          "text": "look"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词辨析。\n【解析】该句所述日常报道的这些令人担忧的事件会歪曲孩子们对这个世界的看法,可推知选 B 项\nview 观点,看法,符合原文。\n【误项排除】A 项 imagination 想象;C 项 sight 视力;D 项 look 看,样子,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q54",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "give up"
+        },
+        {
+          "key": "B",
+          "text": "stick to"
+        },
+        {
+          "key": "C",
+          "text": "deal with"
+        },
+        {
+          "key": "D",
+          "text": "set down"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词词组辨析。\n【解析】该句阐述了批判时代,人们很难安定下来,因此选 D 项 set down 制定,定下来,符合原文。\n【误项排除】A 项 give up 放弃;B 项 stick to 坚持;C 项 deal with 处理,应对,都与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q55",
+      "sectionType": "cloze",
+      "passageId": "e2015-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "prefer"
+        },
+        {
+          "key": "B",
+          "text": "turn"
+        },
+        {
+          "key": "C",
+          "text": "come"
+        },
+        {
+          "key": "D",
+          "text": "tend 9"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词辨析。\n【解析】根据连词 and 并列时内容上的一致性,后半句说明孩子们认为这个世界更危险,可知,经常\n看电视的孩子往往会夸大犯罪发生率,因此选 D 项 tend:往往(通常与 to 搭配),符合原文。\n【误项排除】A 项 prefer 喜欢;B 项 turn 转向;C 项 come 到来,都与原文不符合。\n【参考译文】\n当问及令人担忧的新闻对孩子的影响时,一位妈妈说:“我 11 岁的女儿并不喜欢看新闻。她对于自己\n所看的东西会有梦魇。有一次,她观看了一则新闻:一个人用一把刀杀害了全家。当天晚上她就梦到自己\n也被杀了。”另一位被采访者说:“我 6 岁大的侄女看了本国其它地区龙卷风的报道。之后的几周,她都很\n恐惧。她甚至要给我打电话,她认为龙卷风就要来她这里了,她即将要死了。” 你认为令人担忧的新闻报道会让孩子们感到恐惧吗?在一次调查中,几乎有 40%的家长认为他们的孩\n子对于在新闻中所看到的事情是有困扰的,孩子们甚至恐惧相似的事情会发生在他们自己或他们爱的人身\n上。为什么会这样?一个因素是孩子看待新闻与成年人不同。举例来说,小孩可能会相信广播上不断播放\n的悲剧事件是真实地发生的事情。\n第二个因素是令人担忧的日常报道会歪曲孩子的世界观。确实如此,我们所居住的这个世界是一个“很\n难安定下来的批判时代”。但是令人担忧的新闻的接连报道会造成孩子产生持续性的恐惧。凯撒家庭基金\n会的观察员说:“经常看电视新闻的孩子往往会夸大犯罪的发生率,甚至可能他们对这个世界的理解要比\n实际上的要危险的多。”",
+      "score": 1
+    },
+    {
+      "id": "e2015-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A. which makes you  ____ ",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "angrier"
+        },
+        {
+          "key": "B",
+          "text": "getting"
+        },
+        {
+          "key": "C",
+          "text": "action"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】make sb. + adj. 意为“使某人变得怎么样”,空格处是宾补成分,应该填形容词,可知 A 项 angrier:\n更生气,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B. like  ____  any compensation",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "angrier"
+        },
+        {
+          "key": "B",
+          "text": "getting"
+        },
+        {
+          "key": "C",
+          "text": "action"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处是作 like 的宾语,并能引导后面的名词性词组,可知 B 动 getting:获得,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. to take any  ____ ",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "angrier"
+        },
+        {
+          "key": "B",
+          "text": "getting"
+        },
+        {
+          "key": "C",
+          "text": "action"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处受 any 修饰,同时作 take 的宾语,可知 C 项 action:行动,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p7",
+      "seq": 59,
+      "stem": "（第 59 空）…o the shop assistant and tell them your problem. They say they cannot help you,  ____  to the point perhaps where you start insulting the poor shop assistant. This will do yo…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "angrier"
+        },
+        {
+          "key": "B",
+          "text": "getting"
+        },
+        {
+          "key": "C",
+          "text": "action"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前面是一个完整的句子并以逗号结尾,可知空缺处或是非限制性定语从句或补充说\n明,可以排除选项 C,再结合句意,因此选 A 项“这让你更生气”,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…where you start insulting the poor shop assistant. This will do you no favours,  ____  , or even your money back. If you go directly to the first person you see, you may be w…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "angrier"
+        },
+        {
+          "key": "B",
+          "text": "getting"
+        },
+        {
+          "key": "C",
+          "text": "action"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前后的逗号,且要与后面的 or 引导的名词性词组相呼应,因此选 B 项“比如获得任\n何的赔偿”,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…the first person you see, you may be wasting your time as they may be powerless  ____  . So the important lesson to be learnt is to make sure firstly that you are speaking to…",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "angrier"
+        },
+        {
+          "key": "B",
+          "text": "getting"
+        },
+        {
+          "key": "C",
+          "text": "action"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据前半句所述,你会觉得你在浪费时间,由 as 连词可知此处是指原因,be powerless to do... 意为“无力做......”, take any action 意为“采取任何行动”,符合原文。\n12\n【参考译文】\n有这么一个情况:你在一家商店买了一件有瑕疵的商品,然后拿回去投诉。你直接找了店员,并把你\n的问题告诉他们。他们说他们无法帮到你,这让你更生气,对此你或许会辱骂那个令人不快的店员。这么\n做对你毫无益处,比如获得任何的赔偿,或者拿回你的钱。如果你直接去找你第一个看见的人,你可能在\n浪费时间,因为他们可能对此无能为力。因此,从这次教训中应当学会,首先要确保你所谈话的对象是相\n关的人员,是一个能有决策权的人。\nText Two\n【短文大意】本文主要论述了快乐是可以传染的。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A. 20%  ____  to feel happy",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处为 be likely to do sth. ,意为“有可能做某事”,选项 D,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B.  ____  the physical distance between friends",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据上下文,此处应为对快乐可以相互影响的进一步解释,故可以推断出这里是表述快乐相\n互影响的范围,此处应为“the + 比较级,the + 比较级”,意为“越......,越......”,因此选 A 项 the smaller:更小,\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C. but not  ____  happiness",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处是修饰 happiness 的定语成分,结合选项,只有 B 项 as much as:和…一样多,符合题\n意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 65,
+      "stem": "（第 65 空）D. lasted for  ____ ",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】结合句意,此处指的是持续的时间长达一年,因此选 C 项 up to a year:多达一年,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…hat friends of happy people had a greater chance of being happy themselves. And  ____  , the larger the effect they had on each other's happiness. For example, a person was 6…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处应该和后半句 the larger the effect ,为 the more…, the more…句子结构,可知 B 项“朋友\n之间的具体距离越短”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…larger the effect they had on each other's happiness. For example, a person was  ____  if a friend living within one and a half kilometers was also happy. Having a happy neig…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处是 be 动词引导的表语成分,a person was...和 likely to do sth 搭配,意为“人有可能做什\n么事”,可知 A 项“有 20%的可能性感到快乐”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 68,
+      "stem": "（第 68 空）…an individual’s chance of being happy by 34%. The effects of friends' happiness  ____  . The researcher found that happiness really is contagious (传染的).Sadness also spread am…",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处缺少动宾成分,结合选项和句意(朋友的快乐对你的影响),只有 D 项“持续长达一年” 符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p8",
+      "seq": 69,
+      "stem": "（第 69 空）…nd that happiness really is contagious (传染的).Sadness also spread among friends,  ____  .",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "the smaller"
+        },
+        {
+          "key": "B",
+          "text": "as much as"
+        },
+        {
+          "key": "C",
+          "text": "up to a year"
+        },
+        {
+          "key": "D",
+          "text": "more likely"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据前半句的所述,伤感也是可以传染的,且空格前是逗号,可知空格处是一个独立成分,\n结合选项,只有 C 项“但没有快乐的影响大”符合题意。\n【参考译文】\n新的研究发现:作为快乐人的朋友有更多的机会让自己快乐。而且朋友之间的具体距离越短,他们之\n间快乐情绪的影响就越大。比如,你有一个朋友,居住在离你 1.5 公里内的地方,如果这个朋友也是快乐\n的,那么你就有 20%的可能性感到快乐。如果居住在你隔壁的邻居是一个快乐的人,这就有 34%的几率会\n让你感到快乐。朋友的快乐对你的影响能持续长达一年。研究人员发现,快乐是真的可以传染的。伤感也\n是可以传染的,但没有快乐的影响大。\nText Three\n【短文大意】本文是讲述了如何控制即兴购买。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p9",
+      "seq": 70,
+      "stem": "（第 70 空）A. remember past impulse purchases that you  ____ ",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "later regretted"
+        },
+        {
+          "key": "B",
+          "text": "spending"
+        },
+        {
+          "key": "C",
+          "text": "tend to"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处缺少谓语,结合时态和语义,只有 A 项“之后后悔”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p9",
+      "seq": 71,
+      "stem": "（第 71 空）B. you may  ____  purchase on impulse",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "later regretted"
+        },
+        {
+          "key": "B",
+          "text": "spending"
+        },
+        {
+          "key": "C",
+          "text": "tend to"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处缺少谓语,且位于情态动词 may 后,因此要用动词原型,结合选项,只有 C 项“往往” 符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p9",
+      "seq": 72,
+      "stem": "（第 72 空）C. keep  ____  under control",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "later regretted"
+        },
+        {
+          "key": "B",
+          "text": "spending"
+        },
+        {
+          "key": "C",
+          "text": "tend to"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "13\n【解析】空格处是作 keep 的宾语,keep doing sth. 意为“持续做某事”,只有 B 项 spending:花费,符合\n题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…its can contribute to excessive spending. Here are some suggestions to help you  ____  . First, resist your impulse buying. Do you enjoy the excitement of shopping and findin…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "later regretted"
+        },
+        {
+          "key": "B",
+          "text": "spending"
+        },
+        {
+          "key": "C",
+          "text": "tend to"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处考查的结构是 help sb. do sth.,首先排除 B 项,再结合语义:有几点建议能帮助你控制好\n消费,因此只有 C 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…ying. Do you enjoy the excitement of shopping and finding a bargain? If so,  10  ____  . To resist, slow down and think realistically about the long-term consequences of buyi…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "later regretted"
+        },
+        {
+          "key": "B",
+          "text": "spending"
+        },
+        {
+          "key": "C",
+          "text": "tend to"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处缺少一个完整的句子,结合选项,只有 B 项“你可能往往会即兴购买”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2015-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…ences of buying, owning, and maintaining what you are planning to buy. Stop and  ____  . Give yourself a “cool down” period before making your final decision. Paper Two(试卷二)…",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "later regretted"
+        },
+        {
+          "key": "B",
+          "text": "spending"
+        },
+        {
+          "key": "C",
+          "text": "tend to"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据并列连词 and 前面的成分可知,空格处动宾成分,结合语义,只有 A 项“记住过去的即\n兴购买往往过后就让你后悔”符合题意。\n【参考译文】\n除了我们面临来自市场的外部压力外,我们自身的情感和习惯也会促成过度消费。这里有几点建议能\n帮助你控制好消费。首先,抵制即兴购买欲望。你喜欢购物的兴奋和寻找便宜货吗?如果是这样的话,你\n可能往往会即兴购买,对此,你要抵制和减缓这种行为。要实际性地考虑购买、拥有和维持你计划去购买\n的长期性结果。停止并要记住过去的即兴购买往往过后就让你后悔。因此,在做最后决定时,给自己一段\n“冷静”的时期。",
+      "score": 1
+    },
+    {
+      "id": "e2015-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nShould work be placed among the cases of happiness or be regarded as a burden? Much work is exceedingly\ntiresome, and an excess of work causes stress and even disease. I think, however, that, provided work is not\nexcessive in amount, even boring work is less harmful than idleness. We sometimes feel a little relief from work;\nat other tomes work gives us delight. These feeling arise according to the type of work we are doing and our\nability to do that work. Work fills many hours of the day and removes the need to decide what one should do.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "工作究竟应该视为幸福之源,还是不幸之因?大量的工作令人极其厌烦,超负荷的工作总是给人造成\n巨大压力,甚而积劳成疾。但我认为,只要工作不过量,即便是乏味的工作也比无所事事对身体健康有益。\n有时我们从工作中获得慰藉;有时工作给我们带来快乐。这些感觉的产生取决于我们所从事工作的类型以\n及我们自身的工作能力。工作占去了我们一天当中大部分的时间,也不允许我们决定应该做什么。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2015-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a composition in no less than 150 words on the topic: How can we contribute to the\nenvironmental protection? You should write according to the outline given below. Write your composition on the\nAnswer Sheet.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "How can we contribute to the environmental protection?\nNowadays it has to be admitted that the whole society is faced with serious environmental problems. Such as\nair pollution (haze), water pollution, food pollution, all these pollution has brought us so many bad influences. The\nearth is our home and we have the duty to protect environment. To take care of our environment for ourselves and for our later generations, a series of effective measures\nshould be promptly taken. Our government should not only lay down clear regulations and rules and request\nrelative industries to observe strictly, but also make more people aware of the nation-wide issue, to save energy\nand reduce carbon emission. For each individual, we should do our utmost to protect our environment. The first one is that we can lead a\nlow-carbon life, like green travel to cut the emission of carbon. Low-carbon living is the right way to making\ndaily life greener and healthier. What’s more, we should try every means to limit, even to ban the use of plastic\nbags. Only in this way can we hope to make our earth cleaner and more suitable for living.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

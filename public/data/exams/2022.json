@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2022 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2022-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Does your mouth water when you think of biscuits, cakes and French fries? Many people prefer junk\nfood like these to healthy food because they develop a taste for it. Processed, baked, and fried foods often\ncontain a high amount of trans fats. Trans fats raise bad cholesterol(胆固醇)and lower the good cholesterol that your body needs. Fatty\nfoods do more than cause obesity. Trans fats build up in the body and block blood flow to the heart. People\nwhose diet contains a high percentage of trans fats are at risk of developing heart disease or having a stroke. Food companies and restaurants choose to use trans fat oils because they’re cheap and make food last\nlonger. They also improve the taste and texture of food. Trans fats became very popular in the second half of\nthe 20th century. This is around the time when butter got a bad name for its cholesterol levels. People were\ntold to use margarine(人造黄油)containing trans fats instead because it was “healthier”, but we now know\nthat butter is actually the healthier option. Today doctors know how dangerous processed foods like margarine can be. In countries such as the US\nand Canada there are new government restrictions on food production. Food and beverage makers must attach\na Nutrition Fact label to their products. These list daily recommendations and detail of all the ingredients in a\nproduct, trans fats if they’re used. In 2007 New York City banned trans fats from all restaurants. Even fast\nfood chains such as McDonald’s are being forced to change their recipes as people become more\nhealth-conscious. In Europe, food manufacturers have started using labels that clearly show how healthy each\nproduct is according to a simple rating system. We all need some fat in our diet. There are three different types of fats: saturated fats, unsaturated fats and\ntrans fats. Doctors recommend that we get most of our fatty calories from unsaturated fats. Neither butter nor\nmargarine fit this category, though other spreads like peanut butter do. Reading the list of ingredients on the\nlabel is a good way of avoiding dangerous ingredients like trans fats. Another way is to avoid eating out, especially in fast food restaurants. Also, when shopping, try to buy the majority of your food in the fresh food\n4\nsection and limit the amount of processed and packaged food you buy. You might not think this is important if\nyou're young, but the choices you make now will affect you for the rest of your life. The healthier your diet is\nnow, the longer and healthier your life will be."
+    },
+    {
+      "id": "e2022-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "When you’re a teenager with little life experience, it’s easy to build your entire life around what other\npeople think. It can feel normal to let your friends’ idea of what’s cool dictate (支配) the clothes you wear, how you behave yourself, and even the music you like. While this pressure is sometimes internal, teenagers are known for making each other feel ashamed if\nthey don’t conform to social norms. And as we all know, young adults can be absolutely brutal in how they\ntreat each other - not only those who are different, but even those who try really hard to fit in. Sadly, adulthood isn’t always a whole lot better in this respect. Not only will you experience pressure to\nlook your best but you’ll be forced to either keep up with - or ignore - the Joneses all throughout adulthood. That’s right. Even adulthood has its groups of cool kids, rich kids, outsiders, and rebels. And sometimes, the\nway someone else spends their money can make you feel like you should be doing the same thing, too. After\nall, most people still want to fit in; it doesn’t matter whether they’re 15 or 50. But, should you give in to peer pressure and waste your hard-earned dollars? If you truly want to get\nahead financially – and build a successful, impressive life – the answer should be a resounding “no”. The\nopportunities to spend money as an adult are nearly limitless, but they will drain your bank account if you\ngive in every time. And at the end of the day keeping up with your friends as an adult is just as pointless as it\nwas in high school.\n5\nAdulthood is a journey, not a race. Those who collect the most material possessions don’t earn a prize - no ribbon, no trophy, nothing. So, why does it feel like we need to compete? I’ll tell you why: Because every\ncommercial on television online, and the radio is aimed at getting us to spend our money. Every ad campaign\non Earth was created to convince us that what we have is not enough, and that we need this item or that\nservice - and that we’re depriving (使丧失) ourselves or our families if we don’t buy it. Don’t believe the hype (大肆宣传). You have nothing to prove and you’ll be a lot better off if you ignore\nthe commercials, your friends, and do what is best for you."
+    },
+    {
+      "id": "e2022-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Psychology studies reveal that most people taking exercise will choose their preferred sport based on\ntheir personality. If someone is introverted (内向的), patient or calm, they will be most likely choose tennis, golf, or a sport where they can practice and play on their own. By contrast, those individuals who are\noutspoken, competitive or aggressive will prefer contact sports or team sports. Since a very early age, children are often seen experimenting with different types of sports - soccer, basketball, baseball, swimming, tennis, etc. - until they decide to keep practicing the sport at which they are\nmore skillful and with which they feel more comfortable. They have the character and motivation to train, practice, and even compete in this sport. Here there is a direct relationship between the individual personality\nand the nature of the sport of their choosing. Interestingly, participating in a specific type of sport might also have some influence on an individual's\npersonality. For example, we have recently seen a dramatic increase in obesity among children, teenagers, and\nadults in the us. This might be caused by a vast array of personal, professional, cultural or even health\nproblems or conditions. However, it is up to the individual to choose a much healthier regime and therefore, embark on developing a series of new personality traits, which will help him or her lose weight and become a\n6\nhealthier individual. A few decades ago, a sixty-year-old individual might have been considered a very old, fragile, and even a\nsick person with just a few more years to live a somewhat good, conservative life. Nowadays we have seen a\ndramatic change in this perception. More than ever, we are looking at healthier, stronger, and very motivated\nsixty, seventy, and even eighty-year-old individuals. No doubt sports have helped shape this new personality\nand approach adopted by the senior population. Exercise and sports most certainly bring a new meaning to\ntheir lives, particularly because they live and experience the benefits of exercising on a daily basis. Therefore\ntheir personalities and psychological state are most likely completely different from that sixty-year-old senior\nstereotype a few decades ago."
+    },
+    {
+      "id": "e2022-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "It is hard to imagine humans spending their lives in virtual reality (VR) when the experience amounts to\nwaving your arms about in the middle of the lounge with a device strapped to your face. But this is where\nhumanity is heading. Chalmers, an Australian professor of philosophy and neural science at New York University, makes the\ncase to embrace VR in his new book, Reality+. Renowned for explaining “the hard problem” of consciousness, Chalmers sees technology reaching the point where virtual and physical are sensorily the same and people live\ngood lives in VR. In the decades ahead Chalmers suspects we will replace the clumsy headsets with brain-computer\ninterfaces, or BCIs, that allow us to experience virtual worlds with our full suite of senses. With advances in\n7\ncomputing - in the next century, perhaps - those worlds would seem as real as the physical world around us. “A common way of thinking about virtual realities is that they’re somehow fake abilities. I think that’s\nwrong,” he explained. “The virtual worlds we’re interacting with can be as real as our ordinary physical\nworld.”On the point of philosophy, Chalmers argues that even today's virtual worlds are real. A conversation in\nVR is a real conversation. The objects in the virtual world too, just made of bits instead of electrons. “Most of\nthe factors that make life meaningful are going to be there in virtual worlds,\" he says. But there are plenty of risks to be cautious of, he notes. As fulfilling as virtual worlds may become, people will need real food, drink and exercise, and perhaps even the glimpse of daylight, to keep their bodies\nfrom fading away. The risks may be trivial for decades yet but a gradual trend towards virtual living could\neventually raise new health issues. These are not the only health hazards. Some people have raised serious\nconcerns about the risk of psychological damage: if we are better looking and have better clothes and a nicer\nhome in the meta verse (元宇宙),how we feel when we leave?\nThe lure of VR might also cause neglect on a global scale, Chalmers concedes. Would climate change\nand other crises facing the physical world lose their urgency? That would be a disaster, he says: \"Physical\nreality is really important. We've got to keep a grounding in it and treat it well.\""
+    },
+    {
+      "id": "e2022-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "comments are followed by questions or unfinished statements each with four choices A, B, C and D. Choose\n8\nthe best answer and mark your answer on the Answer Sheet. Like a lot of people, for many years I said yes to things I didn't want to do. This was a combination of\nconditioning - vague fear of missing out and basic conflict avoidance. It seemed to me there was no easy way\nto turn things down without causing offence. All we had, growing up, was the saying “Just say no” - a slogan\nso useless that it became a universally recognized and decades - long joke. A lot has changed since then. In the past 10 years. a language has developed, mainly from social justice\nand feminist movements, to describe the states of discomfort and the right we have to resist them. My favourite, and by far the most useful, of the new phrase is: \"I’m not comfortable with that.” It can get\nyou out of almost anything. My other favourite word is “boundaries.” One can ditch disagreeable people these\ndays via use of the word “boundaries” while escaping any feelings of guilt. Another one, “emotional labour”, was coined in the 1980s to describe service industry jobs that required the faking of a cheerful behavior to\nsatisfy customers. This involves suppressing emotions, such as anger or sadness, which is bound to take a toll\non you and could even lead to burnout. It doesn't mean that now. You can bolt that phrase on to almost any\nsituation, conversation or obligation you'd rather not be involved in. Being able to politely back out of something without tying yourself in knots is useful, particularly for\nwomen socialized to comply (遵从). Comment 1:\nSaying “yes” to everything is a trait in most women. For me it is a sign of female maturity to learn to say\nno. Comment 2:\nFor a longtime now, I have used a polite “no\" when being asked the to do things I don't want to. Comment 3 :\nMore to do with age than anything else. Men suffer it too, saying yes too much. You do wise up as you\nget older. Comment 4:\nAll life involving other people is a compromise. You can pleasantly use the expression \"I'm not\ncomfortable with that \"in solitude but among others, who have their own desires, needs and conviction, it\nbecomes a self-detesting exercise. Comment5:\nWhat a lot of men still seem unable to understand is that women are taught from a very young age to be\ncarers, while men are largish(邵老师这是 larish) to prioritize themselves."
+    },
+    {
+      "id": "e2022-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "54 centimeters in just half a century! And scientists now say that many parts of London will be at serious risk\n48 flooding by the sea within 50 years. It's not all of London that is in danger; just some parts to the east of the city. And they won't be under\nwater 49 ; just when there are very high tides. The low-lying suburbs beside the Thames in the East End of London are already 50 from high\ntides by a massive barrier that stretches right across the river; but 51 defenses will be needed along the\nbanks of the Thames to protect a larger area to the north of the river and further east. And no-one really knows\nif the existing Thames Barrier will still be enough to protect London, even in 2050. Of course, there have always been 52 very high tides. A thousand years ago, there were big\nfloods around London; and in 1953, before the Thames Barrier was built, over 300 people lost their lives in\n\"the big flood\"; but today the dangers are bigger. There are more 53 , more roads, more infrastructure. In\nthe past, people did not build in places where there was a risk of flooding. Today, in southeast England, land is\nso expensive, that people build everywhere even in places that are liable to be flooded. Scientists also say that climate change will 54 warmer and drier summers in the south east of\nEngland. At that time, several species of native 55 will not be able to survive. Wet in winter, hot in\nsummer: will that be London in fifty years’ time?"
+    },
+    {
+      "id": "e2022-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. over-exploited\nB. consume\nC. multidisciplinary\nPhrases:\nA. It needs an international 56 cooperation. B. Cattle 57 the plant and turn it into protein. C. In the 20th century men greedily 58 natural resources, threatening the ecological balance. A plant expects its seeds to be carried to a ground faraway by monkeys birds or insects that come to eat\n\nits fruit. 59 Then men eat the meat of the cattle and vegetables. The relationship among all those on\nearth is coexistence, mutual reliance, and they all share air, water and other common resources. 60 As a\nresult humans suffered from their own mindless behaviors. Analyses of environmental dangers usually go\nbeyond the traditional boundaries of scientific disciplines. 61 It needs specialists to investigate and\ncome up with solutions of protection."
+    },
+    {
+      "id": "e2022-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. tie\nB. known\nC. played\nPhrases:\nA. best 62 for his nine symphonies\nB. is still 63 daily around the world\nC. 64 the whole piece together\n\nLudwig van Beethoven was born over 250 years ago, yet his music 65 . Even people who think\nthey've never heard Beethoven's music probably have. His melodies are often used in movies, TV shows, and\neven cartoons. Beethoven wrote many famous pieces of music but he's probably 66 . A symphony is a\nlong, complicated piece of classical music, usually divided into four parts. The four parts are often linked by\n“themes”-repeated musical ideas that 67 . When Beethoven died in 1827, he had some ideas for a 10th\nSymphony, but never finished it."
+    },
+    {
+      "id": "e2022-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. improve\nB. useful\nC. happen\nD. predict\nPhrases:\nA. are most likely to 68\nB. will be 69 to fire fighters\nC. was to use Al to 70 where forest fires might happen\nD. has made \"extraordinary efforts\" to 71 life\n\nThe Children's Climate Prize was started by a Swedish company. It's been given every year to a person\nbetween 12 and 17 who 72 on the planet for children now and in the future. This years winner was\n15-year-old Reshma Kosaraju. Her idea 73 . To build her deep learning model, she used weather\ninformation like temperature, humidity, wind speed, and how dry the soil is. She also looked at human\nbehavior. Her model can predict where and when forest fires 74 and it's right about 90% of the time. Reshma hopes to tum her program into an app that 75 . She also hopes it will help people who live in\nareas where forest fires are likely.\n\n11\nPaperTwo(试卷二) (50 minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2022-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Attendant: This is the Bell Captain’s Desk.  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "May I help you?"
+        },
+        {
+          "key": "B",
+          "text": "We’ll send a bellman immediately."
+        },
+        {
+          "key": "C",
+          "text": "Could you pick up my luggage please?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】从对话者身份得知,对话双方分别 Attendant(酒店服务员)和 Guest(客人)。对话\n的开始应该是服务员询问客人是否需要帮助,A 项“May I help you?”是服务人员对顾\n客打招呼的典型用语,因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Guest: I’m going to check out soon.  ____ ",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "May I help you?"
+        },
+        {
+          "key": "B",
+          "text": "We’ll send a bellman immediately."
+        },
+        {
+          "key": "C",
+          "text": "Could you pick up my luggage please?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格下文的回答,certainly 是对一般疑问句的肯定回答,因此空格处应该选择一般疑\n问句。另外根据语境,客人说马上退房,接下来请求服务员帮忙搬运行李,符合题意,因此选择 C\n项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Guest: Yes, It’s 605. Attendant: Room 605.  ____  Could you wait in your room, please?",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "May I help you?"
+        },
+        {
+          "key": "B",
+          "text": "We’ll send a bellman immediately."
+        },
+        {
+          "key": "C",
+          "text": "Could you pick up my luggage please?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据语境,上文中服务人员询问了顾客的房间号,空格下一句问顾客能否在房间等一下,\n因此空格处应该填“我们马上派人过去”,因此选择 B 项。\n【参考译文】\n服务员:这里是服务台,有什么能为您做的吗?\n客人:我马上要结账,请来帮我拿一下行李好吗?\n服务员:好的,先生。可以告诉我您的房间号码吗?\n客人:好的,605 号房。\n服务员:605 号房,我们马上派人过去,请您在房间等候。\n客人:好的,谢谢您!\n服务员:不客气!\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2022-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Dave: Hi Maria. I was in the neighborhood, so I thought I’d drop by. Maria:Come in. Have a seat. Would you like something to drink? I have Sprite and orange juice. Dave :Sprite would be fine. Uh, so,  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "What’s your major anyway?"
+        },
+        {
+          "key": "B",
+          "text": "Well, what do you want to do after graduation?"
+        },
+        {
+          "key": "C",
+          "text": "how have you been?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前为逗号,因此只能选择首字母为小写字母的选项,C 项符合。另外,根据语境空格\n下一句回答是“还不错,你呢?”推断空格处应该是对近况的提问,“你过得怎么样?”语意也符\n合,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Dave: Oh, I’m doing OK, but school has been really hectic these days, and I haven't had time to relax. Maria:  ____ ",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "What’s your major anyway?"
+        },
+        {
+          "key": "B",
+          "text": "Well, what do you want to do after graduation?"
+        },
+        {
+          "key": "C",
+          "text": "how have you been?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格下一句的回答是“酒店管理”,这是一个专业,“你的专业是什么?”符合题意,因此\n选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）Dave: Hotel management. Maria:  ____ ",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "What’s your major anyway?"
+        },
+        {
+          "key": "B",
+          "text": "Well, what do you want to do after graduation?"
+        },
+        {
+          "key": "C",
+          "text": "how have you been?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格下文的回复,可知 Dave 还没决定毕业后去向,只是说了一个打算,由此可知空\n格的提问应该是询问毕业后的就业打算,“毕业后想做什么?”符合题意,因此选择 B 项。\n【参考译文】\n玛丽亚:你好,戴夫。好久不见。\n戴夫:你好,玛丽亚。我刚刚就在附近,所以就想过来看看。\n玛丽亚:请进,随便坐。想要来点喝的吗?有雪碧和橙汁。\n戴夫:雪碧就好。你最近怎么样?\n2\n玛丽亚:还不错,你呢?\n戴夫:我还好,但是这几天学校太忙了,都没有时间放松休息。\n玛丽亚:你学的什么专业?\n戴夫:酒店管理。\n玛丽亚:那你打算毕业后做什么了吗?\n戴夫:嗯…... 我还没有确定,但我想在这个地区的旅馆或旅行社工作。你呢?\n玛丽亚:嗯,我刚上大学时,我想学法语,但后来我意识到我可能很难找工作,所以我改学了计算\n机科学。有了合适的技能,在计算机行业找到一份工作应该不难。\n戴夫:那么,你有兼职工作来养活自己完成学业吗?\n玛丽亚:幸运的是,我获得了四年的学术奖学金,支付了我所有的学费和书本费。\n戴夫:哇,太棒了!\n玛丽亚:是的。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Man: Okay, Mr.Taylor, let’s go ahead and begin.  ____ ",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "And how about website authoring skills?"
+        },
+        {
+          "key": "B",
+          "text": "I’m afraid I’ve never used those CGI things."
+        },
+        {
+          "key": "C",
+          "text": "I play them every day!"
+        },
+        {
+          "key": "D",
+          "text": "First of all, tell me about your last job."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格下一句可知,这是面试场景,Mr.Taylor 介绍了自己的工作经历,因此空格处应该\n为询问上一份工作经历,“首先,说说你上一份工作吧”,符合题意,另外选项中“首先”也表明是\n对话开始,因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）Mr. Taylor: Umm... well... I did come in contact with computers every night at my last job. Man: Hum!  ____  We are looking for someone to create and manage our company’s website which",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "And how about website authoring skills?"
+        },
+        {
+          "key": "B",
+          "text": "I’m afraid I’ve never used those CGI things."
+        },
+        {
+          "key": "C",
+          "text": "I play them every day!"
+        },
+        {
+          "key": "D",
+          "text": "First of all, tell me about your last job."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格后面内容是面试人员陈述招聘人员应该要有的能力——建立并管理网站,因此空格处\n应该询问 Mr.Taylor 制作网站的能力,“那么网站创建能力怎么样?”符合题意,因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）would include the development, configuration, and use of CGI scripts. Mr. Taylor: Umm... uh, web page, web page. Huh... I don’t think I’ve read that book, and  ____ ",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "And how about website authoring skills?"
+        },
+        {
+          "key": "B",
+          "text": "I’m afraid I’ve never used those CGI things."
+        },
+        {
+          "key": "C",
+          "text": "I play them every day!"
+        },
+        {
+          "key": "D",
+          "text": "First of all, tell me about your last job."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】本句也是对上题提问的回答,本句中泰勒先生误以为 CGI (公共网关接口)脚本是一本\n书,说自己没有读过那本书,接着应该承认自己不会使用 CGI 的相关的东西。“我恐怕从来没用过\n那些 CGI 的东西。”符合题意,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）Mr. Taylor: Oh, and I really like computer games.  ____ ",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "And how about website authoring skills?"
+        },
+        {
+          "key": "B",
+          "text": "I’m afraid I’ve never used those CGI things."
+        },
+        {
+          "key": "C",
+          "text": "I play them every day!"
+        },
+        {
+          "key": "D",
+          "text": "First of all, tell me about your last job."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前一句,泰勒先生表明自己很喜欢电脑游戏,空格处应该选择“我每天都玩电脑游戏”,\n而且选项中的 them 对应复数 computer games,因此选择 C 项。\n【参考译文】\n男士:好的,泰勒先生,我们开始吧。首先,说说你上一份工作吧。\n泰勒先生:好,就像简历所写,我在嗨科技电脑公司工作了五年。\n男士:好的。嗨科技。关于计算机网络和操作系统,如 DOS 系统、Windows 系统、Macintosh OS\n系统,和 UNIX 系统,你了解多少?\n泰勒先生:嗯...... 好...... 上一份工作中我的确每晚都和电脑打交道。\n男士:那么网站创建能力怎么样?我们在找能够创建并管理网站人,包括网站迭代、布局及应用\nCGI 脚本。\n泰勒先生:嗯...... 嗯...... 网页,网页。嗯...... 我想我可能没读过那本书,我恐怕从来没用过那些\nCGI 的东西。\n男士:嗯?有使用 Java 或 JavaScript 的经验吗?\n泰勒先生:嗯……我想我曾经在一家外国咖啡店尝试过 Java,如果你是这个意思的话。\n男士:好的,泰勒先生,我想我有我需要的所有信息!\n泰勒先生:我真得很喜欢电脑游戏。我每天都打游戏。\n男士:好的,好的,谢谢你,泰勒先生,我们再联系。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "Many people are living in temporary homes after days of intense rain that caused substantial damage in the country.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "numerous"
+        },
+        {
+          "key": "B",
+          "text": "heavy"
+        },
+        {
+          "key": "C",
+          "text": "fearful"
+        },
+        {
+          "key": "D",
+          "text": "sufficient"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 substantial 大量的\nA.numerous 大量的(+可数名词) B.heavy 巨大的(+不可数名词)\nC.fearful 害怕的 D.sufficient 足够的\n【译文】几天的强降雨给该国造成了重大破坏,许多人目前住在临时住所。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "It is believed that shielding children from all kinds of obstacles in the name of love does little for their future success in life.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "removing"
+        },
+        {
+          "key": "B",
+          "text": "shadowing"
+        },
+        {
+          "key": "C",
+          "text": "sheltering"
+        },
+        {
+          "key": "D",
+          "text": "covering"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 shielding 保护\nA.removing 去除 B.shadowing 遮蔽\nC.sheltering 保护 D.covering 遮盖\n【译文】人们相信,以爱的名义保护孩子远离各种障碍,对他们未来的人生成功几乎没有什么帮\n助。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "To live every day to the full is a recipe for happiness.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "secret"
+        },
+        {
+          "key": "B",
+          "text": "menu"
+        },
+        {
+          "key": "C",
+          "text": "purpose"
+        },
+        {
+          "key": "D",
+          "text": "pursuit"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 recipe 诀窍,秘密\nA.secret 秘密 B.menu 菜单\nC.purpose 目的 D.pursuit 追求\n【译文】充实地过好每一天是幸福的秘诀。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "One reason for learning a foreign language is that it provides a lens through which to view cultural differences. 3",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "camera"
+        },
+        {
+          "key": "B",
+          "text": "pattern"
+        },
+        {
+          "key": "C",
+          "text": "concept"
+        },
+        {
+          "key": "D",
+          "text": "perspective"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 lens 透视\nA.camera 照相机 B.pattern 模式\nC.concept 概念 D.perspective 透视,视角\n【译文】学习外语的原因之一是它提供了一个观察文化差异的视角。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "The city has been virtually paralyzed by sudden snowstorms.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "nearly"
+        },
+        {
+          "key": "B",
+          "text": "quickly"
+        },
+        {
+          "key": "C",
+          "text": "undoubtedly"
+        },
+        {
+          "key": "D",
+          "text": "completely"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 virtually 意为“几乎”\nA.nearly 几乎 B.quickly 快速地\nC.undoubtedly 毫无疑问地 D.completely 完全地\n【译文】突如其来的暴风雪使这座城市几乎陷入瘫痪。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "Being late for the seminar, she found it really difficult to catch up with the subjects which had already been discussed.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "follow"
+        },
+        {
+          "key": "B",
+          "text": "discuss"
+        },
+        {
+          "key": "C",
+          "text": "support"
+        },
+        {
+          "key": "D",
+          "text": "determine"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】划线词组 catch up with 意为“赶上,追上”\nA.follow 跟上 B.discuss 讨论\nC.support 支持 D.determine 决定\n【译文】参加研讨会迟到,她发现很难跟上已经讨论过的题目。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "The Olympic Games attempt to transcend national interests and bring together best international athletes for a shared future.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "expand"
+        },
+        {
+          "key": "B",
+          "text": "exceed"
+        },
+        {
+          "key": "C",
+          "text": "regain"
+        },
+        {
+          "key": "D",
+          "text": "retain"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】划线词 transcend 意为“超出,超越”\nA.expand 扩大 B.exceed 超过\nC.regain 重新获得 D.retain 保持\n【译文】奥运会宗旨是超越国家利益,将世界上最优秀的运动员聚集在一起,实现共同的未来。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "She went along the sunny hills at a leisurely pace as there was ample time for her idle expedition.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "brief"
+        },
+        {
+          "key": "B",
+          "text": "extra"
+        },
+        {
+          "key": "C",
+          "text": "flexible"
+        },
+        {
+          "key": "D",
+          "text": "enough"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】划线词 ample 意为“充足的”\nA.brief 简短的 B.extra 额外的\nC.flexible 灵活的 D.enough 足够的\n【译文】她沿着阳光明媚的山岗悠闲地走去,因为她有充足的时间进行她的悠闲探险。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "What measures need to be taken to curb greenhouse gas emissions?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "monitor"
+        },
+        {
+          "key": "B",
+          "text": "evaluate"
+        },
+        {
+          "key": "C",
+          "text": "control"
+        },
+        {
+          "key": "D",
+          "text": "eliminate"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】划线单词 curb 意为“控制”\nA.monitor 监视 B.evaluate 评估\nC.control 控制 D.eliminate 根除\n4\n【译文】需要采取哪些措施来遏制温室气体排放?",
+      "score": 1
+    },
+    {
+      "id": "e2022-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "He has taken out a half-page advertisement in his local paper to put across his point.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "repeat"
+        },
+        {
+          "key": "B",
+          "text": "prove"
+        },
+        {
+          "key": "C",
+          "text": "stress"
+        },
+        {
+          "key": "D",
+          "text": "explain"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】划线词组 put across (sth) 意为“解释”\nA.repeat 重复 B.prove 证明\nC.stress 强调 D.explain 解释\n【译文】他在当地报纸上刊登了半页的广告来阐明他的观点。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q21",
+      "sectionType": "reading",
+      "passageId": "e2022-p1",
+      "seq": 21,
+      "stem": "Trans fats may do the following to the body EXCEPT .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "putting on weight."
+        },
+        {
+          "key": "B",
+          "text": "raising good cholesterol."
+        },
+        {
+          "key": "C",
+          "text": "causing heart attack."
+        },
+        {
+          "key": "D",
+          "text": "blocking blood vessels."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问哪项不是反式脂肪对人体造成的影响。定位第二段第一句“反式脂肪能提高有害\n胆固醇水平,并降低身体所需的有益胆固醇水平”,B 项“提高有益胆固醇水平”与原文语意不符。\n而且,在第二段也提到反式脂肪对人体的其他影响:“导致肥胖”对应 A 项“增加体重”,“引发心\n脏病”对应 C 项,“阻止血液流向心脏”对应 D 项“堵塞血管”,均与题意不符。因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q22",
+      "sectionType": "reading",
+      "passageId": "e2022-p1",
+      "seq": 22,
+      "stem": "Butter was once not popular because people believed .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "it wasn’t worth the price"
+        },
+        {
+          "key": "B",
+          "text": "it didn’t make food last long"
+        },
+        {
+          "key": "C",
+          "text": "it had high cholesterol level"
+        },
+        {
+          "key": "D",
+          "text": "it affected the taste of food"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问黄油一度不流行的原因。定位第三段第三句“大约在那个时候,黄油因为它的胆\n固醇水平而声名狼藉”,表明黄油不受欢迎,是人们认为黄油胆固醇高,C 项符合题意。A 项“黄\n油不值那个价”,B 项“黄油不能让食物保存很久”,D 项“黄油影响事物风味”均不符合原文。因\n此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q23",
+      "sectionType": "reading",
+      "passageId": "e2022-p1",
+      "seq": 23,
+      "stem": "It is not likely to see food with trans fats at restaurants in .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "America"
+        },
+        {
+          "key": "B",
+          "text": "Canada"
+        },
+        {
+          "key": "C",
+          "text": "Europe"
+        },
+        {
+          "key": "D",
+          "text": "New York City"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问哪儿的餐馆的食物不可能有反式脂肪。定位第四段 In 2007 New York City banned\ntrans fats from all restaurants,本句表明纽约市禁止餐馆提供含有反式脂肪的食物,因此不会在纽约\n市出现。本段落提到“美国”、“加拿大”及“欧洲”采取了措施,但并未禁止。因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q24",
+      "sectionType": "reading",
+      "passageId": "e2022-p1",
+      "seq": 24,
+      "stem": "To cater to health-conscious customers European food manufacturers .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "recommend daily intake of nutrients"
+        },
+        {
+          "key": "B",
+          "text": "have abandoned the use of trans fat oils"
+        },
+        {
+          "key": "C",
+          "text": "rate the nutrition level of each product"
+        },
+        {
+          "key": "D",
+          "text": "have adjusted the ingredients in the food"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问为迎合关注健康的顾客,欧洲食品制造商采取了什么措施。定位于第四段最后一\n句“在欧洲,食品制造商已经开始使用标签,根据简单的评级系统,清楚地显示每种产品的健康\n程度。”C 项“对每种产品的营养进行分级”符合题意。A 项“推荐每日营养摄入量”,B 项“放弃\n使用反式脂肪食用油”,D 项“调整食品成分”均不符原文。因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q25",
+      "sectionType": "reading",
+      "passageId": "e2022-p1",
+      "seq": 25,
+      "stem": "To eat healthily people are advised to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "pay attention to the ingredients"
+        },
+        {
+          "key": "B",
+          "text": "avoid foods containing fats"
+        },
+        {
+          "key": "C",
+          "text": "buy processed and packaged food"
+        },
+        {
+          "key": "D",
+          "text": "choose margarine instead of butter"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问为了吃得健康,人们应该怎么做。定位与最后一段 Reading the list of ingredients on\nthe label is a good way of avoiding dangerous ingredients like trans fats,本句表明阅读成分标签是避免\n摄入有害成分的好方法,A 项“注意成分”符合题意。最后一段第一句“我们饮食中都需要一些脂\n肪”,B 项“避免摄入含脂肪食物”不符,文章首段最后一句提到加工的食物含有大量有害的反式\n脂肪,C 项“购买加工和包装食物”不符,第三段最后一句表明黄油要比人造黄油健康,D 项“选\n择人造黄油而不是黄油”不符,因此选择 A 项。\n【参考译文】\n当你想到饼干、蛋糕和薯条时,你会流口水吗? 比起健康食品,许多人更爱吃这些垃圾食品,因\n为他们养成了吃垃圾食品的喜好。加工、烘焙和油炸食品通常含有大量的反式脂肪。\n反式脂肪增加有害胆固醇,降低身体所需的有益胆固醇。高脂肪食物不仅仅会导致肥胖。反式脂\n肪在体内积聚,阻碍血液流向心脏。饮食中含有高比例反式脂肪的人有患心脏病或中风的风险。\n食品公司和餐馆选择使用反式脂肪油,因为价格便宜,且使食物保存更久,还能改善食物的味道\n和口感。反式脂肪在 20 世纪下半叶风靡一时。大约在这个时候,黄油因为其胆固醇水平而声名狼藉。\n人们被告知要使用含有反式脂肪的人造黄油,因为它“更健康”,但我们现在知道黄油实际上是更健康\n的选择。\n5\n如今,医生知道像人造黄油等加工食品的危害。在美国和加拿大等国家,政府对食品生产有新的\n限制。食品和饮料制造商必须在产品上贴上营养成分标签。这些清单列出了每天的推荐摄入量,并详\n细列出了产品中所有的成分,使用了反式脂肪也要注明。2007 年,纽约市禁止所有餐馆使用反式脂肪。\n随着人们越来越注重健康,就连麦当劳这样的快餐连锁店也被迫改变食谱。在欧洲,食品制造商已经\n开始使用标签,根据简单的评级系统,清楚地显示每种产品的健康程度。\n我们的饮食中都需要一些脂肪。有三种不同类型的脂肪:饱和脂肪、不饱和脂肪和反式脂肪。医生\n建议我们从不饱和脂肪中获取大部分脂肪热量。尽管花生酱等其他涂抹物属于不饱和脂肪,但黄油和\n人造黄油都不属于这一类。阅读标签上的成分表是避免食用反式脂肪等危险成分的好方法。另一种方\n法是避免外出就餐,尤其是避免去快餐店。此外,在购物时,尽量在生鲜食品区购买大部分食物,并\n尽量不买加工食品和包装食品。如果你还年轻,你可能认为这并不重要,但你现在所做的选择将影响\n你的余生。你现在的饮食越健康,你的寿命就会越长、越健康。\nPassage Two",
+      "score": 1
+    },
+    {
+      "id": "e2022-q26",
+      "sectionType": "reading",
+      "passageId": "e2022-p2",
+      "seq": 26,
+      "stem": "what does the author say about teenagers?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They try to gain more life experience."
+        },
+        {
+          "key": "B",
+          "text": "They are easily influenced by others."
+        },
+        {
+          "key": "C",
+          "text": "They prefer to live their own way."
+        },
+        {
+          "key": "D",
+          "text": "They show others that they’re mature."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目哪项是作者对于青少年的看法。定位第一段,第一句讲述缺乏经验的青少年会根据\n别人的想法构建自己的生活,第二句列举了具体的实例:穿着、行为举止甚至是喜欢的音乐都会\n受到朋友的影响,B 项“他们很容易受到别人的影响”符合题意。A 项“他们努力获得更多的生活\n经验”,C 项“他们更喜欢活出自己的方式”,D 项“他们向别人展示出自己很成熟”,均不符原文。\n因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q27",
+      "sectionType": "reading",
+      "passageId": "e2022-p2",
+      "seq": 27,
+      "stem": "How may young adults treat each other, according to the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They may support each other in the face of challenges."
+        },
+        {
+          "key": "B",
+          "text": "They may ignore those who don’t join their groups"
+        },
+        {
+          "key": "C",
+          "text": "They may fight with each other for opportunities."
+        },
+        {
+          "key": "D",
+          "text": "They may be cruel to those who are different."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问根据文章,年轻人会如何对待彼此。定位第二段最后一句,通读可知,年轻人可\n以很残忍对待彼此,包括那些不同的人,甚至是那些非常想要融入的人。D 项“他们会残忍对待不\n同的人”符合题意。A 项“他们会相互支持,应对挑战”,B 项“他们会忽视想要加入他们团体的\n人”,C 项“他们会彼此争斗争取机会”,均不符原文。因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q28",
+      "sectionType": "reading",
+      "passageId": "e2022-p2",
+      "seq": 28,
+      "stem": "It is stated in the passage that most adults .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "lead a better life than before"
+        },
+        {
+          "key": "B",
+          "text": "ignore the fashion trends"
+        },
+        {
+          "key": "C",
+          "text": "still suffer from peer pressure"
+        },
+        {
+          "key": "D",
+          "text": "live in constant fear of competition"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问根据原文,大多数成年人会怎么样。定位第三段,第一句表明在这一方面,成年\n后并不会更好,接着第二句表明,成年人不仅会感受到让自己看起来最好的压力,而且被迫选择\n要么赶上与自己攀比的人,要么忽视他们,可见成年人依旧经历同辈压力,C 项符合。A 项与文章\n所说“成年后不会更好”不符,B 项“忽视潮流”,“一直生活在竞争的恐惧中”均不符原文,因此\n选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q29",
+      "sectionType": "reading",
+      "passageId": "e2022-p2",
+      "seq": 29,
+      "stem": "Why do adults compete for more material possessions?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Spending money brings them pleasure."
+        },
+        {
+          "key": "B",
+          "text": "Material wealth reflects their social status."
+        },
+        {
+          "key": "C",
+          "text": "Commercials encourage their consumption."
+        },
+        {
+          "key": "D",
+          "text": "Competition brings out the best in them."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问为什么成年人会争夺更多的物质财富。定位倒数第二段 Because every commercial on\ntelevision online and the radio is aimed at getting us to spend our money,表明是广告让我们去花钱,\n而且后面接着说如果不消费,就是剥夺了自己和家人的权利,因此 C 项“广告鼓励他们消费”符\n合题意。A 项“花钱能给他们带来快乐”,B 项“物质财富反映了社会地位”,D 项“竞争使他们发\n挥出最好的一面”均不符合,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q30",
+      "sectionType": "reading",
+      "passageId": "e2022-p2",
+      "seq": 30,
+      "stem": "What is the author’s attitude towards commercials?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Negative"
+        },
+        {
+          "key": "B",
+          "text": "Positive"
+        },
+        {
+          "key": "C",
+          "text": "Neutral"
+        },
+        {
+          "key": "D",
+          "text": "Objective"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问作者对于这些广告的态度是什么。文章最后一段第一句说“Don’t believe the hype”\n即“不要相信炒作”意在呼吁人们不要轻信广告,不要轻易受周围的影响,由此可见,作者对广\n告的态度是“消极的”,B 项“积极的”,C 项“中立的”,D“客观的”,均不符合,因此选择 A 项。\n【参考译文】\n如果你是没有什么生活经验的青少年,你会很容易围绕别人的想法来构建你的整个生活。\n让你的朋友对“什么是酷”的看法来左右你的穿着、行为,甚至喜欢的音乐,这是很正常的。\n虽然这种压力有时是内在的,但众所周知,如果不遵守社会规范,青少年会让彼此感到羞愧。我\n们都知道,年轻人对待彼此的方式绝对是残酷的,不仅是对待那些不同的人,甚至是那些非常努力想\n6\n融入的人。\n可悲的是,在这方面成年并没有好得多。在整个成年期,你不仅会承受最佳状态的压力,还会被\n迫选择要么赶上与自己攀比的人,要么忽视他们。\n事实如此。即使成年人也有一群酷孩子、富孩子、局外人和叛逆者。有时候,别人花钱的方式会\n让你觉得你也应该做同样的事情。毕竟,大多数人还是想融入社会;这与他们是 15 岁还是 50 岁无关。\n但是,你应该屈服于同伴的压力,浪费你血汗钱吗?作为一个成年人,花钱的机会几乎是无限的,\n如果你每次都屈服,就会花光你的积蓄。到了最后,赶上你的朋友就像在高中赶超朋友一样毫无意义。\n成年是一段旅程,而不是一场赛跑。那些拥有最多物质财富的人不会得奖—没有功勋带,没有奖\n杯,什么也得不到。那么,为什么感觉我们需要竞争呢?因为电视、网络和广播上的每一个广告都是\n为了让我们花钱。地球上的每个广告活动都是为了说服我们,我们所拥有的还不够,我们需要这种物\n品或那种服务—如果我们不购买,我们就是在剥夺自己或家人的权利。\n不要相信炒作。你不需要证明什么,如果你忽略商业广告、朋友,做对你最好的事情,你会过得\n更好。\nPassage Three",
+      "score": 1
+    },
+    {
+      "id": "e2022-q31",
+      "sectionType": "reading",
+      "passageId": "e2022-p3",
+      "seq": 31,
+      "stem": "What is the main topic of this passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "How to choose the right sport."
+        },
+        {
+          "key": "B",
+          "text": "The nature of sports activities"
+        },
+        {
+          "key": "C",
+          "text": "Sport and the aging society"
+        },
+        {
+          "key": "D",
+          "text": "Personality and sport"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问文章主题。通读首段和各段的首句,不难看出,本文主要讲述了体育运动和个性\n之间的关系,由此可见 D 项“个性和体育运动”符合题意。A 项“如何选择正确的体育运动”,B\n项“体育活动的本质”,C 项“体育运动和老龄化社会”,均不符合,因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q32",
+      "sectionType": "reading",
+      "passageId": "e2022-p3",
+      "seq": 32,
+      "stem": "Individuals will most likely choose a type of sport that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "makes them feel most comfortable"
+        },
+        {
+          "key": "B",
+          "text": "has fewer demands and requirements"
+        },
+        {
+          "key": "C",
+          "text": "can make the most of their potentials"
+        },
+        {
+          "key": "D",
+          "text": "enables them to compete with others"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问个人最可能选择那种运动类型。从第一段可知,不同性格的人会选择不同的类型\n的运动,接着在第二段叙述了孩子从小就尝试不同的运动,一直到选出自己更擅长、更舒服的运\n动。A 项“让他们感觉最舒服”符合题意。B 项“有较少要求”,C 项“能充分发挥他们的潜能”,\nD 项“使他们能够与他人竞争”,均不符合,因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q33",
+      "sectionType": "reading",
+      "passageId": "e2022-p3",
+      "seq": 33,
+      "stem": "How do children practise sports at an early age according to the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They keep practising a sport till they are skilled at it."
+        },
+        {
+          "key": "B",
+          "text": "They engage in a sport that their parents choose for them."
+        },
+        {
+          "key": "C",
+          "text": "They take up any sport without obvious difficulties."
+        },
+        {
+          "key": "D",
+          "text": "They try different sports till they find one suitable for them."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问根据文章内容,孩子在小时候如何体育锻炼。定位第二段第一句,“从小时候,孩\n子们就尝试不同类型的运动...... 直到他们决定练习自己更熟练,感觉更舒服的运动。”由此可知,\nD 项“他们尝试不同类型的运动,直到找到最适合自己的运动”符合题意。A 项“他们会一直练习,\n直到熟练掌握”,B 项“他们参加父母选择的运动”,C 项“他们会参与任何没有明显困难的运动”,\n均不符合,因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q34",
+      "sectionType": "reading",
+      "passageId": "e2022-p3",
+      "seq": 34,
+      "stem": "The author mentions the increase in obesity among Americans to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "illustrate the effect of sports on personality"
+        },
+        {
+          "key": "B",
+          "text": "analyze the causes for this social problem"
+        },
+        {
+          "key": "C",
+          "text": "give some advice on a healthy lifestyle"
+        },
+        {
+          "key": "D",
+          "text": "highlight the importance of psychological traits"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问作者提及美国肥胖人数增长的目的是什么。定位第三段首句,该句是本段落的主\n旨句,表明体育锻炼会对个性培养产生一定的影响。紧接着举例美国肥胖人数增长,是进一步论\n证说明,因此 A 项“说明体育锻炼对人格的影响”符合题意。B 项“分析这种社会问题的原因”,\nC 项“提出关于健康生活的建议”,D 项“强调心理特质的重要性”,均不符合,因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q35",
+      "sectionType": "reading",
+      "passageId": "e2022-p3",
+      "seq": 35,
+      "stem": "It is stated in the last paragraph that senior people .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "are often associated with weakness and sickness"
+        },
+        {
+          "key": "B",
+          "text": "are living a more meaningful life than before"
+        },
+        {
+          "key": "C",
+          "text": "have some doubt about the value of sports"
+        },
+        {
+          "key": "D",
+          "text": "have seen the changes in their own personality"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】最后一段提到老年人怎么样。定位最后一段第四句:“毫无疑问,运动有助于老年人塑造\n新个性和方式”,由此可知,D 项“看见自己个性的变化”符合题意。A 项“常与虚弱和疾病联系\n在一起”,B 项“过着比过去更有意义的生活”,C 项“怀疑体育锻炼的价值”,均不符合,因此选\n择 D 项。\n【参考译文】\n心理学研究表明,大多数锻炼的人会根据自己的个性选择自己喜欢的运动。如果一个人性格内向、\n富有耐心或处事冷静,他们很可能会选择网球、高尔夫或其他可以自己进行的运动。相比之下,那些\n直言不讳、积极好胜的人更喜欢身体接触的运动或团队运动。\n从很小的时候起,人们就经常看到孩子们尝试不同类型的运动—足球、篮球、棒球、游泳、网球\n7\n等—直到他们决定继续练习更熟练、更舒服的运动。他们有性格和动力去训练、练习,甚至参加这项\n运动竞赛。在这一点上,个人个性与他们所选择的运动性质之间存在着直接的关系。\n有趣的是,参加一种特定类型的运动也可能个性产生影响。例如,我们最近看到美国儿童、青少\n年和成年人的肥胖人数急剧增加。这可能是由许多个人、职业、文化甚至健康问题或状况引起的。然\n而,选择更健康的养生法则,并由此培养一系列性格特质,取决于个人。而这些养生法则和性格特质\n会帮助他或她减肥,成为更健康的人。\n几十年前,人们可能认为 60 岁的人年老体衰,甚至是疾病缠身,只有几年的时间来过还算不错、\n保守的生活。如今,我们看到这种观点发生了巨大变化。我们现在看到的 60 岁、70 岁甚至 80 岁的老\n人比以往任何时候都更健康、更强壮、更有动力。毫无疑问,运动帮助老年人塑造了这种新的个性和\n处事方式。锻炼和运动无疑会给他们的生活带来新的意义,尤其是因为每天都在锻炼,并从中体验到\n锻炼的好处。因此,他们的性格和心理状态很可能完全不同于几十年前人们对 60 岁的刻板印象。\nPassage Four",
+      "score": 1
+    },
+    {
+      "id": "e2022-q36",
+      "sectionType": "reading",
+      "passageId": "e2022-p4",
+      "seq": 36,
+      "stem": "Why does the author mention “device strapped to your face” in Paragraph 1?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "To introduce the latest advance in virtual technology."
+        },
+        {
+          "key": "B",
+          "text": "To describe a novel approach to pursuing virtual reality."
+        },
+        {
+          "key": "C",
+          "text": "To emphasize a physical barrier to enjoying virtual reality."
+        },
+        {
+          "key": "D",
+          "text": "To demonstrate the necessity of wearing a virtual device."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问作者在第一段提到“绑在脸上的设备”的原因。从第一段可知,把设备绑在脸上,\n在休息室挥舞手臂,虚拟现实度过一生,作者认为这是很难想象的,可见对这种技术表示惊奇,\n因此提及“绑在脸上的设备”应该是为了“介绍虚拟技术的最新进展”,A 项符合。B 项“描述追\n求虚拟现实的新方法”,C 项“强调享受虚拟现实的有形障碍”,D 项“展示穿戴虚拟设备的必要性”,\n均不符合,因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q37",
+      "sectionType": "reading",
+      "passageId": "e2022-p4",
+      "seq": 37,
+      "stem": "According to Chalmers, virtual reality .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "is fake reality"
+        },
+        {
+          "key": "B",
+          "text": "is genuine reality"
+        },
+        {
+          "key": "C",
+          "text": "derives from physical reality"
+        },
+        {
+          "key": "D",
+          "text": "has various definitions"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问查尔默斯认为虚拟现实是怎么样的。定位第四段第三句,查尔默斯认为“与我们\n互动的虚拟世界可以和我们普通的物质世界一样真实”,B 项“真正的现实”符合题意。A 项“虚\n拟的现实”,C 项“起源于物质现实”,D 项“有多种定义”,均不符合,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q38",
+      "sectionType": "reading",
+      "passageId": "e2022-p4",
+      "seq": 38,
+      "stem": "Which of the following is a source of psychological damage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Lack of physical exercise due to virtual living."
+        },
+        {
+          "key": "B",
+          "text": "The gap between the physical and virtual worlds."
+        },
+        {
+          "key": "C",
+          "text": "Inadequate contact with friends in the physical world."
+        },
+        {
+          "key": "D",
+          "text": "Not enough exposure to sunlight in the physical world."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问下列哪项是心理伤害的来源。定位倒数第二段最后一句暗示,如果在元宇宙中更\n漂亮,有更好的衣服和更好的家,一旦离开元宇宙,回到现实物质世界,人们应该会产生心理落\n差,由此造成伤害。B 项“物质世界与虚拟世界的差距”符合题意。A 项“由于虚拟生活而缺乏体\n育锻炼”,C 项“与现实世界中的朋友接触不足”,D 项“在现实世界中没有足够的阳光照射”,均\n不符合,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q39",
+      "sectionType": "reading",
+      "passageId": "e2022-p4",
+      "seq": 39,
+      "stem": "What impact might VR have on fighting global warming?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "People will use VR technology to manage the global warming."
+        },
+        {
+          "key": "B",
+          "text": "Global warming will naturally disappear in VR world."
+        },
+        {
+          "key": "C",
+          "text": "People will ignore the urgent problem."
+        },
+        {
+          "key": "D",
+          "text": "Global warming will become more urgent."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问虚拟现实技术会对对抗全球变暖产生什么影响。定位文章最后一段,第一句表明\n虚拟现实技术也会导致全球范围内对一些问题的忽视,接着第二、三句提到气候变化和现实其他\n的危机是否会失去紧迫性,回答是“那将是一场灾难”,由此可知,在虚拟世界中人们将会忽略气\n候变化以及其他危机这些紧迫问题,C 项“人们将会忽略这个紧迫性问题”符合题意。A 项“人们\n将使用虚拟现实技术应对全球变暖”,B 项“全球变暖将虚拟世界会自然消失”,D 项“全球变暖将\n更加紧迫”,均不符合,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q40",
+      "sectionType": "reading",
+      "passageId": "e2022-p4",
+      "seq": 40,
+      "stem": "What is the main idea of the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "VR creates another world, but with potential problems."
+        },
+        {
+          "key": "B",
+          "text": "The future of VR is unfolding and quite promising."
+        },
+        {
+          "key": "C",
+          "text": "VR will replace physical reality in the decades to come."
+        },
+        {
+          "key": "D",
+          "text": "People's view of VR evolves with the passage of time."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题目问文章的主要观点是什么。作者主要讲述了查尔默斯对虚拟现实的看法,虚拟现实\n创造了一个世界,还表明了其未来发展趋势,同时也看到了只关注虚拟现实可能会带来的一些问\n题,A 项“虚拟现实创造了另一个世界,但存在潜在问题”符合题意。B 项“虚拟现实的未来正在\n展开,前景十分光明”未看到其中存在的问题,C 项“在未来的几十年里,虚拟现实将取代物质现\n实”,D 项“人们对虚拟现实的看法是随着时间的推移而变化的”均不符合,因此选择 A 项。\n【参考译文】\n很难想象人类在虚拟现实中度过一生,因为这种体验相当于把设备绑在脸上,在休息室中挥舞手\n臂。但这正是人类前进的方向。\n8\n查尔默斯是纽约大学哲学和神经科学的澳大利亚籍教授,他在新书《现实+》中阐述了拥抱虚拟现\n实的理由。查尔默斯以解释意识的“难题”而闻名,他认为技术已经达到了一个点,即虚拟和物质在感\n官上是相同的,人们在虚拟现实中过着美好的生活。\n查尔默斯认为,在未来几十年里,我们将用脑机接口取代笨拙的耳机,就可以用所有的感官体验\n虚拟世界。随着计算机技术的进步——也许在下个世纪——这些世界将和我们周围的物质世界一样真\n实。\n查尔默斯解释说:“人们通常认为虚拟现实在某种程度上是虚假的能力。我认为这是错误的。” “与\n我们互动的虚拟世界可以和我们普通的物质世界一样真实。” 在哲学方面,查尔默斯认为即使是今天的虚拟世界也是真实的。虚拟现实中的对话是真实的对话。\n虚拟世界中的物体是真实的物体,只是由比特而不是电子组成。他说:“大多数让生活有意义的因素都将\n出现在虚拟世界中。” 但他指出,有很多风险需要谨慎。尽管虚拟世界可能会变得令人满足,但人们需要真正的食物、\n饮料和锻炼,甚至可能需要瞥见的日光,来防止身体衰退。在几十年里,这些风险可能微不足道,但\n逐渐走向虚拟生活的趋势最终可能会引发新的健康问题。这些还不是唯一的健康危害。一些人对心理\n伤害的风险提出了严重的担忧:如果我们在元宇宙中更漂亮,有更好衣服和更好的家,当我们离开时会\n有什么感觉?\n查尔默斯承认,虚拟现实的诱惑也可能导致全球范围内的忽视。气候变化和物质世界面临的其他\n危机会失去紧迫性吗?那将是一场灾难,他说:“物质现实真的很重要。我们必须保持根基,并善待它。”\nSection B\nDirections: In this section, you are required to read one blog and the comments on it. The blog\nand comments are followed by questions or unfinished statements each with four choices A,B,\nC and Choose the best answer and mark your answer on the Answer Sheet.",
+      "score": 1
+    },
+    {
+      "id": "e2022-q41",
+      "sectionType": "reading",
+      "passageId": "e2022-p5",
+      "seq": 41,
+      "stem": "What does the author think of the advice \"Just say no\"?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Aggressive but effective."
+        },
+        {
+          "key": "B",
+          "text": "Useful but impolite."
+        },
+        {
+          "key": "C",
+          "text": "Confusing and improper."
+        },
+        {
+          "key": "D",
+          "text": "Impractical and unhelpful."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】细节题。根据关键词 Just say no 定位到第一段最后一句,破折号后面内容是对 Just say no\n的进一步解释、说明,作者认为这是个无用的口号,是大家普遍认可的、长达数十年的笑话。\nimpractical and unhelpful 意为“不切实际的、无用的”符合题意。A 项“挑衅的但有效的”、B 项\n“有用的但不礼貌的”、C 项“令人困惑的、不合适的”,均不符合题意,因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q42",
+      "sectionType": "reading",
+      "passageId": "e2022-p5",
+      "seq": 42,
+      "stem": "Which of the following is true about “emotional labour”?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It is a necessary process for performing a task."
+        },
+        {
+          "key": "B",
+          "text": "The person in power often bears its burden."
+        },
+        {
+          "key": "C",
+          "text": "Constant emotional labour can be exhausting."
+        },
+        {
+          "key": "D",
+          "text": "It applies most frequently to the service industry."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】推理题。根据关键词emotional labour可定位至文中第三段第三句,本句解释emotional labour,\n在接下来第四句,说明了情绪劳动产生的不利影响,“压抑愤怒、悲伤等情绪,会产生负面影响,\n甚至可能导致筋疲力尽”,相符合的是 C 项“持续的情绪劳动可能导致筋疲力尽”。A 项“这是执\n行任务的技巧”,B 项“掌权者往往会承担这种负担”,D 项“它最常应用于服务业”均不符合题意。\n因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q43",
+      "sectionType": "reading",
+      "passageId": "e2022-p5",
+      "seq": 43,
+      "stem": "What does the phrase “tying yourself in knots” (Para.4) mean?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Becoming upset."
+        },
+        {
+          "key": "B",
+          "text": "Offending others. 9"
+        },
+        {
+          "key": "C",
+          "text": "Losing control."
+        },
+        {
+          "key": "D",
+          "text": "Acting strangely."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】推理题。根据关键词定位文章的第四段,tying 动词原形为 tie,意为“系,扎”,knot 意\n为“(用绳索打的)结”,tie yourself in knots“把自己打结”实际意为:让自己不舒服,为难。本句\n意为“能够礼貌地从某件事情抽身而出而不让自己为难是有用的,特别是对已经社会性习惯遵守\n的女性。”A 项“变得心烦意乱”符合题意。B 项“冒犯他人”,C 项“失去控制”,D 项“行为怪\n异”,均不符合题意。因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q44",
+      "sectionType": "reading",
+      "passageId": "e2022-p5",
+      "seq": 44,
+      "stem": "Which comment disagrees with the author’s choice of new phrases?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "comment 2."
+        },
+        {
+          "key": "B",
+          "text": "comment 3."
+        },
+        {
+          "key": "C",
+          "text": "comment 4."
+        },
+        {
+          "key": "D",
+          "text": "comment 5."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】推理题。首先明确作者选用的新短语,定位到前面短文第三段,新短语为 I’m not comfortable\nwith that,意为“我对此感到不舒服”。通读评论 1 到评论 5,可知评论 4 意为:所有涉及他人的生\n活都是妥协,独处时使用这个短语没有问题,但如果和其他人有交往时,这就成了自我厌恶的练\n9\n习,因此选择 C 项 Comment 4.",
+      "score": 1
+    },
+    {
+      "id": "e2022-q45",
+      "sectionType": "reading",
+      "passageId": "e2022-p5",
+      "seq": 45,
+      "stem": "Which comments agree with the author on the female tendency to comply?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "comment 1 and Comment 3."
+        },
+        {
+          "key": "B",
+          "text": "comment 2 and Comment 4."
+        },
+        {
+          "key": "C",
+          "text": "comment l and Comment 5."
+        },
+        {
+          "key": "D",
+          "text": "comment 4 and Comment 5."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】推理题。通读评论 1 到评论 5,可知评论 1 提到:对所有事情说“好的”是大多数女性的\n特点。评论 5 提到:女性在很小的时候就学会照顾别人。而评论 2、评论 3、评论 4 均未特别提到\n女性,因此选择 C 项。\n【参考译文】\n像很多人一样,多年来我对不想做的事情都说“好的”。这是条件反射的结合——隐约害怕错失和\n基本的冲突回避。在我看来,没有什么简单的方法可以在不冒犯别人的情况下拒绝一些事情。在成长\n过程中,我们所拥有的只有一句老话:“说不就行了”——这句口号毫无用处,成了举世公认的、持续数\n十年的笑话。\n从那以后发生了很多变化。在过去的十年里。一种主要来自社会正义和女权运动的语言已经发展\n出来,用来描述不舒服的状态和我们必须抵抗它们的权利。\n我最喜欢的,也是迄今为止最有用的新表达是“我对此感到不舒服”。它几乎可以让你摆脱任何事\n情。我最喜欢的另一个词是“界限”。如今,人们可以通过使用“界限”这个词来避开不愉快的人,同时逃\n避任何内疚感。另一个词,“情绪劳动”,诞生于 20 世纪 80 年代,用来描述服务业的工作,这些工作\n需要假装愉快的行为来满足客户。其中包括抑制情绪,如愤怒或悲伤,这势必会对你造成伤害,甚至\n会导致精疲力竭。这个词现在不是这个意思了。你几乎可以把这句话用在任何你不想参与的情况、谈\n话或义务上。\n能够礼貌地从某件事情抽身而出而不让自己为难是有用的,特别是对已经社会性习惯遵守的女性。\n评论 1:\n对任何事情都说“好的”是大多数女人的特点。对我来说,学会说“不”是女性成熟的标志。\n评论 2:\n很长一段时间以来,当别人让我做我不想做的事情时,我都会礼貌地说“不”。\n评论 3:\n主要是因为年龄。男人也一样,总是说“好的”。随着年龄的增长,你会变聪明的。\n评论 4:\n所有涉及他人的生活都是妥协,独处时使用这个“我对此感到不舒服”没有问题,但如果和其他\n人有交往时,这就成了自我厌恶的练习。\n评论 5:\n许多男性似乎仍然无法理解的是,女性在很小的时候就学会了照顾别人,而男性则习惯于优先考\n虑自己。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q46",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "besides"
+        },
+        {
+          "key": "B",
+          "text": "unless"
+        },
+        {
+          "key": "C",
+          "text": "in case"
+        },
+        {
+          "key": "D",
+          "text": "so that"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】逻辑词辨析,需要明确空格前后句之间的逻辑关系。空格前半句意为“然而这可能会在\n2060 年前发生”,后半句意为“要迅速采取措施,预防此事发生”,不难看出,要避免发生前者情\n况,要按照后者来做,两者之间是条件关系。unless 意为“除非”,表示条件关系,符合题意。besides\n意为“除此以外,(还有)......, in case 意为“以防,万一”,so that 意为“所以”,表示结果。因此\n选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q47",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "extended"
+        },
+        {
+          "key": "B",
+          "text": "exposed"
+        },
+        {
+          "key": "C",
+          "text": "expected"
+        },
+        {
+          "key": "D",
+          "text": "examined"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】动词词义辨析。本句意为“由于全球变暖,英格兰东南角的海平面......在短短半个世纪内\n将升高 54 厘米”,be expected 表示预测,预计,符合题意。extend 意为“延伸,扩展”,expose 意\n为“揭露,暴露”,examine 意为“检查;测验”。因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q48",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "in"
+        },
+        {
+          "key": "C",
+          "text": "from"
+        },
+        {
+          "key": "D",
+          "text": "through"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】固定搭配。at risk from / of sth 意为“冒.......风险”。因此选择 C 项。\n10",
+      "score": 1
+    },
+    {
+      "id": "e2022-q49",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "all the time"
+        },
+        {
+          "key": "B",
+          "text": "at a time"
+        },
+        {
+          "key": "C",
+          "text": "at times"
+        },
+        {
+          "key": "D",
+          "text": "from time to time"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】短语辨析。本句意为“他们不会.......在水下,只有在涨潮的时候(才会在水下)”,all the time\n意为“一直”,符合题意。at a time 意为“一次”,at times 意为“有时”,from time to time 意为“不\n时,有时”,均不符合。因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q50",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "provided"
+        },
+        {
+          "key": "B",
+          "text": "protected"
+        },
+        {
+          "key": "C",
+          "text": "preserved"
+        },
+        {
+          "key": "D",
+          "text": "prevented"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】动词词义辨析。分析句子主干“The low-lying suburbs are already by a massive barrier...”低\n洼郊区 low-lying suburbs 与巨大的屏障 a massive barrier 之间应该是被保护的关系,protect 意为“保\n护”,符合题意,除此之外,be protected from 表示“保护......免受......伤害”。prohibit 意为“禁止”,\npreserve 意为“保存”,prevent 意为“阻止”,均不符合。因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q51",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "main"
+        },
+        {
+          "key": "B",
+          "text": "much"
+        },
+        {
+          "key": "C",
+          "text": "most"
+        },
+        {
+          "key": "D",
+          "text": "more"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】形容词及比较级、最高级辨析。根据语义,要保护更大的(larger)地区、及更远的(further)\n东边,应该需要更多的(more)防御,D 项符合题意。main 意为“主要的”,much 意为“许多”,\nmost 意为“最多的”,均不符合。因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q52",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "usual"
+        },
+        {
+          "key": "B",
+          "text": "occasional"
+        },
+        {
+          "key": "C",
+          "text": "regular"
+        },
+        {
+          "key": "D",
+          "text": "rare"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】形容词词义辨析。根据后文语义可推测,非常高的海浪应该是偶尔才会出现,occasional\n意为“偶尔的,不经常的”,符合题意。usual 意为“通常的”,regular 意为“有规律的”,rare 意为\n“稀少的”,均不符合。因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q53",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "staff"
+        },
+        {
+          "key": "B",
+          "text": "mankind"
+        },
+        {
+          "key": "C",
+          "text": "individuals"
+        },
+        {
+          "key": "D",
+          "text": "people"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】名词词义辨析。该句前一句表明现在有更大的危险,接着叙述原因,有更多的道路,更\n多的基础设施,应该还有更多的人。staff 意为“全体员工”,mankind 意为“人类”,individuals 意\n为“个人”,与集体相对应,people 意为“人们”,表示泛指,符合题意。因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q54",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "lead to"
+        },
+        {
+          "key": "B",
+          "text": "take up"
+        },
+        {
+          "key": "C",
+          "text": "hold back"
+        },
+        {
+          "key": "D",
+          "text": "result from"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】动词短语辨析。首先明确考查的是气候变化与更温暖、更干燥夏季之间的关系,气候变\n化导致了夏季更温暖、更干燥,lead to 意为“导致”,符合题意。take up 意为“开始从事”,hold back\n意为“退缩不前”,result from 意为“由......造成”。因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q55",
+      "sectionType": "cloze",
+      "passageId": "e2022-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "life"
+        },
+        {
+          "key": "B",
+          "text": "lives"
+        },
+        {
+          "key": "C",
+          "text": "wildlife"
+        },
+        {
+          "key": "D",
+          "text": "wildlives"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】名词词义辨析及单复数。life 意为“生命”,是可数名词,复数为 lives, wildlife 意为“野\n生动植物”,为不可数名词,没有复数,排除 wildlives.空格前 species 意为“物种”,应该为动植物\n的物种,而非生命的物种,因此选择 C 项。\n【参考译文】\n泰晤士河上的伦敦,是的;但是海上的伦敦呢?不,谢谢!然而,这种情况可能会在 2060 年之前发生,\n除非迅速采取措施防止这种情况发生。\n由于全球变暖,英格兰东南角的海平面预计将在短短半个世纪内上升 54 厘米!如今,科学家们说,\n在 50 年内,伦敦的许多地区将面临海水泛滥的严重风险。并非整个伦敦都处于危险之中;只是伦敦东\n边的一些地方会处于危险中。这些地方不会一直在水里;只是涨潮的时候会没入水中。\n横跨泰晤士河的巨大屏障保护着伦敦东区泰晤士河边的低洼郊区,免受涨潮的影响;但是泰晤士\n河两岸将需要更多的防御来保护河流北部和往东的更大区域。\n当然,偶尔也会有非常高的潮水。1953 年,在泰晤士河堤坝建成之前,300 多人在“大洪水”中丧\n生;但今天的危险更大。因为这里有更多的人,更多的道路,更多的基础设施。\n科学家们还表示,气候变化将导致英格兰东南部的夏季更加温暖、干燥。到那时,几种本地野生\n动物将无法生存。冬天潮湿,夏天炎热:五十年后的伦敦会是这样吗?",
+      "score": 1
+    },
+    {
+      "id": "e2022-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A. It needs an international  ____  cooperation. B. Cattle 57 the plant and turn it into protein. C. In the 20th century men greedily 58 natural resources, threatening the ecological balance. A plant expects its seeds to be carried to a ground faraway by monkeys birds or insects that come to eat",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "over-exploited"
+        },
+        {
+          "key": "B",
+          "text": "consume"
+        },
+        {
+          "key": "C",
+          "text": "multidisciplinary"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处既要与 cooperation 形成搭配关系,且空格前有不定冠词 an 和形容词 international,\n推测空格所填单词与 cooperation 应该为修饰关系,而非动宾搭配关系,排除 B 项,根据语义,C\n项“多学科的”与 cooperation“合作”合适,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p7",
+      "seq": 57,
+      "stem": "（第 57 空）A. It needs an international 56 cooperation. B. Cattle  ____  the plant and turn it into protein. C. In the 20th century men greedily 58 natural resources, threatening the ecological balance. A plant expects its seeds to be carried to a ground faraway by monkeys birds or insects that come to eat",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "over-exploited"
+        },
+        {
+          "key": "B",
+          "text": "consume"
+        },
+        {
+          "key": "C",
+          "text": "multidisciplinary"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前后 cattle 和 the plant 均为名词,因此缺少谓语动词,只有动词 consume 合适。此外,\n本句中有连词 and 连接前后两部分,形式要保持一致,and 后 turn 为动词原形,因此空格处也应该\n为动词原形,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p7",
+      "seq": 58,
+      "stem": "（第 58 空）A. It needs an international 56 cooperation. B. Cattle 57 the plant and turn it into protein. C. In the 20th century men greedily  ____  natural resources, threatening the ecological balance. A plant expects its seeds to be carried to a ground faraway by monkeys birds or insects that come to eat",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "over-exploited"
+        },
+        {
+          "key": "B",
+          "text": "consume"
+        },
+        {
+          "key": "C",
+          "text": "multidisciplinary"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析可知,空格处缺少谓语动词,且本句中 In the 20th century 表明动词应该使用过去时\n态,over-exploited 合适,此外,greedily over-exploited natural resources 意为“贪婪地过度开发自然\n资源”,语义符合,因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p7",
+      "seq": 59,
+      "stem": "（第 59 空）its fruit.  ____  Then men eat the meat of the cattle and vegetables. The relationship among all those on…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "over-exploited"
+        },
+        {
+          "key": "B",
+          "text": "consume"
+        },
+        {
+          "key": "C",
+          "text": "multidisciplinary"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格后一句提到 the cattle 表明前文已经提到相关概念,而且 then 体现了句间逻\n辑关系的连贯,应该先有 B 项 Cattle consume the plant and turn it into protein“牛吃植物,\n并将其转化为蛋白质”,再有“然后人们吃牛肉和蔬菜”,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…nce, mutual reliance, and they all share air, water and other common resources.  ____  As a result humans suffered from their own mindless behaviors. Analyses of environmenta…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "over-exploited"
+        },
+        {
+          "key": "B",
+          "text": "consume"
+        },
+        {
+          "key": "C",
+          "text": "multidisciplinary"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格后一句as a result体现了事情所产生的后果,这件事情应该为C项。C. In the 20th century\nmen greedily over-exploited natural resources, threatening the ecological balance 意为“在 20 世纪,人\n们贪婪地过度开发自然资源,威胁着生态平衡”。而且在空格后一句中动词 suffered 为过去时态,C\n项动词也为过去时态,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…dangers usually go beyond the traditional boundaries of scientific disciplines.  ____  It needs specialists to investigate and come up with solutions of protection.",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "over-exploited"
+        },
+        {
+          "key": "B",
+          "text": "consume"
+        },
+        {
+          "key": "C",
+          "text": "multidisciplinary"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处所填内容与后一句都是对人类破坏环境的解决方案,A 项 It needs an international\nmultidisciplinary cooperation“这需要国际多学科合作”符合语义,且与后一句在形式上一致,\n因此选择 A 项。\n【参考译文】\n植物期望种子被吃果实的猴子、鸟或昆虫带到远处的土地上。牛食用这种植物并将其转化为蛋白\n质,然后人们吃牛肉和蔬菜。地球上所有生物之间的关系是共存、相互依赖,共享空气、水和其他共\n同资源。20 世纪,人们贪婪地开发自然资源,威胁着生态平衡。结果,人类因自己“愚蠢的行为”而\n自食其果。分析环境危害通常要超出科学学科的传统界限。这需要国际多学科合作。需要专家来调查\n并提出保护方案。\nText Two",
+      "score": 1
+    },
+    {
+      "id": "e2022-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A. best  ____  for his nine symphonies",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "tie"
+        },
+        {
+          "key": "B",
+          "text": "known"
+        },
+        {
+          "key": "C",
+          "text": "played"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】(be) known for 固定搭配,意为“因......出名”,best known for his nine symphonies 表示“以\n他的九部交响曲最为著名”,符合题意,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B. is still  ____  daily around the world",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "tie"
+        },
+        {
+          "key": "B",
+          "text": "known"
+        },
+        {
+          "key": "C",
+          "text": "played"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前已有系动词 is, 后面不应该加动词原形,可以加过去分词,(is) still played daily around\nthe world 表示“依旧每日在全球播放”,符合题意,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C.  ____  the whole piece together",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "tie"
+        },
+        {
+          "key": "B",
+          "text": "known"
+        },
+        {
+          "key": "C",
+          "text": "played"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】tie ...together 表示“把......绑在一起”,且空格后面 piece 为名词,空格选择动词符合题意。\ntie the whole piece together 表示“将整个作品联系在一起”,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p8",
+      "seq": 65,
+      "stem": "（第 65 空）Ludwig van Beethoven was born over 250 years ago, yet his music  ____  . Even people who think they've never heard Beethoven's music probably have. His melodi…",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "tie"
+        },
+        {
+          "key": "B",
+          "text": "known"
+        },
+        {
+          "key": "C",
+          "text": "played"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前已有主语,缺少谓语, his music 为单数,谓语应该选择动词单数。且根据语义,本\n12\n句前半句讲贝多芬出生于 250 多年前,yet 表示前后两句为转折关系,后面应该是他的音乐依旧每\n日在全球播放,语义和形式,B 项均符合,因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…nd even cartoons. Beethoven wrote many famous pieces of music but he's probably  ____  . A symphony is a long, complicated piece of classical music, usually divided into four…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "tie"
+        },
+        {
+          "key": "B",
+          "text": "known"
+        },
+        {
+          "key": "C",
+          "text": "played"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前有主语和系动词,系动词后面不能加动词原形,也不能再重复添加 is, A 项符合。\n此外 (is) known for 为固定搭配。本句意为:贝多芬写了很多著名的音乐作品,但最为著名的可能\n是九部交响曲。因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…parts. The four parts are often linked by “themes”-repeated musical ideas that  ____  . When Beethoven died in 1827, he had some ideas for a 10th Symphony, but never finishe…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "tie"
+        },
+        {
+          "key": "B",
+          "text": "known"
+        },
+        {
+          "key": "C",
+          "text": "played"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前是从句引导词 that, 根据语法知识判定 that 引导定语从句,并且在定语从句中代替\n先行词 ideas 做成分,A 项 known 不能做谓语,B 项 is 是单数,先行词 ideas 是复数,谓语动词应\n该用 are;C 项 tie 是动词原形,符合题意,因此选择 C 项。\n【参考译文】\n路德维希·范·贝多芬生于 250 多年前,但其所作的音乐至今仍在全球播放。即便那些认为自己\n从未听过贝多芬音乐的人可能也听过。贝多芬音乐常用于电影、电视甚至是动画片。贝多芬写了很多\n著名的音乐作品,但最为著名的可能是九部交响曲。交响曲是时间长、结构复杂的古典音乐,通常分\n为四部分,这四个部分通常由“主题”联系在一起——通过重复的音乐思想将整部作品联系在一起。\n贝多芬 1827 年去世时,他已有创作第十交响曲的想法,但未能完成。\nText Three",
+      "score": 1
+    },
+    {
+      "id": "e2022-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 68,
+      "stem": "（第 68 空）A. are most likely to  ____ ",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】固定搭配 be (most) likely to do ,表示“(最)有可能做……”, A 项、B 项、和 C 项均可。\n结合句意,此处应该填“(最)有可能发生”,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 69,
+      "stem": "（第 69 空）B. will be  ____  to fire fighters",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】 动词原形 be 后面不能再加动词原形,只能选择 useful,另外 be useful to 意为“对……有\n用”,本句意为:将对消防员有用。因此选择 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 70,
+      "stem": "（第 70 空）C. was to use Al to  ____  where forest fires might happen",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】固定搭配 use…to do,表示“利用……做……”,空格处应该选动词原形,根据句意,“利用\n人工智能来预测森林火灾可能发生的地点”最符合题意,因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 71,
+      "stem": "（第 71 空）D. has made \"extraordinary efforts\" to  ____  life",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】本句意为“做出非凡努力来……生活”,improve 与 life 搭配,“改善生活”最为贴切,因\n此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…a Swedish company. It's been given every year to a person between 12 and 17 who  ____  on the planet for children now and in the future. This years winner was 15-year-old Res…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前从句引导词 who, 判定此句是 who 引导的定语从句,缺少谓语。引导词 who 可代\n替先行词 a person, 因此该从句的谓语动词应该用第三人称单数,排除 A 项。同时主句动词为现在\n完成时,可排除一般将来时的 B 项和一般过去时的 C 项,D 项时态符合,因此选择 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…and in the future. This years winner was 15-year-old Reshma Kosaraju. Her idea  ____  . To build her deep learning model, she used weather information like temperature, humi…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前已有句子主语,且为第三人称单数,排除 A 项。该句是对 Reshma Kosaraju 获奖作\n品的介绍,前后句均使用过去时态,根据时态与主谓一致,C 项符合题意,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…lso looked at human behavior. Her model can predict where and when forest fires  ____  and it's right about 90% of the time. Reshma hopes to tum her program into an app that…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格所属的句子为 where and when 引导的地点、时间状语从句,从句主语 forest fires 为\n复数,排除 C 项和 D 项。根据句意,森林火灾应该是“最有可能发生”,选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2022-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…s right about 90% of the time. Reshma hopes to tum her program into an app that  ____  . She also hopes it will help people who live in areas where forest fires are likely.…",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve"
+        },
+        {
+          "key": "B",
+          "text": "useful"
+        },
+        {
+          "key": "C",
+          "text": "happen"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前为引导词that, 判定此句为that引导定语从句,修饰先行词an app, 根据语义,Reshma\n希望把这个她的程序变为应用程序,这个程序对消防员有帮助,符合题意,因此选择 B 项。\n【参考译文】\n儿童气候奖是由一家瑞典公司发起的,该奖项每年颁发给 12 岁至 17 岁之间的人,他们为改善地\n13\n球上儿童现在和未来生活做出了“非凡的努力”。今年获奖者是 15 岁的 Reshma Kosaraju。她的想法是\n用人工智能来预测森林火灾可能发生的地方。为了建立深度学习模型,她运用了温度、湿度、风速和\n土壤干燥程度等天气信息。她还研究了人类行为。她的模型可以预测森林火灾最有可能发生的地点和\n时间,准确率约为 90%。Reshma 希望把她的程序变成对消防员有用的应用程序。她还希望这个程序\n能帮助到生活在易发生森林火灾地区的人们。",
+      "score": 1
+    },
+    {
+      "id": "e2022-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nCreative thinking may feel like a superpower reserved only for a creative person. Thankfully, creative\ngeniuses aren't the only ones who can have innovative ideas. At its core, creative thinking is intentionally\ngaining new insights and different ideas through existing information. Often, creative thought involves\ntapping into different styles of thinking and examining information from different viewpoints to see new\npatterns. Anyone can develop a creative mind with some practice! Using a wide variety of brainstorming\nstrategies can help you discover new solutions for issues in every area of your life. Learning different styles of\nthinking can help give birth to powerful idea generation.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "Creative thinking may feel like a superpower reserved only for a creative person.Thankfully, creative\ngeniuses aren't the only ones who can have innovative ideas. At its core, creative thinking is intentionally\ngaining new insights and different ideas through existing information. Often, creative thought involves\ntapping into different styles of thinking and examining information from different viewpoints to see new\npatterns. Anyone can develop a creative mind with some practice! Using a wide variety of brainstorming\nstrategies can help you discover new solutions for issues in every area of your life. Learning different styles of\nthinking can help give birth to powerful idea generation. 【参考译文】\n创造性思维可能会让人感觉像是一种超能力, 只有具有创造力的人才可以拥有。值得庆幸的是,创\n造性天才并非只是那些有创新想法的人。就其核心而言,创造性思维是通过现有信息去有意获取新的\n深刻见解和不同想法。通常,创造性思维包括探寻不同的思维方式,并从不同的视角审视信息,以发\n现新的模式。任何人都可以通过一些实践来培养创造性思维!使用各种各样的头脑风暴策略可以帮助\n你发现生活中每个领域问题的新解决方案。学习不同的思维方式有助于产生强大的想法。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2022-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write an essay in no less than 150 words on the topic: “TheAdvantages and Disadvantages of\nSelf-employedJobs”.You could write according to the hints given below. Write your essay on the Answer sheet.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "The advantages and disadvantages of self-employed jobs\nWith the frequent transformation of modern life, self-employment jobs have become a hot topic among\npeople. Some people tend to have a favorable attitude towards the phenomenon, while others have an\nunpleasant association with it, such as the instability of income and the capital shortage. After a thorough\nconsideration, for my part, I am in favor of the former view. There are many possible factors responsible for my standpoint. First and foremost, with the dramatic\nchanges in students’ notions, they come to realize the benefits of self-employment. More importantly, many\nfavorable policies from the government provide precious opportunities for self-employment. Last but not the\nleast, under the great pressure of modern life, more and more young people can experience different ways of\nemployment. As the proverb says, “Only in the state does man have a rational existence.” The trend will certainly\nremodel our life patterns, and all the more so the longer it extends.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

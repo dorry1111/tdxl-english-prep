@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2014 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2014-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Last week, I read a story about a 34-year-old British woman who is extremely afraid of metal forks. She’s\nbeen using plastic ones for 17 years because the sound of a fork rubbing against a plate gives her a panic attack. Strange, right? But she’s not alone. While popular phobias(恐惧症) about snakes and spiders might get all of\nthe attention, there are a wide variety of not-so-obvious horrors that make people nervous. While some phobias might seem a bit silly, they can cause serious emotional distress. My co-worker Magda\nis terrified of pigeons, a phobia that is taking over her life. She won’t walk in certain parts of the city and runs\nscreaming from the subway when one of these “rats with wings” finds its way onto the platform. Another friend is\ndisgusted with cheese. Once I saw her run away from a slice of it. So where does an irrational fear of cheese come\nfrom?\nAre phobias something we inherit from our genes or do we acquire these unusual anxieties over time?\nEver since I can remember I have been unreasonably frightened of elevators. There was no terrible childhood\nexperience and I am fine with confined spaces, but something about elevators makes me nervous. And so, when\nmy boyfriend and I found ourselves trapped in an elevator last year - because these sorts of things always happen\neventually- I was anticipating the worst. While he gave me a suggestive eyebrow raise and proposed we “take advantage of the situation,” I began\nscreaming uncontrollably. I was far from turned on by the whole facing my worst nightmare thing. However, after the fear subsided(消退)I realized that, yes, this was my greatest fear come true, and yet - it\nwasn’t all that bad. Nervous and inconvenient maybe, but terrifying? Not so much. Liberating yourself from a deep-seated phobia can be a long and difficult process, but sometimes it can be as\nsimple as confronting it head on."
+    },
+    {
+      "id": "e2014-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "The American public’s obsession with dieting has led to one of the most dangerous health misconceptions of\nall times. Many television ads, movies, magazine articles, and diet-food product labels would have consumers\nbelieve that carbohydrates (碳水化合物) are bad for the human body and that those who eat them will quickly\nbecome overweight. We are advised to avoid foods such as potatoes, rice and white bread and opt for meats and\nvegetables instead. Some companies promote this idea to encourage consumers to buy their “carb-free” food\nproducts. But the truth is, the human body needs carbohydrates to function properly, and a body that relies on\ncarbohydrates but is exhausted of this dietary element is not in good shape after all. Most foods that we consume on a daily basis like potatoes and rice are loaded with carbohydrates. Contrary\nto popular belief, carbohydrates have many health benefits some fight diseases such as high blood pressure and\nheart disease, and others help to prevent cancer and stroke. Cutting these foods out of your diet may deprive your\nbody of the many health benefits of carbohydrates. One of the best benefits of carbohydrates is their ability to help to maintain the health of our organs, tissues, and cells. Scientific studies have shown that one type of carbohydrate called fiber reduces the risk of heart disease. Carbohydrates also contain antioxidants (抗氧化剂) , which protect the body’s cells from harmful particles with\nthe potential to cause cancer. This does not mean that the human body can survive on a diet composed entirely of carbohydrates. We also\nneed certain percentages of proteins and fats to maintain healthy bodies. But carbohydrates certainly should not be\navoided altogether. In fact, the food pyramid, the recommended basis of a healthy diet, shows that a person should\nconsume six to eleven servings of breads and grains, as well as three to four servings each of fruits and vegetables\n- all carbohydrate-containing foods. It is easy to see why cutting carbohydrates out of a person’s diet is not a good\nidea.The only way to know what is truly healthy for your own body is to talk to a nutritionist or dietician, who can\nhelp you choose foods that are right for you as well as guide you toward a proper exercise program for weight loss, or muscle gain. These professionals will never tell you to cut out carbohydrates entirely! The bottom line: listen to\nthe experts, not the advertisers!"
+    },
+    {
+      "id": "e2014-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Of all the lessons taught by the financial crisis, the most personal has been that Americans aren’t so good at\nmoney-management. We take out home loans we can’t afford. We run up sky-high credit-card debt. We don’t save\nnearly enough for retirement. In response, supporters of financial-literacy education are moving with renewed enthusiasm. School districts\nin states such as New Jersey and Illinois are adding money-management courses to their curriculum . The\nTreasury and Education departments are sending lesson plans to high schools and encouraging students to\ncompete in the National Financial Capability Challenge that begins in March. Students with top scores on that exam will receive certificates -but chances for long-term benefits are slim. As it turns out, there is little evidence that traditional efforts to boost financial know-how help students make\nbetter decisions outside the classroom. Even as the financial-literacy movement has gained steam over the past\ndecade, scores have been falling on tests that measure how well students learn about things such as budgeting, credit cards, insurance and investments. A recent survey of college students conducted for the Jump Start\nCoalition for Personal Financial Literacy found that students who’d had a personal-finance or money-management\ncourse in high school scored no better than those who hadn’t. “We need to figure out how to do this the right way,” says Lewis Mendel, a professor at the University of\nWashington who after 15 years of studying financial-literacy programs has come to the conclusion that current\nmethods don’t work. A growing number of researchers and educators agree that a more radical approach is needed. They advocate starting financial education a lot earlier than high school, putting real money and spending\ndecisions into kids’ hands and talking openly about the emotions and social influences tied to how we spend. Other initiatives are tacking such real-world issues as the commercial and social pressures that affected\npurchasing decisions. Why exactly do you want those expensive brand-name shoes so badly? “It takes confidence\nto take a stand and to think differently,” says Jeroo Billimoria, founder of Aflatoun, a nonprofit whose curriculum, used in more than 30 countries, aims to help kids get a leg up in their financial lives.”“This goes beyond money\nand savings”."
+    },
+    {
+      "id": "e2014-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "Cheating is nothing new, but today, educators and administrators are finding that instances of academic\ndishonesty on the part of students have become more frequent -and are less likely to be punished - than in the past. Cheating appears to have gained acceptance among good and poor students alike. Why is student cheating on the rise? No one really knows. Some blame the trend on a general loosening of\nmoral values among today’s youth. Others have attributed increased cheating to the fact that today’s youth are far\nmore pragmatic( 实 用 主 义 的 )than their more idealistic predecessors. Whereas in the late sixties and early\nseventies,students were filled with visions about changing the world, today’s students feel great pressure to\nconform and succeed. In interviews with students at high schools and colleges around the country, both young\nmen and women said that cheating had become easy. Some suggested they did it out of spite for teachers they did\nnot respect. Others looked at it as a game. Only if they were caught, some said, would they feel guilty. “People are\ncompetitive,” said a second-year college student named Anna, from Chicago. There’s an underlying fear. If you\ndon’t do well, your life is going to be ruined. The pressure is not only form parents and friends but from oneself. To achieve .To succeed. It’s almost as though we have to outdo other people to achieve our own goals. Edward Wynne, a magazine editor, blames the rise in academic dishonesty on the schools. He claims that\nadministrators and teachers have been too hesitant to take action. Dwight Huber, chairman of the English\ndepartment at Amarillo sees the matter differently, blaming the rise in cheating on the way students are evaluated. “I would cheat if I felt I was being cheated,” Mr. Huber said. He feels that as long as teachers give short-answer\ntests rather than essay questions and rate students by the number of facts they can memorize rather than by how\nwell they can put information together, students will try to beat the system. “The concept of cheating is based on\nthe false assumption that the system is legitimate and there is something wrong with the individual who are doing\nit,” he said. “That’s too easy an answer. We’ve got to start looking at the system.”"
+    },
+    {
+      "id": "e2014-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "and comments are followed by questions or unfinished statements, each with four suggested answers A, B, C\nand D. Choose the best answer and mark your answer on the Answer Sheet. One of the central principles of raising kids in America is that parents should be actively involved in their\nchildren’s education: meeting with teachers, volunteering at school helping with homework, and doing a hundred\nother things that few working parents have time for. These obligations are so baked into American values that few\nparents stop to ask whether they’re worth the effort. Until this January, few researchers did, either. In the largest-ever study of how parental involvement affects\nacademic achievement, Keith Robinson and Angel L.Harris, two sociology professors at Duke, found that mostly\nit doesn’t. The researchers combed through nearly three decades’ worth of surveys of American parents and\ntracked 63 different measures of parental participation in kids’ academic lives, from helping them with homework, to talking with them about college plans. In an attempt to show whether the kids of more-involved parents\nimproved over time, the researchers indexed these measures to children’s academic performance, including test\nscores in reading and math. What they found surprised them. Most measurable forms of parental involvement seem to yield few\nacademic dividends for kids, or even to backfire(适得其反) -regardless of a parent’s race, class, or level of\neducation. Do you review your daughter’s homework every night? Robinson and Harris’s data show that this won’t help\nher score higher on standardized tests. Once kids enter middle school, parental help with homework can actually\nbring test scores down, an effect Robinson says could be caused by the fact that many parents may have forgotten, or never truly understood, the material their children learn in school. While Robinson and Harris largely disproved that assumption, they did find a handful of habits that make a\ndifference, such as reading aloud to young kids (fewer than half of whom are read to daily) and talking with\nteenagers about college plans. But these interventions don't take place at school or in the presence of teachers, where policymakers have the most influence - they take place at home. Comment 1:\nBasically the choice is whether one wants to let kids to be kids. Persistent parental involvement and\nconstantly communicating to the kids on what the parents want consciously or unconsciously would help the kids\ngrow up or think like the parents sooner than otherwise.\n8\nComment 2:\nIt also depends on the kid. Emotional and social maturity have a lot to do with success in college and in life. Some kids may have the brains and are bored by high school, but that doesn’t mean they are ready for college or\nthe work place. Comment 3:\nThe article doesn’t define “helping,” but I understand it as actually assisting children in the exercises (e.g. helping them to solve a math problem) and/or reviewing their work for accuracy rather than simply making sure\nthey’ve completed their work. I think the latter is more helpful than the former. I would also certainly hope that no\nstudy would discourage parents from monitoring their children’s performance!"
+    },
+    {
+      "id": "e2014-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "Ironically, a study finds that we’re awful gift-givers precisely because we spend too much time trying to be\nconsiderate. We imagine our friends 46 a gift that is impressive, expensive, and sentimental. We imagine the\nlook of happiness and surprise on their faces and the warmth we feel 47 . But there’s something that the most\nsentimental-gift-givers tend not to think too much about: 48 the gift is practical in the first place. 49 , practicality seems like an enemy of great gift giving. Beautiful jewelry, lovely watches, perfect rugs, finely crafted kitchen hardware: These things 50 great gifts because they communicate something beyond\npracticality. They communicate that the giver cares. But do the receivers care? Often, no. “Gift receivers would be 51 if givers gave them exactly what they\nrequested 52 attempting to be ‘thoughtful and considerate’ by buying gifts they did not explicitly request” to\nsurprise them, the researchers write. Their clever paper asks givers and receivers to 53 gifts from two\n9\nperspectives: desirability (e.g. the cost of a coffee maker) and feasibility (e.g. the 54 of the coffee maker). Across several experiments, they find that givers consistently give gifts based on desirability and receivers 55\nfavor gifts based on feasibility ."
+    },
+    {
+      "id": "e2014-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. so\nB. watching TV\nC. hire them\nPhrases:\nA.and understandably 56\nB.that the companies that 57 want money\nC.that could be spent 58\n\nChildren are a special target of advertisers, 59 . Young people are shopping and spending more than ever\nbefore. Researchers suggest that children who are highly involved in consumer culture are more prone to\nchildhood depression and anxiety and have worse relationships with their parents. They said: “You cannot totally\nprotect your kids from advertising because it is everywhere. So you can explain to your kids that advertisers have\nan agenda and 60 . They don’t have our best interests in mind.” They also suggest that family should watch very little television. You can fill the time 61 with other\nactivities, such as reading and playing games together."
+    },
+    {
+      "id": "e2014-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. beyond\nB. sending\nC. as well as\nPhrases:\nA. 62 the wages of average families\nB. 63 the reach of most Americans\nC. 64 young people to college\n\nA research group in California has released a “national report card on higher education.”The report says the\nprice of college has increased more than four hundred percent since 1982. Costs have climbed much faster than\n\n10\nother prices - 65 . The group warns that a continuation of these trends would put higher education 66 . And it would mean greater debt for those who do go to college. The report also expresses concern that the United\nStates is losing its leadership in 67 ."
+    },
+    {
+      "id": "e2014-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. imitate\nB. between\nC. otherwise\nD. accelerate\nPhrases:\nA. from 68 its feathers\nB. would be difficult to 69\nC. it 70 could\nD. enabling the bird to 71\n\nThe emperor penguin traps air in its feathers. Not only does this insulate the bird against extreme cold but it\nalso enables it to move two or three times faster than 72 . How? Marine biologists have suggested that it\ndoes so by releasing tiny air bubbles 73 .As these bubbles are released, they reduce friction on the surface of\nthe penguin’s wings, 74 . Interestingly, engineers have been studying ways to make ships go faster by using bubbles to reduce friction\nagainst their hulls (船身). However, researchers acknowledge that further investigation is challenging because\n“the complexity of penguin’s wings 75 .”\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2014-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）money” and the other one... Police officer:  ____  ?",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "I thought you said there were three men"
+        },
+        {
+          "key": "B",
+          "text": "They had been in there for about 5 minutes"
+        },
+        {
+          "key": "C",
+          "text": "It’s the other man I’m talking about"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据对话者双方的身份,可以得知这是警察和证人之间的对话。上面证人说一共有三个抢劫\n犯。下面说不,是两个男人和一个女孩。可以推断出警察问的是警匪的性别问题。A 项 “我想你说的是三\n个男人”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Burney: No, there were two men and a girl.  ____  , the one carrying the suitcase, well, he goes up to the",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "I thought you said there were three men"
+        },
+        {
+          "key": "B",
+          "text": "They had been in there for about 5 minutes"
+        },
+        {
+          "key": "C",
+          "text": "It’s the other man I’m talking about"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据语境,这里是对一个人进行具体描述,因此 C 项“我所说的另外一个人”符合题意,而 B\n项是在描述时间。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）was l: 35.  ____  .",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "I thought you said there were three men"
+        },
+        {
+          "key": "B",
+          "text": "They had been in there for about 5 minutes"
+        },
+        {
+          "key": "C",
+          "text": "It’s the other man I’m talking about"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据证人说警匪抢完钱就跑出银行了。那时的时间为 1 点 35 分。可以推断证人所说的是时\n间的问题。B 项“匪徒作案时间持续 5 分钟”符合题意。\n【参考译文】\n伯尼: 我想有两个男人。不,是三个。他们冲进银行,一个持着枪,一个高个子的匪徒,跑到窗口,\n开始喊什么东西,我也不知道,“把钱全部都给我”,另一个人...... 警察: 我以为你说的是三个男人?\n伯尼: 不,是两个男人和一个女孩。我说的是另外一个男人,拿手提箱的那个。嗯,他走到另一个家\n伙跟前。\n警察: 拿着枪的那个人?\n伯尼: 是的,他打开箱子,那个女收银员和所有窗口后边的人交出一摞摞的钱。两个男人将钱放进箱\n子后就跑出银行了。那时是一点 35 分,他们在那里待了大约 5 分钟。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2014-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）than color. Speaker A: And there was no violence in old movies. Speaker B: No, there wasn’t.  ____  . Speaker A: They like lots of action. Speaker B: 5 . Speaker A: I like to see actors who are like real people. Speaker B: Like real people with real problems. Speaker A: 6 . Speaker B: Yes, but they never make much money.",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "People today don’t like that"
+        },
+        {
+          "key": "B",
+          "text": "I like a good story"
+        },
+        {
+          "key": "C",
+          "text": "They still make movies like that"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据上面 A 说老电影中没有暴力的镜头,并 B 给予肯定的回答,下面 A 说人们现在喜欢的\n是动作片可以推断人们不喜欢有暴力镜头的电影。A 项 “现在的人们不喜欢有暴力镜头的电影”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）than color. Speaker A: And there was no violence in old movies. Speaker B: No, there wasn’t. 4 . Speaker A: They like lots of action. Speaker B:  ____  . Speaker A: I like to see actors who are like real people. Speaker B: Like real people with real problems. Speaker A: 6 . Speaker B: Yes, but they never make much money.",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "People today don’t like that"
+        },
+        {
+          "key": "B",
+          "text": "I like a good story"
+        },
+        {
+          "key": "C",
+          "text": "They still make movies like that"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据下面 A 说我喜欢电影中的演员能像现实中生活的人一样真实,可以推断两个对话人物讨\n论的是喜欢电影中的哪些因素及组成成分。B 项 “我喜欢好的故事”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）than color. Speaker A: And there was no violence in old movies. Speaker B: No, there wasn’t. 4 . Speaker A: They like lots of action. Speaker B: 5 . Speaker A: I like to see actors who are like real people. Speaker B: Like real people with real problems. Speaker A:  ____  . Speaker B: Yes, but they never make much money.",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "People today don’t like that"
+        },
+        {
+          "key": "B",
+          "text": "I like a good story"
+        },
+        {
+          "key": "C",
+          "text": "They still make movies like that"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据最后一句,是的,但是它们不会赚太多的钱,可以推断反映真实故事的电影仍然制作,\n但是不会赚太多的钱。C 项 “现在人们仍然制作那样的电影”符合题意。\n【参考译文】\nA: 我喜欢看老电影,我认为它们是最好的。\nB: 我同意你的看法,尽管老电影是黑白的。我想影片故事内容比色彩更加重要。\nA: 是的,没有。老电影中没有暴力的镜头。\nB: 现在的人不喜欢暴力电影。\nA: 他们喜欢动作片。\nB: 我喜欢好的故事情节。\nA:我喜欢演得真实的演员。\nB: 演现实中的人,针对现实中的问题。\nA:现在仍有这样的电影制作出来。\nB:是的,但是不会赚太多的钱。\n2\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2014-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Interviewee: Three things: my Sharp laptop; my iphone5; and my Olympus digital camera.  ____  : the kids, art, buildings, clothes, scenes that catch my eye as I walk past. Interviewer: What do you use your computer for?",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "I do a lot of research on the Internet too"
+        },
+        {
+          "key": "B",
+          "text": "I do a lot of my shopping on the net now"
+        },
+        {
+          "key": "C",
+          "text": "Of course they mail their friends endlessly"
+        },
+        {
+          "key": "D",
+          "text": "I document everything"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据下面列出来的一系列事物都是用陈女士提及的三种物品来记录的。D 项 “我记录所有的\n事物”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）my ideas straight to directors and producers.  ____  - there are some fantastic sites around",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "I do a lot of research on the Internet too"
+        },
+        {
+          "key": "B",
+          "text": "I do a lot of my shopping on the net now"
+        },
+        {
+          "key": "C",
+          "text": "Of course they mail their friends endlessly"
+        },
+        {
+          "key": "D",
+          "text": "I document everything"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据上句采访者问你用电脑做什么?下面是对其的回他。主语应是被采访者本人,并主要涉\n及的是工作方面。A 项“我也在网上做许多调查”,与后面“有一些出色的网站”相照应,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）Interviewee: The kids use the computer all the time at home.  ____  - and on top of that they’re always",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "I do a lot of research on the Internet too"
+        },
+        {
+          "key": "B",
+          "text": "I do a lot of my shopping on the net now"
+        },
+        {
+          "key": "C",
+          "text": "Of course they mail their friends endlessly"
+        },
+        {
+          "key": "D",
+          "text": "I document everything"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据上句采访者问在家谁用电脑?下面的回答是孩子们。可知空缺处的主语应该是孩子们。\nC 项 “当然孩子们也会一直给朋友发邮件”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）revision sites on the Internet.  ____  - 15 minutes for a whole super market “visit”! That",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "I do a lot of research on the Internet too"
+        },
+        {
+          "key": "B",
+          "text": "I do a lot of my shopping on the net now"
+        },
+        {
+          "key": "C",
+          "text": "Of course they mail their friends endlessly"
+        },
+        {
+          "key": "D",
+          "text": "I document everything"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据下句 15 分钟就可以逛完超市可以推断出被采访者讨论的是关于网购的事情。B 项 “现在\n也会在网上购物”符合题意。\n【参考译文】\n采访者:陈女士,能告诉我们哪些技术对您来说会比较重要吗?\n被采访者:三个物品:我的夏普笔记本,苹果 5 手机,还有我的奥林巴斯数码相机。我记录所有的事\n情:孩子、艺术、建筑物、服装及我经过的吸引眼球的景色。\n采访者:您用电脑做什么事情呢?\n被采访者:我一直发邮件。现在也做许多设计工作,我可以将作品在直接发给主管和生产商。我也在\n网上做许多调查― 现在也有许多出色的网站。\n采访者:在家谁用电脑?\n被采访者:孩子们在家一直用电脑。当然,他们会一直给朋友发邮件。此外他们也用手机发短信。当\n他们认为我或者他们的父亲看不到的时候也会玩电脑游戏。当然他们不喜欢做作业,但是网上有许多好的\n帮助复习功课的网站。现在我也会在网上购物― 15 分钟就可以逛完超市!这种感觉很好。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "Conditions for the growth of this plant are optimum in early summer.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "most acceptable"
+        },
+        {
+          "key": "B",
+          "text": "most expressive"
+        },
+        {
+          "key": "C",
+          "text": "most favorite"
+        },
+        {
+          "key": "D",
+          "text": "most desirable"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 optimum 最适宜的。\nA. most acceptable 最合意的 B. most expressive 最有表现力的\nC. most favorite 最适宜的 D. most desirable 最令人满意的\n【译文】这种植物最适宜的生长条件在初夏。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "She often says her greatest happiness consists in helping the disadvantaged children.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "is proportionate to"
+        },
+        {
+          "key": "B",
+          "text": "is composed of"
+        },
+        {
+          "key": "C",
+          "text": "lies in"
+        },
+        {
+          "key": "D",
+          "text": "relies on"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 consist in 在于……中。\nA. is proportionate to 成比例 B. is composed of 由……组成\nC. lie in 在于 D. rely on 依靠\n【译文】她经常说她最大的快乐在于帮助弱势儿童。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "Now and in the future, we will live as free people, not in fear and never at the mercy of any foreign powers.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "for the sake of"
+        },
+        {
+          "key": "B",
+          "text": "at the cost of"
+        },
+        {
+          "key": "C",
+          "text": "in the interest of"
+        },
+        {
+          "key": "D",
+          "text": "under the control of"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 at the mercy of 任……摆布。\nA. for the sake of 为了 B. at the cost of 以……为代价\nC. in the interest of 为了……利益 D. under the control of 受……控制\n【译文】不管是现在还是将来,我们都将自由自在地生活着,不畏惧,永远不会听凭外国阴谋或强权\n的摆布。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "Public acceptance of rabbit as an economical source of protein depends how aggressively producers market it.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "vigorously"
+        },
+        {
+          "key": "B",
+          "text": "rigorously"
+        },
+        {
+          "key": "C",
+          "text": "efficiently"
+        },
+        {
+          "key": "D",
+          "text": "effectively"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 aggressively 积极地,有闯劲地;侵略地。\nA. vigorously 充满活力地 B. rigorously 严格地\nC. efficiently 有效地 D. effectively 有效地\n3\n【译文】将兔子作为经济的蛋白质来源的公众接受程度取决于生产商如何积极地进行销售。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "Many New England communities do not permit the construction of a “modernist” building, lest it alter their overall architectural integrity.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "in order that"
+        },
+        {
+          "key": "B",
+          "text": "for fear that"
+        },
+        {
+          "key": "C",
+          "text": "in case that"
+        },
+        {
+          "key": "D",
+          "text": "in spite that"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 lest 以免。\nA. in order that 为了 B. for fear that 唯恐\nC. in case that 以防 D. in spite that 尽管\n【译文】许多新英格兰社区不允许修建现代主义建筑,以免改变其整体建筑的完整性。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "Essentially, a theory is an abstract, symbolic representation of what is conceived to be reality.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "impression"
+        },
+        {
+          "key": "B",
+          "text": "imagination"
+        },
+        {
+          "key": "C",
+          "text": "expression"
+        },
+        {
+          "key": "D",
+          "text": "presentation"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 representation 代表,表现。\nA. impression 印象 B. imagination 想象\nC. expression 表达 D. presentation 陈述\n【译文】在本质上,理论是对现实的一种抽象的、象征性的表达。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "Television commercials have been under constant scrutiny for the last few years.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "reflection"
+        },
+        {
+          "key": "B",
+          "text": "examination"
+        },
+        {
+          "key": "C",
+          "text": "attack"
+        },
+        {
+          "key": "D",
+          "text": "pressure 3"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 scrutiny 监督。\nA. reflection 反映 B. examination 检查\nC. attack 攻击 D. pressure 压力\n【译文】电视商业广告在过去的几年里一直接受监督检查。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "The mayor has spent a handsome amount of time in his last term working to bring down the tax rate.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "plenty"
+        },
+        {
+          "key": "B",
+          "text": "sufficient"
+        },
+        {
+          "key": "C",
+          "text": "moderate"
+        },
+        {
+          "key": "D",
+          "text": "considerable"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 handsome 可观的。\nA. plenty 足够的 B. sufficient 足够的\nC. moderate 适度的 D. considerable 大量的\n【译文】市长在最后的任期内花费大量的时间致力于降低税率。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "His poor performance maybe attributed to the lack of motivation.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "focused on"
+        },
+        {
+          "key": "B",
+          "text": "caused by"
+        },
+        {
+          "key": "C",
+          "text": "viewed as"
+        },
+        {
+          "key": "D",
+          "text": "taken for"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 attributed to 归因于。\nA. focused on 集中 B. caused by 因为\nC. viewed as 视为 D. taken for 认为\n【译文】他差劲的表现可能是由于缺乏动力引起的。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "The new cut in interest rate is meant to promote domestic investment.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "obtain"
+        },
+        {
+          "key": "B",
+          "text": "encourage"
+        },
+        {
+          "key": "C",
+          "text": "publicize"
+        },
+        {
+          "key": "D",
+          "text": "advertise"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 promote 促进。\nA. obtain 获得 B. encourage 鼓励\nC. publicize 发表 D. advertise广告\n【译文】利率再次下调旨在促进国内投资。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q21",
+      "sectionType": "reading",
+      "passageId": "e2014-p1",
+      "seq": 21,
+      "stem": "The 34-year-old British woman is extremely afraid of metal forks because .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "she couldn’t bear their sound on plate"
+        },
+        {
+          "key": "B",
+          "text": "she is afraid that they may hurt her"
+        },
+        {
+          "key": "C",
+          "text": "she has never used them before"
+        },
+        {
+          "key": "D",
+          "text": "she has been injured by them before"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】那个 34 岁的英国妇女为什么极端恐惧金属叉子?\n在文章第一段最后一句我们可以找到答案:金属叉子摩擦盘子的声音使她产生恐惧。因此,此题选 A\n项“她不能忍受金属叉子摩擦盘子的声音”。\n【误项排除】B 项 “她怕会伤到自己”、C 项 “她之前从未用过金属叉子”、D 项 “她以前被金属叉子\n伤到过”在文章中没有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q22",
+      "sectionType": "reading",
+      "passageId": "e2014-p1",
+      "seq": 22,
+      "stem": "The phrase “rats with wings” (Para. 3) refers to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "devils"
+        },
+        {
+          "key": "B",
+          "text": "exotic rats"
+        },
+        {
+          "key": "C",
+          "text": "pigeons"
+        },
+        {
+          "key": "D",
+          "text": "strange birds"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义推断\n【解析】短语“rats with wings”带翅膀的老鼠(第三段)指的是什么?\n4\n文章第三段提到,我的同事玛格达害怕鸽子,整个一生都被这种恐惧侵扰:她不敢走城市的一些地方,\n当路过地铁,看到站台上有这种“带翅膀的老鼠”的时候,也会尖叫。此处玛格达因为害怕,把鸽子看作是“带\n翅膀的老鼠”。因此选 C 项“鸽子”。\n【误项排除】A 项“魔鬼”在文章中没有提及。B 项“奇怪的老鼠”,文章中带翅膀的老鼠并非指一种很\n奇怪的老鼠,与文章意思不符。D 项“奇怪的鸟”在文章中没有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q23",
+      "sectionType": "reading",
+      "passageId": "e2014-p1",
+      "seq": 23,
+      "stem": "The author’s fear of elevators is the result of .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "her dislike of being in closed spaces"
+        },
+        {
+          "key": "B",
+          "text": "her terrible experience"
+        },
+        {
+          "key": "C",
+          "text": "her phobia for no reason 4"
+        },
+        {
+          "key": "D",
+          "text": "her nervousness of being alone"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】作者对于电梯的恐惧是由什么引起的?\n在文章第五段第一句,我(作者)还记得我曾经对电梯无端的恐惧。根据 unreasonable 这个词我们可\n以推断出作者的恐惧是毫无理由的,因此选 C 项“她的恐惧是没有原因的”。\n【误项排除】作者说 “I am fine with confined space”, 因此 A 项“他不喜欢被关在封闭的房间内” 与文\n章意思相反。在文章中作者虽然提及到一次被关在电梯里的经历,但是由于作者无端的恐惧,把这次经历\n看得很糟糕,而其男友却能用另外一种态度对待同样的事情。所以作者对于电梯的恐惧是由其过去的经历\n引起的,因果关系错误。因此 B 项“她以往的糟糕经历”错误。D 项“她独处时的紧张”指作者对于独处的紧\n张,在文章中也没有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q24",
+      "sectionType": "reading",
+      "passageId": "e2014-p1",
+      "seq": 24,
+      "stem": "After the fear subsided, the author realized that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "an elevator ride could be exciting"
+        },
+        {
+          "key": "B",
+          "text": "it was not as horrible as she had thought"
+        },
+        {
+          "key": "C",
+          "text": "her boyfriend’s help was important"
+        },
+        {
+          "key": "D",
+          "text": "she could have had a good time with her boyfriend"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】当恐惧消退后,作者意识到什么?\n从文章倒数第二段我们可以看到:当恐惧消退后我意识到:我最恐惧的事情已经发生后,它并不像想\n象的那么糟糕,也许只是紧张以及产生一些不便,至于恐惧?没有那么大。据此可以推断出作者意识到:\n电梯并不像原来她想象的那么恐怖。因此选 B 项“并不像她想的那么恐怖”。\n【误项排除】A 项“乘电梯很让人兴奋”在文章中没有被提及。C 项“男朋友的帮助很重要”,在事情发\n生时,其男友虽在其身边了一定作用,但当作者恐惧消退后,对于恐惧的重新认识,却没有提及其男友。\nD 项“她可以和他男朋友度过一段很好的时光”在作者事后对于恐惧的认识中也没有被提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q25",
+      "sectionType": "reading",
+      "passageId": "e2014-p1",
+      "seq": 25,
+      "stem": "The purpose for the author to share her experience is to_______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "introduce what strange fears people have"
+        },
+        {
+          "key": "B",
+          "text": "explain why people have strange fears"
+        },
+        {
+          "key": "C",
+          "text": "illustrate conquering a fear can be difficult"
+        },
+        {
+          "key": "D",
+          "text": "encourage people to overcome their fears"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】作者分享她的经历目的是什么?\n在文章最后一段作者阐述了其观点:把自己从根深蒂固的恐惧中解放出来,也许是一个艰难、漫长的\n过程,但有时候也许就是迎头面对那么简单。据此可以推断出,选 D 项“鼓励人们去克服自己的恐惧”。\n【误项排除】A 项“介绍人们所有的恐惧”、B 项“解释为什么人们会有奇怪的恐惧”与作者意图不符;\nC 项“阐述征服恐惧是很困难的”与作者意图相反。\n【参考译文】\n上周,我看了一个故事,说一个 34 岁的英国妇女对于金属叉子极度恐惧,她 17 年来一直使用塑料叉\n子,因为金属叉子与盘子摩擦的声音给她一种被袭击的恐怖感觉。\n很奇怪,不是吗?但她绝不是唯一的特例,当对蛇、蜘蛛等流行的恐惧控制了人们的注意力,各种各\n样的,不是十分明显的恐惧使人们感到很紧张。\n虽然有些恐惧看起来很愚蠢,但却引起了严重的情感上的压抑。我的同事玛格达对鸽子很恐怖,整个\n一生都被这种恐惧所侵扰。她不能在城市的某些地方散步,如果她看到落在站台上的这种“带翅膀的老鼠” 也会尖叫着从地铁跑开。另外一个朋友是看到芝士就恶心, 一次, 她仅仅看到一小片芝士,就跑开了!\n因此,这种对于芝士毫无理由的恐惧是从哪里来的呢?\n是我们的基因里就遗传了这种恐惧还是由于长期的不同寻常的焦虑所引起的呢?\n从我开始记事,就对电梯有一种的无端的恐惧。在童年时期没有糟糕的经历,对于局限性空间也还好。\n但是和电梯有关的一些事情却让我紧张。因此,当去年,有一次我和男朋友被关在了电梯里,因为这种事\n情最终总是会发生,我预测了最坏的结果。\n他暗示性的向我挑了下眉毛,建议说:“何不让我们好好抓住这机会”。我开始不能自控地尖叫起来,\n当面对经常在我噩梦中出现的事情时,我并没有完全失去控制。\n5\n然而,当恐惧退去的时候,我意识到,当我最恐惧的事情到来的时候,并没有像我想象的那么糟糕,\n也许只是带来了一些紧张和不便,至于恐惧,也不是那么强烈。\n把自己从一个根深蒂固的恐惧中解放出来,也许是个漫长而艰难的过程,但也可以简单到当它到来的\n时候,直接去面对它。\nPassage Two\n【文章介绍】本文阐述了美国公众在健康饮食方面的错误概念,并提出了健康饮食的建议与方案。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q26",
+      "sectionType": "reading",
+      "passageId": "e2014-p2",
+      "seq": 26,
+      "stem": "As is used in Paragraph l, the word “exhausted” most possibly means .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "startled"
+        },
+        {
+          "key": "B",
+          "text": "starving"
+        },
+        {
+          "key": "C",
+          "text": "derived"
+        },
+        {
+          "key": "D",
+          "text": "deprived"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】词意辨析\n【解析】在第一段,“exhausted”这个词的意思是什么?\n原文中的意思是如果耗尽了这种饮食物质,是对人塑身没有好处的。因此选 D 项“被剥夺的,失去的”符合\n题意。\n【误项排除】A 项“震惊的”、B 项“饥饿的”、 C 项“衍生的,导出的”不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q27",
+      "sectionType": "reading",
+      "passageId": "e2014-p2",
+      "seq": 27,
+      "stem": "According to the author, advertisers who sell “carb-free”products .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "value consumers’ well-being"
+        },
+        {
+          "key": "B",
+          "text": "are not telling the truth"
+        },
+        {
+          "key": "C",
+          "text": "offer healthy options"
+        },
+        {
+          "key": "D",
+          "text": "are responsible for obesity"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】作者认为那些无碳产品的广告商们的看法是怎样的?\n从文章的第一段,But the truth is, the human body needs carbohydrates to function properly, 我们可以分析\n出:广告商们提倡人们吃无碳水化合物食品,说对减肥塑身有益,但事实并非如此,因此可推断出,广告\n商们并没有讲出实情。因此正确答案为 B 项“没有讲出实情”。\n【误项排除】A 项“重视消费者利益”、C 项“提供健康选择”与文章的内容不符; D 项“对肥胖负有责\n任”在文章中没有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q28",
+      "sectionType": "reading",
+      "passageId": "e2014-p2",
+      "seq": 28,
+      "stem": "Which of the following is NOT one of the health benefits of carbohydrates?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Prevention of stroke."
+        },
+        {
+          "key": "B",
+          "text": "Prevention of cancer. 5"
+        },
+        {
+          "key": "C",
+          "text": "Prevention of fiber reduction."
+        },
+        {
+          "key": "D",
+          "text": "Prevention of heart disease."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节分析\n【解析】下面那一项不是碳水化合物所产生的健康益处?\n在第二段中,C 项“防止纤维的减少”,原文没有提及。\n【误项排除】A 项“防止中风”、B 项“预防癌症”、D 项“预防心脏病”,原文均有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q29",
+      "sectionType": "reading",
+      "passageId": "e2014-p2",
+      "seq": 29,
+      "stem": "It can be inferred from the passage that a healthy diet .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "is low in carbohydrates and high in proteins and fats"
+        },
+        {
+          "key": "B",
+          "text": "contains equal amounts of carbohydrates and proteins"
+        },
+        {
+          "key": "C",
+          "text": "needs enough proteins but no fat for us to maintain energy"
+        },
+        {
+          "key": "D",
+          "text": "is balanced between carbohydrates, and proteins and fats"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】从文章中可以推断出健康饮食是怎样的?\n从文章第四段,“ We also need certain percentages of proteins and fats to maintain healthy bodies. But\ncarbohydrates certainly should not be avoided altogether.” 由此我们可以推断出,健康饮食,需要各物质之间\n的平衡。此题选 D 项 “碳水化合物、蛋白质、脂肪之间的平衡”,符合题意。\n【误项排除】A 项“碳水化合物含量比较低但蛋白质和脂肪含量较高”、 B 项“包含等量的碳水化合物\n和蛋白质”、C 项“需要足够的蛋白质,但不需要脂肪来保持我们的能量充足”都与作者观点不符。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q30",
+      "sectionType": "reading",
+      "passageId": "e2014-p2",
+      "seq": 30,
+      "stem": "The main purpose of the passage is to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "describe the variety of carbohydrates"
+        },
+        {
+          "key": "B",
+          "text": "explain how to live a healthy life"
+        },
+        {
+          "key": "C",
+          "text": "promote more physical exercise"
+        },
+        {
+          "key": "D",
+          "text": "advocate a healthy diet"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】写作目的\n【解析】此篇文章的写作目的是什么?\n作者从开篇指出健康饮食的错误概念,到后边提出正确的饮食方式,其目的是为了倡导健康的饮食方\n式。因此选 D 项“倡导健康饮食”。\n【误项排除】A 项“描述了不同种类的碳水化合物”,文中只提到了碳水化合物的概念,并没有说到其\n种类。 B 项“解释如何过健康的生活”,由于健康包含很多方面,文章中只讲了饮食方面的健康,因此 B\n选项内容过于宽泛。 C 项“加强体育锻炼”在文章中没有提到。\n【参考译文】\n一直以来, 美国公众对于节食的迷恋是错误健康概念导致的一个最危险的结果,很多电视广告,电\n影,杂志文章以及节食的产品都打上标签,使消费者们认为:碳水化合物对人身体不好,人们吃了这些食\n物,很快就会变得体重超标。 我们经常被建议不要吃土豆,米饭、白面包等食物,而要多吃肉类与蔬菜\n来代替。一些公司宣传这种观点是为了让消费者购买无碳水化合物食品。但是,事实却是:人的身体需要\n6\n碳水化合物来发挥其适当的功能。人的身体是依赖于碳水化合物的,如果消耗尽这种饮食成分,人的体型\n也不会好的。\n我们每天所吃的,如土豆,米饭等食物都具有碳水化合物。与公众认为的正好相反,碳水化合物对于\n健康来说有很多益处;有些可以预防疾病,如高血压和心脏病,另外一些物质可以帮助预防癌症及中风。\n把这些物质从你每天的饮食中去掉,将会夺走碳水化合物带给你很多健康好处。\n碳水化合物带给我们健康最大的好处之一就是保持我们身体器官、组织以及细胞的健康。科学研究表\n明,一种叫做纤维物质的碳水化合物减少了我们患心脏病的风险。碳水化合物同样也含有抗氧化剂,可以\n保护我们身体细胞不受那些潜在的,能引发癌症的微粒的侵害。\n这并不意味着,人体可以依靠完全是碳水化合物的食品生存,我们同样也需要一定比例的蛋白质和脂\n肪来保持身体的健康。但是碳水化合物也不能被避免。事实上,在食品金字塔中,被推荐的健康饮食的基\n底显示一个人应该食用 6-11 种面包和谷物等食品,3-4 种水果及蔬菜,这些食物中都含有碳水化合物。显\n而易见,从人们的饮食中去掉碳水化合物并不是个明智的选择。\n了解真正对你身体有益的方法就是去请教营养师或者饮食学家,他们可以帮你选择正确的食物并且指\n导你通过适当的运动来减轻体重或者增加肌肉。这些专家们绝不会告诉你去完全戒掉碳水化合物食品。 底\n线是:听专家的,不要听广告商的。\nPassage Three\n【文章介绍】文章提出美国人在个人理财方面存在的问题,对此,美国政府所采取的教育措施,以及\n作者指出政府在个人理财教育方面所存在的一系列问题。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q31",
+      "sectionType": "reading",
+      "passageId": "e2014-p3",
+      "seq": 31,
+      "stem": "The financial-literacy education is intended to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "renew Americans’ enthusiasm about money-management"
+        },
+        {
+          "key": "B",
+          "text": "increase Americans’ awareness of the financial crisis"
+        },
+        {
+          "key": "C",
+          "text": "help Americans to overcome the financial crisis"
+        },
+        {
+          "key": "D",
+          "text": "enable Americans to manage money wisely"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】金融知识教育的目的是什么?\n从第一段以及第二段可分析出:美国人不善于理财,因此学校增加了 Money-management(财务管理)\n课程,目的是为了帮助美国人能够更加理智的管理自己的钱财。因此选 D 项“可以帮助美国人更加理智地\n管理个人财务”。\n【误项排除】A 项“理财教育唤起了人们的热情”,是因果关系,不是教育的目的。B 项,“增加美国人\n对金融危机的认识”,在文章中没有提及。 C 项“帮助美国人克服金融危机”,虽然金融危机在文章开头提\n到,但是根据文章的意思,人们应该从金融危机中吸取的教训是应该理智的管理个人钱财。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q32",
+      "sectionType": "reading",
+      "passageId": "e2014-p3",
+      "seq": 32,
+      "stem": "According to the author, the National Financial Capability Challenge will be .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "ineffective"
+        },
+        {
+          "key": "B",
+          "text": "rewarding"
+        },
+        {
+          "key": "C",
+          "text": "costly"
+        },
+        {
+          "key": "D",
+          "text": "well-received"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】作者如何看到全国金融能力考试?\n根据文章第三段:students with top scores on that exam will receive certificates-but chances for long-term\nbenefits are slim. 在测试中获得高分成绩的学生将获得证书,但是从长期的角度来看,从此课程学习中获利\n的机会却微乎其微。因此选 A 项“无效的”。\n【误项排除】B 项“有收获的,有回报的”、 C 项“成本很高的”、 D 项“很受欢迎的”均与题意不符。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q33",
+      "sectionType": "reading",
+      "passageId": "e2014-p3",
+      "seq": 33,
+      "stem": "By saying that “the financial-literacy movement has gained steam”(Para .3), the author means that 6 the movement .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "has received much criticism"
+        },
+        {
+          "key": "B",
+          "text": "has been regarded as imaginative"
+        },
+        {
+          "key": "C",
+          "text": "has been more and more popular"
+        },
+        {
+          "key": "D",
+          "text": "has gone through financial difficulties"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义理解\n【解析】在第三段提及的:金融知识活动已经产生了根基, 作者认为这个运动是怎样的?\n产生根基是指在群众中产生了一定的影响,指这种活动越来越流行起来。因此选 C 项“变得越来越流\n行”。\n【误项排除】A 项“收到很多批评”、B 项“被认为是想象出来的”、D 项“度过了金融危机”均与文章意\n思不符。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q34",
+      "sectionType": "reading",
+      "passageId": "e2014-p3",
+      "seq": 34,
+      "stem": "Lewis Mandell suggests that we should figure out how to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "manage money in a more efficient way"
+        },
+        {
+          "key": "B",
+          "text": "carry out financial-literacy education properly"
+        },
+        {
+          "key": "C",
+          "text": "improve the social awareness of financial education"
+        },
+        {
+          "key": "D",
+          "text": "help students score better in money-management courses"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】刘易斯·曼德尔建议我们要明确该怎么做?\n根据第四段第一句:“We need to figure out how to do this the right way”, says Lewis Mandell.原文中的 this\n根据前文可知,指代的是 the financial-literacy education. “the right way”指用正确的方法。因此选 B 项“用更\n7\n加合适的方式来开展金融知识教育”。\n【误项排除】因为文章的第三段主要讲各种的理财教育效果甚微,因此第四段开头,this 指金融知识\n教育,A 项“用更有效的方式管理钱财”、C 项“增强金融教育的社会意识”、D 项“帮助学生在财务管理课程\n中取得好成绩”与文章意思不符。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q35",
+      "sectionType": "reading",
+      "passageId": "e2014-p3",
+      "seq": 35,
+      "stem": "Jeroo Billimoria is most likely to agree that commercial and social pressures make one’s purchasing decisions .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "acceptable"
+        },
+        {
+          "key": "B",
+          "text": "difficult"
+        },
+        {
+          "key": "C",
+          "text": "feasible"
+        },
+        {
+          "key": "D",
+          "text": "unwise"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】杰鲁·比利莫利亚更倾向于同意商业及社会压力使人们的购买决定怎么样?\n文章最后一段,主要分析了为什么人们会倾向于花很多的钱购买名牌产品,有些还超出了人们的购买\n能力。杰鲁·比利莫利亚给出的原因是:当处于某种社会地位或思维与众不同时,购买者需要一定的信心。\n由此可以推断出 D 项“不够理智”。\n【误项排除】A 项“可接受的”、B 项“困难的”、C 项“可行的”选项与题意不符。\n【参考译文】\n在金融危机所带给我们的教训中,与个人相关的是:美国人不太善于理财。我们的贷款金额超出了承\n受能力,大笔的信用卡欠款,没有足够的储蓄来支持退休以后的生活。\n对此,金融知识教育的支持者们的热情被重新激发出来了。在新泽西、伊利诺伊等州的校学区增加了\n财务管理课程,财政及教育部门对中学制定了新的课程计划,鼓励学生们参加每年 3 月份开始的全国金融\n能力测试。\n在这项测试中获得高分的学生将取得相关的证书。但从长远的角度看,从此获益的机会却微乎其微。\n结果是很少有证据证明,传统的关于金融知识的推广能够帮助学生在课堂之外获益。即使此类金融知识推\n广运动在过去的几十年中,越来越流行,成绩测量的只是学生们在预算、信用卡、保险、投资等方面学习\n的有多好。个人金融知识高起点联盟近期进行了一项调查,调查显示:在中学里上了个人财务或财务管理\n课程的学生所得的测试成绩不比没有参加此类课程的学生的得分高。\n我们需要谋划出如何用正确的方法来做这件事情,刘易斯·曼德尔,华盛顿大学的教授,在进行了 15\n年的金融知识课程研究后,得出结论:现在的方法不起作用。越来越多的研究者和教育者们也认为:应该\n采取一些更加激进的方法。他们提倡,应该在高中之前,提早很多进行财政教育,把钱交给孩子,让孩子\n们自己来做购买决定。并公开谈论情感、社会因素对我们做购买决定时的影响。\n其他的一些措施则用于处理现实的问题,如商业、社会压力对购买决定的影响。为什么我们如此强烈\n的想购买那些价格昂贵的品牌鞋?一所叫做阿芙拉特纳的非盈利机构创办者杰鲁·比利莫利亚说到:“当购\n买者具有某个观点或者想法与众不同时,需要自信”。 他所创办的课程在全球 30 多个国家被使用,目的\n是在财务方面帮助孩子们。“这远不止是钱和储蓄的问题”。\nPassage Four\n【文章介绍】本文主要首先阐述了人们(包括学生自己)对于学业作弊行为的看法,接着说明学生作\n弊的多种原由,最后强调学生作弊的深层因素源于评分体制的不合理。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q36",
+      "sectionType": "reading",
+      "passageId": "e2014-p4",
+      "seq": 36,
+      "stem": "Educators are finding that students who cheat .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "have poor academic records"
+        },
+        {
+          "key": "B",
+          "text": "are more likely to be punished than before"
+        },
+        {
+          "key": "C",
+          "text": "tend to be dishonest in later years"
+        },
+        {
+          "key": "D",
+          "text": "are not only those academically weak"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节判断\n【解析】教育工作者发现什么样的学生是会作弊的学生?\n文章第一段最后一句提到 Cheating appears to have gained acceptance among good and poor students alike. “学生不论成绩优劣,似乎都认可作弊行为”,因此选 D 项“不仅是成绩差的学生”符合原文意思。\n【误项排除】A 项“成绩不好”只是当中的一部分;B 项“相比以前更有可能受到惩罚”与原文相反;C\n项“以后也会不诚实”原文没有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q37",
+      "sectionType": "reading",
+      "passageId": "e2014-p4",
+      "seq": 37,
+      "stem": "According to the passage, which of the following statements is true?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Students do not cheat on essay tests."
+        },
+        {
+          "key": "B",
+          "text": "Students’ cheating has deep social roots."
+        },
+        {
+          "key": "C",
+          "text": "Punishment is an effective method to stop cheating. 7"
+        },
+        {
+          "key": "D",
+          "text": "Reform in the testing system will eliminate cheating."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】根据这篇文章,下面的陈述哪一个是对的?\n第二段第五句话提到 students were filled with visions about changing the world,today’s\nstudents feel great pressure to conform and succeed.“以前学生们立志于改变世界,现如今的学生则承受着\n融入社会并获得成功的巨大压力”,因此选 B 项“学生作弊有着深层次的社会根源”符合题意。\n8\n【误项排除】A 项“对于问答题,学生不会作弊”,C 项“惩罚是一种有效制止作弊的方法”,D 项“考试\n体制的改革可以消除作弊”是对原文的误解,该三项与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q38",
+      "sectionType": "reading",
+      "passageId": "e2014-p4",
+      "seq": 38,
+      "stem": "Which of the following points of view would Mr. Huber agree with?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Parents must take responsibility for the rise in cheating."
+        },
+        {
+          "key": "B",
+          "text": "Punishment for cheaters should be severe in this country."
+        },
+        {
+          "key": "C",
+          "text": "Students who cheat should be expelled from school."
+        },
+        {
+          "key": "D",
+          "text": "Cheating would be reduced through an educational reform."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】关于以下的观点休伯先生会认同哪种?\n第三段中,休伯指明作弊现象增加的原因是评估学生的方式存有问题,最后说应该对这个体系加以审\n视,可以推测 D 项“通过教育改革,作弊将会减少”符合题意。\n【误项排除】A 项“家长必须对学生作弊情况的增长负责”,B 项“该国应该严惩作弊的学生”,C 项“作\n弊的学生应该要开除”,该三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q39",
+      "sectionType": "reading",
+      "passageId": "e2014-p4",
+      "seq": 39,
+      "stem": "The expression “the individuals” (the last paragraph) refers to ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "teachers"
+        },
+        {
+          "key": "B",
+          "text": "parents"
+        },
+        {
+          "key": "C",
+          "text": "students who cheat"
+        },
+        {
+          "key": "D",
+          "text": "school administrators"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义推断\n【解析】在最后一段中的“the individuals”指代的是什么?\n该词所在的句子是休伯先生所说的话语,即“作弊这个概念基于一个错误的假设:评估体系是合理的,\n要是有人舞弊,一定是作弊者出了问题。”因此选 C 项“作弊的学生”符合原文。\n【误项排除】A 项“老师”,B 项“家长”和 D 项“学校管理者”都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q40",
+      "sectionType": "reading",
+      "passageId": "e2014-p4",
+      "seq": 40,
+      "stem": "The passage mainly discusses_______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "people’s tolerance of students’ cheating"
+        },
+        {
+          "key": "B",
+          "text": "the decline of moral standards of today’s youth"
+        },
+        {
+          "key": "C",
+          "text": "factors leading to academic dishonesty"
+        },
+        {
+          "key": "D",
+          "text": "ways to eliminate academic dishonesty"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】主旨归纳\n【解析】整篇文章主要讲了什么?\n整篇文章主要阐述学生作弊的多种原因,因此选 C 项“造成学业作弊的因素”符合原文。\n【误项排除】A 项“人们对学生作弊的包容”,B 项“现代年轻人道德标准的下降”,\nD 项“消除学业作弊的方法”,该三项与题意不符合。\n【参考译文】\n作弊现象不算是新话题。但如今,教育者和管理者们发现与过去相比,学生身上发生的学业作弊实例\n更加频繁了,而其受到惩罚的可能性却变小了。似乎不论成绩优劣,学生们都认可了作弊的行为。\n为什么学生作弊现象会增多呢?没有人知道确切原因。有些人将之归咎于现代青年人道德价值观普遍\n下降。另一些人则将之归咎于这样一个事实:相比理想主义的前辈,现在的学生更加实际。在 60 年代末\n70 年代初,学生们立志于改变世界,现如今的学生则承受着融入社会并获得成功的巨大压力。在对国内高\n中生以及大学生进行的采访中,我们发现,不论是男生还是女生都认为作弊变得越来越容易了。有些学生\n说他们作弊是出于对自己不喜欢的老师的敌意,而有些学生则认为作弊很好玩。有些人认为只有被逮到的\n时候才会感到羞愧。来自芝加哥的大二学生安娜表示,人与人之间的竞争太强烈了。学生们有一种潜在的\n恐惧感。如果你考试中无法取得好成绩,你的前途就毁了。压力不仅来自父母和朋友,同时也来自于自己。\n我们渴望实现目标,获得成功。似乎我们必须超过其他人才能实现我们自己的目标。\n某杂志编辑爱德华·魏恩把学生欺骗行为的增加归咎于学校。他认为学校管理人员以及老师们总是犹豫\n不决,没有采取任何措施。阿马里洛学校英语系主任德怀特·休伯却不这么认为,他把这种上升趋势归咎于\n校方评估学生的方式。休伯说,如果我感到自己被欺骗了,我也会选择欺骗。他认为在考试中只要老师出\n的是简答题而非问答题,是根据学生记住事实的数量给分而不是考察他们综合信息的能力,学生们就会设\n法击败该制度。作弊这个概念基于一个错误的假设:评估体系是合理的,要是有人舞弊,一定是他自己出\n了问题。他说,这个答案太简单了。我们应该审视一下我们的评估体系。\nSection B\n【文章介绍】本文主要论述了家长参与孩子的学习是否有助孩子的学业成绩提高,通过研究得出,家\n长参与孩子的学习和生活,并不能让孩子学业提高。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q41",
+      "sectionType": "reading",
+      "passageId": "e2014-p5",
+      "seq": 41,
+      "stem": "The word “they” (para. 1) refers to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "principles"
+        },
+        {
+          "key": "B",
+          "text": "studies"
+        },
+        {
+          "key": "C",
+          "text": "obligations"
+        },
+        {
+          "key": "D",
+          "text": "values"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义推断\n【解析】第一段中的“they”指的是什么?\n第一段的最后一句所述:These obligations are so baked into American values that few parents stop to ask\nwhether they’re worth the effort. 即这些义务深深地植入了美国人的价值观,很少有父母会停下来问参与到\n9\n孩子的学习中是否值得。因此选 C 项“义务”符合原文。\n【误项排除】A 项“原则”,B 项“学习”,D 项“价值”,该三项与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q42",
+      "sectionType": "reading",
+      "passageId": "e2014-p5",
+      "seq": 42,
+      "stem": "What is the main conclusion of the Robinson and Harris’s study?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Parental involvement may not necessarily benefit children"
+        },
+        {
+          "key": "B",
+          "text": "The kids of more-involved parents improve over time"
+        },
+        {
+          "key": "C",
+          "text": "School should communicate with parents regularly"
+        },
+        {
+          "key": "D",
+          "text": "Parental involvement works better with low-achievers."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】罗宾逊和哈里斯的研究得出的主要结论是什么?\n第三段的第二句为调查结果:“大多可测的父母参与似乎并没有对孩子的学业有所帮助,甚至适得其\n反,不管父母是什么种族,什么阶层,以及受教育程度如何。”因此选 A 项“家长的参与未必会让孩子受益” 符合题意。\n【误项排除】B 项“家长更多地参与孩子的学习会不断地提升孩子的成绩”是他们想\n证明的内容,但不是结论;C 项“学校应与家长经常沟通”和 D 项“对于成绩差的学生,家长的参与效\n果更好”原文没有提及。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q43",
+      "sectionType": "reading",
+      "passageId": "e2014-p5",
+      "seq": 43,
+      "stem": "Comment1 suggests that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "kids should be kids after all"
+        },
+        {
+          "key": "B",
+          "text": "parents should leave their children alone"
+        },
+        {
+          "key": "C",
+          "text": "persistent parental involvement is a must"
+        },
+        {
+          "key": "D",
+          "text": "parents may influence children’s thinking"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】评论 1 的看法是什么?\n根据评论 1 的内容,可知家长的参与孩子的学习和生活将有助于孩子的成长或让孩子拥有类似于家长\n的思维方式。因此选 D 项“家长可能会影响孩子的思维”符合原文。\n【误项排除】A 项“孩子毕竟是孩子”,B 项“家长应该不要干涉孩子的事”,C 项“家\n长持续性地参与到孩子的事是必需的”,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q44",
+      "sectionType": "reading",
+      "passageId": "e2014-p5",
+      "seq": 44,
+      "stem": "The writer of Comment 2 would probably agree that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "getting ready for college is an emotional process"
+        },
+        {
+          "key": "B",
+          "text": "high intelligence does not guarantee success"
+        },
+        {
+          "key": "C",
+          "text": "high school is often boring in the U.S."
+        },
+        {
+          "key": "D",
+          "text": "social maturity is sufficient to achieve success in life"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】评论 2 的作者可能会认同哪种看法?\n根据评论 2 的内容,情感和社会成熟度与一个人取得成功的关系,A 项和 D 项内容比较片面,而 C\n项与文章内容不符。该段最后说“也许有些孩子智商高并且对高中感到厌烦,但这并不意味着他们已经为\n大学或者工作做好了准备”,可知 B 项符合原文。\n【误项排除】A 项“为大学做好准备是一种情感经历”,C 项“在美国的高中学校经常是让人感到厌烦的”,\nD 项“社会成熟足以获得人生的成功”,都与题意不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q45",
+      "sectionType": "reading",
+      "passageId": "e2014-p5",
+      "seq": 45,
+      "stem": "Which of the following parental helps will the writer of Comment 3 consider proper ?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Monitoring kids’ class performance."
+        },
+        {
+          "key": "B",
+          "text": "Reviewing kids’ homework for accuracy."
+        },
+        {
+          "key": "C",
+          "text": "Making sure kids have finished their work."
+        },
+        {
+          "key": "D",
+          "text": "Assisting kids in their exercises."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】评论 3 的作者认为下面哪种家长的帮助方式是合适的?\n根据评论 3 的内容“我对帮助的理解是在孩子做练习时协助孩子(比如说帮助他们解决一道数学题)\n并且/或者是检查他们的作业是否正确而不仅仅是确保孩子完成了作业。我认为后者比前者更有用”,可知\nC 项“确保孩子完成了作业”符合题意。\n【误项排除】A 项“监督孩子在班上的表现”,B 项“检查孩子的作业是否正确”,D 项“协助孩子做练习”,\n该三项不符合题意。\n【参考译文】\n在美国抚养孩子的一个核心原则是父母应该积极参与孩子的教育当中:与老师会面,志愿在学校辅助\n孩子完成作业和做其他很多事情,而工作的父母很少有人有时间去做这些事情。这些义务深深地植入了美\n国人的价值观,很少有父母会停下来问这样做是否值得。\n直至今年一月,研究人员也很少探究该方面的问题。杜克大学的社会学教授凯思·罗宾森和安琪·哈里\n斯关于家长参与到孩子的教育是如何影响学业成绩的问题做了有史以来最大规模的研究,并发现大多数情\n况下并没有影响。研究者整理了近三十年来关于美国家长的有价值的调查信息,并追踪了家长参与到孩子\n们学习中的 63 种不同的方式,包括帮助孩子做家庭作业,和孩子们谈论大学计划。为了说明这些家长更\n多地参与到其学习的孩子们的学业成绩是否会随着时间的推移而有所提高,研究人员索引了这些衡量孩子\n们学业成绩的方式,包括阅读和数学测试的分数。\n令他们惊讶的是家长参与的许多重要方式似乎并没有让孩子的学业有所提升,甚至适得其反——不论\n该家长所属的种族、阶级和教育水平怎样。\n10\n你每天晚上会检查你的女儿的家庭作业吗?罗宾森和哈里斯的研究数据说明了这么做并不会让她在\n标准测试中取得更高的分数。事实上,一旦孩子读中学时,家长协助孩子做家庭作业只会带来孩子的考试\n分数降低,罗宾森认为,这种结果可能是因为许多家长或许已经忘记或从没有真正理解孩子们在学校所学\n的知识。\n尽管罗宾森和哈里斯在很大程度上否定了这个假设,他们发现家长的一些习惯能带来不同,比如面对\n幼孩大声朗读(能每天朗读的人更是少于一半),与青少年谈大学计划。但这些行为不在学校或老师面前\n进行,而是在家里,那是政策制定者们最有影响的地方。\n评论 1:\n从根本上来说,这是一个关于你是否让孩子保持其本性的选择。家长不断地参与孩子的学习,并在经\n常和孩子交流中表达出自己的想法,不管是有意识还是无意识的,这些行为将更早有助于孩子的成长或让\n孩子拥有类似于家长的思维方式。\n评论 2:\n这也取决于孩子。情感和社会的成熟与要在大学和人生中取得成功有很大关系。有些孩子可能很有头\n脑,觉得高中生活无趣,但这并不意味着他们为上大学或职场生活做好了准备。\n评论 3:\n这篇文章并没有定义出什么是“帮助,”但我对它的理解是在孩子做练习时协助孩子(比如说帮助他们\n解决一道数学题)并且/或者是检查他们的作业是否正确而不仅仅是确保孩子完成了作业。我认为后者比前\n者更有用。当然我也认为没有哪种学习会阻止家长监督孩子的学业表现。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q46",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "opened"
+        },
+        {
+          "key": "B",
+          "text": "have opened"
+        },
+        {
+          "key": "C",
+          "text": "opening"
+        },
+        {
+          "key": "D",
+          "text": "to open"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查非谓语动词的辨析。\n【解析】根据后半句:imagine the look of happiness and surprise on their faces 可知此处要表达的是我们\n想象我们的朋友正打开礼物时的表情。因此选 C 项进行时,表示正在发生的事符合原文。\n【误项排除】A 项 opened, 过去式,表示已经发生,B 项 have opened, 现在完成时,从过去到持续现\n在的动作,并对现在产生的影响,D 项 to open, 不定式,表目的和将要做的事,该三项不符合原文语义。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q47",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "in return"
+        },
+        {
+          "key": "B",
+          "text": "in place"
+        },
+        {
+          "key": "C",
+          "text": "in turn"
+        },
+        {
+          "key": "D",
+          "text": "in person"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查与 in 搭配的词组辨析。\n【解析】根据连词 and 可知,想象朋友在打开礼物里脸上开心和惊讶的表情,我们感受到朋友回赠的\n温暖情感,因此选 A 项 in return 作为回报,符合原文。\n【误项排除】B 项 in place 合适地,C 项 in turn 反之,D 项 in person 亲自,都与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q48",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "How"
+        },
+        {
+          "key": "B",
+          "text": "Why"
+        },
+        {
+          "key": "C",
+          "text": "When"
+        },
+        {
+          "key": "D",
+          "text": "Whether"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查关系词的用法。\n【解析】根据句意:然而,最富有情感的礼物赠送者往往不会考虑一些事情:礼物首先是否实用。因\n此选 D 项“是否”符合原文。\n【误项排除】A 项 how 如何,B 项 why 为什么,C 项 when 什么时候,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q49",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "In many cases"
+        },
+        {
+          "key": "B",
+          "text": "In many ways"
+        },
+        {
+          "key": "C",
+          "text": "To sum up"
+        },
+        {
+          "key": "D",
+          "text": "To be sure"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查副词词组辨析。\n【解析】题目所在句的大意为在很多情况下,实用性似乎是赠送礼物的敌人,可知选 A 项 in many cases:\n在很多情况下,符合原文。\n【误项排除】B 项 in many ways 通过多种方式,C 项 to sum up 总而言之,D 项 to be sure 诚然,都不\n符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q50",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "take up"
+        },
+        {
+          "key": "B",
+          "text": "make for"
+        },
+        {
+          "key": "C",
+          "text": "lead to"
+        },
+        {
+          "key": "D",
+          "text": "work out"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察动词词组辨析。\n【解析】根据前半句:Beautiful jewelry, lovely watches, perfect rugs, finely crafted kitchen\n11\nhardware,可推知这些东西是很好的礼物,因此选 B 项 make for 组成,构成,符合原文。\n【误项排除】A 项 take up 拿起,从事,C 项 lead to 导致,带来,D 项 work out 解决,弄明白,都不\n符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q51",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "surprised"
+        },
+        {
+          "key": "B",
+          "text": "happy"
+        },
+        {
+          "key": "C",
+          "text": "more surprised"
+        },
+        {
+          "key": "D",
+          "text": "happier"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察形容词词义辨析。\n【解析】根据句意:赠送者赠送自己绞尽脑汁想让对方惊讶的礼物,所购买的礼物却是对方显然不想\n要的,而如果赠送对方真正想要的礼物,那么接收者肯定会更开心。因此选 D 项 happier:更开心,符合原\n文。\n【误项排除】A 项 surprised 惊讶的,B 项 happy 开心的,C 项 more surprised 更惊讶,\n都与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q52",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "but for"
+        },
+        {
+          "key": "B",
+          "text": "as to"
+        },
+        {
+          "key": "C",
+          "text": "rather than"
+        },
+        {
+          "key": "D",
+          "text": "regardless of"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察关联性词组辨析。\n【解析】根据句意,此处表示的是选择所赠送的礼物时两种不同的情况作比较,中间应该用一个表示\n转折的词组,因此选 C 项 rather than:而不是,符合原文。\n【误项排除】A 项 but for 要不是,B 项 as to 关于,D 项 regardless of 不管,不顾,都\n与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q53",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "measure"
+        },
+        {
+          "key": "B",
+          "text": "select"
+        },
+        {
+          "key": "C",
+          "text": "classify"
+        },
+        {
+          "key": "D",
+          "text": "decide"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察动词词义辨析。\n【解析】句子的意思是:让送礼物和收礼物的人从两个角度去 礼物。可推知选 A 项 measure:\n衡量,符合原文。\n【误项排除】B 项 select 选择,C 项 classify 分类,D 项 decide 决定,都与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q54",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "ease"
+        },
+        {
+          "key": "B",
+          "text": "cost"
+        },
+        {
+          "key": "C",
+          "text": "quality"
+        },
+        {
+          "key": "D",
+          "text": "look"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察名词词义辨析。\n【解析】该句的是为了例证前面的 feasibility(实用性),因此选 A 项 ease:舒适,符合原文。\n【误项排除】B 项 cost 成本,C 项 quality 质量,D 项 look 外观,都与原文不符合。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q55",
+      "sectionType": "cloze",
+      "passageId": "e2014-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "continuously"
+        },
+        {
+          "key": "B",
+          "text": "nevertheless"
+        },
+        {
+          "key": "C",
+          "text": "whereas"
+        },
+        {
+          "key": "D",
+          "text": "unexpectedly"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察副词词义辨析。\n【解析】根据连词 and 并列时内容上的一致性,且该句的前半句的 consistently, 可知选 A 项 continuously\n持续地,始终,符合原文。\n【误项排除】B 项 nevertheless 尽管,C 项 whereas 然而,D 项 unexpectedly 出乎意料,\n都与原文不符合。\n【参考译文】\n具有讽刺意味的是一项研究发现我们实际上都是糟糕的礼物赠送者,因为我们花太多的时间努力做到\n考虑周全。我们想象着我们的朋友打开那份感人的、昂贵的且富有情感的礼物时脸上开心和惊讶的表情,\n从而我们可以感受到朋友回赠的温暖情感。然而,最富有情感的礼物赠送者往往不会考虑一些事情:礼物\n首先是否实用。\n在很多情况下,实用性似乎是赠送礼物的敌人。漂亮的珠宝、可爱的手表、完美的地毯、精致的手工\n厨具:这些都是很好的礼物,因为他们能向接收者传递一些超出实用的信息,传递着赠送者所在乎的东西。\n但是接收者在乎吗?通常是不在乎的。研究人员论述,赠送者赠送自己绞尽脑汁想让对方惊讶的礼物,\n所购买的礼物却是对方显然不想要的,而如果赠送对方真正想要的礼物,那么接收者肯定会更开心。调查\n问卷建议赠送者和接收者要从两个方面来衡量礼物:满意度(比如:咖啡机的成本)和实用性(比如:咖\n啡机的舒适)。通过几次实验,他们发现赠送者在赠送礼物时总是从满意度出发,而接收者对礼物的喜爱\n总是基于实用性。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A.and understandably  ____ ",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "watching TV"
+        },
+        {
+          "key": "C",
+          "text": "hire them"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】and understandably so “这是可以理解的”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B.that the companies that  ____  want money",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "watching TV"
+        },
+        {
+          "key": "C",
+          "text": "hire them"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处缺少修饰 companies 的定语从句的谓语部分,可知 C 项符合题意。hire them “雇佣他\n们”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C.that could be spent  ____ ",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "watching TV"
+        },
+        {
+          "key": "C",
+          "text": "hire them"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】本题考查 spend 的用法。spend time on sth / spend time (in) doing sth.花费时间做某事。这句话\n是被动语态,时间提前。可知 B 项符合题意 watching TV“看电视”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p7",
+      "seq": 59,
+      "stem": "（第 59 空）Children are a special target of advertisers,  ____  . Young people are shopping and spending more than ever before. Researchers suggest tha…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "watching TV"
+        },
+        {
+          "key": "C",
+          "text": "hire them"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前面是一个完整的句子并以逗号结尾可知,空缺处或者是非限制性定语从句或补充\n说明。可以排除选项 B 和 C。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…everywhere. So you can explain to your kids that advertisers have an agenda and  ____  . They don’t have our best interests in mind.” They also suggest that family should wat…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "watching TV"
+        },
+        {
+          "key": "C",
+          "text": "hire them"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空缺处缺少 explain 的宾语从句可知选项 B 符合题意。that the companies that hire them want\nmoney “雇佣他们的公司想要钱”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…suggest that family should watch very little television. You can fill the time  ____  with other activities, such as reading and playing games together.",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "so"
+        },
+        {
+          "key": "B",
+          "text": "watching TV"
+        },
+        {
+          "key": "C",
+          "text": "hire them"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空缺处缺少 time 的定语从句。(time) that could be spent watching TV“用来看电视的时间”。\n【参考译文】\n孩子是广告商的特殊目标群体,这是可以理解的。年轻人比以前购物的更多,花费的也更多。研究人\n员说深深地涉入消费文化的孩子更易于患儿童抑郁及焦虑,并与父母关系更差。他们说:“你不能完全阻\n止孩子看广告,因为广告无所不在。 因此你可以和孩子解释广告商是有计划的,雇佣他们的公司需要赚\n钱。他们不会考虑到我们的最佳利益。” 研究人员也建议家庭少看电视。你可以用看电视的时间做其他的活动,如一起读书和玩游戏。\nText Two\n【短文大意】本文是加利福尼亚高等教育学费贵的问题。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A.  ____  the wages of average families",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "beyond"
+        },
+        {
+          "key": "B",
+          "text": "sending"
+        },
+        {
+          "key": "C",
+          "text": "as well as"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】A 项 beyond 超过; B 项 send 送;C 项 as well as 同样……,也……。the wages of average\nfamilies 家庭平均工资,根据语义可以排除选项 B。第 63 题 beyond the reach of…… 所不及的。所以 C 项\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B.  ____  the reach of most Americans",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "beyond"
+        },
+        {
+          "key": "B",
+          "text": "sending"
+        },
+        {
+          "key": "C",
+          "text": "as well as"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】beyond the reach of……超出某人的能力范围。 beyond the reach of most Americans “超出多数\n美国人能力范围”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C.  ____  young people to college",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "beyond"
+        },
+        {
+          "key": "B",
+          "text": "sending"
+        },
+        {
+          "key": "C",
+          "text": "as well as"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】send to 送到……。send young people to college “送孩子读大学”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p8",
+      "seq": 65,
+      "stem": "（第 65 空）…dred percent since 1982. Costs have climbed much faster than  10 other prices -  ____  . The group warns that a continuation of these trends would put higher education 66 . A…",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "beyond"
+        },
+        {
+          "key": "B",
+          "text": "sending"
+        },
+        {
+          "key": "C",
+          "text": "as well as"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】前面说学费比其他各项费用的增长速度都快,后面是进行补充,可知 A 项符合题意。as well\nas the wages of average families “包括普通家庭工资收入”。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…The group warns that a continuation of these trends would put higher education  ____  . And it would mean greater debt for those who do go to college. The report also expres…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "beyond"
+        },
+        {
+          "key": "B",
+          "text": "sending"
+        },
+        {
+          "key": "C",
+          "text": "as well as"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】前面说学费比其他各项费用的增长速度都快,说对那些去读大学的人来说则意味着更高的债\n务,可以推断学费对于大多数家庭来说支付不起,可知 B 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…eport also expresses concern that the United States is losing its leadership in  ____  .",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "beyond"
+        },
+        {
+          "key": "B",
+          "text": "sending"
+        },
+        {
+          "key": "C",
+          "text": "as well as"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】in 介词,可知 C 符合题意。sending young people to college “送孩子上大学”。\n【参考译文】\n加利福尼亚的一个研究小组已经发布了一份“关于高等教育的国家教育报告卡”。报告显示自 1982 年以\n来大学学费增长了百分之四百多。学费比其他各项费用以及家庭平均工资的增长速度都快很多。该小组警\n告说,如果这种趋势持续的话会让很多美国人无法接受高等教育,而对那些去读大学的人来说则意味着更\n高的债务。该报告同时表达了美国在教育方面将要失去领导地位的担忧。\n13\nText Three\n【短文大意】本文是讲述企鹅翅膀释放气泡减少翅膀表面的阻力来加速的研究。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 68,
+      "stem": "（第 68 空）A. from  ____  its feathers",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】from between +n 从……之间,这里是指羽毛之间。其他选项从语法和语义角度来看都不符合\n题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 69,
+      "stem": "（第 69 空）B. would be difficult to  ____ ",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】缺少不定式后面的动词,可以排除 B 项和 C 项。69 空前面的 would 可知是作谓语。返回原\n文定位到最后的 75 题。根据最后一段可知设计师正研究各种方法来通过释放气泡,减少船身的摩擦力来\n使船加速。然而,研究人员了解到,进一步的调查正受到挑战可以推断这种船身模仿企鹅翅膀是困难的。\n可知 A 符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 70,
+      "stem": "（第 70 空）C. it  ____  could",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析 本句有主谓,并空缺处是在 could 前面可以排除 A,B,D 项。可知 C 符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 71,
+      "stem": "（第 71 空）D. enabling the bird to  ____ ",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】缺少不定式后面的动词,可以排除选项 B 和 C。A 项更符合 69 题可知 D 符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…inst extreme cold but it also enables it to move two or three times faster than  ____  . How? Marine biologists have suggested that it does so by releasing tiny air bubbles 7…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】比较级,意思是气泡可以使企鹅的速度快上 2-3 倍,可以推断是比原来速度快上 2-3 倍。可\n知 C 符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…Marine biologists have suggested that it does so by releasing tiny air bubbles  ____  .As these bubbles are released, they reduce friction on the surface of the penguin’s wi…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】第一句话可知企鹅的羽毛储存空气,可以推断是从羽毛中释放的气泡使企鹅加速。可知 A 符\n合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…bbles are released, they reduce friction on the surface of the penguin’s wings,  ____  . Interestingly, engineers have been studying ways to make ships go faster by using bub…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】上面说企鹅羽毛中释放的气泡使企鹅加速,这句话主要表达气泡使企鹅加速的原理。可知 D\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2014-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…further investigation is challenging because “the complexity of penguin’s wings  ____  .” Paper Two(试卷二) (50minutes)",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "imitate"
+        },
+        {
+          "key": "B",
+          "text": "between"
+        },
+        {
+          "key": "C",
+          "text": "otherwise"
+        },
+        {
+          "key": "D",
+          "text": "accelerate"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】缺少原因状语从句的谓语部分。可知 B 符合题意。\n【参考译文】\n帝企鹅用羽毛储存空气。这样做不仅使它抵御严寒,也可以使其速度比平时快 2-3 倍。这是怎么做到\n的?海洋生物学家说从羽毛中释放小空气泡会时帝企鹅加速。释放这些气泡时,企鹅翅膀表面的阻力减小,\n使企鹅加速。\n有趣地是,设计师正研究各种方法来通过释放气泡,减少船身的摩擦力来使船加速。然而,研究人员\n了解到,进一步的调查正受到挑战因为企鹅翅膀的复杂性很难模仿。",
+      "score": 1
+    },
+    {
+      "id": "e2014-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nThe social costs of unemployment go far beyond the welfare and unemployment payments made by the\ngovernment. Unemployment increases the chances of divorce, child abuse, and alcoholism, a new federal survey\nshows. Some experts say the problem is only temporary-that new technology will eventually create as many jobs\nas it destroys. But futurologist Hymen Seymour says the astonishing efficiency of the new technology there will\nbe a simple net reduction in the amount of human labor that needs to be done. “We should treat this as an\nopportunity to give people more leisure. It may not be easy, but society will have to reach a new agreement on the\ndivision and distribution of labor.” Seymour says.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "失业的社会成本远远超出了政府提供的福利与失业补贴。一项新的联邦调查显示,失业增加了离婚,\n虐待儿童,酗酒发生几率。一些专家认为这个问题是暂时性的,新技术夺走了多少工作岗位,最终会创造\n出同等数量的岗位。未来预测家海曼·西摩说,新技术具有的惊人效率,这意味着所需要的劳力将必然会减\n少。他说“我们应该把这看成一个让人们获得更多空闲的好时机。这可能并不简单,社会最终不得不在劳\n动力的分工和分配方面重新达成新的一致。”",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2014-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write an essay in no less than 150 words on the topic: Why Machine Translation can/can not\nFully Replace Human Translators? You could write according to the hints given below.Write your essay on the\nAnswer sheet. 大学毕业时,小刘决定不找工作。他默默地从事起了网络翻译工作。当时几乎没有人看好他,大家认\n为,大学刚毕业,最好找一个好单位,学点本领、积累点经验,然后才能有好出路。\n5 年过去了,虽然我们很多人毕业时都信誓旦旦地说,一旦在单位里学到本领,积累够经验,就出去\n打拼一番属于自己的事业,但大多数人在单位这个避风港里,已经失去了面对大风浪和新环境的勇气,辞\n职创业逐渐成了空谈。可小刘已经开了公司,成为了一名成功的企业主。\n在一次同学会上,小刘说出了他的“秘密”。他说,“成功往往取决于你敢不敢往人少的地方走,这可能\n会有风险,但因为没人或很少有人走过,留给你的可能是硕果累累。走别人开辟的老路,虽然看起来很安\n全,但因为走的人太多,财务与资源大多已被人占有。即使幸运地发现了一小部分,也必然会被蜂拥而至\n的人群争抢与瓜分。”\n\n11\n1. 根据以上文章写一篇读后感;\n2. 你如何看待小刘的成功之道;\n3. 关于成功你有什么经验和建议?",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "After graduated from university, Xiaoliu chose to initiate his own business as on-line translation instead of\nbeing employed by others. 5 years later, he became a successful entrepreneur whereas most of his classmates lost\ntheir ambition in an idle working environment. At a classmate reunion, Xiaoliu spoke out his secret for success is\ntaking the road seldom taken by others. There may be more risks but more beautiful sceneries as well as more\n\n14\nresources. In many opinions, the success of Xiaoliu should, to a great extent, be attributed to his initiative spirit and\nstrong will. On one hand, facing a challenging task, one is offered the opportunity to thoroughly evoke his ability, then gradually realize one’s personal value. On the other hand, one should firmly persist in what he is doing in\nspite of a variety of difficulties and risks. Just as the above story is clearly shown, Xiaoliu has overcome most of\nthe barriers on his way to success with perseverance. From my personal experiences, there are various factors contributing to success. For one thing, if you want to\nbe successful in your career, being initiative and having a strong will is the key factor no matter how many\nexperiences you have or how intelligent you are. For another thing, courage is a vital element for an individual to\nface challenges. Success belongs to anyone who is good at active thinking or brave in challenges, which are the\nmain elements of initiate spirit.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

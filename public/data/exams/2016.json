@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2016 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2016-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "What did you study at university? If it was something along the lines of law or business, you might want to\nlook away now. That‘s because according to new research, which has found a link between our university subjects\nand our personalities, you have selfish, uncooperative tendencies and are not very in touch with your feelings. On\nthe plus side, you’re probably the life and soul of a party, the findings suggest. Researchers analyzed data from more than 13,000 university students who were involved in 12 separate\nstudies. From this, they discovered a correlation between the “Big Five” major personality traits and the subjects\nthey were enrolled on. For example, those studying law, economics, political science and medicine tended to be much more\noutgoing than those taking other subjects, the study found. But when it came to “agreeableness”—the tendency\ntowards being helpful, generous and considerate—the lawyers scored particularly low, as did business and\neconomics students. Arts and humanities students, as well as those studying psychology and politics scored highly for openness, meaning they were curious, imaginative and in touch with their inner feelings, while economists, engineers, lawyers and scientists scored comparatively low. However, the arts and humanities students also tended to be less\nconscientious and more nervous, typically exhibiting signs of anxiety and moodiness. Psychology students were\nnot far behind arts and humanities students for these traits. Study author Anna Vedel, from the University of Aarhus in Denmark, said she was surprised by the results. “The effect sizes show that the differences found are not trivial, far from,” she said. “On the more humorous side\nthey do confirm our more or less prejudicial stereotypes of the disturbed psychologist, the withdrawn natural\nscientist, the cynical economist.” And she said that the findings could help those school pupils who currently have no idea what to study at\nuniversity, as well as helping academics to plan their lectures. “I’m not arguing that these results should play a\nmajor role in either guidance or selection, but it might provide some inspiration for students that are in doubt\nabout study choices and want to make a choice based on more than abilities, for example,” said Dr Vedel. “Or\nteachers might better understand their student population.”"
+    },
+    {
+      "id": "e2016-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "AlphaGo’s victory over Go(围棋)champion Lee Se-dol reportedly shocked artificial intelligence experts, who thought such an event was 10 to 15 years away. But if the timing was a surprise, the outcome was not. On the\ncontrary, it was inevitable and entirely foreseeable. Playing complex games is precisely what computers do supremely well. Just as they beat the world\nchampions at checkers(跳棋)and then chess, they were destined to beat the champion at Go. Yet I don’t believe, as\nsome do, that human defeats like this one presage an era of mass unemployment in which awesomely able\ncomputers leave most of us with nothing to do. Advancing technology will profoundly change the nature of\nhigh-value human skills and that is threatening, but we aren’t doomed. The skills of deep human interaction, the abilities to manage the exchanges that occur only between people, will only become more valuable. Three of these skills stand out: The first, the foundation of the rest, is empathy, which is more than just feeling someone else’s pain. It’s the ability to perceive what another person is thinking or\nfeeling, and to respond in an appropriate way. The second is creative problem-solving in groups. Research on group effectiveness shows that the key isn’t\nteam cohesion or motivation or even the smartest member’s IQ; rather, it’s the social sensitivity of the members, their ability to read one another and keep anyone from dominating. The third critical ability, somewhat surprisingly, is storytelling, which has not traditionally been valued by\norganizations. Charts, graphs and data analysis will continue to be important, but that’s exactly what technology\ndoes so well. To change people’s minds or inspire them to act, tell them a story. These skills, though basic to our humanity, are fundamentally different from the skills that have been the\nbasis of economic progress for most of human history, logic, knowledge and analysis, which we learned from\ntextbooks and in classrooms. By contrast, the skills of deep human interaction address the often irrational reality\nof how human beings behave, and we find them not in textbooks but inside ourselves. As computers master ever\nmore complexity, that’s where we’ll find the source of our continued value."
+    },
+    {
+      "id": "e2016-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Last year, I went WWOOFing (Willing Workers on Organic Farms) at a beautiful organic farm in La Reunion. With WWOOFing, volunteers exchange their time and work for food and accommodation. I slept in a cabin in the\nwoods with hedgehogs(刺猬) digging about in the bushes, all different coloured birds singing in the morning and\nendless rows of palm trees offering shade from the sun. For me, one of the best ways to get to know a new place is to work with the land, live with the locals and\nshare meals together. This is why I absolutely love WWOOFing. It has got to be one of the best ways to travel. It\nis a mutually beneficial exchange where everyone involved prioritises people and environment above profit. You\nget the time and space to deepen a connection with local communities and nature. There is a lot to learn and each farm has its own unique way of doing things, depending on the environment, climate and soil. At the farm in La Reunion we planted palm trees to harvest the core of the trunk which can be\neaten in salads. Before staying with the farm I had only eaten heart of palm from cans which were nothing in\ncomparison to the real thing, fresh from the ground. When potting up the very beginnings of the palm trees, I felt\ngrateful to be a part of the start of the trees' cycle. I was filled with awe that something so small could grow into\nsomething so big and strong. We also did lots of weeding, which helped me to get to know all kinds of different plants, to be able to\nidentify which ones we could use as herbs/medicine/in salads and which were seen as uneatable. I also got to\nharvest pineapples and guava fruit(番石榴) to make jams which will be sold at the local market. Of course, not everyone is able to travel far away into the field. The great thing about the skill-share\nphilosophy behind WWOOFing is that it’s something we can all do from our own backyard. The focus shifts from\nmoney to how we can best support each other in our communities. A fair exchange can make a big difference in\nthe world."
+    },
+    {
+      "id": "e2016-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "6\nExperts say distracted walking is a growing problem, as people of all ages become more dependent on\nelectronic devices for personal and professional matters. They also note pedestrian deaths have been rising in\nrecent years, 11% of all US deaths involved pedestrians, but that number rose to 15% in 2014. The rise in deaths coincides with states introducing bills that target pedestrians. Some states, such as Hawaii, Arkansas, Illinois, Nevada and New York, continue to introduce legislation every year. The measure recently introduced by New Jersey assembly woman Pamela Lampitt would ban walking while\ntexting and prohibit pedestrians on public roads from using electronic communication devices unless they are\nhands-free. Violators would face fines of up to $50, 15-day imprisonment or both, which is the same penalty as\njaywalking(乱穿马路). Half of the fine would be allocated to safety education about the dangers of walking while\ntexting, said Lampitt. Some see the proposal as an unnecessary governing overreach, while others they understand Lampitt’s\nreasoning. But most agree that people need to be made aware of this issue. “Distracted pedestrians, like distracted\ndrivers, present a potential danger to themselves and drivers on the road,” Lampitt said. “An individual crossing\nthe road distracted by their smartphone presents just as much danger to motorists as someone jaywalking and\nshould be held, at minimum, to the same penalty.” The main question raised about the measure, though, is whether it can be enforced consistently by police\nofficers who usually have more pressing matters to deal with. Some feel that rather than imposing a new law, the\nstate should focus on distracted-walking education. Lampitt said the measure was needed to stop and penalize\n“risky behavior”. She cited a National Safety Council report that showed distracted walking incidents involving\ncellphones accounted for an estimated 11,101 injuries from 2000 to 2011. The study found a majority of those injured were female and most were 40 or younger. Talking on the phone\nwas the most prevalent activity at the time of injury, while texting accounted for 12%. Nearly 80% of the injuries\noccurred as the result of a fall, while 9% occurred from the pedestrian striking a motionless object."
+    },
+    {
+      "id": "e2016-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "and comments are followed by questions or unfinished statements, each with four suggested answers A, B, C\nand D. Choose the best answer and mark your answer on the Answer Sheet. The saying “Clothes Make the Man” dates back some 400 years and it refers to the fact that when people see\na well-dressed person, they assume that person is a professional, capable, and (especially in the old days) rich. Therefore, you had to dress like how you wanted to be perceived, what you wanted to eventually achieve. Fast\nforward 400 years, lots of folks still think the same way. But does it really make a difference?\nI happen to be one those who do not put faith in the old saying. I suppose I might be in the minority but I am\na member of an elite club with the likes of Steve Jobs and Bill Gates in my camp. Perception is not reality; perception is halfway to discovering reality. Perception is drawn from our own\nimpressions, our own belief systems. Is it powerful and influential? Absolutely! Is it all that it seems? Less often\nthan you think. How many times have you cast an initial judgment only to surprise yourself later and learn how\nyou missed out on a great opportunity, person or idea?\nComment 1\nIn the present era, many associate the well-dressed with being the most successful. It took folks in the\nbusiness world a long times to overlook the way Steve Jobs wore jeans on the public stage. I did not know Mr. Jobs, though I wish I had. I have heard it said that he invented the concept of “business casual.” In my mind that is\nas much a matter of self-confidence as it is a matter of taste in clothing. Comment 2\nYou are wrong about Steve Jobs. He certainly did care about how he was perceived and his appearance was\nvery much calculated to achieve his desired effect. From his early formal business clothing down to the aggressive\ncasuals of his eventual black turtle neck and jeans uniform, his clothes and the impact they made were clearly\nforemost in his mind. Comment 3\nIt reminds me of the story about the philosopher who goes to a formal dinner party in jeans. When asked if he\nfelt out of place because of his clothes, he looked around and said he hadn't noticed."
+    },
+    {
+      "id": "e2016-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "The history of transportation is very long and full of changes and inventions. It starts 46 walking, which is not any invention; it just takes energy. People used to walk to get to other places. If you wanted to get\nsomewhere quickly, the 47 way to do that was to run. Actually, the first invention for transportation 48\nwas the shoe. Centuries ago there were no shoes, and people walked barefoot. Then people invented 49 to transport themselves and materials from one place to another. In some\ncultures, people invented sledges (雪橇), 50 are a kind of board that you drag along the ground. You can\ntie things on the sledge to help carry them, but it’s a challenging invention 51 if you hit a rock with the\nsledge as you pull it, the contents can 52 . In other cultures, people invented the wheel, which they used to\nmake it easier to move things—and people. That was the beginning of many innovations in transportation. 53 people had wheels they could invent other ways to travel. They could put the wheels on a board\nand make it a wagon, and then they could 54 that wagon to an ox or a horse and ride as well as carry\nmaterials. That wheel led to 55 we have today: trucks, automobiles, and even boats and planes. For example, there were steamboats that used giant wheels that turned with blades, pushing the water and pushing the boat\nforward."
+    },
+    {
+      "id": "e2016-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. many\nB. choose\nC. think of\nD. ways of\nPhrases:\nA. 56 only one language\nB. 57 any reason not to\nC. in 58 different ways\nD. the most boring 59 seeing the world\n\nI think every language has a certain way of seeing the world. Each is a whole different world—a whole\ndifferent mindsets. I couldn’t possibly 60 because it would mean really giving up the possibility to be able to\nsee the world 61 . So the monolingual lifestyle, for me, is the saddest, the loneliest, 62 . There are so\nmany advantages of learning a language; I really can\n't 63 ."
+    },
+    {
+      "id": "e2016-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. known\nB. idea\nC. feel\nPhrases:\nA. but it may 64 like forever\nB. a person may have no 65 what is wrong\nC. what is 66 as panic disorder\n\nA panic attack is a sudden feeling of terror. Usually it does not last long, 67 . The cause can be\nsomething as normally uneventful as driving over a bridge or flying in an airplane. And it can happen even if the\nperson has driven over many bridges or flown many times before. A fast heartbeat. Sweaty hands. Difficulty\nbreathing. A lightheaded feeling. At first 68 . But these can all be signs of 69 . The first appearance\nusually is between the ages of eighteen and twenty-four. In some cases it develops after a tragedy, like the death of\na loved one, or some other difficult situation."
+    },
+    {
+      "id": "e2016-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. lights\nB. protect\nC. in the dark\nPhrases:\nA. sit at home 70\nB. turn off all non-essential 71\nC. passed a law to 72 the sea\n\nI’m a big fan of trying to save the environment, and this month is the WWF (World Wide Fund for Nature)\nannual Earth Hour. Earth Hour is an event where you 73 and power between 8-9 pm, things like your TV and\ncomputer. However, you don’t just 74 for an hour. Instead, people gather in groups and have fun without\nusing power. Things like dancing, fireworks and musical performances are popular and it’s very fun to take part. Earth Hour isn’t just about saving energy; people involved in Earth Hour have also planted a forest in Uganda, built solar panels in India and 75 in Argentina.\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2016-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Customer: Yes, I did. Clerk:  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "Will you take care of that for me?"
+        },
+        {
+          "key": "B",
+          "text": "Does it have anything valuable inside?"
+        },
+        {
+          "key": "C",
+          "text": "How do you want to send it?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据顾客的回答“我想通过航空邮寄信件”,可以推断职员在问邮寄方式。故本题选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Customer: I guess I’ll send it airmail. Clerk:  ____ ",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "Will you take care of that for me?"
+        },
+        {
+          "key": "B",
+          "text": "Does it have anything valuable inside?"
+        },
+        {
+          "key": "C",
+          "text": "How do you want to send it?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据顾客的回答“有,里面有一张支票和几张照片”,可以推断职员询问的是信封内物品,因\n此本题选 B。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Customer: Yes. I enclosed a check and some photographs. Clerk: Then you’d better send it by registered mail. Customer: That’s a good idea.  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "Will you take care of that for me?"
+        },
+        {
+          "key": "B",
+          "text": "Does it have anything valuable inside?"
+        },
+        {
+          "key": "C",
+          "text": "How do you want to send it?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据最后职员的回答“对不起,先生。你得到旁边的窗口办理”,可知顾客询问是否能够在原\n窗口处理,故本题选 A。\n【参考译文】\n职员:有什么需要帮忙的吗?\n顾客: 嗯,我想给在英国的家人寄封信。\n职员: 你写寄信人地址了吗?\n顾客: 写了。\n职员: 你想怎样邮寄呢?\n顾客: 我想通过航空邮寄信件。\n职员: 里面有贵重物品吗?\n顾客: 有,里面有一张支票和几张照片。\n职员: 那你最好寄挂号信。\n顾客: 好主意,你能办理吗?\n职员: 对不起,先生,你得到旁边的窗口办理。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2016-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Winne: Oh, man! Nobody can stand this kind of scorching heat. Marc: Absolutely!  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "You can’t even stay in the sun for five minutes."
+        },
+        {
+          "key": "B",
+          "text": "I guess so."
+        },
+        {
+          "key": "C",
+          "text": "You want my advice?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据温妮说的没人能够忍受这样的炎热和马克的回答 Absolutely 可知,第 4 题仍应为炎热的\n话题,故本题选 A。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Winne: Anyway, I guess this afternoon there’s nothing we can do but stay home. Marc:  ____  I don’t want to be taken to the hospital for heat exhaustion or something. Winne: 6 Drink a lot of liquids and spare yourself the worst of the heat!",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "You can’t even stay in the sun for five minutes."
+        },
+        {
+          "key": "B",
+          "text": "I guess so."
+        },
+        {
+          "key": "C",
+          "text": "You want my advice?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据马克说“我不想因为中暑被送进医院”,可知马克同意上面温妮的观点,因此本题选 B。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）Winne: Anyway, I guess this afternoon there’s nothing we can do but stay home. Marc: 5 I don’t want to be taken to the hospital for heat exhaustion or something. Winne:  ____  Drink a lot of liquids and spare yourself the worst of the heat!",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "You can’t even stay in the sun for five minutes."
+        },
+        {
+          "key": "B",
+          "text": "I guess so."
+        },
+        {
+          "key": "C",
+          "text": "You want my advice?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据最后马克的回答“你说的对,是得喝大量的水”,可知温妮在上面对话中给出了应对酷暑\n的建议,故本题选 C。\n【参考译文】\n温妮:天哪,这么高的气温没人受得了!\n马克:绝对如此,没法在太阳底下呆五分钟。\n温妮:哎,看来我们今天下午只能呆在家里了。\n马克:我想也是,我可不想因为中暑而被送医院。\n温妮:给你点建议,多饮水,免得自己太热了\n马克:你说的对,是得喝大量的水。\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2016-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Interviewer: You have published six popular books.  ____ ",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "I literally can’t stop."
+        },
+        {
+          "key": "B",
+          "text": "But now I don’t need to worry any more."
+        },
+        {
+          "key": "C",
+          "text": "You’re known as the first billionaire author here."
+        },
+        {
+          "key": "D",
+          "text": "But that’s not just about money."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据对话第三行采访者的话“成为首位亿万富翁作家会影响你对自己的看法”可知,四个选择\n中只有 C 选项提到 the first billionaire author,故本题选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）Interviewee: I dress better. Well, you can definitely afford better clothes.  ____  I think the single biggest",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "I literally can’t stop."
+        },
+        {
+          "key": "B",
+          "text": "But now I don’t need to worry any more."
+        },
+        {
+          "key": "C",
+          "text": "You’re known as the first billionaire author here."
+        },
+        {
+          "key": "D",
+          "text": "But that’s not just about money."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "2\n【解析】根据这位作家(J.K.Rowling)对自己之前窘迫生活状况的描述,这里 D 选项合适,与金钱\n有关,但不单单只是金钱。故本题选 D。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）being homeless at one point.  ____  Never. Interviewer: Are you in a place now where you can accept that you will always be rich?",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "I literally can’t stop."
+        },
+        {
+          "key": "B",
+          "text": "But now I don’t need to worry any more."
+        },
+        {
+          "key": "C",
+          "text": "You’re known as the first billionaire author here."
+        },
+        {
+          "key": "D",
+          "text": "But that’s not just about money."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据第 9 题空格前的“除了没有无家可归之外一贫如洗”和空格后的 never,可知这里应该是\n一个转折,选项中只有 B“但是现在我再也不用担心了”相符,故本题选 B。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）Interviewee: Oh, definitely. I can’t, yeah,  ____  Well, I mean, you could tie my hands to my sides, I",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "I literally can’t stop."
+        },
+        {
+          "key": "B",
+          "text": "But now I don’t need to worry any more."
+        },
+        {
+          "key": "C",
+          "text": "You’re known as the first billionaire author here."
+        },
+        {
+          "key": "D",
+          "text": "But that’s not just about money."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据采访者最后一个问题“你还会继续写作吗?” 可知这里是回答是否会继续写作以及原因,\n并且第 10 题空格前出现“I can’t,…”,选项中 A 与问句相符,故本题选 A。\n【参考译文】\n采访者:你已经出版了六本畅销书,是我们这里的首位亿万富翁作家。\n被采访者:嗯。\n采访者:那么成为首位亿万富翁作家会影响你对自己的看法吗?\n被采访者:穿的更体面了,可以买的起更好的衣服。我认为金钱给我带来的最大的变化是—我那时是\n个单亲妈妈,曾有一时,我们生活非常拮据,只能勉强糊口,就差没有沦落街头了。但是现在我再也不用\n为此而发愁了,而且永远不用担心了。\n采访者:你觉得现在能说你会富下去吗?\n被采访者:不。\n采访者:你还会继续写作吗?\n被采访者:肯定会,我简直不能停。当然了,你可以把我的双手捆绑住,但是我必须得继续创作。为\n了我的心理健康也得写。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "Such experience helps promote one’s alertness to other cultures, as well as a better appreciation of one’s own culture.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "preference"
+        },
+        {
+          "key": "B",
+          "text": "adjustment"
+        },
+        {
+          "key": "C",
+          "text": "sensitivity"
+        },
+        {
+          "key": "D",
+          "text": "response"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 alertness 机敏,警戒。\nA. preference 倾向,偏爱 B. adjustment 调整,调节\nC. sensitivity 敏感,灵敏度 C. response反应\n【译文】这样的经验有助于提升一个人对其他文化的敏感度,同时也加深对自己文化的认识。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "If you always try to find fault with others, it means that you have gained another shortcoming.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "ignore"
+        },
+        {
+          "key": "B",
+          "text": "criticize"
+        },
+        {
+          "key": "C",
+          "text": "impress"
+        },
+        {
+          "key": "D",
+          "text": "follow"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 find fault with 批评,挑剔。\nA. ignore 忽视 B. criticize批评\nC. impress 给......留下深刻印象 D. follow 跟随\n【译文】如果你总是想批评别人,这意味着你已经有了另一个缺点。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "The election will be brought forward to June as so many people are on holiday in July.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "prolonged"
+        },
+        {
+          "key": "B",
+          "text": "adapted"
+        },
+        {
+          "key": "C",
+          "text": "postponed"
+        },
+        {
+          "key": "D",
+          "text": "advanced"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 brought forward 提前。\nA.prolonged 拖延 B. adapted 适应\nC. postponed 使… 延期 D. advanced 将…提前\n【译文】选举将提前到六月,因为很多人七月份休假。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "As to the question of refreshments, I should think orange juice and potato chips will be sufficient.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "enough"
+        },
+        {
+          "key": "B",
+          "text": "abundant"
+        },
+        {
+          "key": "C",
+          "text": "satisfying"
+        },
+        {
+          "key": "D",
+          "text": "proper"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 sufficient 足够的。\nA.enough 足够的 B. abundant 丰富的\nC. satisfying 令人满意的 D. proper 适当的\n【译文】关于点心的问题,我认为橙汁和薯片就足够了。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "Watching these kids grow brings me satisfaction that is difficult to surpass.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "obtain"
+        },
+        {
+          "key": "B",
+          "text": "exceed"
+        },
+        {
+          "key": "C",
+          "text": "describe"
+        },
+        {
+          "key": "D",
+          "text": "forget"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 surpass 超过,胜过。\nA.obtain 获得 B. exceed 超过\nC. describe 描述 D. forget 忘记\n3\n【译文】看着这些孩子成长会带给我难以逾越的满足感。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "The journal published a series of articles that reviewed the prospects for a new era of “genetic medicine”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "background"
+        },
+        {
+          "key": "B",
+          "text": "exploration"
+        },
+        {
+          "key": "C",
+          "text": "survey"
+        },
+        {
+          "key": "D",
+          "text": "outlook"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 prospect 前景,展望。\nA.background 背景 B. exploration 探索\nC. survey 调查 D. outlook 前景\n【译文】该期刊刊登了一系列文章,回顾了“遗传医学”新时代的前景。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "If you don’t slow down and take a break, you’ll be burned out very quickly.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "distressed"
+        },
+        {
+          "key": "B",
+          "text": "anxious"
+        },
+        {
+          "key": "C",
+          "text": "exhausted"
+        },
+        {
+          "key": "D",
+          "text": "upset"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 burned out 精疲力竭的。\nA.distressed 痛苦的,忧虑的 B. anxious 焦虑的\nC. exhausted 疲惫的 D. upset 难过的\n【译文】如果你不慢下来歇口气,你很快会精疲力尽。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "Following our merging with Smith Brothers, the new company will, from now on, be known as Smith and Murphy Inc.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cooperation"
+        },
+        {
+          "key": "B",
+          "text": "meeting"
+        },
+        {
+          "key": "C",
+          "text": "agreement"
+        },
+        {
+          "key": "D",
+          "text": "combination"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 merging 合并,结合。\nA.cooperation 合作,协作 B. meeting 会见,接触\nC. agreement 同意 D. combination 结合\n【译文】随着我们与史密斯兄弟公司的合并,从现在起,新公司将变成史密斯·墨菲股份有限公司。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "Only native-born citizens are eligible for the U.S. Presidency.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "required"
+        },
+        {
+          "key": "B",
+          "text": "qualified"
+        },
+        {
+          "key": "C",
+          "text": "selected"
+        },
+        {
+          "key": "D",
+          "text": "elected"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 eligible 符合条件的。\nA.required 必须的 B. qualified 有资格的\nC. selected挑选出来的 D. elected 选举的\n【译文】只有土生土长的公民才有资格竞选美国总统。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "It was 38 degrees and the air conditioning barely cooled the room.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "simply"
+        },
+        {
+          "key": "B",
+          "text": "quickly"
+        },
+        {
+          "key": "C",
+          "text": "hardly"
+        },
+        {
+          "key": "D",
+          "text": "strongly"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 barely 几乎不。\nA.simply 简单地,仅仅 B. quickly 迅速地\nC. hardly几乎不 D. strongly 强有力地\n【译文】气温 38 度,空调难以使屋子冷却下来。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q21",
+      "sectionType": "reading",
+      "passageId": "e2016-p1",
+      "seq": 21,
+      "stem": "The first paragraph implies that law or business students may _______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "be amused by the research"
+        },
+        {
+          "key": "B",
+          "text": "be interested in the research"
+        },
+        {
+          "key": "C",
+          "text": "dislike the research"
+        },
+        {
+          "key": "D",
+          "text": "enjoy the research"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】根据第一段,法学和商科学生对这项研究的态度是什么。\n根据题干关键词,定位到第一段第二句 If it was something along the lines of law or business, you might\nwant to look away now,如果是和法律或者金融相关的专业,你大概不太想继续看下去。关键词“look away”,\n“将视线从...移开”可以推出法学和商科的学生不喜欢这项研究。因此此题选 C 项“不喜欢这项研究”。\n【误项排除】A 项“被这项研究逗乐了”,B 项“对这项研究感兴趣”,D 项“喜欢这项研究”,这三项不\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q22",
+      "sectionType": "reading",
+      "passageId": "e2016-p1",
+      "seq": 22,
+      "stem": "According to the research, law students scored particularly low in the trait of _______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "generosity"
+        },
+        {
+          "key": "B",
+          "text": "openness"
+        },
+        {
+          "key": "C",
+          "text": "anxiety"
+        },
+        {
+          "key": "D",
+          "text": "selfishness"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】根据这项研究,法学的学生在哪些性格特征的评分中得分明显很低。\n根据题干关键词,定位到文章第三段第二句,但从乐于助人和宽容友善的宜人性特质方面来看,学习\n法律、商务和经济的学生的表现不尽人意。因此选 A 项“慷慨,大方”。\n4\n【误项排除】B 项“公开,率真”,C 项“焦虑,忧虑”,D 项“自私,任性”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q23",
+      "sectionType": "reading",
+      "passageId": "e2016-p1",
+      "seq": 23,
+      "stem": "The word “conscientious” (Para. 4) probably means “________”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "moody"
+        },
+        {
+          "key": "B",
+          "text": "sensitive"
+        },
+        {
+          "key": "C",
+          "text": "curious"
+        },
+        {
+          "key": "D",
+          "text": "careful"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察词汇\n【解析】本题问的单词“conscientious”的含义。\n题干中“conscientious”含义为“认真负责的,谨慎的”和 D 项 careful “认真细心的,办事周到的” 意思相\n近。\n【误项排除】A 项“喜怒无常的”,B 项 sensitive 是“敏感的”,C 项 curious“好奇的” ,这三项不符\n合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q24",
+      "sectionType": "reading",
+      "passageId": "e2016-p1",
+      "seq": 24,
+      "stem": "Anna Vedel stated that the research _______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "confirmed the link between personality and profession"
+        },
+        {
+          "key": "B",
+          "text": "showed that the differences were far from significant"
+        },
+        {
+          "key": "C",
+          "text": "was not reliable because of its prejudicial observation"
+        },
+        {
+          "key": "D",
+          "text": "did not have enough samples to support its findings"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】安娜·韦德尔对这项研究的看法。\n根据题干关键词,定位到文章第五段:有趣的是,这些不同也证实了我们对不同专业那些或多或少的\n偏见,比如精神错乱的心理学家、沉默寡言的自然科学家以及见利忘义的经济学家。所以 A 项“证实了性\n格与专业之间的关系”符合题意。\n【误项排除】B 项“显示了差别非常不重要”,C 项“由于观察带有偏见,研究不可信”,D 项“没有足够\n的例子支持此发现”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q25",
+      "sectionType": "reading",
+      "passageId": "e2016-p1",
+      "seq": 25,
+      "stem": "According to Anna Vedel, the research may help ______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "students make wise choices in finding jobs 4"
+        },
+        {
+          "key": "B",
+          "text": "teachers understand their students better"
+        },
+        {
+          "key": "C",
+          "text": "students make presentations more academically"
+        },
+        {
+          "key": "D",
+          "text": "school pupils go to better universities"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】安娜·韦德尔认为这项研究可以帮助我们什么。\n根据题干关键词,定位到文章第六段最后一句安娜·韦德尔:“老师也可以有更好的机会来了解学生。” 所以 B 选项“教师更好的了解学生”正确。\n【误项排除】A 项“学生在找工作时做出明智的选择”,C 项“使学生的报告更具有学术性”,D 项“学生\n进入更好的大学”,这三项不符合题意。\n【参考译文】\n你在大学学习的是什么专业?如果是和法律或者金融相关的专业,你大概不太想继续看下去。因为最\n新研究显示,专业与我们的个性之间具有一定的联系。学习法律或者金融的你可能有自私不合作的倾向,\n而且难有感同身受的体会。但从积极的一方面说,你又可能是社交场合的活跃分子。\n研究人员对来自 12 个不同专业的 13000 多名大学生进行了研究分析。通过分析他们发现,大五类人\n格特征(注:严谨性、外向性、开放性、宜人性与神经质人格特质)与学生所学的专业之间存在一定联系。\n举例来说,研究发现,学习法律、经济、政治学和医学的学生要比学习其他学科的学生性格更加外向。\n但从乐于助人和宽容友善的宜人性特质方面来看,学习法律、商务和经济的学生的表现不尽人意。\n艺术学与人文学的学生,同那些学习心理学和政治学的学生一样,在开放性方面得分较高。这意味着\n他们好奇心强、想象丰富,并且善于表达自我情感。相比之下,学习经济、工程、法律和科学的学生在开\n放性上得分较低。然而,艺术学与人文学的学生严谨性低,神经质特性明显,这尤其体现在他们的焦虑不\n安与喜怒无常上。心理学学生在这些特质上和他们差不多。\n此项研究的作者安娜·韦德尔来自丹麦奥尔胡斯大学,她表示对这次的研究发现感到吃惊。她表示:“通\n过效应量的计算我们发现,不同专业的特质差异是十分明显的。”“有趣的是,这些不同也证实了我们对不\n同专业那些或多或少的偏见,比如精神错乱的心理学家、沉默寡言的自然科学家以及见利忘义的经济学\n家。”但同时她也认为这次的研究发现可以帮助那些对专业拿不定主意的学生做出选择,也可以帮助老师合\n理安排自己的课程。“我并不是说这个研究结果对于指导和选择有多么重要,但它对于有专业选择困难症,\n或者不想只根据能力来选择专业的学生来说,确实有着启发的作用。”韦德尔博士表示。“老师也可以有更\n好的机会来了解学生。”\nPassage Two\n【文章介绍】\n阿尔法围棋战胜世界围棋冠军见证了人工智能神速进展。有些人担心人类会被机器取代。本文作者主\n5\n要介绍人工智能不会取代人类的原因:人和机器有本质不同—人拥有人际交往技能,能够进行深层次的情\n感交互而机器不能。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q26",
+      "sectionType": "reading",
+      "passageId": "e2016-p2",
+      "seq": 26,
+      "stem": "According to the author, AlphaGo’s victory ____________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "could have happened earlier"
+        },
+        {
+          "key": "B",
+          "text": "came as a pleasant surprise"
+        },
+        {
+          "key": "C",
+          "text": "was an expected result"
+        },
+        {
+          "key": "D",
+          "text": "was more a matter of luck"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】本题问的作者如何看待阿尔法围棋的胜利。\n根据题干关键词,定位到第一段最后两句,虽然这件事提前发生让人吃惊,但结果并不意外。相反,\n这个结果是必然的且可预见。因此,此题选 C 项“是可预见的结果”。\n【误项排除】A 项“本可以早一点发生”,B 项“是一个令人愉快的意外”,D 项“是运气使然”,这三项\n不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q27",
+      "sectionType": "reading",
+      "passageId": "e2016-p2",
+      "seq": 27,
+      "stem": "The word “presage”(Para. 2) is closest in meaning to“____________”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "survive"
+        },
+        {
+          "key": "B",
+          "text": "suffer"
+        },
+        {
+          "key": "C",
+          "text": "invent"
+        },
+        {
+          "key": "D",
+          "text": "predict"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察词汇\n【解析】本题问的单词“presage”的含义。\n题干中“presage”含义为“预示,预测”和 D 项 predict“预测,预示”意思相同。\n【误项排除】A 项 survive“幸存,活下来”,B 项 suffer“忍受,遭受”,C 项 invent“发明,创造”,这三项\n不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q28",
+      "sectionType": "reading",
+      "passageId": "e2016-p2",
+      "seq": 28,
+      "stem": "What is the author’s attitude towards the human future in the face of technology?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Unclear"
+        },
+        {
+          "key": "B",
+          "text": "Confused"
+        },
+        {
+          "key": "C",
+          "text": "Worried"
+        },
+        {
+          "key": "D",
+          "text": "Optimistic"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】作者态度\n【解析】面对人工智能,作者对人类未来的态度是什么。\n根据题干关键词,定位到文章第二段,可是我不认为人类的失败预示大批失业时代的到来,无所不能\n的计算机会让我们无事可做。先进技术深深地改变了人际技能高价值的本质,虽然对人类的未来存在着威\n胁,但并不注定人类将会被打败。此外,整篇文章都在表明人类的许多特质和价值是计算机所不能代替的。\n例如在文章的三、四、五段,作者分别列举了三点人类所特有的技能,表明人类在科技发展的时代,仍然\n具有不可取代的价值,即作者对人类未来抱有一种积极乐观的态度。因此选 D 项 optimistic 乐观的。\n【误项排除】A 项 unclear 不明确的,B 项 confused 迷惑的,C 项 worried 着急的,担忧的,这三\n项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q29",
+      "sectionType": "reading",
+      "passageId": "e2016-p2",
+      "seq": 29,
+      "stem": "Which of the following is the most fundamental to human interaction?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Social sensitivity of group members to understand each other."
+        },
+        {
+          "key": "B",
+          "text": "Strong ability to share people’s feelings and respond."
+        },
+        {
+          "key": "C",
+          "text": "Team spirit to make sure that everyone is involved."
+        },
+        {
+          "key": "D",
+          "text": "Inspirational storytelling to motivate people to act."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断。\n【解析】人际交往的基础是什么。\n根据题干关键词,定位到文章第三段第二句:人类拥有的人际交往技能,人与人之间进行交流的能力,\n会变得更加弥足珍贵。有三种技能比较突出。第一种最基本的技能是共鸣,即对他人的痛苦感同身受,这\n是一种理解他人所想所感,并且能以适当的方式回应的能力。因此选 B 项“分担他人感受并予以回应的能\n力”。\n【误项排除】A 项“团队成员之间相互理解的社会敏感性”,C 项 “确保人人参与的团队精神”,D 项 “通\n过讲故事给人启发,鼓励采取行动的能力”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q30",
+      "sectionType": "reading",
+      "passageId": "e2016-p2",
+      "seq": 30,
+      "stem": "According to the author, the skills of deep human interaction ____________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "are the source of true human values in the future"
+        },
+        {
+          "key": "B",
+          "text": "can work with knowledge to make the world better 5"
+        },
+        {
+          "key": "C",
+          "text": "are similar to the skills of human logic and analysis"
+        },
+        {
+          "key": "D",
+          "text": "can be learned from textbooks and in classrooms"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断。\n【解析】在作者看来,深入的人际互动的技能是怎样。\n根据题干关键词,定位到文章最后一句:人际交往的技能是我们的价值所在。因此选 A 项“在未来,\n是人类真正价值所在的来源”。\n【误项排除】B 项“和知识一起使世界变的更美好”,C 项“与人类的逻辑与分析能力相似”,D 项“可以\n从书本和课堂学习到”,这三项不符合题意。\n【参考译文】\n据报道,阿尔法围棋(谷歌开发的一款围棋人工智能程序)战胜世界围棋冠军李世石的消息让人工智\n能专家们感到颇为震惊,他们觉得那应该是十到十五年之后的事情。虽然这件事提前发生让人吃惊,但结\n果并不意外。相反,这个结果是必然的且可预见。\n计算机非常擅长复杂的棋类游戏。正如它们之前击败跳棋和象棋世界冠军一样,它们注定会打败世界\n6\n围棋冠军。可是我不认为人类的失败预示着大批失业时代的到来,无所不能的计算机会让我们无事可做。\n先进技术深深地改变了人际技能高价值的本质,虽然对人类的未来存在着威胁,但并不注定人类将会被打\n败, 并且认为先进的技术人类拥有的人际交往技能,人与人之间进行交流的能力,会变得更加弥足珍贵。\n有三种技能比较突出。第一种最基本的技能是共鸣,即对他人的痛苦感同身受,这是一种理解他人所想所\n感,并且能以适当的方式回应的能力。第二种技能是团队创造性解决问题的能力。研究表明,对团队效能\n起关键作用的不是团队凝聚力、队员积极性或最聪明的队员;而是团队成员对社会的的敏感度和能够彼此\n相互理解的能力。并且,避免一个人支配整个队伍对团队效能也至关重要。\n第三种重要的技能是故事叙述能力。这有些许意外,因为以往讲故事并未得到公司机构的重视,在这\n些机构里看中的是图表和数据分析。图表和数据分析正是科技所擅长的。但若想改变人们的主意,激励他\n们采取行动,那就讲故事。\n以上人类的这些技能,虽说很基本,但和推动经济进步的技能有根本性的区别。我们在书本和课堂里\n学到的人类历史知识,逻辑分析知识,这些是促进社会发展的基础技能。相比之下,人际交往技能涉及到\n人类行为非理性的一面,而这些在教科书中找不到,只能从我们自身去寻找。随着计算机向更复杂的人工\n智能进展,人际交往的技能是我们的价值所在。\nPassage Three\n【文章介绍】\n本文主要描述了作者在 La Réunion 南边一个漂亮的有机农场参加 WWOOFing 的一次愉快并且收益\n颇丰的经历。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q31",
+      "sectionType": "reading",
+      "passageId": "e2016-p3",
+      "seq": 31,
+      "stem": "WWOOFing enables volunteers to _______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "get food and shelter for their work"
+        },
+        {
+          "key": "B",
+          "text": "travel around La Reunion for free"
+        },
+        {
+          "key": "C",
+          "text": "tell the differences between various birds"
+        },
+        {
+          "key": "D",
+          "text": "have close contact with wild animals"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断。\n【解析】 在有机农场做义工能让志愿者怎么样?\n根据题干关键词,定位到文章第一段第二句,With WWOOFing, volunteers exchange their time and work\nfor food and accommodation. 在这个活动中,自愿者通过交换时间劳动换取食物和住宿。因此选 A 项“通过\n劳动换取食物和住宿”。\n【误项排除】B 项“免费环游 La Réunion”,C.项 “找出各种鸟类之间的差异”,D 项 “与野生动物亲\n密接触”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q32",
+      "sectionType": "reading",
+      "passageId": "e2016-p3",
+      "seq": 32,
+      "stem": "The author found his farm life in La Reunion quite ____________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "awful"
+        },
+        {
+          "key": "B",
+          "text": "rewarding"
+        },
+        {
+          "key": "C",
+          "text": "comfortable"
+        },
+        {
+          "key": "D",
+          "text": "difficult"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断。\n【解析】本题问着是作者对 La Réunion 有机农场的感受是什么。\n根据题干关键词,定位到文章第二段:这也正是我喜爱 WWOOFing 的原因。在有机农场做义工也是\n一种很好的旅行方式。且根据在第三段最后两句所述,我对能参与树木周期最开始的部分满怀感激。这么\n小的幼苗能长成粗壮的大树,我内心不由得生出敬畏之情。并结合第四段第一句,我们也做了大量的除草\n工作,这让我认识了各种不同的植物,并能辨别哪些可以用来制作草药,哪些可以做沙拉,哪些不能吃。\n综合以上,可以发现作者在留尼旺岛的农场生活是相当有收获的。故选 B 项“有收获的”。\n【误项排除】A 项“糟糕的,极坏的”,C 项 “舒服的,安逸的”,D 项 “困难的,艰辛的”,这三项不\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q33",
+      "sectionType": "reading",
+      "passageId": "e2016-p3",
+      "seq": 33,
+      "stem": "The author did all of the following on the organic farm EXCEPT ____________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "removing weeds"
+        },
+        {
+          "key": "B",
+          "text": "planting palm trees"
+        },
+        {
+          "key": "C",
+          "text": "harvesting fruits"
+        },
+        {
+          "key": "D",
+          "text": "collecting vegetables"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】作者在有机农场没有做哪件事。\n我们可以在第三段和第四段中找到作者种植棕榈树、除草和采收菠萝和番石榴果实的内容。作者没有\n提及采摘蔬菜,因此,本文的正确答案为 D“采摘蔬菜”。\n【误项排除】A 项“除杂草”,B 项 “种植棕榈树”,C 项 “收获水果” ,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q34",
+      "sectionType": "reading",
+      "passageId": "e2016-p3",
+      "seq": 34,
+      "stem": "The philosophy of WWOOFing is to ____________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "improve local environment"
+        },
+        {
+          "key": "B",
+          "text": "make locals live better"
+        },
+        {
+          "key": "C",
+          "text": "unite different communities"
+        },
+        {
+          "key": "D",
+          "text": "advocate a fair exchange"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】 WWOOFing 透射出的哲学意义是什么。\n根据题干关键词,定位到文章第五段第四句,一个公平的交换可以使这个世界大不同,因此选 D 项“倡\n7\n导公平交换”。\n【误项排除】A 项“改善当地环境”,B 项 “改善当地人的生活”,C 项 “使不同的社区团结在一起” ,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q35",
+      "sectionType": "reading",
+      "passageId": "e2016-p3",
+      "seq": 35,
+      "stem": "This passage is mainly about ____________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "the development of WWOOFing"
+        },
+        {
+          "key": "B",
+          "text": "a local WWOOFing community"
+        },
+        {
+          "key": "C",
+          "text": "a charming WWOOFing experience"
+        },
+        {
+          "key": "D",
+          "text": "the system of WWOOFing"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】文章主旨\n【解析】本题问的文章大意。\n本文主要描述了作者在 La Réunion 南边一个漂亮的有机农场参加 WWOOFing 的一次愉快的经历。因\n此选 C 项“一段丰富的 WWOOFing 经历”。\n【误项排除】A 项“WWOOFing 的发展”,B 项“一个 WWOOFing 当地社区”,D 项“WWOOFing 体系”,\n这三项不符合题意。\n【参考译文】\n去年,我参加了在 La Réunion 南边一个漂亮的有机农场的 WWOOFing(自愿参加有机农场劳动的活\n动)。在这个活动中,自愿者通过交换时间和劳动来换取食物和住宿。我睡在林中小屋,附近有刺猬在灌\n木丛中挖洞,各种鲜艳颜色的小鸟在早晨歌唱,还有成排看不见尽头的棕榈树遮阴挡阳。\n我认为要了解一个陌生的地方,最好的方式是在这片土地上劳作,和当地人同吃住同住。这也正是我\n喜爱 WWOOFing 的原因。在有机农场做义工也是一种很好的旅行方式。这是个互惠的活动,每个人都把\n人和环境放在首位,并且你有时间和空间去深入了解当地社区和自然。\n参加这个活动,我们需要学习的有很多,因为每个农场的环境,气候和土壤不同,所以做事方式也不\n尽相同。在 La Réunion 有机农场,我们种植了棕榈树。这种棕榈树长大后,便可以收获棕榈心,棕榈心营\n养价值极高,可以制成美味沙拉。在此之前,我只吃过棕榈心罐头制品,但那味道和新鲜棕榈心的味道相\n差甚远。当我栽培棕榈幼苗时,我对能参与树木周期最开始的部分满怀感激。这么小的幼苗能长成粗壮的\n大树,我内心不由得生出敬畏之情。\n我们也做了大量的除草工作,这让我认识了各种不同的植物,并能辨别哪些可以用来制作草药,哪些可\n以做沙拉,哪些不能吃。我还收获了菠萝,番石榴,这些水果可以制成在当地市场出售的果酱。\n当然了,并不是每个人都能够去很远的农田里。WWOOFing 折射出的技能分享哲学的伟大之处在于\n这些东西我们都可以从自己的后院制作出来。重点从金钱转移到如何最好的在我们的社区中互相支持。一\n个公平的交换可以使这个世界大不同。\nPassage Four\n【文章介绍】\n随着人们对电子产品如智能手机越来越依赖,走路分神造成死亡的人数不断增加,这已成为一个日益\n严重的社会问题。本文介绍了行人走路玩手机的危害并探讨了解决这一问题应采取的措施。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q36",
+      "sectionType": "reading",
+      "passageId": "e2016-p4",
+      "seq": 36,
+      "stem": "This passage is mainly concerned with .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "the difficulty in enforcing road regulations"
+        },
+        {
+          "key": "B",
+          "text": "rising deaths caused by distracted walking"
+        },
+        {
+          "key": "C",
+          "text": "the dangers of jaywalking on busy streets"
+        },
+        {
+          "key": "D",
+          "text": "distracted walking involving smartphones"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】文章主旨\n【解析】本题问的这篇文章主要关注的是什么问题。\n据本文所述,随着人们对电子产品如智能手机越来越依赖,走路分神造成死亡的人数不断增加,这已\n成为一个日益严重的社会问题。因此选 B 项“走路分神造成死亡的人数在增加”。\n【误项排除】A 项“贯彻实施道路规章的困难”,C 项 “在繁忙大街上,乱穿马路的危害”,D 项 “手机\n造成的走路分神”这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q37",
+      "sectionType": "reading",
+      "passageId": "e2016-p4",
+      "seq": 37,
+      "stem": "The states introducing bills that target pedestrians .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "have benefited from the bills"
+        },
+        {
+          "key": "B",
+          "text": "find it hard to carry them out"
+        },
+        {
+          "key": "C",
+          "text": "have been promoting the legislation"
+        },
+        {
+          "key": "D",
+          "text": "will have fewer deaths of pedestrians"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】引入针对行人法案的那些州怎么样。\n根据题干关键词,定位到文章第二段,死亡数目的上升恰逢美国几个州出台针对步行者的法案。像夏\n威夷州,阿肯色州,伊利诺斯州,内华达洲和纽约市每年不断出台相关法律法规。因此选 C 项“一直在推\n进立法”。\n【误项排除】A 项“得益于这些法案”,B 项“发现很难实施”,D 项“行人死亡数目下降”,这三项不符\n8\n合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q38",
+      "sectionType": "reading",
+      "passageId": "e2016-p4",
+      "seq": 38,
+      "stem": "According to the measure proposed by Lampitt, walking while texting would .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "become illegal"
+        },
+        {
+          "key": "B",
+          "text": "involve safety education"
+        },
+        {
+          "key": "C",
+          "text": "be blamed publicly"
+        },
+        {
+          "key": "D",
+          "text": "incur a fine of over $ 50"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断。\n【解析】根据兰皮特的提议,走路发短信应如何处罚。\n根据题干关键词,定位到文章第三段第二句,违反者处以上限 50 美金罚款或十五天监禁或两者并罚,\n因此选 A 项“是违法的行为”。\n【误项排除】B 项“需接受安全教育”,C 项 “应公开批评”,D 项 “处以 50 美元以上罚金”这三项不符\n合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q39",
+      "sectionType": "reading",
+      "passageId": "e2016-p4",
+      "seq": 39,
+      "stem": "Lampitt reasons that distracted pedestrian are as dangerous as .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "motorists"
+        },
+        {
+          "key": "B",
+          "text": "speeding drivers"
+        },
+        {
+          "key": "C",
+          "text": "jaywalkers"
+        },
+        {
+          "key": "D",
+          "text": "drunk drivers"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】兰皮特认为行人走路分神和什么一样危险。\n根据题干关键词,定位到文章第四段最后一句,“边玩智能手机边过马路的行人和乱穿马路一样会对\n汽车驾驶员造成危险,理应处以同样的处罚。因此选 C 项“乱穿马路的人”。\n【误项排除】A 项“汽车驾驶员”,B 项“超速驾驶的司机”,D 项“酒驾司机”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q40",
+      "sectionType": "reading",
+      "passageId": "e2016-p4",
+      "seq": 40,
+      "stem": "Which of the following would the author the passage most probably agree with?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Males are more vulnerable to distracted-walking injuries. 7"
+        },
+        {
+          "key": "B",
+          "text": "Police officers are unhappy with the proposed law."
+        },
+        {
+          "key": "C",
+          "text": "Safety education is more important than penalty."
+        },
+        {
+          "key": "D",
+          "text": "Rising distracted-walking incidents call for real attention."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】态度推断\n【解析】作者最赞成的观点是什么。\n根据题干关键词,定位到文章第四段前二句,有些人视提议为不必要的过度管制,有些人认为兰皮特\n分析的有道理,但更多的人同意需关注这个问题。因此选 D 项“行人走路分神引起的道路事故增加需得到\n人们重视”。\n【误项排除】A 项“走路分神受伤的多是男性群体”,B 项“警察对新的立法不满意”,C 项 “安全教育\n比处罚更重要”,这三项不符合题意。\n【参考译文】\n专家表示:随着各个年龄段的人们变得更加依赖电子设备来处理个人以及工作事务,走路分神成为一\n个日益严重的问题。他们还注意到,近些年,行人死亡的数目一直在增加,美国行人死亡人数占总死亡数\n目的比例由之前的 11%升至 2014 年的 15%。\n死亡数目的上升恰逢美国几个州出台针对步行者的法案。像夏威夷州,阿肯色州,伊利诺斯州,内华\n达洲和纽约市每年不断出台相关法律法规。\n最近,由新泽西州议会女议员帕梅拉·兰皮特提议一项措施是:禁止边走路边发短信;行人不允许在公\n路上使用电子通讯设备,双手不占用的情况例外。违反者处以上限 50 美金罚款或十五天监禁或两者并罚,\n这和乱穿马路的处罚规定是一样的。兰皮特表示:一半罚金将会用于安全教育,告诉人们边发信息边走路\n的危险。\n有些人视提议为不必要的过度管制,有些人认为兰皮特分析的有道理,但更多的人同意需关注这个问\n题。“行人走路分神如同司机开车分神,一样会给他们自己和公路上别的司机带来潜在威胁”,兰皮特说,“边\n玩智能手机边过马路的行人和乱穿马路一样会对汽车驾驶员造成危险,理应处以同样的处罚。” 但这个措施存在的主要问题是能否被警察坚持贯彻实施。因为警察们通常比较忙,有更紧急的事情等\n待他们处理。一些人认为,关键应该加强走路分神危险性教育,而不是制定新的法规。可是兰皮特表示:\n为了阻止这种冒险行为,处罚性的措施是必要的。她说据国家安全局的一项报告表明,2000 到 2011 十一\n年间,行人因玩手机走路分神受伤人数达到 11101 人。\n研究发现受伤人群多是 40 岁或更年轻的女性。她们在遭到伤害时,大都在用手机通话,12%在发短信。\n80%的受伤事故是跌倒所致,9%是由于行人撞倒了静止物体。\nSection B\n【文章介绍】\n俗话说“人靠衣装,佛靠金装”,说明穿着的重要性。穿戴的服饰会影响人们对你的评价。有人认为认\n为穿的好意味着成功,也有些人不这么认为。文章就此展开了讨论。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q41",
+      "sectionType": "reading",
+      "passageId": "e2016-p5",
+      "seq": 41,
+      "stem": "Which of the following might the writer of the passage agree with?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Steve Jobs and Bill Gates dress formally."
+        },
+        {
+          "key": "B",
+          "text": "We should not judge a person by his clothing."
+        },
+        {
+          "key": "C",
+          "text": "It is clothes that make the man."
+        },
+        {
+          "key": "D",
+          "text": "The well-dressed are more likely to succeed."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "9\n【考点】作者态度\n【解析】作者赞成哪个观点。\n根据题干关键词,定位到文章第二段,我恰是不赞成该说法的一员。和史蒂夫·乔布斯,比尔盖茨一样,\n我喜欢着装随意。我想我这一类人员占少数,但我却是精英俱乐部成员。因此选 B 项“我们不应该靠穿着\n来评价一个人”。\n【误项排除】A 项“乔布斯和比尔盖茨穿着很正式”,C 项 “人确实得靠衣装”,D 项 “穿着得体的人更\n可能成功”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q42",
+      "sectionType": "reading",
+      "passageId": "e2016-p5",
+      "seq": 42,
+      "stem": "According to the writer of the passage, perception .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "might prove wrong"
+        },
+        {
+          "key": "B",
+          "text": "is powerful and reliable"
+        },
+        {
+          "key": "C",
+          "text": "is half reality"
+        },
+        {
+          "key": "D",
+          "text": "might be worthless to us"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断。\n【解析】根据作者的观点,感觉 。\n根据题干关键词,定位到文章第三段最后二句,但真的如此吗?其实并非都像看上去的一样。多少次\n你凭印象做出第一判断后,却吃惊的发现可惜的错过一次绝佳的机会,一个重要的人物或是一个奇妙的想\n法?因此选 A 项“可能证明是错的”。\n【误项排除】B 项“是强大的,可信的”,C 项 “是部分事实”,D 项 “对我们是毫无价值的”这三项不\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q43",
+      "sectionType": "reading",
+      "passageId": "e2016-p5",
+      "seq": 43,
+      "stem": "The writer of Comment 1 seems to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "dislike the way Steve Jobs dressed for business occasions"
+        },
+        {
+          "key": "B",
+          "text": "suggest that business people have no taste in clothing"
+        },
+        {
+          "key": "C",
+          "text": "believe that the well-dressed are the most successful 8"
+        },
+        {
+          "key": "D",
+          "text": "think that Steve Jobs’ casualness reflected his self-confidence"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】本题问的评论 1 作者的观点。\n根据题干关键词,定位到文章评论 1 最后一句,我认为这既是他穿衣品味的体现,也是自信的体现。\n因此选 D 项“认为斯蒂夫·乔布斯着装随意反应了他的自信”。\n【误项排除】A 项“不喜欢斯蒂夫·乔布斯在商务场合的着装”,B 项 “表示商务人士对服装的品味差”,\nC 项 “认为穿的好代表很成功” ,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q44",
+      "sectionType": "reading",
+      "passageId": "e2016-p5",
+      "seq": 44,
+      "stem": "Speaking of Steve Jobs, the writer of Comment 2 .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "points out that Steve Jobs was a very aggressive person"
+        },
+        {
+          "key": "B",
+          "text": "suggests that he and Steve Jobs used to be in the same club"
+        },
+        {
+          "key": "C",
+          "text": "holds the same view as the writer of the passage"
+        },
+        {
+          "key": "D",
+          "text": "thinks Steve Jobs^ casualness was carefully thought out"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】本题问的提到斯蒂夫·乔布斯,评论 2 作者的观点。\n根据题干关键词,定位到文章评论 2 前二句,你们错怪了斯蒂夫·乔布斯。他当然很在意他在人们心中\n的形象,甚至是刻意要达到他想要的效果。且最后一句提到:显然,他是很重视自己的着装的影响的。因\n此选 D 项“认为乔布斯休闲着装是经过慎重考虑的”。\n【误项排除】A 项“指出斯蒂夫·乔布斯是个有进取心的人”,B 项 “指出他和乔布斯以前在同一个俱乐\n部”,C 项 “和博主观点相同” ,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q45",
+      "sectionType": "reading",
+      "passageId": "e2016-p5",
+      "seq": 45,
+      "stem": "When he went to the dinner party in jeans (Comment 3), the philosopher .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "thought that people liked his clothes"
+        },
+        {
+          "key": "B",
+          "text": "was not aware of how his clothes looked"
+        },
+        {
+          "key": "C",
+          "text": "felt quite embarrassed"
+        },
+        {
+          "key": "D",
+          "text": "considered himself out of place"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】评论 3 中,教授对自己穿牛仔裤来参加宴会的看法。\n根据题干关键词,定位到文章评论 3,当有人问他是否觉得自己穿的不合适,他环顾四周,说他没注\n意。因此选 B 项“没意识到自己穿的是否得体”。\n【误项排除】A 项“认为人们会喜欢他穿的衣服”,C 项 “感觉很尴尬”,D 项 “认为自己穿的不合时宜”,\n这三项不符合题意。\n【参考译文】\n早在四百多年前,就已经有了“人靠衣装,佛靠金装”这样的谚语,说的是,倘若一个人穿着考究,那\n么这个人肯定是个专业人士,有才华并且富有,这是过去人们普遍的观念。所以,你想别人怎么看待你,\n或者你想成为什么样的人,那就怎么穿戴。四百年过去了,很多人的观念仍然没有改变。但是穿着真的会\n影响人们对你的看法吗?\n我恰是不赞成该说法的一员。和史蒂夫·乔布斯,比尔盖茨一样,我喜欢着装随意。我想我这一类人员\n占少数,但我却是精英俱乐部成员。\n感知不是事实,它是通往发现事实道路的途中。我们对事物的看法源自于我们的印象和信念体系。观\n念是否很强大,是否影响很大?当然!但真的如此吗?其实并非都像看上去的一样。多少次你凭印象做出\n10\n第一判断后,却吃惊的发现你可惜的错过一次绝佳的机会,一个重要的人物或是一个奇妙的想法?\n评论 1\n当今,很多人把穿的好等同于成功。斯蒂夫·乔布斯在公众舞台上穿着牛仔裤,让商界人士津津乐道了\n很久。我不认识乔布斯先生,虽然我希望认识他。我听说,他开创了商务休闲装的概念,我认为这既是他\n穿衣品味的体现,也是自信的体现。\n评论 2\n你们错怪了斯蒂夫·乔布斯。他当然很在意他在人们心中的形象,甚至是刻意要达到他想要的效果。早\n期时候,他穿着正式的商务装,后来改穿商务便装,如黑色高领衬衫和牛仔服,给人积极进取的印象。显\n然,他是很重视自己的着装的影响的。\n评论 3\n这让我想起一个故事:一位哲学家穿着牛仔裤去参加一个正式的宴会,当有人问他是否觉得自己穿的\n不合适,他环顾四周,说他没注意。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q46",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "at"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "with"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察与 start 搭配的词组辨析。\n【解析】交通发展的历史从步行开始,步行不算是发明。因此 D 项 start with 从...开始,符合原文。\n【误项排除】A 项 start on 开始进行,B 项 start at 起始于, C 项 start for 动身去,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q47",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "possible"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "one"
+        },
+        {
+          "key": "D",
+          "text": "just"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察上下文语义。\n【解析】根据句意:如果你想快速到达一个地方,只能跑。因此 B 项 only 唯一的,仅有的,符合原\n文。\n【误项排除】A 项 possible 可能的,C 项 one 一,一个, D 项 just 公正的,合理的,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q48",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "probably"
+        },
+        {
+          "key": "B",
+          "text": "luckily"
+        },
+        {
+          "key": "C",
+          "text": "really"
+        },
+        {
+          "key": "D",
+          "text": "formerly"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察副词词义辨析。\n【解析】根据句意:实际上,关于交通运输产生的第一个发明可能是鞋子。以前没有鞋,人们都光着\n脚走路。因此 A 项 probably 大概,或许,符合原文。\n【误项排除】B 项 luckily 幸运地,C 项 really 实际上,事实上,D 项 formerly 以前,原来,都不符合原\n文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q49",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "methods"
+        },
+        {
+          "key": "B",
+          "text": "channels"
+        },
+        {
+          "key": "C",
+          "text": "ways"
+        },
+        {
+          "key": "D",
+          "text": "measures"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察名词词义辨析。\n【解析】根据句意:随后人们发明了能够把人和货物从一地运输到另一地的方法。因此 C 项 ways 方\n法,符合原文。\n【误项排除】A 项 methods 方法,ways 和 methods 都可以表示方式,方法,但 methods 多指的是科\n学的方法,具体做事的步骤或程序,再着从文章第三段第一句话中 they could invent other ways to travel 可\n知,选 C 更合意,B 项 channels 频道,渠道,D 项 measures 措施,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q50",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "where"
+        },
+        {
+          "key": "D",
+          "text": "which"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察定语从句引导词。\n【解析】根据句意:在一些文化中,人们发明雪橇,雪橇是一种能在地面上拖着走的木板。后一句是\n对前一句的修饰,而且空格前面是逗号,因此该句为非限制性定语从句,而非限制性定语从句一般由 which\n引导,因此 D 项符合原文。\n【误项排除】A 项 what 不做定语从句引导词,B 项 when 关系副词,指代时间, C 项 where 关系副词,\n指代地点,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q51",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "unless"
+        },
+        {
+          "key": "B",
+          "text": "but"
+        },
+        {
+          "key": "C",
+          "text": "even"
+        },
+        {
+          "key": "D",
+          "text": "since"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察词义辨析和上下文语义。\n11\n【解析】根据句意,你可以把货物绑在雪橇上来运载,但同时雪橇也是一项有挑 战性的发明,因为\n一旦撞上石头,雪橇上面的货物就会滑落。显然这里是因果关系,因此 D 项 since 因为,符合原文。\n【误项排除】A 项 unless 除非,B 项 but 但是,C 项 even 甚至,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q52",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "pull out"
+        },
+        {
+          "key": "B",
+          "text": "slip off"
+        },
+        {
+          "key": "C",
+          "text": "hold down"
+        },
+        {
+          "key": "D",
+          "text": "put down"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察动词词组辨析。\n【解析】根据句意:当你拉动雪橇,它撞上石头,车上装载的东西就会滑落。因此 B 项 slip off 滑落,\n符合原文。\n【误项排除】A 项 pull out 退出,(火车)驶出,C 项 hold down 压住,镇压, D 项 put down 记下,放\n下,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q53",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "Once"
+        },
+        {
+          "key": "B",
+          "text": "Then"
+        },
+        {
+          "key": "C",
+          "text": "However"
+        },
+        {
+          "key": "D",
+          "text": "Yet"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察上下文语义和逻辑关系。\n【解析】根据句意:一旦人们发明出轮子,他们就能够发明其他的出行方式。因此 A 项 once 一旦,\n符合原文。\n【误项排除】B 项 then 然后,C 项 however 然而,D 项 yet 但是,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q54",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "stick"
+        },
+        {
+          "key": "B",
+          "text": "make"
+        },
+        {
+          "key": "C",
+          "text": "fasten"
+        },
+        {
+          "key": "D",
+          "text": "change"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察动词短语搭配。\n【解析】根据句意:他们在轮子上装上木板,做成车,然后把车固定在牛或者马背上,可载人,可运\n货。因此 C 项 fasten...to 把...固定在...上,符合原文。\n【误项排除】A 项 stick 粘住,B 项 make 使得,进行,D 项 change 改变,交换,都不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q55",
+      "sectionType": "cloze",
+      "passageId": "e2016-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "that"
+        },
+        {
+          "key": "C",
+          "text": "which"
+        },
+        {
+          "key": "D",
+          "text": "how"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考察宾语从句引导词。\n【解析】根据句意:轮子使我们拥有今天的一切:卡车,汽车甚至船和飞机。此处 lead to 缺少宾语,\nhave 后也缺少宾语,此种情况用 what,因此选择 A 选项。\n【误项排除】B 项 that,从属连词,引导宾语从句,在从句中不作任何成分,可省略。从句中 have 显\n然少了个宾语,因此排除;C 项 which,连接代词,也可引导宾语从句,在从句中做主语,宾语或定语,\n但语义不符,排除;D 项 how,连接副词,引导宾语从句,在从句中做状语,语义不符。\n【参考译文】\n交通的历史非常久远,充满了变化和发明创造。最早的交通形式是步行,这算不上什么发明,只需消\n耗能量。在过去,要到别的地方,都是靠走路。如果你想快速到达,只能跑。实际上,第一个为了交通运\n输产生的发明可能是鞋子。几个世纪以前,是没有鞋子的,人们都赤着脚走路。\n随后人们发明了能够把人和货物从一地运输到另一地的方 法。在一些文化当中,人们发明了雪橇。\n雪橇是用木板制成的,由人拖拽沿地面前行。你可以把货物绑在雪橇上来运载,但同时雪橇也是一项有挑\n战性的发明,因为一旦撞上石头,雪橇上面的货物就会滑落。在另些文化中,人们发明了轮子,用来方便\n运输。这些就是最早形式的交通发明。\n一旦人们发明出轮子,他们就能够发明其他的出行方式。他们在轮子上装上木板,做成车,然后把车\n固定在牛或者马背上,可载人,可运货,这就是早期的四轮运货马车。后来逐渐产生了卡车,汽车,帆船\n和飞机,这些现代交通工具。例如,曾经的汽船,通过桨叶转动巨轮,从而推动汽船向前行驶。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A.  ____  only one language",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】choose only one language 为正确搭配,意思是“只选择一种语言”,故选 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B.  ____  any reason not to",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】本题可采用排除法来做,A 项 many 和 D 项 ways of 无法与空格后的 any reason not to 构\n成搭配,并结合语义,排除 B 项,故选 C 项。\n12",
+      "score": 1
+    },
+    {
+      "id": "e2016-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. in  ____  different ways",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】in many different ways 为正确搭配,意思是“以许多不同方式”,故选 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 59,
+      "stem": "（第 59 空）D. the most boring  ____  seeing the world",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前的 boring 为形容词,空格后为 seeing,四个选项中只有 ways of 符合,即 the most\nboring ways of seeing the world,意为“最为无聊的了解世界的方式”,故选 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…Each is a whole different world—a whole different mindsets. I couldn’t possibly  ____  because it would mean really giving up the possibility to be able to see the world 61 .…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格后面为一个完整的句子且空格前面只有主语 I,空格处所填内容应该与主语构成完整的\n句子,排除 B、C 和 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…ause it would mean really giving up the possibility to be able to see the world  ____  . So the monolingual lifestyle, for me, is the saddest, the loneliest, 62 . There are s…",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前面为一个完整的句子,只有 C 项是介宾短语,能充当状语,修饰整个句子。整句话的\n意思是“我不可能只选择一种语言,因为那就意为着我放弃了用别的不同方式了解这个世界的机会。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 62,
+      "stem": "（第 62 空）…world 61 . So the monolingual lifestyle, for me, is the saddest, the loneliest,  ____  . There are so many advantages of learning a language; I really can 't 63 .",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】从整句来看,空格处缺少表语,表语通常由形容词和名词来充当,前面已经出现两个形容词\n的最高级,应该是用来修饰后面的名词的。只有 D 项是带有最高级的名词短语。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p7",
+      "seq": 63,
+      "stem": "（第 63 空）…iest, 62 . There are so many advantages of learning a language; I really can 't  ____  .",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "choose"
+        },
+        {
+          "key": "C",
+          "text": "think of"
+        },
+        {
+          "key": "D",
+          "text": "ways of"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】can 是个情态动词,后面加动词原形,且 A 已经在前面选过,因此这里选 B。结合句子意思“我\n真想不出任何不这样做的理由”,符合题意。\n【参考译文】\n我认为每一种语言都有自己诠释世界的特定方式。每一种语言都是一个不同的世界—一种完全不同的\n思维模式。我不可能只选择学习一种语言,因为那就意味着我放弃了用别的不同方式了解这个世界的机会。\n因此对我来说,单语的生活模式是最可悲,最孤独,最无聊的了解这个世界的方式。学习语言有很多益处,\n我实在想不出任何不这么做的理由。\nText Two\n【短文大意】\n本文主要介绍恐慌症。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p8",
+      "seq": 64,
+      "stem": "（第 64 空）A. but it may  ____  like forever",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "known"
+        },
+        {
+          "key": "B",
+          "text": "idea"
+        },
+        {
+          "key": "C",
+          "text": "feel"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处缺少谓语,且空格前面为 may,故选 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p8",
+      "seq": 65,
+      "stem": "（第 65 空）B. a person may have no  ____  what is wrong",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "known"
+        },
+        {
+          "key": "B",
+          "text": "idea"
+        },
+        {
+          "key": "C",
+          "text": "feel"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】 have no idea 为正确搭配,意思是“不知道,不清楚”。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p8",
+      "seq": 66,
+      "stem": "（第 66 空）C. what is  ____  as panic disorder",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "known"
+        },
+        {
+          "key": "B",
+          "text": "idea"
+        },
+        {
+          "key": "C",
+          "text": "feel"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前面为 be 动词 is,三个选项中只有 known 符合, be known as 意思是“被认为是”,\n故选 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p8",
+      "seq": 67,
+      "stem": "（第 67 空）A panic attack is a sudden feeling of terror. Usually it does not last long,  ____  . The cause can be something as normally uneventful as driving over a bridge or flying…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "known"
+        },
+        {
+          "key": "B",
+          "text": "idea"
+        },
+        {
+          "key": "C",
+          "text": "feel"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格部分独立存在,且空格前面为一个完整的句子,后面也应该是个句子,且两个句子之间\n须有连接词,只有 A 项符合。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p8",
+      "seq": 68,
+      "stem": "（第 68 空）…heartbeat. Sweaty hands. Difficulty breathing. A lightheaded feeling. At first  ____  . But these can all be signs of 69 . The first appearance usually is between the ages o…",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "known"
+        },
+        {
+          "key": "B",
+          "text": "idea"
+        },
+        {
+          "key": "C",
+          "text": "feel"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格部分应填入一个完整的句子,C 项是个从句,结构上不符合,且 A 项已被选,故选 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p8",
+      "seq": 69,
+      "stem": "（第 69 空）…y breathing. A lightheaded feeling. At first 68 . But these can all be signs of  ____  . The first appearance usually is between the ages of eighteen and twenty-four. In some…",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "known"
+        },
+        {
+          "key": "B",
+          "text": "idea"
+        },
+        {
+          "key": "C",
+          "text": "feel"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前面为介词 of,缺少宾语,三个选项中只有 C 语法正确且符合题意。\n【参考译文】。\n恐慌是一种突然的恐惧感。这种感觉通常不会持续很久,但可能感觉会很漫长。恐慌可能在开车过桥\n或乘飞机这样很平常的事情中发生,即使曾经这样做过很多次,恐慌还是会发生。恐慌发作的时候,你会\n感到心跳加速,手掌出汗,呼吸困难,头昏眼花。一开始,你不知道自己怎么了。这些都是恐慌症的症状。\n一般会在十八和二十四岁首次出现。有时,一些悲剧性的事件,比如所爱的人的死亡或其他一些困难的情\n况,会导致恐慌障碍。\n13\nText Three\n【短文大意】\n本文主要介绍地球一小时的活动。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p9",
+      "seq": 70,
+      "stem": "（第 70 空）A. sit at home  ____ ",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "lights"
+        },
+        {
+          "key": "B",
+          "text": "protect"
+        },
+        {
+          "key": "C",
+          "text": "in the dark"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】sit at home 是个动词词组,后面应该加个状语,只有 C 这个介宾短语能充当状语。sit at home\nin the dark ,意思是“黑暗中坐在家里”。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p9",
+      "seq": 71,
+      "stem": "（第 71 空）B. turn off all non-essential  ____ ",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "lights"
+        },
+        {
+          "key": "B",
+          "text": "protect"
+        },
+        {
+          "key": "C",
+          "text": "in the dark"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】该短语缺少一个宾语,只有 A 项名词符合。turn off all non-essential the light“关上所有非必需\n的灯”。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p9",
+      "seq": 72,
+      "stem": "（第 72 空）C. passed a law to  ____  the sea",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "lights"
+        },
+        {
+          "key": "B",
+          "text": "protect"
+        },
+        {
+          "key": "C",
+          "text": "in the dark"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格部分缺少的是动词,故选 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…World Wide Fund for Nature) annual Earth Hour. Earth Hour is an event where you  ____  and power between 8-9 pm, things like your TV and computer. However, you don’t just 74…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "lights"
+        },
+        {
+          "key": "B",
+          "text": "protect"
+        },
+        {
+          "key": "C",
+          "text": "in the dark"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格部分缺少的是谓语部分,且空格前面的时态为一般现在时,排除 C 项。结合句意,该句\n介绍地球一小时的做法—即“关掉不必要的灯和电源”所以此处应选 B 项。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…power between 8-9 pm, things like your TV and computer. However, you don’t just  ____  for an hour. Instead, people gather in groups and have fun without using power. Things…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "lights"
+        },
+        {
+          "key": "B",
+          "text": "protect"
+        },
+        {
+          "key": "C",
+          "text": "in the dark"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格部分缺少的也是谓语部分,且动词应使用原形,故选 A 项,整句话的意思是“然而,你\n不用只是在黑暗中在家里坐一个小时”。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2016-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…arth Hour have also planted a forest in Uganda, built solar panels in India and  ____  in Argentina. Paper Two(试卷二) (50minutes)",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "lights"
+        },
+        {
+          "key": "B",
+          "text": "protect"
+        },
+        {
+          "key": "C",
+          "text": "in the dark"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格处也是缺少谓语部分,且根据 and 前面的时态可知为现在完成时,故此处应选 C 项。\n【参考译文】\n我是个环保积极分子,这个月是世界自然基金会提倡的一年一度的“地球一小时”的月份。“地球一小时’ 是指在晚上八点到九点间,人们关掉所有非必需电灯和电源(比如电视、电脑等)的活动”。然而,你不\n用只是在黑暗中在家里坐一个小时。人们成群结队地聚在一起,不用电,尽情玩耍。比如跳舞,放烟花,\n音乐表演,这些都非常受欢迎,参与其中,非常有趣。“地球一小时”不只关乎到节约能源;参与“地球一小\n时”活动中的人们已经在乌干达种下了一片森林,在印度修建了太阳能板,在阿根廷通过了一项保护大海\n的法令”。",
+      "score": 1
+    },
+    {
+      "id": "e2016-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\n10\nBooks are steadily increasing in size: the average number of pages has grown by 25% over the last 15 years. A study of more than 2,500 books appearing on New York Times bestseller reveals that the average length has\nincreased from 320 pages in 1999 to 400 pages in 2014. James Finlayson, who carried out the study, believed\n\"there's a relatively consistent pattern of growth year on year\". For Finlayson, much of this shift can be explained\nby the industry's shift towards digital. \"When you pick up a large book in a shop,\" he says,\" you can sometimes be\nintimidated. But if you have a big book on a Kindle (e-book),that’s not a consideration.”",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "书籍篇幅呈稳态增长趋势:过去的 15 年,其平均页数增加了 25%。一项关于《纽约时报》2500 多本畅\n销书的研究显示:书本的平均篇幅已经从 1999 年的 320 页增加到 2014 年的 400 页。开展这项调查的 James\nFinlayson(詹姆斯·芬兰森)认为:“书籍厚度呈相对稳定的逐年增长之势”。芬兰森认为,这种转变很大程\n度上归因于产业数字化。他表示,“当你在书店里拿起一本厚厚的书,有时可能会被吓到。但是如果你在\nKindle(电子书)上读一本篇幅很长的书,那就没有问题了。”",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2016-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a composition in no less than 150 words on the topic: What do you think of advanced\nartificial intelligence? You should write according to the outline given below. Write your composition on the\nAnswer Sheet, Recently, Google's AlphaGo defeated a human Go champion in a series of matches. There has arisen a fear\nthat artificial intelligence will become better than us, and will come to dominate humanity. List and discuss the reasons why we should or should not fear.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "Nowadays, with the rapid development of computer technology, in particular, the artificial intelligence (AI), the application of senior AI in the future has aroused a considerable worldwide concern. It is recently reported that\nin a ground-breaking fight between man and AI, the world champion of game Go was mercilessly defeated by\nDeep Mind Alpha Go, a product from Google, which gives rise to some people’s fear toward advanced AI in\nfuture practice. And they take it for granted that human being would probably be totally controlled by machine. As far as AI is concerned, I am fully convinced that we are supposed to maintain an objective and positive\nattitude toward the emerging issue of artificial intelligence. All that AI knows it is nothing but the simulation of\ninformation on the process of conscious thinking, or in another words, it’s something that subjects to its inventor’s\ndesign awareness. Consequently, as long as we are fully conscious of its possible disadvantages, certain\nrestrictions can be input into the program to avoid potential disastrous occurrences. Additionally, it is well hoped\nthat AI and intelligent machines can possibly free human labors from virtually all kinds of jobs. Above-mentioned discussion can safely lead to the conclusion that what we are supposed to do is but to learn\nto get along with the inevitable development of computer technology and to adapt to the updated social structure\nchanged by AI.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

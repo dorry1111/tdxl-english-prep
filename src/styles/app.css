@@ -1,0 +1,125 @@
+/**
+ * 全局样式：Tailwind 指令 + base 重置 + 少量全局工具类。
+ *
+ * iOS 相关处理（ARCHITECTURE 8.2 / 8.7）：
+ * - 高度用 100dvh（100vh 在 iOS Safari 里是「最大视口高度」，会把底部按钮顶出屏幕）；
+ * - 输入框字号不低于 16px，否则聚焦时页面会被自动放大；
+ * - 全局 touch-action: manipulation 消除 300ms 点击延迟；
+ * - 安全区工具类统一加 app- 前缀。
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /* 全局隐藏滚动条：滚轮/触控板照常滚动，界面不再出现灰色滚动条 */
+  html {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+    width: 0;
+    height: 0;
+  }
+
+  html {
+    height: 100%;
+    /* 防止 iOS 横屏时自动放大字体 */
+    -webkit-text-size-adjust: 100%;
+    background-color: var(--c-bg);
+  }
+
+  body {
+    height: 100%;
+    min-height: 100dvh;
+    margin: 0;
+    background-color: var(--c-bg);
+    color: var(--c-text);
+    font-family:
+      -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
+      'Microsoft YaHei', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: var(--fs-base);
+    line-height: var(--lh-normal);
+    /* 防止下拉整页回弹，同时保留内部滚动 */
+    overscroll-behavior-y: contain;
+    /* 消除移动端点击高亮块 */
+    -webkit-tap-highlight-color: transparent;
+    /* 消除 300ms 点击延迟 */
+    touch-action: manipulation;
+  }
+
+  #root {
+    min-height: 100dvh;
+  }
+
+  /* 输入类控件字号必须 ≥ 16px，避免 iOS 聚焦自动放大页面 */
+  input,
+  textarea,
+  select {
+    font-size: max(16px, 1em);
+  }
+
+  /* 统一可见聚焦环（键盘可达性） */
+  :focus-visible {
+    outline: 2px solid var(--c-primary);
+    outline-offset: 2px;
+  }
+
+  /* 禁用状态不显示焦点环 */
+  [disabled]:focus-visible {
+    outline: none;
+  }
+}
+
+@layer components {
+  /* 顶部安全区（standalone 全屏时状态栏占位） */
+  .app-safe-top {
+    padding-top: var(--safe-top);
+  }
+
+  /* 底部安全区（iPhone 全面屏 Home 指示条） */
+  .app-safe-bottom {
+    padding-bottom: var(--safe-bottom);
+  }
+
+  /* 页面内容需要给底部标签栏留出高度（仅手机/平板竖屏生效） */
+  .app-pb-tabbar {
+    padding-bottom: calc(var(--nav-h) + var(--safe-bottom));
+  }
+
+  @media (min-width: 1024px) {
+    .app-pb-tabbar {
+      padding-bottom: 0;
+    }
+  }
+
+  /* 隐藏滚动条（横向 Tab 条、答题卡等场景） */
+  .app-no-scrollbar {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .app-no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* 明确的可点区域：去掉抬手高亮 + 允许手势 */
+  .app-tappable {
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
+  }
+
+  /* 原生 <dialog> 的遮罩（颜色走 token，避免组件里写死 rgba） */
+  .app-dialog::backdrop {
+    background-color: var(--c-overlay);
+  }
+
+  /* 打开抽屉/弹层时锁住 body 滚动（iOS 需要 position: fixed 才真正生效） */
+  .app-body-locked {
+    position: fixed;
+    width: 100%;
+    overflow: hidden;
+  }
+}

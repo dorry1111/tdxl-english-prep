@@ -1,0 +1,2206 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2023 年同等学力人员申请硕士学位英语水平全国统一考试试题（回忆版）",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2023-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "The rising popularity of having goods delivered directly to one's doorstep has\ncome with increased attention onanother phenomenon:porch theft. In communities\naocross the country, residents have expressed concem about stolenpackages. Now,\nlawmakers around the country are aiming to crack down on it.\nBrookhaven police has launched \"Opera tion Plugged In\", a program that allows\nresidents and business toregister their private surveillance(监控) cameras with the\ndepartment, so that police can request video contents if a crimeoccurs in a certain\narea. Hundreds of individuals and business have registered their cameras as part of\nthe program.\nThis technology has made policing quicker and easier, said Jacob Kissel, an\nofficer at the Brookhaven policedepartment. \"We used to go out and knock on everybody\n's door after a a crime happened. Now we can pill up a map andthere are bullet pints\nof all of our registered residents with cameras\", he added. That allows police to\nsimply pick up thephone and ask residents:\" Can you look at your aystem? Is there\nanything that you may be able to provide us?\"\nScholars who study surveillance and package theft raise concems around the\nwidespread use of technology tocatch package thieves, however. For instance, facial\nrecognition technology has been known to misidentify people withdarker skin tones.\nOne research has also shown that predominantly white neighborhoods use doorbell\ncameras andrelated platforma to practice \"racial gate keeping\", which can lead to\nincreased policing of communities of color.\nLawmakers say the new laws making package theft a felony reflects concems of\ntheir constituents. But it'sunclear whether residents truly feel about the issue. One\nBrookhaven resident said his package was stolen last year, and itwas not a big deal.\nSince the incidents last fall, package theft has not been the community,and he was\nsurprised to hearthat police were building around the thefts. \"I honastly think\nthat's a little extreme,\" said Sabah, amother Brookhaven.resident. \"A lot of the\nresources go into finding who stolen a package. They could be re-allowed somewhere\nelse.",
+      "translation": "商品直接送货上门越来越受欢迎,与此同时,另一种现象也受到了越来越多的关注:门廊盗\n窃。在全国各地的社区,居民们都对包裹被盗表示担忧。现在,全国各地的立法者都在努力打击\n这种行为。\n布鲁克海文警方发起了一项名为“植入行动”的计划,该计划允许居民和企业在警察局注册\n他们的私人监控摄像头,这样当某个地区发生犯罪事件时,警方就可以要求提供视频内容。作为\n该计划的一部分,数百名个人和企业已经注册了他们的摄像头。\n布鲁克海文警察局的警官雅各布·基塞尔说,这项技术使警务工作变得更快、更容易。“我\n们过去常常在犯罪发生后去敲每个人的门。现在我们可以绘制一张地图,上面有我们所有注册居\n民的照片。”这使得警察可以简单地拿起电话问居民“你能看看你的系统吗?你有什么可以提供\n给我们的吗?”\n然而,研究监视和包裹盗窃的学者对广泛使用技术来抓捕包裹窃贼表示担忧。例加,众所周\n知,面部识别技术会错误识别肤色较深的人。一项研究还表明,以白人为主的社区使用门铃摄像\n头和相关平台来实施“种族看门”,这可能导致有色人种社区的警务增加。\n议员们表示,将盗窃包裹定为重罪的新法律反映了当地选民的担忧。但目前还不清楚居民是\n否真的对这个问题感兴趣。一位布鲁克海文居民说他的包裹被偷了,这没什么大不了的。自从去\n年秋天的事件发生以来,包裹盗窃已经不再是社区的事了,他很惊讶地听到警察正在国绕盗窃案\n建立警力。“老实说,我认为这有点极端,”布鲁克海文的另一位居民萨布拉说。“很多资源都\n用于寻找偷包裹的人。这些资源可以被重新用在其他地方。"
+    },
+    {
+      "id": "e2023-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "There is a concept in the psychological literature known as locus of control that\nis unfamiliar to most people, eventhough once defined, is commonly understood. Locus\nof control is an individual's belief system regarding the causes ofhis or her\nexperiences and the factors to which that person attributes success or failure.\nThis concept is usually divided into two categories: intemal and external. If a\nperson has an intemal locus ofcontrol, that person attributes success to his or her\nown efforts and abilities. A person with an external locus of control,by contrast,\noften attributes his or her success to luck or fate and will be leas licely to makce\nthe efforts needed to learn.This is not to say that an intemal locus of control\nis\"good\" and an external locus of control is\"bad.\" There are othervariables to be\nconsidered. However, psychological research has found that people with a more intenal\nlocus of controlseem to be better off, e.g. they tend to be more achievement-oriented\nand get better-paying jobs.\nLocus of control is often viewed as in inbom personality component. However,\nthere is also evidence that it isshaped by childhood experiences---including\nchildren's interactions with their parents. Children who were raised byparents who\nencouraged their independence and helped them to learn the connection between actions\nand theirconsequences tended lo have a more well-developed intemal locus of control.\nThe benefits of this were specified in a research study that loolced at the\npotential health effects of the locus ofcontrol trait. Researchers found that of more\nthan 7500 British adults followed since birth, those who had shown anintemal locus of\ncontrol at the age of 10 were less likely to be overweight at age 30, less likely to\ndescribe their health aspoor, or show high levels of psychological stress. The major\nexplanation for these findings was that children with a moreintemal locus of control\nbehave more healthily as adults because they have greater confidence in their ability\nto influenceoutcomes through their own actions. They may also have higher self esteem.",
+      "translation": "在心理学文献中有一个概念,被称为控制点,大多数人对此都不熟悉。即使一旦定义,会成\n为普遍共识。控制点是一个人的信念系统,关于他或她的经历的原因及其所认为的成功或失败的\n成因。\n这个概念通常分为两类:内部的和外部的。如果一个人有一个内在控制点,这个人把成功归\n因于他或她自己的努力和能力。相比之下,拥有外部控制点的人往往将自己的成功归因于运气或\n命运,并且不太可能付出学习所需的努力。这并不是说内部控制点是“好的”,外部控制点是\n“坏的”。还有其他变量需要考虑。然而,心理学研究发现,拥有更多内在控制点的人似乎过得\n更好,比如,他们往往更注重成就,能得到待遇更好的工作。\n控制点通常被认为是先天人格的组成部分。然而,也有证据表明,它是由童年经历塑造的—\n—包括孩子与父母的互动。如果父母鼓励孩子独立,并帮助他们了解行为与后果之间的联系,那\n么他们的孩子往往有发育良好的的内在控制点。\n这种优势在一项研究中得到了详细说明。该研究着眼于控制点特征对健康的潜在影响。研究\n人员对7500多名英国成年人进行了跟踪调查(从他们出生起),发现那些在10岁时表现出具备内\n在控制点的人,在30岁时不太可能超重,不太可能说自己的健康状况不好,也不太可能表现出高\n水平的心理压力。对这些发现的主要解释是,拥有更多内在控制点的儿童在成年后表现得更健\n康,是因为他们对自己通过行动影响结果的能力更有信心。他们也可能有更高的自尊心。"
+    },
+    {
+      "id": "e2023-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "I'm an oceanographer who focuses on the atudy of the ocean. One of my research\ninterests is amphipodg(片脚类动物), a kind of tiny sea creature with a soft body and\na hard outer shell. Amphipods often live in the cany ons under the sea.They are a\nfood source for largerorganiams, fueling the food chain and ultimately the species\nthat humans catch and eat.There are thousands of amphipod species all over the world\nin fresh and salty water from the surface to the deap seaa. Wecan think of amphipods\nas a key species ome that helps indicate how healthy an ecosystem is -because they\nare socommon across the oceans.This was a factor in my decision to study them.\nI didn't directly observe how the amphipod species lives its life instead. I\ncompared what I knew about it to study ofsimilar species. This allowed me to makce\nassumptions about its lifestyle. For instance, amphipods have axcellent\n\"amell\"detecting abilities because large food falls are forward far. For some female\namphipods, finding these food falls isespecially important because they must stuff\nthemselves before reproducing.\nBy the end of my studies I was keenly aware of the difficulties in studying deep\u0002sea organisms. The challenges arenot just limited to accessing their habitats. It's\nalso tough to locate the organisms themsalves. Finding amphipods in thedeep open\nocean is like finding needles in a haystack. Scientists sometimes use large nets to\nscoop (up whatever is in thesen around them, but there's no guarantee that they'll\nget what they are lookcing for.\nI presented my research at a big sustainability symposium which allowed me to\nhear more about human activitiesthat affect amphipods. Offshore oil exploration is\none example. The process of loolking for oil in the seafloor may reducethe\navailability of food for deap-sea organisms including amphipods. As their populations\ndecrease the food sources forlarger organisms like the fish we want to eat start\ndisappearing too. Amphipods and humans seem to be worlds apart.And yet harm to rarely\nseen organisms in the deepest darkest depths of the ocean could end up hurting us in\nthenot-too-distant future.",
+      "translation": "我是一名专注于海洋研究的海洋学家。我的研究兴趣之一是研究片脚类动物,一种身体柔\n软、外壳坚硬的微小海洋生物。片脚类动物经常生活在海底的峡谷中。它们是大型生物的食物来\n源,为食物链提供原料,最终为人类捕获和食用。从地表到深海,全世界有数千种片脚类动物生\n活在淡水和咸水中。我们可以将片脚类视为一个关键物种,它有助于显示生态系统的健康程度,\n因为它们在海洋中非常常见。这是我决定研究它们的一个因素。\n我没有直接观察到这种片脚类动物是如何生活的。我将我对它的了解与对类似物种的研究进\n行了比较。这让我可以对它的生活方式做出假设。例如,片脚类动物具有出色的“嗅觉”侦察能\n力,因为大的食物掉落的比较远。对于一些雌性片脚类动物来说,找到这些食物堆尤其重要,因\n为它们在繁殖之前必须填饱肚子。\n在我的研究结束时,我敏锐地意识到研究深海生物的固难。挑战不仅限于进入它们的栖息\n地。而定位生物体本身也很国难。在开阔的深海中寻找片脚类动物就像在大海捞针。科学家有时\n会用大网舀起周国海洋中的任何东西,但不能保证他们会得到他们想寻找的东西。\n我在一个大型可持续发展研讨会上介绍了我的研究,这让我能够了解更多地影响到片脚类动\n物的人类活动。海上石油勘探就是一个例子。在海底寻找石油的过程可能会减少包括片脚类动物\n在内的深海生物的食物。随着它们的数量减少,像我们想吃的鱼这样的大型生物的食物来源也开\n始消失。片脚类动物和人类似乎是天壤之别。然而,在不远的将来,在最黑暗的海洋深处,对稀\n有生物的伤害可能会最终伤害到我们。"
+    },
+    {
+      "id": "e2023-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "Europeans play football, and Americans play football; but surprisingly they do\nnot play the same game. Americanfootball is played by men (and occasionally\nwomen)wearing helmets and protective clothing; the ball is oval. Europeanfootball is\nplayed with a round ball, by people wearing just socks, shorts, a shin, and football\nboots.\nAmericans have another popular outdoor game too—baseball, a classic American\ngame that is only played seriouslyin North America. In Britain, a few people play\nan\"anoestor\" of baseball, called \"rounders\"-but it is not a popular sport.\nIn today's \"global village\", lifestyles are becoming intemational. Often the\nAmerican model has spread to othercountries of the world. American sports, however,\nhave not spread all over the world, as American films and Americanfashions have. On\nthe contrary, European sports have bean more successful intemationally. Indeed\nEuropean football isslowly developing in the USA.\nIn motor racing too, though it is not really a team sport, the USA is different.\nIn Europe. SouthAmerica, Japan andother countries (including Canada),\"motor\nracing\"means \"Formula 1\": Americans have IndyCar racing. The Indianapolis500 is like\na Formula 1 race, but different. Several famous Formula 1 drivers-—including Nigel\nMansell and JacquasVilleneuve—have won the race. On the other hand, no American\nIndyCar drivers have ever been Fomula 1 champions.Nevertheless, Americans are\nbeginning to discover Formula I racing since the first American Grand Prix.\nBesides there big sports. America of course has basketball--perhaps the most\nsuccessful \"lexport\". Invented atSpringfield college, Massachusetta,in\n1891,basketball in quite cartainly an \"American game\".Although it is not as big\ninEurope as in the USA,basketball has become much more popular in other countries\nthan any other American team sport.\nWhy is America different? The answer is simple. Until the 1960's, team sports\nwere not played on a global scale.The only real\"global\" sports were individual sports,\nsuch as golf and tennis. A hundred years ago, individual richAmericans could travel\nto Europe on holiday, and play these two games. But whole teams of sportamen did not\noftentravel around the world, it was too expensive and slow!",
+      "translation": "欧洲人踢足球,美国人踢足球;但令人惊讶的是,他们玩的不是同一种游戏。美式足球由戴\n着头盔和防护服的男子(偶尔也有女子)踢;球是椭圆形的。欧洲足球是一个圆形的球,人们只\n穿袜子、短裤、小腿和足球靴。\n美国人还有另一项很受欢迎的户外运动——棒球,这是一项经典的美国运动,只有在北美才\n被认真对待。在英国,一些人玩被称为棒球的“祖先”的运动“绕圈球”,但它不是一项受欢迎\n的运动。\n在今天的“地球村”中,生活方式正在变得国际化。美国模式往往已经传播到世界其他国\n家。然而,美国的体育运动并没有像美国电影和美国时尚那样传遍世界。相反,欧洲体育在国际\n上更为成功。事实上,欧洲足球在美国正在慢慢发展。\n在赛车方面也是如此,虽然它不是一项真正的团队运动,但美国是不同的。在欧洲、南美、\n日本等国家(包括加拿大),“赛车”指的是“一级方程式”:美国人有印地赛车比赛。印第安\n纳波利斯500类似于一级方程式赛车比赛,但又有所不同。几位著名的F1车手——包括奈杰尔·曼\n塞尔和雅克·维伦纽夫——赢得了这场比赛。另一方面,没有一个美国印地赛车手曾经是一级方\n程式冠军。然而,从第一届美国大奖赛开始,美国人开始接触一级方程式赛车。\n此外还有大型运动。美国当然有篮球——也许是最成功的“出口”。篮球于1891年在马萨诸\n塞州的斯普林菲尔德学院被发明,它无疑是一项“美国运动”。尽管篮球在欧洲不像在美国那么\n受欢迎,但它在其他国家比任何其他美国团队运动都要受欢迎得多。\n为什么美国不同?答案很简单。直到20世纪60年代,团队运动还没有在全球范围内开展。唯\n一真正的“全球性”运动是个人运动,如高尔夫球和网球。一百年前,富有的美国人可以去欧洲\n度假,玩这两种游戏。但是整个队的运动员并不经常环游世界,因为那太贵而且太慢了!"
+    },
+    {
+      "id": "e2023-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "World Mental Health (WM1) Day, on 10 October, is a day to raise awareneas of the\neffects mental illness has onmillions of people's lives across the world, and to help\neducate and infom us all.\nAround the world, one in four people will have some mental illness during their\nlifetime. Around 450 millionpeople are living with a mental health problem right\nnow,making it one of the biggest health issues in the world. Yetpeople rarely talk\nabout any mental health problems they have because it is humiliating.在世界范围内,四\nWMH Day was first celebrated in 1992 to raise awareness of just how common mental\nhealth issues are, fightagainst stigma (污名) and campaign for better conditions and\ntreatment for people who have a mental health problem.The number of people and\norganizations involved in calebrating WMH Day has grown and grown, and now\nmanycountries, such as Australia, even have a Mental Health Week. Each year there is\na different theme. For example, in 2017the theme was mental health in the workplace.\nWMH Day encourages us to be more aware of both our own mental health and other\npeople's. As well as lookingafter yourself, think about how you could support other\npeople. For example, you could find out more about commonissues such as anxiety and\ndepression, so you will understand friends' and colleagues' problems better. You\ncould alsoencourage your workplace to start a wellness program that would benefit\neveryone. Companies with wellness programs have found employees take 28 percent less\ntime off for sickness.\nComment l:\nSpending less time online is a huge factor to reduce anxiety and depression. Also\navoiding negativity could help alot.\nComment 2:\nCelebrating the day is just the first step. Daily education matters.\nComment 3:\nThis could involves chatting on social media, hearing music and browsing new\nideas, attending new events and30 on.\nComment 4:\noffers of their relatives to see a doctor than to admit they have been ill.\nComment 5:\nThis topic is necessary and important to discuss. Many people suffer from mental\nillness and it is vital to talk about itevery day rather than on a special day.",
+      "translation": "10月10日的世界心理健康日,旨在提高人们对心理疾病对世界各地数百万人生活的影响的认\n识,为我们所有人提供教育,帮助我们熟悉这一问题。\n分之一的人在他们的一生中会患有某种心理疾病。目前约有4.5亿人患有心理健康问题,使其成为\n世界上最大的健康问题之一。然而,人们很少谈论自己的心理健康问题,因为这是一种耻辱。\n世界心理健康日首次庆祝于1992年,目的是提高人们对心理健康问题普遍程度的认识,与污\n名作斗争,并为心理健康问题患者争取更好的条件和治疗。参与庆祝世界心理健康日的个人和组\n织越来越多,现在许多国家,如澳大利亚,甚至有一个心理健康周。每年都有不同的主题。例\n如,2017年的主题是工作场所的心理健康。\n世界心理健康日鼓励我们更加关注自己和他人的精神健康。在照顾好自己的同时,想想如何\n帮助别人。例如,你可以发现更多的常见问题,如焦虑和抑郁,所以你会更好地理解朋友和同事\n的问题。你也可以鼓励你的工作场所启动一个对每个人都有利的健康计划。有健康计划的公司发\n现,员工请病假的时间减少了28%。\n评论1:减少上网时间是减少焦虑和抑郁的一个重要因素。避免消极情绪也会有很大帮助。\n评论2:庆祝这一天只是第一步。日常教育很重要。\n评论3:这可能包括在社交媒体上聊天、听音乐、浏览新想法、参加新活动等等。\n评论4:要说服一个人相信他/她有心理问题是非常固难的。对他们来说,拒绝所有亲戚提出\n的看医生的建议比承认自己生病更容易。\n评论5:这个话题讨论起来很有必要,也很重要。许多人患有心理疾病,每天都谈论它而不是\n在一个特殊的日子是至关重要的。"
+    },
+    {
+      "id": "e2023-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "Is homework beneficial or harmful? From painting to book reports, 46 research\nprojects, the type and amount ofhomework given to students have bean 47 for over a\ncentury.\nIn the early 1900s, progressive education theorists criticized 48 negative\nimpact on children's physical and mentalhealth, 49 Califomia to ban homework for\nstudents under 15. Public opinion swayed in 50 of homework in the 1950s dueto\nconcems about kceeping up with the technological advances\nToday, kindergarten to fifth graders have an average of 2.9 hours of homework per\nweek, and ninth to twelfthgraders have 3.5 hours per teacher, 51 a high school\nstudent with five teachers could have 17.5 hours of homework aweek. Teenagers now\napend about twice as much time on homework each day 52 compared to teens in the\n1990.\n53 of homework say that it improves student achievement and allows for\nindependent leaming of classroom andlife skills. They also say that homework gives\nparents the opportunity to 54 their child's learning and see how they\nareprogressing academically\nOpponents argue that too 55 homework may be harmful for students as it can\nincreases stress, reduce leisure andsleap time, and lead to cheating. They also\nbelieve that it widens social inequality and is not proven to be beneficial\nforyounger children."
+    },
+    {
+      "id": "e2023-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. danger\nB. problems\nC. information\nPhrases:\nA.cause big 56 for all life on earth\nB.are in 57 of dying out completely\nC. brings together 58 from 73 different sources\n\nScientists are reporting that the world's insects are dying out eight times faster\nthan most other animals. They wamthat the loss of these insects will 59 . A group of\nscientists recently put out a\"meta-study\" on the loss of insectsaround the world. The\n\nmeta-study looks at the work of many other scientific studies. This report 60 . The\nresults of thestudy are alarming. The scientists say that 40% of the world's insects\nhave had a sharp drop in their numbers in the lastten years. One thind of the world\ninsects 61 .The news is not only bad for the insects, but for everything else that\nliveson the planet."
+    },
+    {
+      "id": "e2023-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. scales\nB. oriented\nC. question\nPhrases:\nA. answer 62 that perplex us\nB. on both large and amall 63\nC. 64 towards understanding the individual\n\nEvery aspect of our lives is shaped by our relationship with society and its\ninfluences. As a broad social science,sociology is the study of human societies and\nthe wide amay of groups existing within them. Sociologists study the waysociety\ndevelops and functions 65 . From national govemment and cultural norms to local\npolitics and family values,sociologists analyze the who and why of our society. They\nseek to 66 when we look at not only individuals but societyas a whole. Sociology is\na field of study not well understood and often confused with paychology. Though\nsimilar inmany respects, psychology is 67 and how the individual relates to the\ngroup. By contrast, sociology is a study ofsystems and society.It investigates macro\u0002level issues like poverty,food deserts, and unemployment."
+    },
+    {
+      "id": "e2023-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. strategy\nB. fiocus\nC. emotions\nD. benefits\nPhrases:\nA. process difficult 68 or feeling\nB. have 69 for many organ systems\nC. be a useful 70\nD. choosing to try and 71 on potential solutions\n\nPositive thinking sometimes gets a bad reputation. Why? Because a lot of people\nthink it can negatively impact ourwellbeing, as it does not allow us to 72 . However,\npositive thinking is not about ignoring reality, but rather 73 .andbeing open to new\nways of thinking.It can 74 fior mentally and emotionally dealing with the many\nuncertainties andchallenges of life.\nOur ability to reframe and look for the positives in a situation appears to 75\nwithin our bodies. This is known as\"cognitive reframing\" and it trains us to use\ntechniques to challenge our perspective on a situation or experience."
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2023-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）B:  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "When was this purchase made?"
+        },
+        {
+          "key": "B",
+          "text": "What's wrong with it?"
+        },
+        {
+          "key": "C",
+          "text": "Can you tell me what the charge was?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）B:  ____ ",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "When was this purchase made?"
+        },
+        {
+          "key": "B",
+          "text": "What's wrong with it?"
+        },
+        {
+          "key": "C",
+          "text": "Can you tell me what the charge was?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）B:I'm very sory.  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "When was this purchase made?"
+        },
+        {
+          "key": "B",
+          "text": "What's wrong with it?"
+        },
+        {
+          "key": "C",
+          "text": "Can you tell me what the charge was?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）M:  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "Take a look in the mimor."
+        },
+        {
+          "key": "B",
+          "text": "So did your parents give you a reason?"
+        },
+        {
+          "key": "C",
+          "text": "You see my parents really don't love me."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）W:  ____ ",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Take a look in the mimor."
+        },
+        {
+          "key": "B",
+          "text": "So did your parents give you a reason?"
+        },
+        {
+          "key": "C",
+          "text": "You see my parents really don't love me."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）W: Hey, I think I know what the problem is.  ____  ...",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "Take a look in the mimor."
+        },
+        {
+          "key": "B",
+          "text": "So did your parents give you a reason?"
+        },
+        {
+          "key": "C",
+          "text": "You see my parents really don't love me."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）projects,  ____ ",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "I migh be open .."
+        },
+        {
+          "key": "B",
+          "text": "That's all I need to know for now."
+        },
+        {
+          "key": "C",
+          "text": "or you prefer to work alone."
+        },
+        {
+          "key": "D",
+          "text": "I'd also like a chance to advance."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）Interviewee:: I have children so steady job is important. But  ____ ",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "I migh be open .."
+        },
+        {
+          "key": "B",
+          "text": "That's all I need to know for now."
+        },
+        {
+          "key": "C",
+          "text": "or you prefer to work alone."
+        },
+        {
+          "key": "D",
+          "text": "I'd also like a chance to advance."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）Interviewee: I could not relocate in the next year, but  ____ ",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "I migh be open .."
+        },
+        {
+          "key": "B",
+          "text": "That's all I need to know for now."
+        },
+        {
+          "key": "C",
+          "text": "or you prefer to work alone."
+        },
+        {
+          "key": "D",
+          "text": "I'd also like a chance to advance."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）Interviewee: Aminimum of S75,000 per year.Interviewer: OK, well,  ____ ",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "I migh be open .."
+        },
+        {
+          "key": "B",
+          "text": "That's all I need to know for now."
+        },
+        {
+          "key": "C",
+          "text": "or you prefer to work alone."
+        },
+        {
+          "key": "D",
+          "text": "I'd also like a chance to advance."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "Everything I have learned from history bools affirms my respect for this great figures.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "constitutes"
+        },
+        {
+          "key": "B",
+          "text": "extends"
+        },
+        {
+          "key": "C",
+          "text": "confims"
+        },
+        {
+          "key": "D",
+          "text": "reveals"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "I fully agree with what the previous speaker has said, but would like to add a few remarlks of my own.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "opinions"
+        },
+        {
+          "key": "B",
+          "text": "proposals"
+        },
+        {
+          "key": "C",
+          "text": "concepts"
+        },
+        {
+          "key": "D",
+          "text": "lessons"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "His most appealing trait is his unfailing sense of humor.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "hobby"
+        },
+        {
+          "key": "B",
+          "text": "feature"
+        },
+        {
+          "key": "C",
+          "text": "trace"
+        },
+        {
+          "key": "D",
+          "text": "power"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "Some people feel that using artificial intelligence in this context is particularly risky.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "position"
+        },
+        {
+          "key": "B",
+          "text": "situation"
+        },
+        {
+          "key": "C",
+          "text": "frame"
+        },
+        {
+          "key": "D",
+          "text": "sphere"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "All classes across the area will have to be called off when the hurricane arrives.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "restricted"
+        },
+        {
+          "key": "B",
+          "text": "postponed"
+        },
+        {
+          "key": "C",
+          "text": "canceled"
+        },
+        {
+          "key": "D",
+          "text": "abandoned"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "These boolcs were so old and fragile that access to them was limited.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "valuable"
+        },
+        {
+          "key": "B",
+          "text": "delicate"
+        },
+        {
+          "key": "C",
+          "text": "weind"
+        },
+        {
+          "key": "D",
+          "text": "terrific"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "Don't give out any personal information about your identity on ann unfamiliar app.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "disclose"
+        },
+        {
+          "key": "B",
+          "text": "emit"
+        },
+        {
+          "key": "C",
+          "text": "distribute"
+        },
+        {
+          "key": "D",
+          "text": "evoke"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "The issue of liability in a driver less car accident has yet to be resolved.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "flexibility"
+        },
+        {
+          "key": "B",
+          "text": "stability"
+        },
+        {
+          "key": "C",
+          "text": "security"
+        },
+        {
+          "key": "D",
+          "text": "responsibility"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "The cook will coat the pan with some oil first so the onions don't stick.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Fill"
+        },
+        {
+          "key": "B",
+          "text": "feed"
+        },
+        {
+          "key": "C",
+          "text": "cover"
+        },
+        {
+          "key": "D",
+          "text": "circle"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "Scholars are inclined to the view that the research report was composed by someone else.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "leaning"
+        },
+        {
+          "key": "B",
+          "text": "leading"
+        },
+        {
+          "key": "C",
+          "text": "leaping"
+        },
+        {
+          "key": "D",
+          "text": "leaving"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q21",
+      "sectionType": "reading",
+      "passageId": "e2023-p1",
+      "seq": 21,
+      "stem": "\"Operation Plugged In\" allows the police to_____.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "use the videos from registered cameras"
+        },
+        {
+          "key": "B",
+          "text": "check on the residents with cameras"
+        },
+        {
+          "key": "C",
+          "text": "install more surveillance cameras"
+        },
+        {
+          "key": "D",
+          "text": "require residents to register their cameras"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q22",
+      "sectionType": "reading",
+      "passageId": "e2023-p1",
+      "seq": 22,
+      "stem": "What is Paragraph 4 mainly concemed with?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Violation of privacy"
+        },
+        {
+          "key": "B",
+          "text": "Racial discrimination"
+        },
+        {
+          "key": "C",
+          "text": "Abuse of technology"
+        },
+        {
+          "key": "D",
+          "text": "Policing efficiency"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q23",
+      "sectionType": "reading",
+      "passageId": "e2023-p1",
+      "seq": 23,
+      "stem": "The word \"felony\"(Para.5) is closest in meaning to___.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "minor offense"
+        },
+        {
+          "key": "B",
+          "text": "dishonest behavior"
+        },
+        {
+          "key": "C",
+          "text": "immoral conduct"
+        },
+        {
+          "key": "D",
+          "text": "serious crime"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q24",
+      "sectionType": "reading",
+      "passageId": "e2023-p1",
+      "seq": 24,
+      "stem": "What does Khandaker think of the crackdown on package thefts?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It will tum out rewarding."
+        },
+        {
+          "key": "B",
+          "text": "It hurts resident relationships."
+        },
+        {
+          "key": "C",
+          "text": "It seems to be an overreaction."
+        },
+        {
+          "key": "D",
+          "text": "It will achieve the intended effect."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q25",
+      "sectionType": "reading",
+      "passageId": "e2023-p1",
+      "seq": 25,
+      "stem": "What is the author's tone in discussing package thefta?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Ironic"
+        },
+        {
+          "key": "B",
+          "text": "Objective"
+        },
+        {
+          "key": "C",
+          "text": "Relieved"
+        },
+        {
+          "key": "D",
+          "text": "Humorous"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q26",
+      "sectionType": "reading",
+      "passageId": "e2023-p2",
+      "seq": 26,
+      "stem": "It is stated in Paragraph I that locus of control is___.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "intensively discussed by researchers"
+        },
+        {
+          "key": "B",
+          "text": "familiar to most people"
+        },
+        {
+          "key": "C",
+          "text": "a method to avoid failure"
+        },
+        {
+          "key": "D",
+          "text": "a belief of what determines success"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q31",
+      "sectionType": "reading",
+      "passageId": "e2023-p3",
+      "seq": 31,
+      "stem": "The author decided to study amphipods because",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "they show the health condition of an ecosystem"
+        },
+        {
+          "key": "B",
+          "text": "they are a main source of seafood for humans"
+        },
+        {
+          "key": "C",
+          "text": "its valuable to compare them with other species"
+        },
+        {
+          "key": "D",
+          "text": "it's interesting to learn about their living habits"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q32",
+      "sectionType": "reading",
+      "passageId": "e2023-p3",
+      "seq": 32,
+      "stem": "Why are large food falla important for female amphipoda?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They are the only food source for amphipods"
+        },
+        {
+          "key": "B",
+          "text": "They help to attract male amphipods"
+        },
+        {
+          "key": "C",
+          "text": "They enhance amphipodsl'senge of amell"
+        },
+        {
+          "key": "D",
+          "text": "They are neaded for amphipodg' reproduction"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q33",
+      "sectionType": "reading",
+      "passageId": "e2023-p3",
+      "seq": 33,
+      "stem": "The phrase \"finding needles in a haystack\"(Para. 3) is used to indicate____.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "the high cost of capturing amphipods"
+        },
+        {
+          "key": "B",
+          "text": "the difficulty of finding amphipods in the sea"
+        },
+        {
+          "key": "C",
+          "text": "the urgency in locating amphipods'habitats"
+        },
+        {
+          "key": "D",
+          "text": "the challenge to tell amphipods from similar species"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q34",
+      "sectionType": "reading",
+      "passageId": "e2023-p3",
+      "seq": 34,
+      "stem": "Which of the following may bring ham to amphipoda?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Seasonal overfishing."
+        },
+        {
+          "key": "B",
+          "text": "Fish farming at sea."
+        },
+        {
+          "key": "C",
+          "text": "Exploring oil resources."
+        },
+        {
+          "key": "D",
+          "text": "Searching for sea organisms."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q35",
+      "sectionType": "reading",
+      "passageId": "e2023-p3",
+      "seq": 35,
+      "stem": "What can be learned about the relations between amphipods and humans?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Ham to amphipods will affect humans soon."
+        },
+        {
+          "key": "B",
+          "text": "Amphipods and humans live in saparate worlds."
+        },
+        {
+          "key": "C",
+          "text": "Human activities lead to the growth of amphipods."
+        },
+        {
+          "key": "D",
+          "text": "Amphipods pose a threat to fishing industry."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q36",
+      "sectionType": "reading",
+      "passageId": "e2023-p4",
+      "seq": 36,
+      "stem": "Which statement is true about the description of football?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "American football is round while European's is oval."
+        },
+        {
+          "key": "B",
+          "text": "European football players wear protective clothing."
+        },
+        {
+          "key": "C",
+          "text": "American football is mainly played by males."
+        },
+        {
+          "key": "D",
+          "text": "Rules for football game are similar across the world."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q37",
+      "sectionType": "reading",
+      "passageId": "e2023-p4",
+      "seq": 37,
+      "stem": "What can we learn about the \"\"global village\"(Para.3)?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Globalization of lifestyles is taking place."
+        },
+        {
+          "key": "B",
+          "text": "American sports are as popular as its films worldwide."
+        },
+        {
+          "key": "C",
+          "text": "European football has replaced American football."
+        },
+        {
+          "key": "D",
+          "text": "Different cultures have shaped the American model."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q38",
+      "sectionType": "reading",
+      "passageId": "e2023-p4",
+      "seq": 38,
+      "stem": "American motor racing drivers____.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "are opposed to Formula l racing"
+        },
+        {
+          "key": "B",
+          "text": "often win Formula l race"
+        },
+        {
+          "key": "C",
+          "text": "have strong team spirit"
+        },
+        {
+          "key": "D",
+          "text": "take part in IndyCar racing"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q39",
+      "sectionType": "reading",
+      "passageId": "e2023-p4",
+      "seq": 39,
+      "stem": "According to Paragraph 5, American baslketball____.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "reserves its unique American style"
+        },
+        {
+          "key": "B",
+          "text": "was brought in by Europeans in the I9th cantury"
+        },
+        {
+          "key": "C",
+          "text": "has spread to many other countries"
+        },
+        {
+          "key": "D",
+          "text": "is the mos popular team sport in Europe"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q40",
+      "sectionType": "reading",
+      "passageId": "e2023-p4",
+      "seq": 40,
+      "stem": "American team sports were difficult to spread intemationally due to___.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "high travelling cost"
+        },
+        {
+          "key": "B",
+          "text": "lack of team spirit"
+        },
+        {
+          "key": "C",
+          "text": "fierce competition"
+        },
+        {
+          "key": "D",
+          "text": "high demand of skills"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q41",
+      "sectionType": "reading",
+      "passageId": "e2023-p5",
+      "seq": 41,
+      "stem": "Which of following is true about mental illness around the world?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It is not as serious as people think."
+        },
+        {
+          "key": "B",
+          "text": "Amajority of people suffer from it."
+        },
+        {
+          "key": "C",
+          "text": "A shameful feeling is attached to it."
+        },
+        {
+          "key": "D",
+          "text": "People are eager to understand it."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q42",
+      "sectionType": "reading",
+      "passageId": "e2023-p5",
+      "seq": 42,
+      "stem": "What can we learn about WMH Day?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It was first celebrated in Australia."
+        },
+        {
+          "key": "B",
+          "text": "Millions of people celebrate it every year."
+        },
+        {
+          "key": "C",
+          "text": "Mental health in the workplace is the constant theme."
+        },
+        {
+          "key": "D",
+          "text": "It advocates care of mental health for oneself and others."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q43",
+      "sectionType": "reading",
+      "passageId": "e2023-p5",
+      "seq": 43,
+      "stem": "According to Comment l, what may result in mental illness?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Unfair treatment."
+        },
+        {
+          "key": "B",
+          "text": "Limited access to the Internet."
+        },
+        {
+          "key": "C",
+          "text": "Tense human relations."
+        },
+        {
+          "key": "D",
+          "text": "Negative attitude"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q44",
+      "sectionType": "reading",
+      "passageId": "e2023-p5",
+      "seq": 44,
+      "stem": "Which comment stresses people's unwillingness to admit their mental problems?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment2."
+        },
+        {
+          "key": "B",
+          "text": "Comment3."
+        },
+        {
+          "key": "C",
+          "text": "Comment4"
+        },
+        {
+          "key": "D",
+          "text": "Comment5"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q45",
+      "sectionType": "reading",
+      "passageId": "e2023-p5",
+      "seq": 45,
+      "stem": "Which comments call for consistent efforts to improve mental health?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment I and Comment 3."
+        },
+        {
+          "key": "B",
+          "text": "Comment 2 and Comment 5."
+        },
+        {
+          "key": "C",
+          "text": "Comment I and Comment 4."
+        },
+        {
+          "key": "D",
+          "text": "Comment 3 and Comment 5."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q46",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "from"
+        },
+        {
+          "key": "B",
+          "text": "with"
+        },
+        {
+          "key": "C",
+          "text": "to"
+        },
+        {
+          "key": "D",
+          "text": "by"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q47",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "debated"
+        },
+        {
+          "key": "B",
+          "text": "praised"
+        },
+        {
+          "key": "C",
+          "text": "ignored"
+        },
+        {
+          "key": "D",
+          "text": "perceived"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q48",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "parents"
+        },
+        {
+          "key": "B",
+          "text": "homework's"
+        },
+        {
+          "key": "C",
+          "text": "schools"
+        },
+        {
+          "key": "D",
+          "text": "society's"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q49",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "lead"
+        },
+        {
+          "key": "B",
+          "text": "led"
+        },
+        {
+          "key": "C",
+          "text": "leading"
+        },
+        {
+          "key": "D",
+          "text": "having led"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q50",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "hope"
+        },
+        {
+          "key": "B",
+          "text": "case"
+        },
+        {
+          "key": "C",
+          "text": "time"
+        },
+        {
+          "key": "D",
+          "text": "favor"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q51",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "saying"
+        },
+        {
+          "key": "B",
+          "text": "claiming"
+        },
+        {
+          "key": "C",
+          "text": "requiring"
+        },
+        {
+          "key": "D",
+          "text": "meaning"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q52",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "because"
+        },
+        {
+          "key": "B",
+          "text": "as"
+        },
+        {
+          "key": "C",
+          "text": "unless"
+        },
+        {
+          "key": "D",
+          "text": "though"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q53",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "Supporters"
+        },
+        {
+          "key": "B",
+          "text": "Consultants"
+        },
+        {
+          "key": "C",
+          "text": "Critics"
+        },
+        {
+          "key": "D",
+          "text": "Suppliers"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q54",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "prove"
+        },
+        {
+          "key": "B",
+          "text": "punish"
+        },
+        {
+          "key": "C",
+          "text": "monitor"
+        },
+        {
+          "key": "D",
+          "text": "simplify"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q55",
+      "sectionType": "cloze",
+      "passageId": "e2023-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "many"
+        },
+        {
+          "key": "B",
+          "text": "much"
+        },
+        {
+          "key": "C",
+          "text": "litfle"
+        },
+        {
+          "key": "D",
+          "text": "few"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A.cause big  ____  for all life on earth",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "information"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B.are in  ____  of dying out completely",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "information"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. brings together  ____  from 73 different sources",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "information"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p7",
+      "seq": 59,
+      "stem": "（第 59 空）…mes faster than most other animals. They wamthat the loss of these insects will  ____  . A group of scientists recently put out a\"meta-study\" on the loss of insectsaround the…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "information"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…The  meta-study looks at the work of many other scientific studies. This report  ____  . The results of thestudy are alarming. The scientists say that 40% of the world's inse…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "information"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…harp drop in their numbers in the lastten years. One thind of the world insects  ____  .The news is not only bad for the insects, but for everything else that liveson the pla…",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "danger"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "information"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A. answer  ____  that perplex us",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "scales"
+        },
+        {
+          "key": "B",
+          "text": "oriented"
+        },
+        {
+          "key": "C",
+          "text": "question"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B. on both large and amall  ____ ",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "scales"
+        },
+        {
+          "key": "B",
+          "text": "oriented"
+        },
+        {
+          "key": "C",
+          "text": "question"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C.  ____  towards understanding the individual",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "scales"
+        },
+        {
+          "key": "B",
+          "text": "oriented"
+        },
+        {
+          "key": "C",
+          "text": "question"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p8",
+      "seq": 65,
+      "stem": "（第 65 空）…existing within them. Sociologists study the waysociety develops and functions  ____  . From national govemment and cultural norms to local politics and family values,sociol…",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "scales"
+        },
+        {
+          "key": "B",
+          "text": "oriented"
+        },
+        {
+          "key": "C",
+          "text": "question"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…family values,sociologists analyze the who and why of our society. They seek to  ____  when we look at not only individuals but societyas a whole. Sociology is a field of stu…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "scales"
+        },
+        {
+          "key": "B",
+          "text": "oriented"
+        },
+        {
+          "key": "C",
+          "text": "question"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…d often confused with paychology. Though similar inmany respects, psychology is  ____  and how the individual relates to the group. By contrast, sociology is a study ofsystem…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "scales"
+        },
+        {
+          "key": "B",
+          "text": "oriented"
+        },
+        {
+          "key": "C",
+          "text": "question"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 68,
+      "stem": "（第 68 空）A. process difficult  ____  or feeling",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 69,
+      "stem": "（第 69 空）B. have  ____  for many organ systems",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 70,
+      "stem": "（第 70 空）C. be a useful  ____ ",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 71,
+      "stem": "（第 71 空）D. choosing to try and  ____  on potential solutions",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…people think it can negatively impact ourwellbeing, as it does not allow us to  ____  . However, positive thinking is not about ignoring reality, but rather 73 .andbeing ope…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…us to 72 . However, positive thinking is not about ignoring reality, but rather  ____  .andbeing open to new ways of thinking.It can 74 fior mentally and emotionally dealing…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…t ignoring reality, but rather 73 .andbeing open to new ways of thinking.It can  ____  fior mentally and emotionally dealing with the many uncertainties andchallenges of life…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2023-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…fe. Our ability to reframe and look for the positives in a situation appears to  ____  within our bodies. This is known as\"cognitive reframing\" and it trains us to use techni…",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "strategy"
+        },
+        {
+          "key": "B",
+          "text": "fiocus"
+        },
+        {
+          "key": "C",
+          "text": "emotions"
+        },
+        {
+          "key": "D",
+          "text": "benefits"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2023-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nDirectioms: Translate thefollowing passage into Chinese, Writeyour answer on the\nAnswer Shest.\nWhile everyone's image of their dream home loolks a little different, most people\nwill agree that their idealneighborhood is filled with friendly faces and neighbors\n\nthey can rely on ina time of need. However, as is the case withall friendships,\ngetting to know your neighbors takes time and effort-—though potentially less than\nyou may expect.There are real benefits to getting to know your neighbors. A recent\nstudy found that people with positive socialperceptions of their neighborhoods were\nless lilkely to experience depression,anxiety and loneliness.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "虽然每个人的梦想家园的形象看起来有点不同,但大多数人都会同意,他们理想的社区充满\n了友好的面孔和邻居,他们可以在需要的时候依靠。然而,就像所有的友谊一样,了解你的邻居\n需要时间和努力——尽管可能比你想象的要少。了解你的邻居确实有好处。最近的一项研究发\n现,对自己的社区有积极社会观念的人不太可能经历抑郁、焦虑和孤独。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2023-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a composition in no less than 150 words on the topic: Is winning\nwhat connts most in onr life? Youcould write according to the hints given below.\nWrite your composition on the Anawer Sheet.\nOur life is often filled with competitions of all forms and kinds.As result,\npeople are often judged as winners orlosers in those competitions. Is winning the\nmost important in our life? Give your opinion and reasons.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "认为获胜对生活最重要\nIs winning what counts most in our life?\nNowadays, there exists a highly exposed phenomenon that searching for winning has\nbeen_a heatedtopic in our daily life(现象总结).Like everything else,searching for\nwinming(主 题)has bothfavorable and unfavorable aspects. Some argue its drawbacks\nappear to be more distinct. As far as I amconcermed, the advantages outweigh its\ndisadvantages.\nThe reasons could be listed as follows. First of all, people mostly agree that\nsearching for winning canencourage us to progress(原因—).Besides, facing challenges\nactively in order to win(原因二) is anothertruth we must face. Last but not least,\nthere is a growing awareness that we can realize the value of lifeand gain a sense of\nachievement in the process of searching for winning(原因三).\nTaking all these into account, we can draw a conclusion that its advantages could\nnot be ignored andwould bring about effects into our lives. It is significantto hold\na suitable attitude towards it.\n范文2:认为获胜对生活不是最重要\nIs winning what counts most in our life?\nNowadays, there exists a highly exposed phenomenon that searching for winning has\nbeen a heatedtopic in our daily life(现象总结).Like everything else, searching for\nwinning(主 题)has bothfavorable and unfavorable aspects. Some argue its benefits\nappear to be more distinct. As far as I amconcermed, the disadvantages outweigh its\nadvantages.\nThe reasons could be listed as follows. First of all, people mostly agree that\nsearching for winning toomuch can make us ignore something more important(原\n因―).Besides, too much desire for winning will bringgreat pressure to us, both\nmentally and spiritually, which(原因二) is another truth we must face. Last butnot\nleast, there is a growing awareness that excessive pursuit of victory is not\nconducive to the realizationof the value of life(原因三).\n\nTaking all these into account, we can draw a conclusion that its disadvantages\ncould not be ignoredand would bring about effects into our lives. It is significant\nto hold a suitable attitude towards it.\n·高级研修",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

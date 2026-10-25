@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no" />
+
+    <title>同等学力英语备考</title>
+    <meta name="description" content="同等学力申硕英语备考工具：背单词、真题模拟、进度同步，离线可用。" />
+
+    <!-- iOS 全屏与状态栏（ARCHITECTURE 8.5） -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="同等学力备考" />
+    <meta name="format-detection" content="telephone=no" />
+
+    <!-- 浅/深两套主题色 -->
+    <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f6f8f9" />
+    <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#101619" />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- 主屏图标必须是 PNG 180×180 且不透明（iOS 不接受 SVG/WebP） -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon-180.png" />
+
+    <!-- iOS 启动图：必须按机型逐条声明，没有通配写法 -->
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-1170x2532.png"
+      media="(device-width: 390px) and (device-height: 844px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-1179x2556.png"
+      media="(device-width: 393px) and (device-height: 852px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-1206x2622.png"
+      media="(device-width: 402px) and (device-height: 874px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-1290x2796.png"
+      media="(device-width: 430px) and (device-height: 932px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-1320x2868.png"
+      media="(device-width: 440px) and (device-height: 956px) and (-webkit-device-pixel-ratio: 3) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-1640x2360.png"
+      media="(device-width: 820px) and (device-height: 1180px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-2048x2732.png"
+      media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2) and (orientation: portrait)"
+    />
+    <link
+      rel="apple-touch-startup-image"
+      href="/splash/apple-splash-2732x2048.png"
+      media="(device-width: 1366px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2) and (orientation: landscape)"
+    />
+
+    <!--
+      首屏兜底底色：在 app.css 加载完成前就画出与 --c-bg 一致的颜色，
+      避免深色模式主屏启动时闪白（ARCHITECTURE 8.7 第 5 条）。
+    -->
+    <style>
+      html {
+        background-color: #f6f8f9;
+      }
+      @media (prefers-color-scheme: dark) {
+        html {
+          background-color: #101619;
+        }
+      }
+      html.dark {
+        background-color: #101619;
+      }
+      #root {
+        min-height: 100%;
+      }
+
+      /* 桌面形态（Electron）：底板透明，让 DWM 亚克力透出；防首帧白底闪烁 */
+      html.tdxl-desktop,
+      html.tdxl-desktop body {
+        background-color: transparent;
+      }
+    </style>
+
+    <!-- 桌面形态早标记：必须在首帧渲染前打上，晚了会闪一帧实色底 -->
+    <script>
+      if (/Electron\/\d+/.test(navigator.userAgent)) {
+        document.documentElement.classList.add('tdxl-desktop');
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

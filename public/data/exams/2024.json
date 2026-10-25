@@ -1,0 +1,2304 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2024 年同等学力人员申请硕士学位英语水平全国统一考试试题（回忆版）",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2024-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Who says your job leaves you no time to hit the gym? A detailed new study of\nU.S,physical activity pattems shows that men who work full-time whether their wst\njobs are active or sedentary end up getting more exercise than healthy working-age\nmen without a job.\nThe new study comes from researchers at the National institutes of Health(NH). As\npart of the National Health and Nutrition Examination Survey in, some l,800 working\u0002age adults were asked a battery of questions about their lifestyle and work\nhabits,and, crucially, they then agreed to wear an accelerometer-a device to measure\ntheir physical activity-over the course of several days.\nThose data from accelerometers provide a rare opportunity to nail down how much\nactivity the typical American actually does. They show that men or women who work in\nactive jobs do more physical activity on weekdays than men or women working in\nsedentary jobs. That's perhaps not surprising, but the NIH researchers suggest that\nit still matters because of an ongoing shift in the economy toward sedentary work.\nThe more surprising finding is the one that compares full-time workers to people\nwho don't work, The study shows that men with full-time jobs do more physical\nactivity than healthy men without jobs.(\"Healthy man,\"in this case, were those men\nwho said their primary reason for being out of work was something other than health\nor disability.) in fact even sedentary full-time workers performed more weekday\nphysical activity overall than the healthy non-workers. The results looked very\ndifferent for women, Women in sedentary jobs did less wst physical activity on\nweekdays than their healthy non-working peers.\nSo what drives the gender(性别)difference? The study looks at the patterns, and\nunfortunately can't provide too much detail about their causes, \"There could be many\npossible answers, including, perhaps, different abilities to pay for leisure time\nactivities, or different attitudes about work and physical activity. It could also be\nthat more non-working women than men are choosing to be at home running around full\u0002time after the kids.\nBut the NH researchers do find evidence, they write, to suggest that, whatever\ncauses the difference, healthy non-working women are replacing work with active\npursuits whereas for some reason (non-working)men generally are not."
+    },
+    {
+      "id": "e2024-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "Popular fireworks should be replaced with cleaner drone and laser light shows to\navoid the“highly damaging”impact on wildlife, domestic pets and the broader\nenvironment, new Curtain-led research has found.\nThe new research, published in Pacific Conservation Biology, examined the\nenvironmental toll of firework displays by reviewing the ecological effects of Diwali\nfestivities in India, Fourth of July celebrations across the United States of America,\nand other events in New Zealand and parts of wst Europe\nExamples included fireworks in Spanish festivals impacting the breeding success\nof House Sparrows, July firework displays being implicated in the decline of\nBrandt’s Cormorant colonies in California, and South American sea lions changing\ntheir behavior during breeding season as a result of New Year's fire works in Chile.\nLead author Associate Professor Bill Bate man, from Curtin's School of Molecular\nand Life Sciences, said fireworks remained globally popular despite the overwhelming\nevidence that they negatively impacted wildlife, domestic animals and the environment.\n\"Fireworks create short-term noise and light wst disturbances that cause distress in\ndomestic animals that may be managed before or alter a firework event, but the\nimpacts to wildlife can be on a much larger scale.Associate Professor Bateman said.\n“The annual timing of some large-scale firework events coincides with the\nmigratory or reproductive movements of wildlife, and may therefore have adverse long\u0002term population effects on them. Fire works also produce significant pulses of highly\npollutant materials that also contribute significantly to the chemical pollution of\nsoil, water, and air.which has implications for human as well as animal health.\"\nAssociate Professor Bateman said firework bans at sensitive periods could limit\nthe impact. as well as drone or other light-based shows. \"Other than horses, for\nwhich there is some evidence that they can be gradually familiarized with flashes of\nlight, there is very little wstthat can be done to address the disturbing impact of\nnoise from fireworks on animals and wildlife,\" Bateman said.\n\"The future of firework displays may be in the use of safer and greener\nalternatives such as drones, eco-friendly fireworks or visible-wavelength lasers for\nlight shows.\n\"There is growing evidence that these community events can be managed in a\nsustainable way and it's clear that out-dated firework displays need to be replaced\nby cleaner options that are notwst harmful to wildlife and the environment.\""
+    },
+    {
+      "id": "e2024-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "The past two years have shown that employees desire greater flexibility- and\nthey're willing to change jobs to get it. Flexibility has tremendous benefits for\nemployees, including reduced burnout and greater job satisfaction. However, it can\nalso result in spiraling coordination costs for managers, large amounts of wasted\neffort, and the inability to respond quickly to client requests. The brief meetings\nthat once allowed teams to promptly brainstorm solutions and align efforts are now\nharder to pull together. it can take days to get most members in the same virtual\nplace at the same time(including one person who's half-listening from the dentist's\nchair).\nTo increase employee flexibility on their teams, managers need wstguidance and\nsupport - otherwise, they could burn out on the job or check out to find a new one.\nHere are some ways managers can offer their teams flexibility without breaking under\nthe coordination costs or significantly stalling progress\nFirst, rethink when employees works together. For complex tasks that require\nteamwork, it's not feasible to provide employees with complete flexibility (i.e, the\nability to work for any duration at any time). However, returning to the standard in\u0002office work week won't work either. Thus, managers will need to think differently and\ndeeply about project requirements and schedule accordingly.\nFor project-based workflows, managers should carefully chart out the project\ntasks and timeline and issue an advance request for employees to block a specific set\nof days for overlapping work during key project phases (e.g.kickoff, mid-point,\nfinalization). For less predictable workflows, consider aligning scheduling bursts\nwith calendar time.For example, during the second week of the month, employees are\nexpected to be working from 10 a.m.-- 5 p.m. Eastern then they're allowed to choose\nwhich 40 hours (+/- 10) they work weekly during the wst rest of the month.\nSecond, rethink who works together. To provide greater flexibility, managers may\nalso need to reorganize their larger teams into multi-team systems of smaller,\nempowered.interconnected groups. For example, converting your team of nine into three\nteams of three empowers them to make decisions and makes it easier for employees to\nhelp coordinate their work. Besides, managers must think more deeply than ever about\nthe structure of their employees' tasks and priorities. Understanding the connections\nbetween different tasks is especially crucial for setting wst priorities to avoid\nbottlenecks. If everything is a priority, nothing is a priority"
+    },
+    {
+      "id": "e2024-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "Conversation goes far beyond talking. It also involves eyes, smiles, and the\nsilences between the words. When those elements hum along together, conversational\npartners feel most deeply engaged and connected.\nLike good conversationalists, Dartmouth College scientists have taken that idea\nand carried it to new places. They reported some surprising findings on the interplay\nof eye contact and how two people synchronize during conversation nerve activity\nwhile talking.\nThe researchers suggest, in a wstpaper published in the Proceedings of the\nNatural Academy of Sciences USA.that being in tune with a conversational partner is\ngood but that occasionally falling out of sync might be better.\nMaking eye contact has long been thought to act as the glue that connects two\npeople in conversation. Its absence can signal failure of social function..Similarly,\nthe growing study along this line has largely focused on the way synchrony in\nindividuals’ brain activity benefits the social connection between them\nEarlier research by the Dartmouth lab had showed that synchronized pupil\nexpansion serves as a reliable indicator of shared attention, which in turn marks\ngreater nerve synchrony\nIn the new study, which measured pupil expansion during unstructured 10-minute\nconversations, the researcher.found that the moment of making eye contact rather than\na sustained period of locked gazes marks a peak in shared attention. Synchrony, in\nfact, drops sharply just alter you look into your conversation partners’eyes and\nbegins to recover when you and that person look away from each other.Eye contact is\nnot wst eliciting synchrony: it's disrupting it,\" says Wheatley, the paper's senior\nauthor\nWhy would this happen? Wheatley contends that making and breaking eye contact\nultimately propels the conversation forward. “Perhaps what this is doing is allowing\nus to break synchrony and move back into our own heads so that we can bring forth new\nand individual wstcontributions to keep the conversation going,\" Wohltjen says.\nConnections between gaze and synchrony might be relevant to research in\nautism(0fl6) and other mental disorders that involve non-typical interaction.The\nfindings also help explain frustrations over video conferencing platforms, on which\nreal eye contact is nearly impossible to make -or break-because of the positioning of\ncameras and windows on screens."
+    },
+    {
+      "id": "e2024-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "Talking about worry, I think of the most anxiety-provoking time of my life. It\nwas 2008, and l was pregnant with my first child. At my ultrasound checkup, my\nhusband and I learned that our son would be born with a congenital(先天的) heart\ncondition. This condition is fatal if not wst corrected through open-heart surgery\nwithin months of birth. For the remainder of my pregnancy, I was almost never\ncompletely free of worry. How can we get him the best care? How with is affect his\nlife?\nDoesn't this mean that I should prevent worry as soon as possible? Yet, that is\nexactly the wrong thing to do Suppressing thoughts and feelings never works-and\nparadoxically increases anxiety while reinforcing the belief that worries are\nuncontrollable.\nI discovered this for myself with my son's heart condition. My worries were\nconstant and exhausting, but putting them aside didn't work. So I tried the opposite.\nl used my worries. Every time I worried, I went into action mode: I read every paper\npublished on the condition, I asked our nurses and doctors a million questions, and\nimagined best- and worst-case scenarios so l could plan each detail of my son's care.\nGradually, I learn to worry smart and eventually worry less.\nOur son is now 14 years old. He loves playing the piano, writing, and wresting.\nAs his doctors told us after his surgery, there are no restrictions on what he can do.\nComment l:\nI agree, but meditation helps as well.\nComment 2\nI'm one of those “stare at the dark ceiling trying to get to sleep\" worriers. I\nfind that it helps tremendously if l run a\nmile after dinner.\nComment 3\nMaybe these are good ideas, maybe not. Maybe some of them will work for some\npeople and some not. But where is the science behind any of it?\nComment 4\nIf it were only so easy. .especially for those of us who suddenly wake at 3\na.m.most nights where every problem and worry is magnified to the power of 10.\nComment 5\nA simple way I look at this is to say to myself, “\"Will l be a worrier or a\nwarrior( 战 ;)?\" Then l act on what l am worried about in some constructive way."
+    },
+    {
+      "id": "e2024-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "Millions of years ago, a volcano (火l) built a mountain on the floor of the\nAtlantic. In eruption after eruption it 46 up a great pile of volcanic rock, until\nit had wst accumulated a mass of hundred miles across at its base.reaching. 47\ntoward the surface of the sea, emerging as an island of about two hundred square\nmiles. Thousands of years passed, and thousands of thousands. 48 the waves of the\nAtlantic reduced it to a small fragment above water.This fragment we know 49\nBermuda.\nWith variations, the life story of Bermuda has been repeated by almost every one\nof the 50 that interrupt the watery expanses of the ocean far from land. These 5l is\nlands in the wst sea are fundamentally different from the continents. The major land\nmasses and the ocean basins 52 are much as they have been throughout the greater\npart of geologic time. But islands are created today, destroyed tomorrow. They are\nthe 53 of the violent,explosive,earth-shaking eruptions of submarine volcanoes,\nworking perhaps for millions of years to achieve their end.\nIslands have always 54 much attention. Our imaginations can follow its shapes\ndown through darkening waters to 55 it rests on the sea floor.We wonder why and how\nit rose here in the midst of the ocean."
+    },
+    {
+      "id": "e2024-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. demand\nB. Land\nC. immediately\nPhrases:\nA.satisfy the global 56 for beet\nB. are converted to grazing 57\nC. can do it 58\n\nCutting meat consumption is a powerful and personal thing most Americans can do\nto tackle the climate crisis and they 59 . About 40 percent of greenhouse gases\ncome from wst agriculture, deforestation and other land-use changes. Meat\u0002particularly beef-drives climate change in two ways:first,through cows emission of a\ngreenhouse gas, and second, by destroying forests as they 60 . Despite the\neconomic slowdown in recent years atmospheric greenhouse gas levels continued to\nrise in 2020, in large part because of an emissions increase in the Amazon as rain\nforests were changed into land for cattle to 61 .By eating less beef, we can start\nto decrease that demand."
+    },
+    {
+      "id": "e2024-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. Poorly\nB. Complicated\nC. Cause\nPhrases:\nA. are many viruses that 62 colds\nB. are still so 63 understood\nC.is more 64 than it appears.\n\nOne would think that with so many people having colds and so many hours of\nproductivity being lost scientists would know very well about the common cold. But\nthe disease 65 at first. On in the last few years have researchers gained certain\nknowledge about the agents responsible for it. For one thing, there 66 .\nThe fact that colds are caused by viruses suggests some means of prevention and\ntreatment. Because the environmental and physiological circumstances for the\ndevelopment of colds 67 , there is little one can do to prevent them beyond\navoiding persons with “new colds\" or staying away from others when one has a new\ncold."
+    },
+    {
+      "id": "e2024-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. were afraid of\nB. in this society\nC. going on\nD. failed to\nPhrases:\nA. a signal that 68 men belong in the office\nB. Something 69 with British culture\nC. most men who 70 take the proposal\nD.two out of five men 71 asking for flexible working\n\nA report showed that almost half of all man failed to take up their offering of\ntwo weeks paternity leave(降产). The institution which carried out wst the research\nfound that 72 did so because they felt unable to afford it.\nThe research was not restricted to paternity leave. It also found that 73 lest\nit ham their careers by making\nthem appear uncommitted.\nClearly there is 74 , and one thing driving our culture is the legal framework\nin which it operates. Compared to the two-week paternity leave for men, women have a\n\none-year offering. The unequal offerings are 75 while women should take the lead at\nhome.\nPaper Two(试卷二)(50 minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2024-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Nathan: Me too. So, how did your interview go?  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks or being supportive."
+        },
+        {
+          "key": "B",
+          "text": "Wasn't that today?"
+        },
+        {
+          "key": "C",
+          "text": "I was really nervous about it."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Alicia: Thanks. I'm just happy that it's over.  ____ ",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks or being supportive."
+        },
+        {
+          "key": "B",
+          "text": "Wasn't that today?"
+        },
+        {
+          "key": "C",
+          "text": "I was really nervous about it."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Alicia:  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks or being supportive."
+        },
+        {
+          "key": "B",
+          "text": "Wasn't that today?"
+        },
+        {
+          "key": "C",
+          "text": "I was really nervous about it."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Carl: Hey, Sis. Are you interested in buying some used books for school?  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "I need both of those for sure."
+        },
+        {
+          "key": "B",
+          "text": "That's a little expensive for a beat-up book like that."
+        },
+        {
+          "key": "C",
+          "text": "You can really save some money that way."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Ashley:Thirty?  ____  What else are you selling?",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "I need both of those for sure."
+        },
+        {
+          "key": "B",
+          "text": "That's a little expensive for a beat-up book like that."
+        },
+        {
+          "key": "C",
+          "text": "You can really save some money that way."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）Ashley: I'll take the English book and the novel.  ____  I think 11l hold off on",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "I need both of those for sure."
+        },
+        {
+          "key": "B",
+          "text": "That's a little expensive for a beat-up book like that."
+        },
+        {
+          "key": "C",
+          "text": "You can really save some money that way."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Receptionist Okay.  ____ ",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "Could have our phone umber please?"
+        },
+        {
+          "key": "B",
+          "text": "And may I ask who referred you to our office?"
+        },
+        {
+          "key": "C",
+          "text": "Do you happen to have an opening in the moming?"
+        },
+        {
+          "key": "D",
+          "text": "Is this your first visit?"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）Receptionist:  ____ ",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "Could have our phone umber please?"
+        },
+        {
+          "key": "B",
+          "text": "And may I ask who referred you to our office?"
+        },
+        {
+          "key": "C",
+          "text": "Do you happen to have an opening in the moming?"
+        },
+        {
+          "key": "D",
+          "text": "Is this your first visit?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）Ronald: Uh,  ____  usually pick up my kids from school round that time.",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "Could have our phone umber please?"
+        },
+        {
+          "key": "B",
+          "text": "And may I ask who referred you to our office?"
+        },
+        {
+          "key": "C",
+          "text": "Do you happen to have an opening in the moming?"
+        },
+        {
+          "key": "D",
+          "text": "Is this your first visit?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）Receptionist Okay.  ____ ",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "Could have our phone umber please?"
+        },
+        {
+          "key": "B",
+          "text": "And may I ask who referred you to our office?"
+        },
+        {
+          "key": "C",
+          "text": "Do you happen to have an opening in the moming?"
+        },
+        {
+          "key": "D",
+          "text": "Is this your first visit?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "These trends indicate that efforts to hire more women in academia have not been fruitful.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "successful"
+        },
+        {
+          "key": "B",
+          "text": "worthwhile"
+        },
+        {
+          "key": "C",
+          "text": "serious"
+        },
+        {
+          "key": "D",
+          "text": "consistent"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "The Prime Minister is expected to unveil the yearly plan for economic recovery later this week",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "explain"
+        },
+        {
+          "key": "B",
+          "text": "postpone"
+        },
+        {
+          "key": "C",
+          "text": "reveal"
+        },
+        {
+          "key": "D",
+          "text": "approve"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "We are told that the pictures painted on some of the vases were not of real people but characters from legends.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cartoons"
+        },
+        {
+          "key": "B",
+          "text": "poems"
+        },
+        {
+          "key": "C",
+          "text": "myths"
+        },
+        {
+          "key": "D",
+          "text": "novels"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "After retirement, he finds country life preferable to living in the city.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cheaper than"
+        },
+        {
+          "key": "B",
+          "text": "better than"
+        },
+        {
+          "key": "C",
+          "text": "comparable to"
+        },
+        {
+          "key": "D",
+          "text": "similar to"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "Heavy rainfall could also trigger massive flooding, bringing more misery to millions.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cause"
+        },
+        {
+          "key": "B",
+          "text": "increase"
+        },
+        {
+          "key": "C",
+          "text": "expect"
+        },
+        {
+          "key": "D",
+          "text": "transform"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "Higher minimum wage laws, better training, and hour protections all can help to bring up job quality for older workers.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "impact"
+        },
+        {
+          "key": "B",
+          "text": "lower"
+        },
+        {
+          "key": "C",
+          "text": "analyze"
+        },
+        {
+          "key": "D",
+          "text": "raise"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "Numerous tests have shown that in most instances the disease can be controlled by medication",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cases"
+        },
+        {
+          "key": "B",
+          "text": "forms"
+        },
+        {
+          "key": "C",
+          "text": "studies"
+        },
+        {
+          "key": "D",
+          "text": "types"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "Jim strode off down a row of books and started pulling them off the shelves at random.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "carefully"
+        },
+        {
+          "key": "B",
+          "text": "quietly"
+        },
+        {
+          "key": "C",
+          "text": "aimlessly"
+        },
+        {
+          "key": "D",
+          "text": "suddenly"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "These new fights help to inspire competition and ofler more choices for travelers between countries",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "eliminate"
+        },
+        {
+          "key": "B",
+          "text": "stimulate"
+        },
+        {
+          "key": "C",
+          "text": "reduce"
+        },
+        {
+          "key": "D",
+          "text": "upgrade"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "To activate the promotion procedures, you just need to fill in the required personal information.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "speed"
+        },
+        {
+          "key": "B",
+          "text": "follow"
+        },
+        {
+          "key": "C",
+          "text": "start"
+        },
+        {
+          "key": "D",
+          "text": "push"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q21",
+      "sectionType": "reading",
+      "passageId": "e2024-p1",
+      "seq": 21,
+      "stem": "The word \"sedentary\" (Para.1) probably means .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "being out of job"
+        },
+        {
+          "key": "B",
+          "text": "working part-time"
+        },
+        {
+          "key": "C",
+          "text": "sitting for a long time"
+        },
+        {
+          "key": "D",
+          "text": "being passive in life"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q22",
+      "sectionType": "reading",
+      "passageId": "e2024-p1",
+      "seq": 22,
+      "stem": "What is the function of the accelerometers in the study?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They record the amount of activity."
+        },
+        {
+          "key": "B",
+          "text": "They provide people with more energy"
+        },
+        {
+          "key": "C",
+          "text": "They indicate gender differences."
+        },
+        {
+          "key": "D",
+          "text": "They push people to be more active."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q23",
+      "sectionType": "reading",
+      "passageId": "e2024-p1",
+      "seq": 23,
+      "stem": "Who do the most physical activity according to the study?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "People with sedentary jobs."
+        },
+        {
+          "key": "B",
+          "text": "People with active jobs."
+        },
+        {
+          "key": "C",
+          "text": "Healthy women with no jobs."
+        },
+        {
+          "key": "D",
+          "text": "Healthy men with full-time jobs."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q24",
+      "sectionType": "reading",
+      "passageId": "e2024-p1",
+      "seq": 24,
+      "stem": "What is the significance of the study?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It indicates the ongoing economic trend."
+        },
+        {
+          "key": "B",
+          "text": "It provides evidence for gender differences."
+        },
+        {
+          "key": "C",
+          "text": "It reveals the typical American physical activity patterns"
+        },
+        {
+          "key": "D",
+          "text": "It explains the relation work and leisure."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q25",
+      "sectionType": "reading",
+      "passageId": "e2024-p1",
+      "seq": 25,
+      "stem": "Which of the following is true about non-working women?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They are busy with their kids all the time."
+        },
+        {
+          "key": "B",
+          "text": "They are generally from wealthy families."
+        },
+        {
+          "key": "C",
+          "text": "They engage themselves in other activities"
+        },
+        {
+          "key": "D",
+          "text": "They rely on their husbands for a living."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q26",
+      "sectionType": "reading",
+      "passageId": "e2024-p2",
+      "seq": 26,
+      "stem": "The research team examined the impact of fireworks by .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "doing experiments on animals"
+        },
+        {
+          "key": "B",
+          "text": "conducting a large-scale survey"
+        },
+        {
+          "key": "C",
+          "text": "interviewing environmentalists"
+        },
+        {
+          "key": "D",
+          "text": "carrying out an ecological review"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q27",
+      "sectionType": "reading",
+      "passageId": "e2024-p2",
+      "seq": 27,
+      "stem": "Big firework events held at certain periods each year .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cause animals to lose their sight and hearing"
+        },
+        {
+          "key": "B",
+          "text": "reduce the breeding ratewst of domestic animals"
+        },
+        {
+          "key": "C",
+          "text": "pose threats to the migration of wild animals"
+        },
+        {
+          "key": "D",
+          "text": "are gradually familiarized by wildlife"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q28",
+      "sectionType": "reading",
+      "passageId": "e2024-p2",
+      "seq": 28,
+      "stem": "According to the research, what animals can partially adapt to fireworks?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Sparrows."
+        },
+        {
+          "key": "B",
+          "text": "sea lions"
+        },
+        {
+          "key": "C",
+          "text": "Cormorants."
+        },
+        {
+          "key": "D",
+          "text": "Horses"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q29",
+      "sectionType": "reading",
+      "passageId": "e2024-p2",
+      "seq": 29,
+      "stem": "Bateman suggests that a green alternative to fireworks could be",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Drones"
+        },
+        {
+          "key": "B",
+          "text": "parades"
+        },
+        {
+          "key": "C",
+          "text": "travels"
+        },
+        {
+          "key": "D",
+          "text": "circus shows"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q30",
+      "sectionType": "reading",
+      "passageId": "e2024-p2",
+      "seq": 30,
+      "stem": "Which of the following can best summarize the main idea of the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Popular fireworks constitute a primary source of pollution."
+        },
+        {
+          "key": "B",
+          "text": "Fireworks have short- and long-term impact on environment."
+        },
+        {
+          "key": "C",
+          "text": "Ecological effect of fireworks should not be overstated."
+        },
+        {
+          "key": "D",
+          "text": "Fireworks are outdated and should be banned"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q31",
+      "sectionType": "reading",
+      "passageId": "e2024-p3",
+      "seq": 31,
+      "stem": "Employees desire greater flexibility because it means .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "higher efficiency"
+        },
+        {
+          "key": "B",
+          "text": "longer vacations"
+        },
+        {
+          "key": "C",
+          "text": "less exhaustion"
+        },
+        {
+          "key": "D",
+          "text": "lighter workloads"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q32",
+      "sectionType": "reading",
+      "passageId": "e2024-p3",
+      "seq": 32,
+      "stem": "The main idea of Paragraph 1 is that greater employee flexibility may .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "bring huge benefits to employees"
+        },
+        {
+          "key": "B",
+          "text": "increase productivity of a company"
+        },
+        {
+          "key": "C",
+          "text": "affect response to client requests"
+        },
+        {
+          "key": "D",
+          "text": "pose great challenges to managers"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q33",
+      "sectionType": "reading",
+      "passageId": "e2024-p3",
+      "seq": 33,
+      "stem": "For managers, increasing employee flexibility .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "is necessary and possible"
+        },
+        {
+          "key": "B",
+          "text": "depends on their personal will"
+        },
+        {
+          "key": "C",
+          "text": "is difficult but economical"
+        },
+        {
+          "key": "D",
+          "text": "improves team coordination"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q34",
+      "sectionType": "reading",
+      "passageId": "e2024-p3",
+      "seq": 34,
+      "stem": "The word \"block\"(Para.4)is closest in meaning to “ ”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "propose"
+        },
+        {
+          "key": "B",
+          "text": "put of"
+        },
+        {
+          "key": "C",
+          "text": "set aside"
+        },
+        {
+          "key": "D",
+          "text": "restrict"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q35",
+      "sectionType": "reading",
+      "passageId": "e2024-p3",
+      "seq": 35,
+      "stem": "The following suggestions are given to managers EXCEPT .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "adjusting project schedules"
+        },
+        {
+          "key": "B",
+          "text": "providing better work conditions"
+        },
+        {
+          "key": "C",
+          "text": "establishing multi-team systems"
+        },
+        {
+          "key": "D",
+          "text": "setting clear tasks and priorities"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q36",
+      "sectionType": "reading",
+      "passageId": "e2024-p4",
+      "seq": 36,
+      "stem": "It can be leamed that Dartmouth College scientists discovered that . .conversation is more than talking B. doubted the design of conversational research C .explained the findings of conversationalists D.found interpersonal synchrony not always desirable",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q37",
+      "sectionType": "reading",
+      "passageId": "e2024-p4",
+      "seq": 37,
+      "stem": "Previous research on eye contact focused on .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "its role in keeping people connected"
+        },
+        {
+          "key": "B",
+          "text": "pattems in social interaction"
+        },
+        {
+          "key": "C",
+          "text": "the resources of poor social relations"
+        },
+        {
+          "key": "D",
+          "text": "flow of brain activity in conversations"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q38",
+      "sectionType": "reading",
+      "passageId": "e2024-p4",
+      "seq": 38,
+      "stem": "What is the finding in Wheatley's new study?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Expansion indicates indicates shared attention"
+        },
+        {
+          "key": "B",
+          "text": "Synchrony is key to success of communication"
+        },
+        {
+          "key": "C",
+          "text": "Shared attention is highest at initial eye contact"
+        },
+        {
+          "key": "D",
+          "text": "Synchrony keeps pace with eye contact."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q39",
+      "sectionType": "reading",
+      "passageId": "e2024-p4",
+      "seq": 39,
+      "stem": "How did Wheatley account for the role of eye contact changes?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "To create a proper setting for a conversation."
+        },
+        {
+          "key": "B",
+          "text": "To make people feel respected by others."
+        },
+        {
+          "key": "C",
+          "text": "To encourage people's independent insights"
+        },
+        {
+          "key": "D",
+          "text": "To work together with participant words"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q40",
+      "sectionType": "reading",
+      "passageId": "e2024-p4",
+      "seq": 40,
+      "stem": "What is the implication of Wheatley's research findings?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Improvement of conversational research design."
+        },
+        {
+          "key": "B",
+          "text": "Understanding of deficits in communication."
+        },
+        {
+          "key": "C",
+          "text": "Creativity on pattems of typical interactions"
+        },
+        {
+          "key": "D",
+          "text": "Reduction of stress over video conferences"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q41",
+      "sectionType": "reading",
+      "passageId": "e2024-p5",
+      "seq": 41,
+      "stem": "What does the author think of the effort to prevent worry?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It only works at the beginning."
+        },
+        {
+          "key": "B",
+          "text": "It should start as soon as possible"
+        },
+        {
+          "key": "C",
+          "text": "It makes the problem even worse."
+        },
+        {
+          "key": "D",
+          "text": "It is a simple and effective solution."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q42",
+      "sectionType": "reading",
+      "passageId": "e2024-p5",
+      "seq": 42,
+      "stem": "The author's action mode involves the following activities EXCEPT .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "reading scientific literature"
+        },
+        {
+          "key": "B",
+          "text": "taking some medical courses"
+        },
+        {
+          "key": "C",
+          "text": "making a thorough action plan"
+        },
+        {
+          "key": "D",
+          "text": "consulting medical professionals"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q43",
+      "sectionType": "reading",
+      "passageId": "e2024-p5",
+      "seq": 43,
+      "stem": "Comment 3 indicates that the author's suggestions .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "lack support from scientific research"
+        },
+        {
+          "key": "B",
+          "text": "can be applied to a wider population"
+        },
+        {
+          "key": "C",
+          "text": "look at worry from a new perspective"
+        },
+        {
+          "key": "D",
+          "text": "may lead to considerable confusion"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q44",
+      "sectionType": "reading",
+      "passageId": "e2024-p5",
+      "seq": 44,
+      "stem": "Which comment questions the feasibility of the author's suggestions?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 1."
+        },
+        {
+          "key": "B",
+          "text": "Comment 2."
+        },
+        {
+          "key": "C",
+          "text": "Comment 4."
+        },
+        {
+          "key": "D",
+          "text": "Comment 5."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q45",
+      "sectionType": "reading",
+      "passageId": "e2024-p5",
+      "seq": 45,
+      "stem": "Which comments offer ways of relieving worries?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comments 1 and 3"
+        },
+        {
+          "key": "B",
+          "text": "Comments 3 and 4"
+        },
+        {
+          "key": "C",
+          "text": "Comments 2 and 4."
+        },
+        {
+          "key": "D",
+          "text": "Comments 2 and 5."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q46",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "washed"
+        },
+        {
+          "key": "B",
+          "text": "lifted"
+        },
+        {
+          "key": "C",
+          "text": "pushed"
+        },
+        {
+          "key": "D",
+          "text": "moved"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q47",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "upward"
+        },
+        {
+          "key": "B",
+          "text": "downward"
+        },
+        {
+          "key": "C",
+          "text": "forward"
+        },
+        {
+          "key": "D",
+          "text": "backward"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q48",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "Suddenly"
+        },
+        {
+          "key": "B",
+          "text": "Admittedly"
+        },
+        {
+          "key": "C",
+          "text": "practically"
+        },
+        {
+          "key": "D",
+          "text": "Eventually"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q49",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "by"
+        },
+        {
+          "key": "B",
+          "text": "like"
+        },
+        {
+          "key": "C",
+          "text": "as"
+        },
+        {
+          "key": "D",
+          "text": "of"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q50",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "rock"
+        },
+        {
+          "key": "B",
+          "text": "is lands"
+        },
+        {
+          "key": "C",
+          "text": "lands"
+        },
+        {
+          "key": "D",
+          "text": "seas"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q51",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "forgotten"
+        },
+        {
+          "key": "B",
+          "text": "man-made"
+        },
+        {
+          "key": "C",
+          "text": "lost"
+        },
+        {
+          "key": "D",
+          "text": "isolated"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q52",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "today"
+        },
+        {
+          "key": "B",
+          "text": "yesterday"
+        },
+        {
+          "key": "C",
+          "text": "tomorrow"
+        },
+        {
+          "key": "D",
+          "text": "once"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q53",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "cause"
+        },
+        {
+          "key": "B",
+          "text": "problem"
+        },
+        {
+          "key": "C",
+          "text": "result"
+        },
+        {
+          "key": "D",
+          "text": "change"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q54",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "attacked"
+        },
+        {
+          "key": "B",
+          "text": "arrested"
+        },
+        {
+          "key": "C",
+          "text": "attached"
+        },
+        {
+          "key": "D",
+          "text": "attracted"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q55",
+      "sectionType": "cloze",
+      "passageId": "e2024-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "what"
+        },
+        {
+          "key": "B",
+          "text": "where"
+        },
+        {
+          "key": "C",
+          "text": "how"
+        },
+        {
+          "key": "D",
+          "text": "when"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A.satisfy the global  ____  for beet",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "Land"
+        },
+        {
+          "key": "C",
+          "text": "immediately"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B. are converted to grazing  ____ ",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "Land"
+        },
+        {
+          "key": "C",
+          "text": "immediately"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. can do it  ____ ",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "Land"
+        },
+        {
+          "key": "C",
+          "text": "immediately"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p7",
+      "seq": 59,
+      "stem": "（第 59 空）…and personal thing most Americans can do to tackle the climate crisis and they  ____  . About 40 percent of greenhouse gases come from wst agriculture, deforestation and oth…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "Land"
+        },
+        {
+          "key": "C",
+          "text": "immediately"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…gh cows emission of a greenhouse gas, and second, by destroying forests as they  ____  . Despite the economic slowdown in recent years atmospheric greenhouse gas levels conti…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "Land"
+        },
+        {
+          "key": "C",
+          "text": "immediately"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…ons increase in the Amazon as rain forests were changed into land for cattle to  ____  .By eating less beef, we can start to decrease that demand.",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "Land"
+        },
+        {
+          "key": "C",
+          "text": "immediately"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A. are many viruses that  ____  colds",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "Poorly"
+        },
+        {
+          "key": "B",
+          "text": "Complicated"
+        },
+        {
+          "key": "C",
+          "text": "Cause"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B. are still so  ____  understood",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "Poorly"
+        },
+        {
+          "key": "B",
+          "text": "Complicated"
+        },
+        {
+          "key": "C",
+          "text": "Cause"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C.is more  ____  than it appears.",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "Poorly"
+        },
+        {
+          "key": "B",
+          "text": "Complicated"
+        },
+        {
+          "key": "C",
+          "text": "Cause"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p8",
+      "seq": 65,
+      "stem": "（第 65 空）…ing lost scientists would know very well about the common cold. But the disease  ____  at first. On in the last few years have researchers gained certain knowledge about the…",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "Poorly"
+        },
+        {
+          "key": "B",
+          "text": "Complicated"
+        },
+        {
+          "key": "C",
+          "text": "Cause"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…ned certain knowledge about the agents responsible for it. For one thing, there  ____  . The fact that colds are caused by viruses suggests some means of prevention and treat…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "Poorly"
+        },
+        {
+          "key": "B",
+          "text": "Complicated"
+        },
+        {
+          "key": "C",
+          "text": "Cause"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…the environmental and physiological circumstances for the development of colds  ____  , there is little one can do to prevent them beyond avoiding persons with “new colds\" o…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "Poorly"
+        },
+        {
+          "key": "B",
+          "text": "Complicated"
+        },
+        {
+          "key": "C",
+          "text": "Cause"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 68,
+      "stem": "（第 68 空）A. a signal that  ____  men belong in the office",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 69,
+      "stem": "（第 69 空）B. Something  ____  with British culture",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 70,
+      "stem": "（第 70 空）C. most men who  ____  take the proposal",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 71,
+      "stem": "（第 71 空）D.two out of five men  ____  asking for flexible working",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…ernity leave(降产). The institution which carried out wst the research found that  ____  did so because they felt unable to afford it. The research was not restricted to patern…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…ford it. The research was not restricted to paternity leave. It also found that  ____  lest it ham their careers by making them appear uncommitted. Clearly there is 74 , and…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…3 lest it ham their careers by making them appear uncommitted. Clearly there is  ____  , and one thing driving our culture is the legal framework in which it operates. Compar…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2024-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…rnity leave for men, women have a  one-year offering. The unequal offerings are  ____  while women should take the lead at home. Paper Two(试卷二)(50 minutes)",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "were afraid of"
+        },
+        {
+          "key": "B",
+          "text": "in this society"
+        },
+        {
+          "key": "C",
+          "text": "going on"
+        },
+        {
+          "key": "D",
+          "text": "failed to"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2024-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nRobots often have trouble picking up objects they need to be trained on exactly\nwhere to reach and how to grasp. One problem is that they can't touch wst. They can't\njudge how firmly or softly to hold something. Now engineers have made a tool called\nTacTip. It's a 3D-printed robotic fingertip with a rubbery outer “skin.\" Below the\nskin are tiny, stiff pins. When TacTip touches something, a camera inside watches\nthose pins getting pushed around The researchers also added a microphone inside the\nfingertip, which helps judge vibrations wst. With all this information, the tool was\npretty good at touching different fabrics and telling them apart.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "机器人经常在捡起物体时遇到困难-一它们需要经过训练,知道该伸向哪里以及如何抓\n取。有个问题是它们没有触感。它们无法判断拿东西的力度。现在工程师们发明了一种叫做\n“TacTip”的工具。这是一个3D打印的人造指尖,外层是橡胶“皮肤”。皮肤下面是小而硬的\n针。当“TacTip”触碰物体时,内部的摄像头会观察到这些针被推来推去。研究人员还在指尖内\n安装了一个麦克风,以帮助判断振动。有了这些信息,这个工具就能很好地触摸不同的织物并将\n它们区分开来。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2024-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a composition in no less than 1 50 words on the topic: Why so many\npeople pursue graduate studies, You could write according to the hints given below,\nWrite your composition on the Answer Sheet.\nIt is reported that a record number of more than 4.5 million people sat for the\nnational exam for postgraduate enrollment in 2022,a 21.2%increase over the year\nbefore. Why do so many people choose to pursue graduate studies? Give your comments.\nTopic: Why so many people pursue graduate studies?",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

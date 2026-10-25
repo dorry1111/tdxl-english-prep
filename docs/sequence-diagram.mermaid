@@ -1,0 +1,148 @@
+%% 同等学力英语备考 PWA · 核心时序图
+%% 从 docs/ARCHITECTURE.md 抽取，供独立预览
+
+%% ===========================================================
+%% 图 1：背单词一次作答（含落库顺序与队列操作）
+%% ===========================================================
+sequenceDiagram
+    autonumber
+    actor U as 用户
+    participant P as StudyPage
+    participant S as sessionStore
+    participant M as sessionMachine(纯)
+    participant Q as queue.ts(纯)
+    participant T as transition.ts(纯)
+    participant R as repos
+    participant DB as IndexedDB
+    participant SY as syncEngine
+
+    U->>P: 点「显示答案」或按空格
+    P->>S: reveal()
+    S-->>P: revealAnswer=true
+    U->>P: 点四档按钮 / 按 1-4
+    P->>S: submit(rating, durationMs)
+    S->>M: answer(state, input, cfg, now, rnd)
+    M->>Q: dequeueHead(queue) 移除当前卡
+    Q-->>M: queueWithoutHead
+    M->>T: transition(wordState, rating, now, cfg)
+    T-->>M: {next, enqueue, gap}
+    alt rating = 不认识 且 retryCount < MAX_RETRY
+        M->>Q: enqueueRetry(queue, card, min(gap, queue.length))
+        Q-->>M: queueWithRetry
+    else rating = 不认识 且 retryCount >= MAX_RETRY
+        M->>M: unstable=true, dueAt=次日04:00, 不入队
+    else 其他评分
+        M->>M: 该卡出队，本会话不再出现
+    end
+    M->>Q: ensureMinSize(queue, refill, 3)
+    M-->>S: newQueueState
+    Note over S,DB: 硬约束：先 await 落库成功，再更新 UI
+    S->>R: 事务写入
+    R->>DB: wordStates.put(next)
+    R->>DB: reviewLogs.add(log)
+    R->>DB: studyDays 增量更新
+    R->>DB: sessions.put(累计值)
+    R->>DB: sessionSnapshots.put(retryPool)
+    R->>DB: syncMeta.markDirty(分片)
+    DB-->>S: 事务提交成功
+    S-->>P: 新状态
+    P-->>U: 150ms 内切到下一张卡
+    opt 队列空且重现池空
+        S->>SY: finishSession()
+        SY->>SY: 触发一次全量同步
+    end
+
+%% ===========================================================
+%% 图 2：WebDAV 全量同步（pull → merge → push，含冲突处理）
+%% ===========================================================
+sequenceDiagram
+    autonumber
+    participant UI as useAutoSync / 设置页
+    participant ENG as sync/engine
+    participant MG as merge.ts(纯)
+    participant DB as IndexedDB(repos)
+    participant WC as WebdavClient
+    participant PX as SCF 代理
+    participant DAV as 坚果云 WebDAV
+
+    UI->>ENG: fullSync(trigger)
+    alt 同步未启用
+        ENG-->>UI: {error: DISABLED}
+    end
+    ENG->>DB: settingsRepo.get() + getSecret('webdav-pass')
+
+    Note over ENG,DAV: 阶段一 · 拉取（只下 ETag 变化的文件）
+    ENG->>WC: list('/')  PROPFIND Depth:1
+    Note right of WC: URL = proxyPrefix + pathnameOf(webdavUrl) + name<br/>路径拼接透传，禁止 query 传参
+    WC->>PX: PROPFIND /dav/DorryNote/tdxl-english/ (Authorization: Basic, Depth: 1)
+    PX->>DAV: 原样转发同一 path
+    DAV-->>PX: 207 Multi-Status (XML)
+    PX-->>WC: 207 + Expose-Headers
+    WC-->>ENG: RemoteFileEntry[]
+    ENG->>DB: syncMeta.getAll()
+    loop 每个远端文件
+        alt etag == syncMeta.lastEtag
+            ENG->>ENG: 跳过，不下载
+        else etag 变化或本地无记录
+            ENG->>WC: get(name)
+            WC->>PX: GET /dav/DorryNote/tdxl-english/<name> (If-None-Match)
+            PX->>DAV: GET 同一 path
+            DAV-->>WC: 200 + ETag + body
+            ENG->>ENG: payload.parse() 校验 schemaVersion
+            ENG->>MG: mergeRecords(local, remote, keyOf)
+            MG-->>ENG: {merged, conflicts, toUpload}
+            ENG->>DB: 仅写入变化记录
+            ENG->>DB: syncMeta.put(lastEtag, lastPulledAt)
+        end
+    end
+
+    Note over ENG,DAV: 阶段二 · 上传（只传脏分片，带 If-Match）
+    ENG->>DB: 查 dirtyAt 非空的 SyncMeta
+    loop 每个脏分片
+        ENG->>WC: put(name, body, {ifMatch: lastEtag})
+        WC->>PX: PUT /dav/DorryNote/tdxl-english/<name> + If-Match
+        PX->>DAV: PUT 同一 path
+        alt 200 / 201 / 204
+            DAV-->>WC: 新 ETag
+            ENG->>DB: syncMeta.put(lastEtag=新, dirtyAt=null, pendingCount=0)
+        else 412 Precondition Failed
+            WC-->>ENG: CONFLICT
+            ENG->>WC: get(name) → mergeRecords → 再 PUT（最多重试 2 次）
+            ENG->>ENG: conflicts += 1
+        else 401 / 403
+            WC-->>ENG: AUTH
+            ENG-->>UI: 中断同步，「账号或应用密码有误」
+        else 5xx / CORS / 超时
+            WC-->>ENG: PROXY / NETWORK
+            ENG->>ENG: 保留 dirtyAt，指数退避 1s/4s/16s，最多 3 次
+        end
+    end
+
+    ENG->>DB: settingsRepo.patch({lastSyncAt: now})
+    ENG-->>UI: SyncReport{uploaded, downloaded, conflicts, error}
+
+%% ===========================================================
+%% 图 3：试卷粘贴切题（入口 → 校对 → 落库）
+%% ===========================================================
+sequenceDiagram
+    autonumber
+    actor U as 用户
+    participant E as ExamEditPage
+    participant PA as parse/buildDraft(纯)
+    participant PR as ParseReviewPage
+    participant R as repos
+    participant DB as IndexedDB
+
+    U->>E: 粘贴整卷纯文本，点「自动切题」
+    E->>PA: parsePaperText(raw, opts)
+    PA->>PA: normalize → splitSections → lineClassifier → buildDraft → validateDraft
+    PA-->>E: ParsedPaperDraft{passages, questions, unresolved, warnings}
+    E->>PR: 携带草稿进入校对页（不落库）
+    PR-->>U: 双栏：左原文高亮 / 右结构树 + 顶部 unresolved 红框
+    U->>PR: 拖动改区段归属、逐题修正
+    U->>PR: 点「确认并保存试卷」
+    PR->>R: savePaper(exam, passages, questions) 单事务
+    R->>DB: exams / passages / questions 批量写入
+    R->>DB: exam.parseStatus = 'verified'
+    DB-->>PR: 成功
+    PR-->>U: 跳转试卷库，可开始模拟

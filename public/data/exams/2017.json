@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2017 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2017-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Under the right circumstances, choosing to spend time alone can be a huge psychological blessing. In\nthe 1980s, the Italian journalist and author Tiziano Terzani, after many years of reporting across Asia, holed\nhimself up in a cabin in Ibaraki Prefecture, Japan. “For a month I had no one to talk to except my dog Baoli,” he wrote in his book A Fortune Teller Told Me. Terzani passed the time with books, observing nature, “listening to the winds in the trees, watching butterflies, enjoying silence.” For the first time in a long while he\nfelt free from the unending anxieties of daily life: “At last I had time to have time.” Terzani’s embrace of isolation was relatively unusual: humans have long considered solitude an\ninconvenience, something to avoid, a punishment, a realm of loners. Science has often associated it with\nnegative outcomes. Freud, who linked solitude with anxiety, noted that, “in children the first fears relating to\nsituations are those of darkness and solitude.” John Cacioppo, a modern social neuro-scientist who has\nextensively studied loneliness—what he calls “chronic perceived isolation”—contends that, beyond damaging\nour thinking powers, isolation can even harm our physical health. But increasingly scientists are approaching\nsolitude as something that, when pursued by choice, can prove a therapy. This is especially true in times of personal disorder, when the instinct is often for people to reach outside\nof themselves for support. “When people are experiencing crisis it’s not always just about you: It’s about how\nyou are in society,” explains Jack Fong, a sociologist at California State Polytechnic University who has\nstudied solitude. In other words, when people remove themselves from the social context of their lives, they are better able\nto see how they’re shaped by that context. Thomas Merton, a monk and writer who spent years alone, held a\nsimilar notion. “We cannot see things in perspective until we cease to hug them to our breast,” he writes in\nThoughts in Solitude. “People can go for a walk or listen to music and feel that they are deeply in touch with\nthemselves.”"
+    },
+    {
+      "id": "e2017-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "Science is finally beginning to embrace animals who were, for a long time, considered second-class\ncitizens. As Annie Potts of Canterbury University has noted, chickens distinguish among one hundred chicken\nfaces and recognize familiar individuals even after months of separations. When given problems to solve, they\nreason: hens trained to pick colored buttons sometimes choose to give up an immediate (lesser)food reward\nfor a slightly later (and better) one. Healthy hens may aid friends, and mourn when those friends die. Pigs respond meaningfully to human symbols. When a research team led by Candace Croney at Penn\nState University carried wooden blocks marked with X and O symbols around pigs, only the O carriers\noffered food to the animals. The pigs soon ignored the X carriers in favor of the O’s. Then the team switched\nfrom real-life objects to a T-shirts printed with X or O symbols. Still, the pigs ventured only toward the\nO-shirted people: they had transferred their knowledge to a two-dimensional format, a not-inconsiderable feat\nof reasoning. Fairly soon, I came to see that along with our closest living relatives, cetaceans(鲸 目 动 物 )too are\nmasters of cultural learning, and elephants express profound joy and mourning with their social companions. Long-term studies in the wild on these mammals helped to fuel a perspective shift in our society: the public no\nlonger so easily accepts monkeys made to undergo painful procedures in laboratories, elephants forced to\nperform in circuses, and dolphins kept in small tanks at theme parks. Over time, though, as I began to broaden out even further and explore the inner lives of fish, chicken, pigs, goats, and cows, I started to wonder: Will the new science of “food animals” bring an ethical revolution\nin terms of who we eat? In other words, will the breadth of our ethic start to catch up with the breadth of our\nscience?\nAnimal activists are already there, of course, committed to not eating these animals. But what about the\nrest of us? Can paying attention to the thinking and feeling of these animals lead us to make change in who we\neat?"
+    },
+    {
+      "id": "e2017-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Almost eight years ago, the American educator Abraham Flexner published an article entitled The\nUsefulness of Useless Knowledge. In it , he argued that the most powerful intellectual and technological\nbreakthroughs usually emerged from research that initially appeared “useless”, without much relevance to real\nlife. As a result, it was vital, Flexner said, that these “useless” efforts should be supported, even if they did\nnot produce an immediate payback, because otherwise the next wave of innovation simply would not occur. “Curiosity, which may or may not produce something useful, is probably the outstanding characteristic of\nmodern thinking,” he declared. In 1929, Flexner persuaded a wealthy American family, the Bambergers, to use some of their donations\nto fund the Institute for Advanced Study(IAS) at Princeton to support exactly this kind of “undirected”\nresearch. And it paid off: brilliant Jewish scientists fleeing from Nazi Germany, such as Albert Einstein, gathered\nat the IAS to explore undirected ideas. And while some of these, such as Einstein’s own work developing his\nearly theory of relativity, did not initially seem valuable, many eventually produced powerful applications\n(though after many decades). Without Einstein’s theory, our GPS tracking devices would be inaccurate by about seven miles,” writes Robbert Dijkgraaf , the current director of the IAS, in the foreword to a newly released reprint of\nFlexner’s article. Concepts such as quantum mechanics(量子力学)or superconductivity also seemed fairly\nuseless at first—but yielded huge dividends at a later date. The reason why the IAS is re-releasing Flexner’s article now is that scientists such as Dijkgraaf fear this\ncore principle is increasing under threat. The Trump administration has released a projected budget that\nthreatens to reduce funding for the arts, science and educational groups. Many Republicans believe that\nresearch is better financed by business or philanthropists(慈善家)than by government. But one striking fact\nabout the past century is how much American innovation originated in federal projects; Silicon Valley would\nnever have boomed were it not for the fact that state funding enabled the development of the World Wide Web, for example."
+    },
+    {
+      "id": "e2017-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "In 1902, Georges Mé s made and released a movie called A Trip to the Moon. In this movie, the\nspaceship was a small capsule, shaped like a bullet, that was loaded into a giant cannon and aimed at the\nmoon.This movie was based on a book that came out many years earlier by an author named Jules Verne. One\nof the fans of the book was a Russian man, Konstantin Tsiolkovsky. The book made him think. Could one\nreally shoot people out of a cannon and have them get safely to the moon? He decided one couldn’t, but it got\nhim thinking of other ways one could get people to the moon. He spent his life considering this problem and\ncame up with many solutions. Some of Tsiolkovsky’s solutions gave scientists in America and Russia ideas when they began to think\nabout space travel. They also thought about airplanes they and other people had made, and even big bombs\nthat could fly themselves very long distances. Many scientists spent years working together to solve the problem. They drew and discussed different\ndesigns until they agreed on the ones that were the best. Then, they built small models of those designs, and\ntested them until they felt ready to build even bigger models. They made full-scale rockets, which they\nlaunched without any people inside, to test for safety. Often the rockets weren’t safe, and they exploded right\nthere on the launch pad, or shot off in crazy directions like a balloon that you blow up and release without\ntying it first. After many, many tests, they started to send small animals into space. Only after a long time did\nthey ever put a person inside a rocket and shoot him into space. Even after they began sending people into space, scientists were still trying to improve the shape of the\nrockets. The design changed many times, and eventually ended up looking like a half-rocket and half-airplane. The machine called space shuttle was used for many years. Now, the government lets private companies try\ntheir own designs for spaceships, and they have come up with many different, crazy-looking machines."
+    },
+    {
+      "id": "e2017-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "blog and comments are followed by questions or unfinished statements, each with four suggested\nanswers A, B, C and D. Choose the best answer and mark your answer on the Answer Sheet. In 2003, I was told by a restaurant owner on a Thai island that local fishermen used to wrap their lunch\nin banana leaves, which they would then casually toss overboard when done. That was OK, because the\nleaves decayed and the fish ate them all. But in the past decade, he said, plastic wrap had rapidly replaced\nbanana leaves, so the beach was edged with a crust of plastic. This is a worldwide problem—we can’t point the finger at Thai fishermen. The UK alone produces more\nthan 170m tons of waste every year, much of it food packaging. Now we live in an absurd age where a packet\nof cookies can have seven layers of wrapping. While it has revolutionized the way we store and consume food, there is now so much of it that landfills(垃圾填埋场)can’t cope. Some of it is poisonous, and some of it never\ndegrades. It can take 450 years for some types of plastic bottle to break down. Indeed, as Rachelle Strauss of\nthe UK’s Zero Waste Week says, we never actually throw anything “away”—it’s really just put somewhere\nelse. It’s easy to say despair at the scale of handing the plastic wrap, but it isn’t beyond humanity to solve\nit—look at how the world took action on CFCs(含氯氟烃): there are signs that the hole in the ozone layer is\nnow closing. Food packaging ought to be a doddle. Comment 1:\nWhile as an individual I can do my best to avoid excessive packaging, it is really only government\nregulation that can force corporation to change their practices. Comment 2:\nI never understand why supermarket chains insist on covering products such as bananas and cucumbers\nin plastic wrap. Why? They have their own packaging—the skin or peel!\nComment 3:\nI love packaging—if it’s well designed of course. It helps us be more hygienic and practical. The solution\nto these packaging necessities is clearly to encourage the use of bio-degradable packaging. Comment 4:\nBefore, everything we threw out was bio-degradable and now it’s not. Guess it’s hard to change that\nbehavior overnight.\n8"
+    },
+    {
+      "id": "e2017-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "How many people can live on the face of the earth? No one knows the answer. It depends on how much\nfood people can grow 46 destroying the environment. More people now exist than ever before, and the population 47 growing. Every 15 seconds, about\n100 babies are born. Before the end of this century, the earth may 48 10 billion people!\nTo feed everyone, farmers must grow more food. They are trying to do so. World food production has\ngradually 49 over the years. In some parts of the world, 50 , the population is growing faster than\nthe food supply. Some experts fear the world will not be able to produce enough food for a 51 that never\nstops increasing. To grow more crops on the same 52 of land, farmers use fertilizers and pesticides(杀虫剂). Some\nplant new kinds of grains that produce more food. These things help— 53 they don’t provide perfect\nsolutions. The chemicals in fertilizers and pesticides can pollute water supplies. The new seeds developed by\nscientists have reached the 54 of what they can produce. When hungry people can get no more out of 55 field, they clear trees from hills and forests for\nnew farmland, and in doing so they expose the soil. Then rain and floods may strip the topsoil from fields. This process is called erosion. Each year erosion steals billions of tons of topsoil from farmers."
+    },
+    {
+      "id": "e2017-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. helps\nB. while\nC. message\nD. closely\nPhrases:\nA. you watched 56 eating it\nB. send nerve 57 to your brain\nC. our noses and our brain are very 58 connected\nD. 59 us remember things\n\nFor years, scientists have been studying the special power of smells. It seems that 60 . When you\nsmell something, the odor goes up your nose to the smelling zones. From here, sense cells 61 telling it\nwhat you smelled. More than our other four senses, our sense of smell changes our mood and 62 . If you were told to\nthink about popcorn, you’d probably recall its smell. And then you might remember the movie 63 . Our\nsense of smell also makes us aware of danger-like the smell of smoke."
+    },
+    {
+      "id": "e2017-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. give presentation\nB. new innovation\nC. uploaded\nPhrases:\nA. how to help poor people with all sorts of 64\nB. all the speeches are 65 to their websites\nC. 66 on a variety of topics\n\nTED is a set of conference, held in various cities around the world every year. With speakers—also from\nvarious parts of the globe — 67 , for everyone to see. TED conferences invite speakers to 68 . The\ndifferent speakers are usually experts in their field and talk about new ideas and recent developments that are\nimportant to their work. The speakers are often also well known, with people such as Microsoft giant Bill\nGates and world-renowned chimpanzee expert, Jane Goodall, having given talks. There are many talks on\nenvironmentalism, for example, and on international development, aid work, and 69 . While the talks\ncover a wide variety of topics, all speakers have a strict time limit-each presentation must last no longer than\n18 minutes."
+    },
+    {
+      "id": "e2017-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. to use\nB. finding\nC. the way\nPhrases:\n\n10\nA. good at 70 information\nB. 71 their brains work\nC. 72 their imagination\nThe time spent with technology doesn’t just give kids new ways of doing things, it changes 73 . For\nexample, an article says that while video games may condition the brain to pay attention to multiple stimuli, they can lead to distraction and decreased memory. Children who always use search engines may become very\n74 — but not very good at remembering it. In addition, the article said, children who use too much\ntechnology may not have enough opportunities 75 or to read and think deeply about the material.\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2017-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Kevin:  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "When is it taking place?"
+        },
+        {
+          "key": "B",
+          "text": "Is Alan attending?"
+        },
+        {
+          "key": "C",
+          "text": "That'll be interesting."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】快速扫描第一句,得知此回话与开会有关:Alice 说:“我们计划明天开个会,你能参加\n吗?”空白要填入的是 Kevin 的回答。这里考生应该注意到两点:第一,留意空白下面的内容,是关于\n会议的时间;第二,针对上文的问题,要回答的是 Kevin 本人是否能出席会议。考虑到这两点然后浏\n览选项,A 项询问的是会议时间,与下文的回答“我们计划 10 点开”吻合;B 项应该排除,因为上文问\n的是 you 是否能参会,与 B 项中的 Alan 无关;C 项若填入空白也是答非所问。所以只有选项 A 与上下\n文意思连贯一致,是正确答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Kevin: Yes, that'll be fine. Alice: We're going to go over last quarter's sales figures. Kevin: Good. I have some input I'd like to make. Alice: Frank is also going to make some suggestions on improving the bottom line. Kevin:  ____  He's got keen insights. Alice: Yes, he's going to outline some new sales strategies. Kevin: 3",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "When is it taking place?"
+        },
+        {
+          "key": "B",
+          "text": "Is Alan attending?"
+        },
+        {
+          "key": "C",
+          "text": "That'll be interesting."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】空白上文说到“Frank 准备就提高最低(销售)要求提些建议”,Kevin 要谈论的一定得与\n此有关,意思上才连贯。若选择 B 项 Is Alan attending?显然与上文无法衔接,所以推断答案应为 C 项\nThat’ll be interesting。其中代词 That 承上文,回指 Alice 所提到的 suggestions 内容。再看紧接下来的一\n句 He’s got keen insights,这里的 He 指上文提到的 Frank,因为 Frank “看问题很有见地”,所以 Kevin\n认为他提出的建议会很 interesting。上下文逻辑通顺一致,确认 C 为正确选项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Kevin: Yes, that'll be fine. Alice: We're going to go over last quarter's sales figures. Kevin: Good. I have some input I'd like to make. Alice: Frank is also going to make some suggestions on improving the bottom line. Kevin: 2 He's got keen insights. Alice: Yes, he's going to outline some new sales strategies. Kevin:  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "When is it taking place?"
+        },
+        {
+          "key": "B",
+          "text": "Is Alan attending?"
+        },
+        {
+          "key": "C",
+          "text": "That'll be interesting."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题相对比较简单,一是前两个答案已经确定的前提下,最后一个选项无疑是本题的答\n案,二是空白下文是 No,而 B 项正好是一般疑问句,填入空白符合问答对应的原则。三是空白下文提\n到 he’s flying to San Francisco and won’t be able to make it,其中的 he 回指代 B 项中的 Alan,won’t be able\nto make it 回答了 attending 的问题。可见句式问答对应,内容前后一致,所以选项 B 为正确答案。\n【参考译文】\nAlice: 我们打算明天开个会,你能参加吗?\nKevin:什么时候开?\nAlice: 计划是 10 点,你行吗?\nKevin: 可以。\nAlice: 我们打算讨论一下上个季度的销售情况。\nKevin: 好,我很乐意说说我的想法。\nAlice: Frank 准备就改进最低要求提些建议。\nKevin: 那太好啦!他有敏锐的洞察力。\nAlice: 是的,他想就新的销售策略提些规划性设想。\nKevin: Alan 也能来参会吧?\nAlice: 他来不了,他要去 San Francisco。\nKevin: 噢,也许他会打电话的。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2017-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Ann: Well, that's what I'm calling about. You see,  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "I'll drop by there on my way to class today."
+        },
+        {
+          "key": "B",
+          "text": "I thought you liked the apartment."
+        },
+        {
+          "key": "C",
+          "text": "I've decided to look for a new place."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题是三个题中最容易的,因为是 Ann 说的话,而 Ann 对住房不满意,所以 Ann 给 Roger\n打电话和他谈这个事:Well, that’s what I’m calling about。接下来是要填入的内容一定是 Ann 对住处的\n想法,由此推断 C 项 I’ve decided to look for a new place 应该填入此题。再根据空白下文提到的 what’s the\nproblem with your place now“现在这个地方怎么不好啊?”确认 C 项为答案无误。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Roger: Oh, what's the problem with your place now?  ____ ",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "I'll drop by there on my way to class today."
+        },
+        {
+          "key": "B",
+          "text": "I thought you liked the apartment."
+        },
+        {
+          "key": "C",
+          "text": "I've decided to look for a new place."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "2\n【解析】本题紧接第 4 题,Ann 说她决定换一个住处,Roger 询问其原因: “噢?怎么了,出了什么\n问题?”,因为他不知道 Ann 对新房子的感觉,所以感到不解,接下来便应该填入 B 项 I thought you liked\nthe apartment“我以为你挺喜欢这个房子的呢”才顺理成章。另外,空白下文的 I do 是指的是 I like,与选\n项 B 中的 like 呼应一致,所以无论从词汇照应还是从语境一致角度,B 都是此题的正确答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）few vacancies.  ____ ",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "I'll drop by there on my way to class today."
+        },
+        {
+          "key": "B",
+          "text": "I thought you liked the apartment."
+        },
+        {
+          "key": "C",
+          "text": "I've decided to look for a new place."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】虽然最后一个选项非此题莫属,我们也要交叉确认一下答案,确保都无误。A 选项“I’ll drop\nby there on my way to class today”中关键是抓住 there 一词,回看前一句 Well, I know there’s an apartment\ncomplex around the corner,显然“校园一角的公寓楼群”便是选项中提到的 there 所指,因为 Roger“know\nmore about the housing situation near the school”,Roger 知道那里 seems to have a few vacancies,所以\nRoger 说 I’ll drop by there on my way to class today“今天我去上课时顺便过去看看”。由此,根据上下文\n语境内容确认 A 项是此题的答案。\n【参考译文】\nRoger: 你好!\nAnn: 你好!是 Roger 吗?我是 Ann。\nRoger: 你好 Ann!近来好吗?对新房子感觉怎么样啊?\nAnn: 哦,我打电话就是要和你说这事呢!我已决定再换个地方。\nRoger: 噢?怎么了,出了什么问题?我以为你挺喜欢这个房子的呢!\nAnn: 我是喜欢,可是离学校有点远,天天来回简直要了我的命。你能帮帮我吗?我觉得你可能对\n学校附近的房子行情比较了解。\nRoger: 嗯,我知道在校园一角的公寓楼群好像还有几套空房。今天我去上课时顺便过去看看。\nAnn: 那太好了,多谢!\nRoger: 不客气!\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2017-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Maddow: Joining us for the interview is Hillary Clinton, former secretary of state, former senator, former first lady. Secretary Clinton,  ____  Thank you for being here. Clinton: It’s great to be here with you. 8",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks, Rachel."
+        },
+        {
+          "key": "B",
+          "text": "That’s what we did."
+        },
+        {
+          "key": "C",
+          "text": "we were all talking about some TV shows."
+        },
+        {
+          "key": "D",
+          "text": "it’s a real honor to have you here."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题是四个空白中唯一一个出自采访者一方的题目。首先根据空白前面的标点符号圈定\n答案为 C 或 D,因为其他两个选项都是大写开头;其次再根据 D 项 it’s a real honor to have you here 中\n的提示词 you 与空白后面一句中的 you 代词一致性原则,确定 D 为正确选项;再次根据选项内容“很荣\n幸采访您”与接下来的 Thank you for being here“谢谢您的光临”,意思上顺应连贯,所以进一步确认 D\n项为此题的正确答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）Maddow: Joining us for the interview is Hillary Clinton, former secretary of state, former senator, former first lady. Secretary Clinton, 7 Thank you for being here. Clinton: It’s great to be here with you.  ____ ",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks, Rachel."
+        },
+        {
+          "key": "B",
+          "text": "That’s what we did."
+        },
+        {
+          "key": "C",
+          "text": "we were all talking about some TV shows."
+        },
+        {
+          "key": "D",
+          "text": "it’s a real honor to have you here."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】与前一个题的思路一样,此题首先根据空白在结构上的语境,圈定答案范围要么是 A 项\n要么是 B 项,因为空白前面以句号断句,说明空白是独立的一句,这两项都是大写开头。接下来再根\n据选项中的直呼其名 Rachel 推断 A 项是出自 Clinton 之口,进而确定 A 项为答案。第三步再根据上下\n文词汇照应原则(Thank you 和 Thanks)和语义上的前后一致(Thank you 和 Thanks, Rachel),确认 A 是\n正确选项无疑。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）drinking wine and beer.  ____  It was great. Maddow: And was it like, “Let’s just talk about TV, let’s not talk about what just happened?” Clinton: Yes. Yes, 10 It was great just to have that chance to thank them because they did a",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks, Rachel."
+        },
+        {
+          "key": "B",
+          "text": "That’s what we did."
+        },
+        {
+          "key": "C",
+          "text": "we were all talking about some TV shows."
+        },
+        {
+          "key": "D",
+          "text": "it’s a real honor to have you here."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】如果仅从选项的内容上看,咋一看,试着将 B 项和 C 项分别填入此题空白,似乎在意思\n上都说的通,但是如果从选项的结构上分析,我们发现 B 项的首字母为大写,是一个独立的句子,而\nC 项则是小写开头的句子。再结合空白前的句子结构可以断定,此题的唯一正确选项为 B 项,因为空\n白前是以句号结尾,下一句需要另起句。从意思上看,填入的 That’s what we did 指前一句提到的 sat\naround eating Indian food and drinking wine and beer 前后很通顺连贯,进一步确认 B 项是答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）drinking wine and beer. 9 It was great. Maddow: And was it like, “Let’s just talk about TV, let’s not talk about what just happened?” Clinton: Yes. Yes,  ____  It was great just to have that chance to thank them because they did a",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "Thanks, Rachel."
+        },
+        {
+          "key": "B",
+          "text": "That’s what we did."
+        },
+        {
+          "key": "C",
+          "text": "we were all talking about some TV shows."
+        },
+        {
+          "key": "D",
+          "text": "it’s a real honor to have you here."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】首先根据空白前的标点符号和选项的句子结构特点,将此题的答案范围缩小至 C 或 D 项,\n因为这两项都是以小写字母开头,而本题空白前面是逗号,显然没有结句,不能用大写开头的句子;\n3\n第二,再根据上下文语境判断,排除 D 项,确定 C 项,因为 D 项 it’s a real honor to have you here 填入\n句中意思不通,而 C 项中的 we were all talking about some TV shows“我们大家都谈电视”,与前一句提\n到的 Let’s just talk about TV, let’s not talk about what just happened“咱们只谈电视,不谈刚发生的事情”在\n语义逻辑上连贯衔接;第三,再依据词汇一致性原则断定正确选项为 C,因为前后都提到了 TV。\n【参考译文】\nMaddow: 今天接受我们采访的是美国前国务卿,前参议院议员,前总统夫人希拉里·克林顿。您好!\n很荣幸采访您,谢谢您的光临!\nClinton: 很高兴能到此处接受参访,谢谢,Rachel. Maddow: 经历了 11 个小时作证之后的人在做什么?你是我知道的地球上唯一连续作证 11 个小时\n的人,那之后你做了什么?\nClinton: 我让我的团队来到我的住处,共进印度美食,畅饮美酒,这就是我们做的事情。非常棒!\nMaddow: 是不是就像“咱们只谈电视,不谈刚发生的事情”?\nClinton: 是的,是的,我们都谈论电视节目。这是一个非常好的感谢他们的机会,因为他们干得非\n常出色,你知道,他们一直在背后支持我,帮我做好准备。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "The specially developed skin paint will wear off in 2-4 days, but can be removed instantly with alcohol.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "remain"
+        },
+        {
+          "key": "B",
+          "text": "dry"
+        },
+        {
+          "key": "C",
+          "text": "work"
+        },
+        {
+          "key": "D",
+          "text": "disappear"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】disappear—wear off 磨损,逐渐消失\nA. remain 留下;仍然是 B. dry 使干燥,晒干\nC. work 工作;起作用 D. disappear 逐渐消失,不复存在\n【译文】虽然这种特殊研制的皮肤涂料 2-4 天后会逐渐消失,但是若用酒精可以立刻涂掉。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "She was tired of his constant complaining and didn’t want to tolerate him anymore.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "catch up to"
+        },
+        {
+          "key": "B",
+          "text": "put up with"
+        },
+        {
+          "key": "C",
+          "text": "come up with"
+        },
+        {
+          "key": "D",
+          "text": "live up to"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】put up with—tolerate 容忍,忍受\nA. catch up with 追上,赶上 B. put up with 容忍,忍受\nC. come up with 提出,想出 D. live up to 无愧于,不辜负\n【译文】她对他不断的抱怨已经感到厌烦,不想再忍受了。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "The supporters of either party have rationalized their own opinion in terms of argument.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "with regard to"
+        },
+        {
+          "key": "B",
+          "text": "in contrast to"
+        },
+        {
+          "key": "C",
+          "text": "in addition to"
+        },
+        {
+          "key": "D",
+          "text": "as opposed to"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】with regard to--- in terms of 关于\nA. with regard to 关于 B. in contrast to 与……相对比/相对照\nC. in addition to 另外,除…之外 D. as opposed to 与……截然相反\n【译文】各方的支持者们就他们的论点进行了合理的陈述。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "How is it possible that such widespread deception has come to take place right under our noses?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "delay"
+        },
+        {
+          "key": "B",
+          "text": "damage"
+        },
+        {
+          "key": "C",
+          "text": "fraud"
+        },
+        {
+          "key": "D",
+          "text": "shock."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】fraud--- deception 欺骗\nA.delay 推迟,耽搁,延误 B. damage 损害,毁坏\nC.fraud 欺骗,欺诈行为,骗子 D. shock 冲击,震动,震惊,电击\n【译文】这种广而为知的欺骗怎么可能就在我们的眼皮底下发生?",
+      "score": 1
+    },
+    {
+      "id": "e2017-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "It is not yet clear whether the deletion of data at the troubled bank was accidental or deliberate.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "obvious"
+        },
+        {
+          "key": "B",
+          "text": "intentional"
+        },
+        {
+          "key": "C",
+          "text": "surprising"
+        },
+        {
+          "key": "D",
+          "text": "foolish"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】intentional---deliberate 故意的\nA. obvious 明显的 B. intentional 故意的\nC. surprising 令人吃惊的 D. foolish 愚笨的,愚蠢的\n【译文】目前还不清楚出事银行删除数据是偶然的还是有意的。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "When required to eat vegetables, many children only do so reluctantly.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "automatically"
+        },
+        {
+          "key": "B",
+          "text": "anxiously"
+        },
+        {
+          "key": "C",
+          "text": "obediently"
+        },
+        {
+          "key": "D",
+          "text": "unwillingly"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】unwillingly---reluctantly 不情愿地\nA. automatically 自动地 B. anxiously 担心地,焦虑地,渴望地\nC. obediently 顺从地 D. unwillingly 不情愿地\n4\n【译文】要求孩子们吃蔬菜时,很多孩子只是非常不情愿地吃。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "Recently, the Internet has given rise to a new type of marketplace.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "created"
+        },
+        {
+          "key": "B",
+          "text": "conceived"
+        },
+        {
+          "key": "C",
+          "text": "increased"
+        },
+        {
+          "key": "D",
+          "text": "improved"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】created---given rise to 创造,产生,引起\nA. created 创造,产生 B. conceived 构思,持有,设想;怀孕\nC. increased 提高,增加 D. improved 改进,改善\n【译文】近来,互联网引发了一种新型的市场。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "Another1,000 workers were dismissed when the machinery plant was in difficulties.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "taken off"
+        },
+        {
+          "key": "B",
+          "text": "driven off"
+        },
+        {
+          "key": "C",
+          "text": "put off"
+        },
+        {
+          "key": "D",
+          "text": "laid off"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】laid off---dismissed 解雇\nA. taken off 拿走,脱下,起飞 B. driven off 赶走; 击退; 驶去\nC. put off 推迟,拖延 D. laid off 解雇\n【译文】机械厂处于困境时,又解雇了 1000 个工人。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "Credit creates the false idea that you can own things without paying for them.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "image"
+        },
+        {
+          "key": "B",
+          "text": "illusion"
+        },
+        {
+          "key": "C",
+          "text": "imagination"
+        },
+        {
+          "key": "D",
+          "text": "impression"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】illusion---false idea 幻想\nA. image 形象 B. illusion 幻想\nC. imagination 想象 D. impression 印象\n【译文】信用给人们造成了一种幻觉,即不用付钱就可以拥有东西。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "For the audience to better understand the new concept, the professor elaborated it with many 3 examples.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "summarized"
+        },
+        {
+          "key": "B",
+          "text": "concluded."
+        },
+        {
+          "key": "C",
+          "text": "classified"
+        },
+        {
+          "key": "D",
+          "text": "explained."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】explained---elaborated 详细阐述\nA. summarized 总结,概括 B. concluded 得出结论\nC. classified 分类 D. explained 解释\n【译文】为了使听众更清楚地明白这个新概念,教授用了很多例子作了详细讲解。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q21",
+      "sectionType": "reading",
+      "passageId": "e2017-p1",
+      "seq": 21,
+      "stem": "Tiziano Terzani spent a month alone to ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "embrace isolation"
+        },
+        {
+          "key": "B",
+          "text": "study butterflies"
+        },
+        {
+          "key": "C",
+          "text": "write a book"
+        },
+        {
+          "key": "D",
+          "text": "look after his dog"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】 细节推断\n【解析】问题问帝奇亚诺·坦尚尼独自一人花了一个月的时间做什么。利用查阅式阅读可以在文章\n第一段中找到相关信息,即帝奇亚诺·坦尚尼自己躲进了日本茨城县的一间小木屋,花了一个月的时间,\n与狗作伴,与书为伴,消磨时光,观察着大自然,听着林中的风,看着蝴蝶,享受着安静。第一段首\n尾句是对帝奇亚诺·坦尚尼一个月里所作所为的概括和总结:“我终于有时间空闲下来了。”在适当的环\n境下,选择独处能让人在心理上获得巨大的幸福感。而第二段的第一句话也指出了坦尚尼所作所为的\n原因和目的:对独处的接纳是相当不寻常的。因此,本题的正确答案应选 A,接纳独处。\n【误项排除】选择项 B:研究蝴蝶;C:写书;D:照看狗;这三个答案只是具体细节和实例,不\n是所作所为的目的和原因,因此均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q22",
+      "sectionType": "reading",
+      "passageId": "e2017-p1",
+      "seq": 22,
+      "stem": "The word “solitude” (Para.2) is closest in meaning to “________’’.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "growing anxious"
+        },
+        {
+          "key": "B",
+          "text": "feeling empty"
+        },
+        {
+          "key": "C",
+          "text": "being helpless"
+        },
+        {
+          "key": "D",
+          "text": "staying alone"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】 词汇含义\n【解析】问题问在第二段中的单词“solitude”可能的意思是什么。如果考生认识该词汇,知道其词\n义为:“孤独,隐居,独处”,可以直接选择正确答案 D,独自一人住,独处。如果不认识这个词汇,\n而了解英语词根 sol--,soli—的意思是 alone,也可以找出正确答案 D,staying alone。含有这个词根表\n示独自、一个的例词还有:sole“唯一的,专用的”,solely“单独地,仅仅”,solitary“孤独的,唯一的;\n独居者”,solo“独唱,独奏”,soliloquy“独白,独自一人说的话”,solid“一致的,固体的,坚实的,结\n合成为一体的”等。另外,还可以利用上下文内容猜出本词的含义。利用查阅式阅读,我们可以在第二\n段中第一、二句话里找到相关信息:坦尚尼对独处的接纳是相当不寻常的:人类长期以来一直认为孤\n独是一种不便,是应避免的东西,是一种惩罚,是孤独者的一种境界。根据 isolation、loner、后文中的\nloneliness 这些词汇,我们可以推断 solitude 与这些词汇的意思比较相近,均为孤独、独处、一个人做\n5\n事,因此,本题的正确答案是 D。\n【误项排除】选择项 A:变得焦虑;B:觉得空虚;C:感到无助;这三个答案的词义与原文中的\nsolitude 的语义都不相符,均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q23",
+      "sectionType": "reading",
+      "passageId": "e2017-p1",
+      "seq": 23,
+      "stem": "The opinions of Freud and Cacioppo are cited to show that ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "children tend to fear darkness and solitude"
+        },
+        {
+          "key": "B",
+          "text": "solitude pursued by choice can be a therapy."
+        },
+        {
+          "key": "C",
+          "text": "chronic isolation can harm interpersonal relations"
+        },
+        {
+          "key": "D",
+          "text": "solitude has long been linked with negative outcomes. 4"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】 细节推断\n【解析】问题问文章中引用弗洛伊德和卡乔波的观点是为了证明什么。我们可以在第二段中找到\n相关信息:将孤独与焦虑联系在一起的弗洛伊德指出:“在儿童中,与情境有关的首要恐惧是对黑暗和\n孤独的恐惧。”约翰·卡乔波是一位现代社会神经系统科学家,他广泛地研究了孤独——他称之为“慢性\n感知隔离”——他认为,除了破坏我们的思维能力之外,孤独甚至会损害我们的身体健康。引用这两个\n人的观点都是为了证明其前面的观点句:科学经常将其与消极后果联系在一起。即孤独与消极后果有\n关系。所以,本题的正确答案是 D,长期以来,孤独与消极的结果联系在一起。\n【误项排除】选择项 A:儿童常常害怕黑暗和孤独;这是弗洛伊德的观点,不是观点所证明的结\n论;B:选择追求孤独可能是一种心理治疗;不是弗洛伊德和卡乔波的观点;C:长期的孤立会损害人\n际关系;不是弗洛伊德和卡乔波的观点;这三个答案都是干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q24",
+      "sectionType": "reading",
+      "passageId": "e2017-p1",
+      "seq": 24,
+      "stem": "According to Jack Fong, the sense of personal crisis may be influenced by ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "an isolated lifestyle"
+        },
+        {
+          "key": "B",
+          "text": "mental disorder"
+        },
+        {
+          "key": "C",
+          "text": "low self-esteem"
+        },
+        {
+          "key": "D",
+          "text": "social context"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】 细节推断\n【解析】问题问按照杰克·方的观点,个人危机感可能是受什么的影响。利用查阅式阅读,我们可\n以在第三段中找到以下信息:加州理工大学研究孤独的社会学家杰克·方解释说: “当人们经历危机时,\n并不总是你的问题: 而是有关你在社会中怎样的问题。” 而第四段第一句是对此句的解释和补充:换言\n之,当人们从其生活的社会环境中脱离出来时,他们就能更好地看到他们是如何被这种环境所塑造的。\n由此我们可以推断出杰克·方的观点是社会环境会影响人的危机感。所以,本题的正确答案是 D,社会\n环境。\n【误项排除】选择项 A:孤僻的生活方式;B:精神病,心理失常;C:自尊心低,自卑;这三个\n答案均不是杰克·方所陈述的内容,所以都是干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q25",
+      "sectionType": "reading",
+      "passageId": "e2017-p1",
+      "seq": 25,
+      "stem": "The main idea of the passage is that ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "solitude should be avoided at all costs."
+        },
+        {
+          "key": "B",
+          "text": "anxieties of daily life may cause personal crisis"
+        },
+        {
+          "key": "C",
+          "text": "choosing to spend time alone can be a blessing"
+        },
+        {
+          "key": "D",
+          "text": "seeking support is useless for tackling personal crisis."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】 文章主题\n【解析】问题问文章的主要观点是什么。利用浏览式阅读通读文章全文的重点词句,我们可以看\n出文章一开始就指出了主题:在适当的环境下,选择独处能让人在心理上获得巨大的幸福感。接着详\n细讲述了不同的人对独处经历的感受,同时介绍了几位科学家对孤独或独处的利与弊的分析,最后指\n出独处可以是一种心理疗法,可以让人认真审视自己的内心感受。因此,本题的正确答案是 C,选择\n独处可以是一件幸事。\n【误项排除】选择项 A:应该不惜一切代价避免孤独;不符合文章主要内容,因此本答案错误。B:\n日常生活的焦虑可能导致个人危机;不是本文所要介绍的主题,为干扰项。D:寻求支持对解决个人危\n机毫无用处;原文未提到,此答案为干扰项。\n【参考译文】\n在适当的环境下,选择独处可以是一种巨大的心理祝福。上世纪 80 年代,意大利记者兼作家帝奇\n亚诺·坦尚尼在亚洲各地做了多年报道后,自己躲进了日本茨城县的一间小木屋里。“一个月的时间里,\n除了和我的狗保莉说话,没人可以交流。”他在《算命先生告诉我》一书中写道。坦尚尼与书为伴,消\n磨时光,观察着大自然,“听着林中的风,看着蝴蝶,享受着安静。”在很长一段时间里,他第一次觉\n得摆脱了日常生活中无休止的焦虑:“我终于有时间空闲下来了。” 坦尚尼对独处的接纳是相当不寻常的:人类长期以来一直认为孤独是一种不便,是应避免的东西,\n是一种惩罚,是孤独者的一种境界。科学经常将其与消极后果联系在一起。将孤独与焦虑联系在一起\n的弗洛伊德指出:“在儿童中,与情境有关的首要恐惧是对黑暗和孤独的恐惧。”约翰·卡乔波是一位现\n代社会神经系统科学家,他广泛地研究了孤独——他称之为“慢性感知隔离”——他认为,除了破坏我\n们的思维能力之外,孤独甚至会损害我们的身体健康。但是科学家们正在越来越将孤独视为某种可以\n最终成为一种心理治疗的东西,如果人们选择独处的话。\n6\n这在一定程度的性格障碍时期尤其如此,那时人们经常会本能地去寻求外界的支持。加州理工大\n学研究孤独的社会学家杰克·方解释说: “当人们经历危机时,并不总是你的问题: 而是有关你在社会中\n怎样的问题。” 换言之,当人们从其生活的社会环境中脱离出来时,他们就能更好地看到他们是如何被这种环境\n所塑造的。僧侣作家托马斯·默顿独自度过了数年的时间,他也有类似的想法。他在《独处中的沉思》\n中写道: “我们不能正确地观察事物直到我们不再将其抱在怀中。人们可以去散步或听音乐,体会自己\n内心深处的个人感触。”\nPassage Two",
+      "score": 1
+    },
+    {
+      "id": "e2017-q26",
+      "sectionType": "reading",
+      "passageId": "e2017-p2",
+      "seq": 26,
+      "stem": "According to Annie Potts, hens’ choice of a later and better reward indicates their ability of ______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "social interaction"
+        },
+        {
+          "key": "B",
+          "text": "facial recognition"
+        },
+        {
+          "key": "C",
+          "text": "logical reasoning"
+        },
+        {
+          "key": "D",
+          "text": "mutual learning"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】 细节推断\n【解析】问题问按照安妮·波茨的观点,母鸡选择稍后更好的奖励表明它们具有什么能力。我们可\n以在文章第二段找到相关内容:正如坎特伯雷大学的安妮·波茨所指出的那样,即使分离了几个月,小\n鸡也可以在 100 只小鸡中分辨并认出熟悉的面孔来。让鸡解决问题时,它们会推理:那些接受过选择\n彩色按钮训练的母鸡有时会选择放弃即刻 (较小)的食物奖励,而选择稍微晚一点(更好)的奖励。由此\n我们可以判断出安妮·波茨认为母鸡具有推理能力。所以,本题的正确答案是 C,逻辑推理。\n【误项排除】选择项 A:社会互动;B:面部识别;D:互相学习;这三个答案与母鸡对奖励做出\n先后选择没有关系,均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q27",
+      "sectionType": "reading",
+      "passageId": "e2017-p2",
+      "seq": 27,
+      "stem": "The expression “not-inconsiderable feat” (Para.3)shows what pig can do is ______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "extraordinary"
+        },
+        {
+          "key": "B",
+          "text": "weird"
+        },
+        {
+          "key": "C",
+          "text": "unique"
+        },
+        {
+          "key": "D",
+          "text": "understandable"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】 词语含义\n【解析】问题问第三段的\n词组 not-inconsiderable feat 表明猪能做的事情是怎样的。根据双重否定相当于肯定的规律,\nnot-inconsiderable 的意思是 considerable 的意思,即:相当大的;相当多的;可观的;重大的,重要的;\n值得考虑的,值得注意的;显著的。由此我们可以选出正确答案应为 A,超常的,非凡的,异乎寻常\n的,显著的。\n【误项排除】选择项 B:怪异的,不可思议的,超自然的;C:独特的,独一无二的;D:可以理\n解的,可以了解的,无可厚非的;这三个答案都不符合原文内容,均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q28",
+      "sectionType": "reading",
+      "passageId": "e2017-p2",
+      "seq": 28,
+      "stem": "What is Paragraph4 mainly about?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The similarities between mammals and humans."
+        },
+        {
+          "key": "B",
+          "text": "The necessity of long-term studies no mammals. 5"
+        },
+        {
+          "key": "C",
+          "text": "A change of public attitude to the treatment of mammals."
+        },
+        {
+          "key": "D",
+          "text": "A new discovery of how mammals think and feel."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】 段落大意\n【解析】问题问第四段主要讲了什么。文章第四段指出:很快,我认识到和我们的近亲一样, 鲸目\n动物也是文化学习的大师,而大象会与其社会同伴一起表达深深的喜悦和悲哀。对这些哺乳动物的长\n期野外研究有助于我们社会的观念转变:公众不再那么容易接受强迫猴子在实验室里经受痛苦的过程、\n大象被迫在马戏团里的表演和海豚被关在主题公园里的小贮水池里的境遇了。根据这些信息,我们可\n以总结归纳出本段主要是介绍通过对哺乳动物的研究和了解,人类会转变社会观念,公众不再接受各\n种强迫动物的事情了。因此,本题的正确答案是 C,公众对待哺乳动物的态度的转变。\n【误项排除】选择项 A:人类和哺乳动物之间的相似处;B:长期研究哺乳动物的必要性;D:哺\n乳动物如何思考和感觉的新发现;这几个答案都不是本段的主要内容,均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q29",
+      "sectionType": "reading",
+      "passageId": "e2017-p2",
+      "seq": 29,
+      "stem": "What is the author’s view on eating “food animals”?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "He regrets eating them before."
+        },
+        {
+          "key": "B",
+          "text": "He considers eating them justifiable."
+        },
+        {
+          "key": "C",
+          "text": "He is not concerned about the issue."
+        },
+        {
+          "key": "D",
+          "text": "He calls for a change in what we eat."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】 观点推断\n【解析】问题问作者关于吃“食物动物”的观点是什么。利用查阅式阅读,我们可以在第五段中找\n到相关信息:然而,随着时间的推移,随着我开始进一步扩大并探讨鱼、鸡、猪、山羊和牛的内心生\n活,我开始怀疑:“食物动物”这门新科学是否会给我们的饮食带来一场道德革命?换句话说,我们的道\n德的广度是否会开始赶上我们的科学的广度? 而最后一段指出:当然,动物维权人士已经在那里承诺\n不吃这些动物。但是我们其他人呢?关注这些动物的思想和感觉会导致我们改变我们的饮食吗? 由此,\n我们可以推断出作者对吃“食物动物”的观点是否定的,认为这么做会违背道德,人们应该改变饮食,\n7\n不吃这些动物。所以,本题的正确答案应该是 D,他呼吁改变我们的饮食。\n【误项排除】选择项 A:他后悔以前吃过这些东西;原文没有提及。B:他认为吃这些“食物动物” 是合理的;与原文内容不符。C:他不关心这个问题;与原文作者的观点明显相反。所以这三个答案均\n为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q30",
+      "sectionType": "reading",
+      "passageId": "e2017-p2",
+      "seq": 30,
+      "stem": "What is the best title for the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "In Praise of Food Animals"
+        },
+        {
+          "key": "B",
+          "text": "Food Animals in Science Reports"
+        },
+        {
+          "key": "C",
+          "text": "The Inner Lives of food animals"
+        },
+        {
+          "key": "D",
+          "text": "Food Animals: past, present and future"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】最佳标题\n【解析】文章的最佳标题是什么。通读全文,我们可以看出文章首先指出科学终于开始接纳那些\n长期以来被认为是二等公民的动物。接着作者通过两个大学的科研人员对鸡和猪的观察研究详细介绍\n了鸡和猪都有识别、判断、决定和推理的能力。最后作者提出鲸目动物和哺乳动物也有类似的思想和\n感觉,由此引出令人深思的问题:“食物动物”这门新科学是否会给我们的饮食带来一场道德革命? 关\n注这些动物的思想和感觉会导致我们改变我们的饮食吗?由此我们可以看出文章主要围绕动物也会思\n考、也有感觉、有识别判断和推理的能力来展开的。所以,本题的正确答案是 C,食物动物的内心世\n界。\n【误项排除】选择项 A:对食物动物的赞美,文中没有提到;B:科学报告中的食物动物,不符合\n原文内容;D:食物动物:过去、现在和未来,与原文主要内容不符;因此,这三个答案均是干扰项。\n【参考译文】\n科学终于开始接纳那些长期以来被认为是二等公民的动物。\n正如坎特伯雷大学的安妮·波茨所指出的那样,即使分离了几个月,小鸡也可以在 100 只小鸡中分\n辨并认出熟悉的面孔来。让鸡解决问题时,它们会推理:那些接受过选择彩色按钮训练的母鸡有时会\n选择放弃即刻 (较小)的食物奖励,而选择稍微晚一点(更好)的奖励。健康的母鸡可能帮助朋友,而且\n当那些朋友死掉时,这些健康的母鸡还会哀悼它们。\n猪对人类的符号可以做出有意义的反应。宾夕法尼亚州立大学坎迪斯·克劳内领导的一个研究小组\n带着有 X 和 O 符号的木块围绕在猪的周围,只有携带 O 符号的研究者给动物们提供食物。猪很快就忽\n略了带 X 符号的人,转而围着携带 O 符号的人转。然后,研究小组将现实生活中的物品换成印有 X 或\nO 符号的 T 恤衫。尽管如此,这些猪只向 T 恤上有 O 符号的人试探:它们已经把自己的知识转换成二\n维的形式,这是一种相当可观的推理能力。\n很快,我认识到和我们的近亲一样, 鲸目动物也是文化学习的大师,而大象会与其社会同伴一起表\n达深深的喜悦和悲哀。对这些哺乳动物的长期野外研究有助于我们社会的观念转变:公众不再那么容\n易接受强迫猴子在实验室里经受痛苦的过程、大象被迫在马戏团里表演、而海豚被关在主题公园里的\n小贮水池的境遇了。\n然而,随着时间的推移,随着我开始进一步扩大并探讨鱼、鸡、猪、山羊和牛的内心生活,我开\n始怀疑:“食物动物”这门新科学是否会给我们的饮食带来一场道德革命?换句话说,我们的道德的广度\n是否会开始赶上我们的科学的广度?\n当然,动物维权人士已经在那里承诺不吃这些动物。但是我们其他人呢?关注这些动物的思想和感\n觉会导致我们改变我们的饮食吗?\nPassage Three",
+      "score": 1
+    },
+    {
+      "id": "e2017-q31",
+      "sectionType": "reading",
+      "passageId": "e2017-p3",
+      "seq": 31,
+      "stem": "What may be the best title for the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The value of Creative Ideas"
+        },
+        {
+          "key": "B",
+          "text": "The Importance of Basic Research"
+        },
+        {
+          "key": "C",
+          "text": "Innovation in Silicon Valley"
+        },
+        {
+          "key": "D",
+          "text": "In Praise of “Useless” Endeavors 6"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】主旨题\n【解析】本文的最佳标题可能是什么。通读全文,我们可以看出作者重点介绍的无用知识的有用\n性,通过普林斯顿高等研究院重新再版弗莱克斯纳的文章《无用知识的有用性》这一事件,详细阐述\n了最强大的知识和技术突破通常来自于最初看起来“无用”的、与现实生活没有太大关系的研究,文章\n中用大量事实来佐证这一观点。由此我们可以推断出本文的主题思想是赞扬无用知识的巨大贡献。所\n以,本题的正确答案是 D,赞扬“无用”的努力。\n【误项排除】选择项 A:创造性思维的价值,原文没有提到这个内容;B:基础研究的重要性,这个答\n8\n案不符合原文内容;C:在硅谷的创新,过于细节化,不符合原文内容;所以,这三个答案均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q32",
+      "sectionType": "reading",
+      "passageId": "e2017-p3",
+      "seq": 32,
+      "stem": "According to Abraham Flexner, what is an important feature of modern thinking?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Curiosity"
+        },
+        {
+          "key": "B",
+          "text": "Application"
+        },
+        {
+          "key": "C",
+          "text": "Devotion"
+        },
+        {
+          "key": "D",
+          "text": "Passion"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】 细节判断\n【解析】按照亚伯拉罕·弗莱克斯纳的观点,现代思维的一个重要特征是什么? 利用查阅式阅读,\n我们可以在第二段的最后一句话中找到相关信息:他宣称:“也许会也许不会产生有用的东西的好奇心,\n可能是现代思维的杰出特征。” 由此我们可以判断出好奇心是现代思维的杰出特征。所以,本题的正\n确答案是 A。\n【误项排除】选择项 B:应用,用途,不符合原文内容;C:热爱,奉献,与原文内容不符;D:\n热情,激情,文章未提及;所以这三个答案均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q33",
+      "sectionType": "reading",
+      "passageId": "e2017-p3",
+      "seq": 33,
+      "stem": "The “undirected” research (Para.3) refers to research ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "not funded by government agencies"
+        },
+        {
+          "key": "B",
+          "text": "without any practical purpose in mind"
+        },
+        {
+          "key": "C",
+          "text": "with indefinite experimental methods"
+        },
+        {
+          "key": "D",
+          "text": "supported by non-profit organizations"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】 词语含义\n【解析】第三段中的“无目标”(或“无指向性”)的研究指的是哪种研究。利用查阅式阅读,我们可\n以在第三段中找到问题所对应的句子是 support exactly this kind of “undirected” research.通过指示代词\nthis,我们可以判断这种研究指的是上文中提到的研究,即第一段最后一句话中“最初看起来“无用”的、\n与现实生活没有太大关系的研究”,还有第二段中第一句话“这些‘无用的’努力应该得到支持是至关重要\n的,即使他们没有立即产生回报”和第二段最后一句话中“也许会也许不会产生有用的东西”的研究。由\n此我们可以判断本题的正确答应是 B,没有考虑任何实用目的。\n【误项排除】选择项 A:不是由政府机构资助的;C:用不确定的实验方法;D:非营利组织支持\n的;这三个选项的内容在原文中都没有提到,不符合原文内容。所以,这三个答案均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q34",
+      "sectionType": "reading",
+      "passageId": "e2017-p3",
+      "seq": 34,
+      "stem": "Examples of initially “useless” research include all of the following EXPECT ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "quantum mechanics"
+        },
+        {
+          "key": "B",
+          "text": "theory of relativity"
+        },
+        {
+          "key": "C",
+          "text": "superconductivity"
+        },
+        {
+          "key": "D",
+          "text": "GPS tracking devices"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节判断\n【解析】最初的“无用”研究的例子包括以下所有内容除了哪个以外。即问题问下面哪个不是最初\n的“无用”研究的例子。利用查阅式阅读,我们可以在第四段最后一句和第五段最后一句中找到相关信\n息:虽然其中的一些创意研究,比如爱因斯坦自己进行的早期相对论研究,一开始似乎并不是很有价\n值,但许多创意最终产生了影响巨大的应用效果(尽管经过了几十年)。如量子力学或超导这些概念似乎\n起初也相当无用——但在以后的日子里却产生了巨大的红利。由此我们可以判断出相对论、量子力学\n和超导这三个理论和概念都是最初无用的研究的例证。而 GPS 跟踪装置是相对论的实际运用,是有用\n的研究。所以,本题的正确答案是 D。\n【误项排除】选择项 A:量子力学;B:相对论;C:超导;这三个都是起初无用的研究的例子。\n所以,这三个答案均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q35",
+      "sectionType": "reading",
+      "passageId": "e2017-p3",
+      "seq": 35,
+      "stem": "Flexner’s article was reprinted because ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "businesses in Silicon Valley wish to put pressure on the government"
+        },
+        {
+          "key": "B",
+          "text": "Democrats believe that government funding should go to small business"
+        },
+        {
+          "key": "C",
+          "text": "Republicans argue that scientific research should be financed by business"
+        },
+        {
+          "key": "D",
+          "text": "some scientists worry that government will cut its funding"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】 引申推断\n【解析】重新再版弗莱克斯纳的文章的原因是什么。利用浏览式阅读,我们可以中文章最后一段\n的第一句话中找到相关信息:现在,普林斯顿高等研究院重新再版弗莱克斯纳的文章的原因是,像戴\n格拉这样的科学家们担心这一核心原则正日益受到威胁。而根据文章上下文,我们可以推断出这一核\n心原则指的是对“无用”研究的资助和支持,而“无用”研究指的是如相对论、超导、艺术、科学和教育等\n基础研究。因此,本题的正确答案是 D,一些科学家担心政府会削减对基础研究的资助。\n【误项排除】选择项 A:硅谷的企业希望向政府施加压力;这个答案与原文不符;B:民主党人认\n为政府的资金应该用于小型企业;原文没有提及;C:共和党人认为科学研究应该由企业来资助,与原\n文不符。所以,这三个答案均为干扰项。\n【参考译文】\n近 80 年前,美国教育家亚伯拉罕·弗莱克斯纳发表了一篇题为《无用知识的有用性》的文章。在\n文章中,他认为,最强大的知识和技术突破通常来自于最初看起来“无用”的、与现实生活没有太大关\n系的研究。\n因此,弗莱克斯纳说,这些“无用的”努力应该得到支持是至关重要的,即使他们没有立即产生回\n9\n报,因为否则下一波创新就不会发生。他宣称:“也许会也许不会产生有用的东西的好奇心,可能是现代\n思维的杰出特征。” 1929 年,弗莱克斯纳说服了一个富有的美国家庭----帮伯格一家,用他们的一些捐款来资助普林斯\n顿的高等研究院,以支持这种“无目标”的研究。\n而这种资助得到了回报:逃离纳粹德国的杰出犹太科学家,如阿尔伯特·爱因斯坦,聚集在高等研\n究院来探索无目标的创意。虽然其中的一些创意研究,比如爱因斯坦自己进行的早期相对论研究,一\n开始似乎并不是很有价值,但许多创意最终产生了影响巨大的应用效果(尽管经过了几十年)。\n“如果没有爱因斯坦的理论,我们的全球定位系统跟踪装置将不会准确到大约 7 英里的误差,”普\n林斯顿高等研究院现任院长罗贝特·戴格拉在重新再版的弗莱克斯纳的文章的前言中写道。如量子力学\n或超导这些概念似乎起初也相当无用——但在以后的日子里却产生了巨大的红利。\n现在,普林斯顿高等研究院重新再版弗莱克斯纳的文章的原因是,像戴格拉这样的科学家们担心\n这一核心原则正日益受到威胁。特朗普政府公布了一项预算计划,可能会减少对艺术、科学和教育团\n体的资助。许多共和党人认为,现在公司或慈善家对科学研究的资助多于政府对科研的资助。但在过\n去的一个世纪里,一个引人注目的事实是,多少美国的创新源自于联邦项目;例如,如果不是因为国\n家资金支持万维网的发展,硅谷就永远不会蓬勃发展。\nPassage Four",
+      "score": 1
+    },
+    {
+      "id": "e2017-q36",
+      "sectionType": "reading",
+      "passageId": "e2017-p4",
+      "seq": 36,
+      "stem": "In the movie A trip to the Moon, the spaceship was sent to the moon ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "in a capsule"
+        },
+        {
+          "key": "B",
+          "text": "in a bullet"
+        },
+        {
+          "key": "C",
+          "text": "by a cannon"
+        },
+        {
+          "key": "D",
+          "text": "by a gun"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节判断\n【解析】问题问在电影《月球之旅》中,宇宙飞船被什么送上月球的。利用浏览式阅读,我们可\n以在文章第一段最后一句话中找到相关信息:在这部电影中,宇宙飞船是一个小的太空舱,形状像子\n弹,被装载进一个巨大的大炮,瞄准了月球。由此我们可以判断,宇宙飞船是由一个大炮发射的。所\n以,本题的正确答案是 C,大炮,加农炮。\n【误项排除】选择项 A:胶囊,太空舱;B:子弹;D:枪,枪状物;这三个答案都不是原文的内\n容,均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q37",
+      "sectionType": "reading",
+      "passageId": "e2017-p4",
+      "seq": 37,
+      "stem": "The movie was based on a book written by ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Konstantin Tsiolkovsky"
+        },
+        {
+          "key": "B",
+          "text": "an unknown author"
+        },
+        {
+          "key": "C",
+          "text": "Georges Mé sliè"
+        },
+        {
+          "key": "D",
+          "text": "Jules Verne 7"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节判断\n【解析】问题问这部电影是根据谁写的一本书改编而来的。利用查阅式阅读,我们可以在文章第\n二段第一句话中找到相关的内容:这部电影是基于许多年前一位名叫儒勒·凡尔纳的作家写的一本书。\n由此我们可以判断出本题的正确答案是 D,儒勒·凡尔纳。\n【误项排除】选择项 A:康斯坦丁·齐奥尔科夫斯基;B:一位无名作者;C:乔治·梅里爱;这三\n个答案均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q38",
+      "sectionType": "reading",
+      "passageId": "e2017-p4",
+      "seq": 38,
+      "stem": "Before the invention of a spaceship, possible solutions of space travel included all of the following EXCEPT ________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "bombs"
+        },
+        {
+          "key": "B",
+          "text": "balloons"
+        },
+        {
+          "key": "C",
+          "text": "airplanes"
+        },
+        {
+          "key": "D",
+          "text": "Rockets"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节判断\n【解析】问题问在宇宙飞船发明之前,可能的太空旅行解决方案包括以下所有的方式除了哪个以\n外,即下面哪个不是可能的太空旅行解决方案。利用查阅式阅读,文章第三段指出:美国和俄罗斯的\n科学家们开始思考太空旅行的时候,齐奥尔科夫斯基的一些解决方案给了他们一些创意。他们也想到\n了他们和其他人已经制造出来的飞机,甚至是可以自行飞得很远的大炸弹。由此我们可以判断出这里\n提到的解决方案有飞机和大炸弹。而第四段重点介绍了火箭。因此,本题的正确答应是 B,气球。\n【误项排除】选择项 A:炸弹,原文中提到了;C:飞机;文章中也提到了;D:火箭,原文第四\n段重点介绍的;所以,这三个选择项均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q39",
+      "sectionType": "reading",
+      "passageId": "e2017-p4",
+      "seq": 39,
+      "stem": "What is Paragraph4 mainly about?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It took a long time and hard work to send a person into space."
+        },
+        {
+          "key": "B",
+          "text": "American scientists worked better than Russian scientists."
+        },
+        {
+          "key": "C",
+          "text": "Scientists from Russia and America had close cooperation."
+        },
+        {
+          "key": "D",
+          "text": "The design of the rocket was inspired by the movie A trip to the moon."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】段落大意\n【解析】问题问第四段主要是关于什么内容的。第四段指出:许多科学家花了数年的时间共同努\n力来解决这个问题。他们起草并讨论了不同的设计,直到他们对最好的设计达成认同为止。然后,他\n10\n们按照这些设计建造了小模型,并对这些模型反复进行测试,直到他们觉得已经准备好建造更大的模\n型为止。他们制造了与实物一样大小的火箭,进行了无人火箭发射,以测试安全性。通常火箭是不安\n全的,它们会就在发射台上爆炸了,或者像吹起的气球还没系住就疯狂地四处乱飞了。经过许多次的\n测试,科学家们开始把小动物送入太空。又过了很长一段时间之后,他们才把一个人放进火箭,把他\n送入太空。段落的首尾句与段落大意的概括有最直接的关系,因为首尾句通常是主题句。由此我们可\n以总结出第四段的段落大意是要花很长时间才可以把人放进火箭送入太空。所以,本题的正确答案是\nA,花了很长时间和艰苦的工作才把一个人送入太空。\n选择项 B:美国科学家比俄罗斯科学家工作得更好,不符合原文的内容;C:来自俄罗斯和美国的\n科学家密切合作,文章中没有提到这个内容;D:火箭的设计灵感来自于电影《月球之旅》,原文中没\n有提及。所以,这三个答案均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q40",
+      "sectionType": "reading",
+      "passageId": "e2017-p4",
+      "seq": 40,
+      "stem": "The word “shoot”(Para.4) is closest in meaning to “________”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "send with great force"
+        },
+        {
+          "key": "B",
+          "text": "break into many pieces"
+        },
+        {
+          "key": "C",
+          "text": "Fix a problem"
+        },
+        {
+          "key": "D",
+          "text": "attack with a weapon."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】词语含义\n【解析】问题问第四段中 shoot 这个词与下面哪个表述语义最相近。Shoot 的本意是“射击,发射”,\n指用力迅速发出枪弹、炮弹、火箭、电波、人造卫星等。所以,本题的正确答案是 A,用力发射,以\n极大的力量发送。\n【误项排除】选择项 B:分解成许多块碎片,破成碎片;C:解决问题;D:用武器攻击。这三个\n答案都不是 shoot 的正确含义,均为干扰项。\n【参考译文】\n1902 年,乔治·梅里爱制作发行了一部名为“月球之旅”的电影。在这部电影中,宇宙飞船是一个小\n的太空舱,形状像子弹,被装载进一个巨大的大炮,瞄准了月球。\n这部电影是基于许多年前一位名叫儒勒·凡尔纳的作家写的一本书。这本书的一个粉丝是一个俄罗\n斯人,叫康斯坦丁·齐奥尔科夫斯基。这本书使他思考。一个人真的能把人们从大炮里射出来,让他们\n安全到达月球吗?他认定不可能,但这让他想到了其他的方法可以让人们登上月球。他一生都在考虑这\n个问题,并提出了许多解决方案。\n当美国和俄罗斯的科学家们开始思考太空旅行的时候,齐奥尔科夫斯基的一些解决方案给了他们\n一些创意。他们也想到了他们和其他人已经制造出来的飞机,甚至是可以自行飞得很远的大炸弹。\n许多科学家花了数年的时间共同努力来解决这个问题。他们起草并讨论了不同的设计,直到他们\n对最好的设计达成认同为止。然后,他们按照这些设计建造了小模型,并对这些模型反复进行测试,\n直到他们觉得已经准备好建造更大的模型为止。他们制造了与实物一样大小的火箭,进行了无人火箭\n发射,以测试安全性。通常火箭是不安全的,它们会就在发射台上爆炸了,或者像吹起的气球还没系\n住就疯狂地四处乱飞了。经过许多次的测试,科学家们开始把小动物送入太空。又过了很长一段时间\n之后,他们才把一个人放进火箭,把他送入太空。\n即使在科学家们开始把人送入太空之后,他们仍在努力改进火箭的形状。这个设计改变了很多次,\n最终看起来像是半火箭半飞机的形状。这台叫做航天飞机的机器已经用了很多年了。现在,政府允许\n私人公司为宇宙飞船做自己的设计,而这些私人公司已经设计出了许多不同的、样子古怪的机器。\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2017-q41",
+      "sectionType": "reading",
+      "passageId": "e2017-p5",
+      "seq": 41,
+      "stem": "What is the author’s view on the plastic problem in Thailand?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The problem is not unique to Thailand."
+        },
+        {
+          "key": "B",
+          "text": "There is no point overreacting to the problem."
+        },
+        {
+          "key": "C",
+          "text": "It is important to raise people’s awareness."
+        },
+        {
+          "key": "D",
+          "text": "The government should be held responsible."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】作者观点\n【解析】问题问本文作者对泰国的塑料垃圾问题有何看法。利用浏览式阅读,我们发现第一段作\n者介绍了泰国渔民以前用香蕉叶包食品而如今则使用塑料包装从而带来大量塑料垃圾,接着第二段的\n第一句话指出:这是一个世界性的问题——我们不能把矛头指向泰国渔民。由此我们可以推断出作者\n认为泰国的塑料垃圾问题不是只它一国的问题,这是一个世界性的问题。所以,本题的正确答案是 A,\n这个问题不是泰国独有的。\n【误项排除】选择项 B:对这个问题做出过激的反应毫无意义,原文没有提到这个内容;C:提高\n人们的意识是很重要的,文章没有提及;D:政府应该对此负责,不符合原文内容;因此这三个答案均\n11\n为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q42",
+      "sectionType": "reading",
+      "passageId": "e2017-p5",
+      "seq": 42,
+      "stem": "“A package of cookies” is mentioned in Paragraph 2 to __________.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "illustrate the problem of excessive packaging"
+        },
+        {
+          "key": "B",
+          "text": "introduce the revolutionary way of packaging"
+        },
+        {
+          "key": "C",
+          "text": "review the gradual development of packaging"
+        },
+        {
+          "key": "D",
+          "text": "emphasize the necessity of food packaging"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】问题问第二段中提到“一袋饼干”是为了什么。利用查阅式阅读,文章第二段指出:塑料\n垃圾是一个世界性的问题。英国每年产生的垃圾中大部分是食品包装垃圾。现在我们生活在一个荒谬\n的时代,在这个时代一袋饼干可以有七层包装。虽然我们已经彻底改变了存储和消耗食物的方式,但\n是现在有这么多的垃圾以至于垃圾填埋场不能应付。有些包装垃圾是有毒的,有些是不会降解的。一\n些塑料瓶要用 450 年的时间才能分解掉。由此,我们可以推断出作者用“一袋饼干”为例是为了论证过\n度包装带来的问题,以至于作者使用了荒谬时代这样的贬义词。所以,本题的正确答案是 A,证明过\n度包装的问题。\n【误项排除】选择项 B:介绍革命性的包装方式,不符合原文内容;C:回顾包装的逐步发展,与\n原文内容不符;D:强调食品包装的必要性,博客原文中没有提及;因此,这三个答案都为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q43",
+      "sectionType": "reading",
+      "passageId": "e2017-p5",
+      "seq": 43,
+      "stem": "The word “doddle” (Para.3) probably means “something __________”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "no longer useful"
+        },
+        {
+          "key": "B",
+          "text": "extremely difficult"
+        },
+        {
+          "key": "C",
+          "text": "beyond imagination"
+        },
+        {
+          "key": "D",
+          "text": "easily accomplished"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】词汇含义\n【解析】问题问第三段中的单词 doddle 可能是什么意思。利用查阅式阅读,我们可以在第三段最\n后一句中找到相关信息:处理食品包装问题应该是一件____事。根据这句话的上文内容:一想到要处\n理的塑料包装的规模,我们很容易感到绝望,但这并不是人类不能解决的问题——看看世界是如何在\n处理氯氟烃上采取行动的:现在有迹象表明臭氧层空洞正在关闭。由此我们可以推断出 doddle 的意思\n是指人类可以解决的,可以采取行动解决的。因此,本题的正确答案是 D,很容易完成的。如果考生\n认识 doddle 这个词汇,知道其词义为“轻而易举的事情,简单的事情”,也可以直接选择正确答案 D。\n【误项排除】选择项 A:不再有用处的;B:极其困难的;C:超出想象的,超越想象的;这三个\n答案都不符合 doddle 的语义,均为干扰项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q44",
+      "sectionType": "reading",
+      "passageId": "e2017-p5",
+      "seq": 44,
+      "stem": "Which of the comments is positive about packaging?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 1"
+        },
+        {
+          "key": "B",
+          "text": "Comment 2"
+        },
+        {
+          "key": "C",
+          "text": "Comment 3"
+        },
+        {
+          "key": "D",
+          "text": "Comment 4"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】问题问关于包装问题下面哪个跟帖持肯定态度。通读一下四个跟帖,我们发现跟帖三指\n出:我喜欢包装——当然,如果它设计得很好。它使我们更加讲究卫生和实用。包装用品的解决方案\n显然是要鼓励使用生物可降解包装。由此我们可以推断出跟帖三的作者对包装持积极肯定的态度。因\n此,本题的正确答案是 C。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q45",
+      "sectionType": "reading",
+      "passageId": "e2017-p5",
+      "seq": 45,
+      "stem": "Which of the following comments point out ways to solve over-packaging?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 1 and 2."
+        },
+        {
+          "key": "B",
+          "text": "Comment 1 and 3."
+        },
+        {
+          "key": "C",
+          "text": "Comment 2 and 4."
+        },
+        {
+          "key": "D",
+          "text": "Comment 3 and 4."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】问题问下面哪个跟帖指出了解决过度包装的方法。四个跟帖的内容分别是:1.作为个人,\n我可以尽我最大的努力避免过度包装,但实际上只有政府的监管才能迫使企业改变他们的做法。这里\n涉及到个人政府都应该采取措施解决过度包装的问题。2. 我不明白为什么连锁超市总是坚持用塑料薄\n膜来包裹香蕉和黄瓜之类的产品。为什么?它们有自己的包装——香蕉皮或黄瓜皮!3. 我喜欢包装——\n当然,如果它设计得很好。它使我们更加讲究卫生和实用。包装用品的解决方案显然是要鼓励使用生\n物可降解包装。这里也提到了包装的解决方案。4. 以前,我们扔掉的所有东西都是生物降解的,现在\n不是。我认为人们很难在一夜之间改变这种行为。由此我们可以推断出第一个和第三个跟帖都提到了\n过度包装的解决方案。所以,本题的正确答案是 B。\n【参考译文】\n2003 年,一个泰国的岛上的餐馆老板告诉我,当地的渔民过去常用香蕉叶包他们的午餐,吃完午\n餐后就会漫不经心地把香蕉叶扔到海里。这是可以的,因为树叶腐烂了,鱼就会吃了所有的叶子。他\n说,但在过去的十年里,塑料薄膜已经迅速取代了香蕉叶,所以海滩上就铺了一层塑料膜。\n这是一个世界性的问题——我们不能把矛头指向泰国渔民。仅英国每年产生的垃圾就超过 1.7 亿吨,\n其中大部分是食品包装垃圾。现在我们生活在一个荒谬的时代,在这个时代一袋饼干可以有七层包装。\n虽然我们已经彻底改变了存储和消耗食物的方式,但是现在有这么多的垃圾以至于垃圾填埋场都不能\n12\n应付。有些包装垃圾是有毒的,有些是不会降解的。一些塑料瓶要用 450 年的时间才能分解掉。事实\n上,正如英国倡导“零废弃物周”的蕾切尔·施特劳斯说的那样,我们从来没有真正地把任何东西“扔”掉\n——实际上它只是被放在了别的地方。\n一想到要处理的塑料包装的规模,我们很容易感到绝望,但这并不是人类不能解决的问题——看\n看世界是如何在处理氯氟烃上采取行动的:现在有迹象表明臭氧层空洞正在关闭。处理食品包装问题\n应该是一件轻而易举的事\n跟帖一\n作为个人,我可以尽我最大的努力避免过度包装,但实际上只有政府的监管才能迫使企业改变他\n们的做法。\n跟帖二\n我不明白为什么连锁超市总是坚持用塑料薄膜来包裹香蕉和黄瓜之类的产品。为什么?他们有自己\n的包装——香蕉皮或黄瓜皮!\n跟帖三\n我喜欢包装——当然,如果它设计得很好。它使我们更加讲究卫生和实用。包装用品的解决方案\n显然是要鼓励使用生物可降解包装。\n跟帖四\n以前,我们扔掉的所有东西都是生物降解的,现在不是。我认为人们很难在一夜之间改变这种行\n为。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q46",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "without"
+        },
+        {
+          "key": "B",
+          "text": "by"
+        },
+        {
+          "key": "C",
+          "text": "against"
+        },
+        {
+          "key": "D",
+          "text": "for"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】一般说来,按照命题原则,完形填空的章首句是不设置空白的,考生应利用这一点,读\n懂首句抓住中心议题。本篇首句以一修辞疑问句开头,提出本文的中心议题 How many people can live on\nthe face of the earth?“地球上能支撑多少人生存?”接下来自问自答“这取决于人们能种植多少粮食而又\n_______破坏环境”。鉴于与上一句的语义联系,考生可以轻松地理解句意,进而确定空白填入词的意\n思为“不(破坏环境)”。四个备选项中 B 项 by“通过…手段”,表示方式,用于此处意思正好相反;D\n项 for“为了”,具有同样的语义问题;C 项 against“反对,违抗,顶着”,表示对(做)某事的态度,如\nI am against hunting in any form.“ 我反对任何形式的狩猎”,句中要表达的确切意思是“不去破坏环境”,\n而不是强调人们对破坏环境的态度,所以 against 在意思上不符合句意。A 项 without“不,没”,如 He left\nwithout paying the bill.“他没付账就走了”。可见只有 without 与句意相符,为正确答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q47",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "ceases"
+        },
+        {
+          "key": "B",
+          "text": "keeps"
+        },
+        {
+          "key": "C",
+          "text": "stops"
+        },
+        {
+          "key": "D",
+          "text": "stays"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】 第二段谈及地球上人口增长的速度。第一句是概述,接下来用一系列数据说明人口在持\n续增长而且速度之快。空白出现在第一句,根据上下文的逻辑语义关系,可以很容易排除 A 项 ceases\n和 C 项 stops,两者的意思都是“停止”;D 项 stays 意为“停留”,也不符合语境。B 项 keeps (growing)“持\n续(增长)”为正确选项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q48",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "maintain"
+        },
+        {
+          "key": "B",
+          "text": "retain"
+        },
+        {
+          "key": "C",
+          "text": "hold"
+        },
+        {
+          "key": "D",
+          "text": "produce"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】 此题考查词义辨识理解和运用。上文提到“地球上的人口在持续增长。每 15 秒钟就约有\n100 个婴儿出生”,接下来说“不用到本世纪末,地球上的人口就可能______100 亿!”A 项 maintain“保\n持、维持”;B 项 retain“保留”;C 项 hold“容纳”;D 项 produce“产生”。题句要表达的意思是人口持续\n增长的结果,即人口达到多少人,而不是保持已有的数量,可见 A、B 两项离句意甚远,很易排除。\nproduce 乍一看貌似可以,但稍加思考便可确认是不合适的,因为题句主语是 earth,题句不是说地球能\n产出多少人,而是说在地球上会有多少人。hold 指空间容纳的能力,后面经常接表示数量概念的词,\n如:This blue planet should be big enough to hold us all. “这个蓝色大地球大得足以容纳我们所有人。”综\n上分析可以得知,C 项 hold 符合上下文语境意义,所以是正确选项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q49",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "exhausted"
+        },
+        {
+          "key": "B",
+          "text": "declined"
+        },
+        {
+          "key": "C",
+          "text": "arisen"
+        },
+        {
+          "key": "D",
+          "text": "risen"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "13\n【解析】 第三段讲,人口的持续增长必须有足够粮食供给来满足需求,但事实是粮食生产很难跟\n上人口的增长速度。本题句的上文提到;To feed everyone, farmers must grow more food. They are trying to\ndo so. 接下来“近年来世界的粮食产量在逐渐______”。A 项 exhausted“枯竭”;B 项 declined“下降”;C\n项 arisen“出现、产生”;D 项 risen“上涨”。前一句谈到农民们在努力多产粮,接下来一句是这样做的结\n果,即粮食产量在逐渐“上升”才合乎逻辑,故 risen 是正确选项。A、B 两项明显与句意相悖;C 项是\n词形干扰。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q50",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "however"
+        },
+        {
+          "key": "B",
+          "text": "somehow"
+        },
+        {
+          "key": "C",
+          "text": "anyway"
+        },
+        {
+          "key": "D",
+          "text": "furthermore"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】 此题要求填入副词作插入语,考查对上下文语义逻辑关系的理解。题句的前一句说的是\n“世界粮食产量在逐年增长”,后一句讲“在世界某些地区,________,人口的增长快于粮食的供给”,可\n见前后是转折关系,A 项 however“然而”,符合上下文承接逻辑,是正确答案。B 项 somehow“设法、\n以某种方式”;C 项 anyway“尽管如此”,表示让步;D 项 furthermore“而且、此外”,表示递进。这三项\n都不符合题句前后的逻辑意义关系,故是错误的。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q51",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "country"
+        },
+        {
+          "key": "B",
+          "text": "nation"
+        },
+        {
+          "key": "C",
+          "text": "population"
+        },
+        {
+          "key": "D",
+          "text": "community 9"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】 本句承接前一句,说的是人口增长超过粮食供给的结果,“一些专家担心无法生产出足\n够的粮食以满足不断增长的______需求”。A 项 country“国家”;B 项 nation“民族”;C 项 population“人\n口”;D 项 community“社区”。本文的中心议题就是人口的增长及其带来的问题,作为主题词 population, people, food 在文中多次出现,而且说的是世界范围的人口增长,并未提及具体是哪个国家、哪个民族\n的人口,通篇没有一个国家或民族的名字。所以正确选项不可能是 A 或 B 项。community 指某一区域\n内同一群体的集中居住地,显然意思上偏离得更远。故正确答案只能是 C 项 population,这一点也可以\n从上下文同义互释得到确认:the population is growing faster 和 a population that never stops increasing。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q52",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "range"
+        },
+        {
+          "key": "B",
+          "text": "amount"
+        },
+        {
+          "key": "C",
+          "text": "number"
+        },
+        {
+          "key": "D",
+          "text": "level"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】 文章第四段谈到为了解决粮食供给问题农民们想出的办法和采取的措施以及产生的后果。\n题句 To grow more crops on the same ______ of land, 其意思显而易见,要求填入表示数量意思的词,而\n且用来修饰 land。我们知道,land 是不可数的,所以排除修饰可数名词的 C 项 number;A 项 range 意\n思是“范围”、D 项 level 指“水平”,两个词都离题甚远;B 项 amount 通常用来修饰不可数名词,故是正\n确答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q53",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "hence"
+        },
+        {
+          "key": "B",
+          "text": "when"
+        },
+        {
+          "key": "C",
+          "text": "but"
+        },
+        {
+          "key": "D",
+          "text": "and"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解题思路】 前一句谈到在等量的土地上种植更多庄稼的解决措施,即使用化肥和杀虫剂,或种\n植产量高的新品种谷物,接下来讲采用这些做法的结果:These things help — _____ they don’t provide\nperfect solutions。空白要求填入一连接词,将两个句子连起来。四个选项都可以起连接作用,但表示不\n同的逻辑意义:A 项 hence“因此”,表示结果;B 项 when 表示时间;C 项 but 表示对比;D 项 and 表\n示递进。再看题句,空白前面是 help“起作用”,后面是 don’t provide perfect solutions“不是完美的解决\n办法”,前后明显构成对比,所以选 C 项 but 合乎前后逻辑意思。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q54",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "conclusion"
+        },
+        {
+          "key": "B",
+          "text": "restriction"
+        },
+        {
+          "key": "C",
+          "text": "goal"
+        },
+        {
+          "key": "D",
+          "text": "limit"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】 此句承接前一句,具体说明为什么这些增产的办法不是 perfect solution:化肥和杀虫剂\n中的化学物质会污染水源,The new seeds developed by scientists have reached the ______ of what they can\nproduce。A 项 conclusion“结论”;B 项 restriction“限制”;C 项 goal“目标”;D 项 limit“限度”。仅从动宾\n语义搭配使用上看,我们可以说 reach conclusion/goal/limit“得出结论/实现目标/达到极限”,但不能说\nreach restriction,所以排除 B 项。再从意思上看,确定 A、C 两项此处说不通或前后矛盾。再根据下文\n说的“饥饿的人们在现有的土地上无法获得更多的粮食”,说明现有办法产粮 reached the limit“达到了极\n限”,故 D 项是本题的正确答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q55",
+      "sectionType": "cloze",
+      "passageId": "e2017-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "growing"
+        },
+        {
+          "key": "B",
+          "text": "surviving"
+        },
+        {
+          "key": "C",
+          "text": "remaining"
+        },
+        {
+          "key": "D",
+          "text": "existing"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】 最后一段讲土地不够种人们就 “砍伐山上的树木以得到新的农田”,这样做的后果是地\n表土受到腐蚀,环境遭到更严重的破坏。本题句 When hungry people can get no more out of _______field, they clear trees from hills and forests for new farmland,根据题句语境推知,该空白需要填入一个与 new\n14\nfarmland 在意思上对应的词:A 项 growing“增长的”;B 项 surviving“幸存的”;C 项 remaining“剩余的”;\nD 项 existing“现有的、现存的”。可见 D 项 existing field 与 new farmland 形成对照,填入句中符合句意,\n故是正确答案。\n【参考译文】\n地球上能生存多少人?没有人能给出答案。这取决于人们能种植多少粮食而又不破坏环境。\n现在,地球上生存的人比以往任何时候都多,而且还在持续增长。每 15 秒钟就约有 100 个婴儿出\n生。不用到本世纪末,地球上的人口就可能达到 100 亿!\n为了让人人吃饱饭,农民们必须种植更多的粮食,他们也在努力这样做。世界上的粮食产量在逐\n年上升,而在有些地方,人口的增长速度却超过了粮食的供给。一些专家担心,世界将不可能生产足\n够的粮食以满足不断增长的人口需求。\n为了在等量的土地上种植更多的庄稼,农民们便使用化肥和杀虫剂。有的农民种植产量高的新品\n种谷物,这些方法能解决一些问题,但不是完美的解决办法,化肥和杀虫剂中的化学物质会污染水源,\n科学家开发的新种子也到了可以产出的极限。\n当饥饿的人们在现有的土地上无法获得更多的粮食时,他们就砍伐山上的树木以得到新的土地,\n这样做的结果是将表层土暴露出来,于是雨水和洪水就会把田野中的表层土冲刷掉,这个过程即称为\n“腐蚀”。每年这种侵蚀从农民手中不知不觉地夺走了数亿吨表层土。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A. you watched  ____  eating it",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题考查运用句法结构知识对语段信息进行正确判断和完形处理。首先浏览方框中备选\n项的词性,确定能担当的句子成分,再分析语段空白处缺少的是什么语法成分,进而判断哪个选项适\n合填入本题空白。依此浏览选项得知,A 项 helps 是动词;B 项 while 是连接词;C 项 messages 是名词;\nD 项 closely 是副词。再看本题语段空白,确定后面接的是-ing 短语 eating it,从句法功能看,首先将 C\n项的名词和 D 项 closely 排除,因为无论从语法结构还是从语义上看,将这两项填入语段中都是不对的。\nA 项 helps 接后面的 eating it 是可以的,但无法与空白前面的 watched 衔接,所以只有 B 项 while 是正\n确答案,意为“边吃边看”。连词一般说来应该接句子,但当主语相同时,有些连词在使用时习惯上省\n去主语和谓语,用分词替代。适于这种用法的从属连词有 while, though/although, if 等。还有,要提醒\n考生的是,作题时一定要将空白前后都顾及到,千万不能只看一侧,否则很容易被干扰项迷惑。如本\n题,若忽略了空白后面只看前面, D 项 watched closely 也是可以的。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B. send nerve  ____  to your brain",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】做题思路同上一个题一样,确定了选项的词性和句法功能后,看空白缺少什么成分,然\n后进行匹配处理。试题语段 send nerve to your brain 是动宾结构 send…to…,A 项 helps 是谓语形式,\n无法填入此处,D 项 closely 不能用来修饰 send,这样一来,只有 C 项 messages 符合语段的结构和语\n义要求。从结构上看,messages 在此处作 send 的宾语,空白前的 nerve 作 messages 定语,意为“将神\n经信息传送给大脑”。除了形容词,名词也经常用来作定语,多用其单数形式,如 telephone numbers, department stores,但 man, woman 作定语时,单复数要跟着所修饰的名词变化,如 two women teachers。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. our noses and our brain are very  ____  connected",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【 解 析 】 此 题 很 简 单 , 还 是 从 结 构 上 入 手 确 定 答 案 。 语 段 our noses and our brain are\nvery connected 空白前面是副词 very,后面是分词 connected。余下的两个选项显然 A 项 helps\n无论从空白前面还是从后面看均是无法填入的,所以 C 项 closely 无疑是答案。副词 closely 用来修饰\n分词 connected,符合语法规则,very 修饰 closely connected ,意为“关联非常密切”,语法语义均是正\n确的。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 59,
+      "stem": "（第 59 空）D.  ____  us remember things",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "15\n【解析】虽然就剩最后一个选项 A 了,答案非它莫属,但我们还是要交叉确认一下,既确定本题\n的答案的同时还要检查确认一下其他三个题答案无误。从结构上分析,题目语段 us remember\nthings 空白后接的是代词 us,无疑是宾格形式,提示我们空白需要填入的只能是谓语,才能形成动宾\n结构。从这一点着手,四个选项只有 A 项 helps 不但是动词,而且是谓语,因为是第三人称单数,所\n以确认此题的答案是 A 项。其他三个选项—连词、名词、副词都无法填入此空。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…years, scientists have been studying the special power of smells. It seems that  ____  . When you smell something, the odor goes up your nose to the smelling zones. From here…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】先分析四个备选语段的结构:A 项是句子;B 项是动宾结构;C 项是句子,D 项也是动宾\n结构。再看语篇中空白所在句在结构上缺少什么成分,然后进行匹配处理。本题 It seems that ,\n很明显,that 提示我们,空白需要填入一个完整的句子,据此排除 B 项和 D 项,将答案范围缩至 A 和\nC 项。再根据题句上下文的词汇相关性,选定 C 为答案,因为前一句有 smell,后一句也有 smell, smelling 一词,与选项中的 noses 词义上密切相关,而 A 项虽然也是句子结构,但其中的 watched 和 eating 与上\n下文在意思上没有任何关联性,故排除,以此再次确认 C 是正确选项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…thing, the odor goes up your nose to the smelling zones. From here, sense cells  ____  telling it what you smelled. More than our other four senses, our sense of smell change…",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】题句 From here, sense cells 61 telling it what you smelled 空白前面 sense cells 是句子\n的主语,明显是缺少谓语的,再看备选项,其中 B、D 两项都是动宾结构,据此排除 A 和 C 项,因这\n两项都是完整的句子。再仔细观察 B 项和 C 项,发现两个谓宾结构在单复数形式上有所不同: D 项 helps\n是单数第三人称,而 B 项则是原形动词,而题句的主语 sense cells 是复数,这就要求谓语动词也必须\n是复数形式,才符合主谓一致的语法规则,可见此处只有填入 B 项才是正确的。空白后面的分词短语\ntelling it what you smelled 在句子中作 messages 的后置定语,说明 messages 的内容。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 62,
+      "stem": "（第 62 空）…elled. More than our other four senses, our sense of smell changes our mood and  ____  . If you were told to think about popcorn, you’d probably recall its smell. And then yo…",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】题句是一并列结构:More than our other four senses, our sense of smell changes our mood\nand ,句子的主语是 our sense of smell,谓语是 changes,要求填入的是第二个并列谓语。按照\n并列的成分在形式上必须一致的原则,第二个并列谓语也必须是第三人称单数,才能与 changes 平行对\n称,据此,D 选项 helps us remember things 符合结构要求。所以此题答案为选项 D。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p7",
+      "seq": 63,
+      "stem": "（第 63 空）…popcorn, you’d probably recall its smell. And then you might remember the movie  ____  . Our sense of smell also makes us aware of danger-like the smell of smoke.",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "helps"
+        },
+        {
+          "key": "B",
+          "text": "while"
+        },
+        {
+          "key": "C",
+          "text": "message"
+        },
+        {
+          "key": "D",
+          "text": "closely"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】做本题的思路可以从结构上、动宾语义搭配上、及上下文词汇相关性上三层面入手。题\n句为:And then you might remember the movie_______.首先,从结构上看,该句主谓宾齐全,那么要填\n入的成分便是次要成分,即起修饰作用。这样就排除了 B 项和 D 项,因两项都是谓语和宾语。其余两\n项 A 和 C 结构上一样,都是句子;第二,我们再从语义结构搭配上考虑。题句中 remember the movies\n与 A 项中的 watched 在意思上相关联—watch movies 是合适的语义搭配;第三,再从代词的一致性上\n分析:A 项中的代词 you 与上文的 you 一致,eating it 中的代词 it 指代上文中的 popcorn。经过各个层\n面分析后,我们可以完全肯定地得出结论,选项 A 是本题的正确答案,填入的部分是一定语从句,在\n句中修饰限定 movie,while eating it 是全句的状语:you remember the movies…while eating it. 【参考译文】\n多年来,科学家一致在研究嗅觉的特殊作用。我们的鼻子和大脑似乎关联非常密切。当你闻到某种\n东西时,其气味就会冲进鼻子到达嗅觉区域,从这里感官细胞将神经信息传送到大脑告知你闻到了什\n么。\n相比其他四个感官,嗅觉器官更能改变我们的心绪,帮助我们的记忆。如果让你想爆米花,你就\n可能想到它的气味,然后还会记起你边看电影边吃爆米花的情景。嗅觉感官还能使我们意识到危险---- 如闻到烟味。\nText Two\n此短文选自一教材的练习,介绍闻名国内外的 TED 英文系列专题演讲,涉及演讲的举办地点、演\n讲的传播方式、演讲人的确定、演讲涵盖的话题、以及对演讲的时间要求等等。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p8",
+      "seq": 64,
+      "stem": "（第 64 空）A. how to help poor people with all sorts of  ____ ",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "give presentation"
+        },
+        {
+          "key": "B",
+          "text": "new innovation"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】先分析备选项的词性或结构:A 项是动宾结构;B 项是名词短语;C 项是动词的-ed 形式。\n16\n再看语段空白前后的结构信息得知,本语段空白前面是介词 of,语法规则告诉我们,介词后面要接名\n词,或代替名词的词代词,或起名词作用的词动名词,或起名词作用的句子即名词性从句。据此,三\n个选项中只有 B 项符合语法规则,故是正确答案。语段意为;“如何用各种创新帮助穷人”。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p8",
+      "seq": 65,
+      "stem": "（第 65 空）B. all the speeches are  ____  to their websites",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "give presentation"
+        },
+        {
+          "key": "B",
+          "text": "new innovation"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】做此题的思路同前一个题一样,也是先分析题目语段 all the speeches are __ to their\nwebsite 的结构,发现空白前面是 are,余下的两个选项一个是动宾结构 give presentations, 一个是动词\n的-ed 形式,显然此处若填入 A 项的动宾结构是错误的,所以只能选 C 项才符合语法要求,因为 uploaded\n在此与 are 构成被动语态结构。另外从词汇角度看,uploaded 和 website 具有语义相关性,故 C 项为本\n题答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p8",
+      "seq": 66,
+      "stem": "（第 66 空）C.  ____  on a variety of topics",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "give presentation"
+        },
+        {
+          "key": "B",
+          "text": "new innovation"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】排除已经选定的 B 项和 C 项,余下的 A 项即是本题的答案。为了确保答案的准确无误,\n我们还是要正面分析一下。首先,介词后面不能接动词,那么 A 项无法填入 64 题;65 题空白前面已\n经有谓语 are,give presentations 也不可能是 65 题的答案;再看 66 题的语境:空白后面是介词 on“关于”,\n可以与 A 项中的 presentation 构成语义上的关联,即“有关…的演讲”;还有,语段中的 topics 也与\npresentation 相关,即“演讲的话题”。所以,从结构上排除选项 B 和 C,从词汇语义相关性上确定答案\n为 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…ound the world every year. With speakers—also from various parts of the globe —  ____  , for everyone to see. TED conferences invite speakers to 68 . The different speakers a…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "give presentation"
+        },
+        {
+          "key": "B",
+          "text": "new innovation"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】首先确定备选语段的结构:语段 A 是一带有 how 的不定式短语;语段 B 是一个完整的句\n子;语段 C 是一动宾结构。其次,分析语篇中题句的结构。本题句已经给出的是介词短语,在句中作\n状语,显然缺少的是句子的主要部分,即主谓宾,所以,只有 B 项符合题句的结构要求,故B项是答\n案。题句的意思是:“各类演说家们来自全球不同地区,所有的演讲都上传到网络,人人都可以看到。”",
+      "score": 1
+    },
+    {
+      "id": "e2017-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p8",
+      "seq": 68,
+      "stem": "（第 68 空）…rts of the globe — 67 , for everyone to see. TED conferences invite speakers to  ____  . The different speakers are usually experts in their field and talk about new ideas an…",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "give presentation"
+        },
+        {
+          "key": "B",
+          "text": "new innovation"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题是这部分最简单的。题句 TED conferences invite speakers to “TED 邀请演讲\n者…”,空白前面是不定式符号 to,要求接动词短语,三个选项中,只有 C 项符合要求,故是正确答案。\nA 项是不定式短语;B 项是句子结构,都无法填入本题。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p8",
+      "seq": 69,
+      "stem": "（第 69 空）…environmentalism, for example, and on international development, aid work, and  ____  . While the talks cover a wide variety of topics, all speakers have a strict time limit…",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "give presentation"
+        },
+        {
+          "key": "B",
+          "text": "new innovation"
+        },
+        {
+          "key": "C",
+          "text": "uploaded"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】题句 There are many talks on environmentalism, for example, and on international development, aid work, and _______中,空白前面是并列连词 and,说明要填入的是并列结构中的一个成分。观察已\n经给出的并列成分 on environmentalism, … and on international development, aid work 得知,是名词短语\n并列。根据并列结构必须平行对称的原则,可以判断,要填入的也应该是一个名词短语或起名词作用\n的其他形式,这样一来就排除了 B 项(因为是句子)和 C 项(因为是动宾结构)。A 项是一带疑问副\n词 how 的不定式,不定式在结构上可以起名词的作用,在句中作主语、宾语等,所以填入此空白与前\n面的名词短语并列,作介词 on 的宾语,是符合语法规则的。故选项 A 是本题答案。\n【参考译文】\nTED 是一系列的专题演讲,每年在世界各地不同城市举行。各类演说家们来自全球不同地区,所\n有的演讲都上传到网络,人人都可以看到。\nTED 邀请演讲人对各种话题发表演说,演讲人通常是所在领域的专家,他们谈论新思想和对其工\n作非常重要的新发展。演讲人常常尽人皆知,诸如微软的巨人比尔盖茨,举世闻名的黑猩猩研究专家\n简.古道尔等都作过演说。有很多涉及环境、国际发展,援助工作等等,还有如何采用各种创新成果帮\n助穷人等。虽然演讲涵盖各种话题,但所有演讲人都必须严格遵守时间限制,每个演讲必须限定在 18\n分钟之内完成。\nText Three\n本文讨论使用科技产品对孩子思维产生的影响,如玩电子游戏导致注意力分散和记忆力下降,限\n制想象力的发挥,对阅读和深入思考不利等等。\n17",
+      "score": 1
+    },
+    {
+      "id": "e2017-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p9",
+      "seq": 70,
+      "stem": "（第 70 空）10 A. good at  ____  information B. 71 their brains work C. 72 their imagination The time spent with technol…",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "to use"
+        },
+        {
+          "key": "B",
+          "text": "finding"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】同前面讲过的作题思路一样,还是先看备选项的词性:A 项 to use 是不定式;B 项 finding\n是动词-ing 形式;C 项 the way 是名词。再看本语段的结构:good at_______ information,仅看空白后\n面的名词 information,选 A(to use information)或选 B(finding information)似乎都可以,选 C 是不\n通的。可是如果看空白前面,我们就会立刻把答案锁定为 B 项了,因为 good at 是一固定用法,要求后\n接动词的-ing 形式:good at doing sth.。这样一来,答案就只能是B项 finding 了。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p9",
+      "seq": 71,
+      "stem": "（第 71 空）10 A. good at 70 information B.  ____  their brains work C. 72 their imagination The time spent with technology doesn’t just g…",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "to use"
+        },
+        {
+          "key": "B",
+          "text": "finding"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析题句的结构可知,空白后面是一个完整的句子,若填入 A 项 to use 或 B 项 finding 都\n是不通的,只能选 C 项 the way。在此,the way 是名词,后接的从句是用来修饰 the way 的,相当于 the\nway in which their brains work,in which 常常省略。the way +从句,表示方式。又如:I like the way she\nsmiles.“我喜欢她笑的样子”本语段意为:“他们的大脑是如何工作的(或工作方式)”。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p9",
+      "seq": 72,
+      "stem": "（第 72 空）10 A. good at 70 information B. 71 their brains work C.  ____  their imagination The time spent with technology doesn’t just give kids new ways of doi…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "to use"
+        },
+        {
+          "key": "B",
+          "text": "finding"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题就更简单了。从结构上看,空白后面是名词短语_______ their imagination,C 项 the way\n明显是无法填入的;A 项 to use 和 B 项 finding 都可以接名词作宾语,但从意思上看,to use imagination“运\n用想象力”更合适,而 finding imagination 逻辑上不通。故 A 项是本题的答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…ent with technology doesn’t just give kids new ways of doing things, it changes  ____  . For example, an article says that while video games may condition the brain to pay at…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "to use"
+        },
+        {
+          "key": "B",
+          "text": "finding"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】与前两篇短文相比,本篇短文考查的第二步语篇完形要简单些,因为三个备选项的结构\n完全不同,故它们所能担任的句法功能也不尽相同,所以它们之间基本没有什么干扰作用,很容易选\n择。A 项 good at finding information 是一形容词短语;B 项 the way their brains work 是一有从句修饰的\n名词短语;C 项 to use their imagination 是不定式短语。确定了备选项的结构之后再看题句空白缺少什\n么成分。本题句空白前面的…it changes 是主语和谓语,缺的是宾语,正好 B 项 the way…名词作宾语,\n后面的 their brains work 是修饰 the way 的从句。而 A、C 两项是不能作 changes 的宾语的。由此确认 B\n项是本题的答案。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…on and decreased memory. Children who always use search engines may become very  ____  — but not very good at remembering it. In addition, the article said, children who use…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "to use"
+        },
+        {
+          "key": "B",
+          "text": "finding"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】本题句 Children who always use search engines may become very ______的语法结构是:\nChildren 是主语,who always use search engines 是定语从句修饰 children,谓语是 may become,very\n______作 become 的表语,要求填入的内容是表语的一部分。此题一眼看上去就能搞定答案,因为空白\n前面是副词 very,无论从语感上 very good at…,还是从语法规则上,副词修饰形容词,A 项都是确切\n无疑的唯一正确选项。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2017-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…le said, children who use too much technology may not have enough opportunities  ____  or to read and think deeply about the material. Paper Two(试卷二) (50minutes)",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "to use"
+        },
+        {
+          "key": "B",
+          "text": "finding"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】余下的最后一个选项 C 是否应该是本题的答案,只要看一下题句空白是否需要填入不定\n式短语即可。阅读题句 In addition, the article said, children who use too much technology may not have\nenough opportunities or to read and think deeply about the material,从结构上分析,先看空白前面,\nenough 经常接不定式:enough time to do the job,而且 opportunities 习惯上也接不定式作定语:\nopportunities to go abroad;再看空白后面,并列连词 or 连接的成分要求结构上形式是一致的,即空白\n必须填入一不定式短语,才能与句中的 to read and think 平行对称,所以根据并列成分在形式上要一致\n的语法规则,选 C 项填入句中是合适的。",
+      "score": 1
+    },
+    {
+      "id": "e2017-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nWhen it comes to personal finance, we all are looking for ways to save more money. Our household\nbudgets are filled with both big and small expenses that we imagine can be cut out to save us loads of cash or, at the very least, spent better elsewhere. One of the things you have surely considered is using public\ntransportation rather than your own vehicle. It would be easy to assume that public transportation is cheaper, because bus fare is far less expensive than gas, but those are not the only costs to consider. Take a step back to\nyour high school economics class and try to remember the lesson about opportunity costs. These, as you might\nrecall if you were awake for that class, are the things you give up when you choose one option over other\noptions. Although they are not measured in dollars and cents, they still have to be considered whenever you\nmake a financial decision.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "【参考译文】\n提到个人理财,我们都在想方设法来节省更多的钱。我们的家庭预算包括大大小小的开支,我们\n想象着可以削减这些开支来节省一大笔钱,或者至少是更好地花在别的地方。你肯定考虑过其中一项,\n就是乘坐公共交通出行,而不是开自己的车。人们很轻易会认为公共交通更便宜,因为公交车票钱比\n汽油便宜多了,但是那些并不是唯一需要考虑的费用。退回到中学的经济学课上,并试着回忆一下关\n\n18\n于机会成本的那一课。如果你当时在课堂上是清醒的话,就能回想起来,这些都是你在诸多选项中做\n出一个选择时所放弃的东西。虽然这些不是用美元和美分来衡量的,却是你每次做出财务决策时不得\n不考虑的事情。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2017-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a composition in no less than 150 words on the topic: What makes happy couples\nhappy?You should write according to the hints given below. Write your composition on the Answer Sheet. Happy couples know what is essential to maintain a happy relationship. For instance, daily habits are\nextremely helpful in making their relationship work.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "The past few decades has witnessed rapid economic and social development in China. This has generated\nimpacts on modern families, especially on relationships between couples. Various problems have arisen due to\ncomplicated reasons, which has in turn lead to unhappy marriage. It is this issue that has aroused much\nconcern in the society. The following factors, to my best knowledge, may help make couples happy. To begin with, they can find\nsome common interests, which may enable these couples to spend more time together. Listening to music, taking physical exercises or travelling, for instance, would strengthen a couple’s relationship. Moreover, couples are advised to develop common daily habits, which is especially helpful for the happiness of a\nrelationship. If they stick to different habits, there can be some conflicts that might damage the marriage. Furthermore, when couples meet with problems in a relationship, they need to talk and try to solve problems\npeacefully instead of quarrelling or even fighting. From what has been discussed above, we may safely conclude that a variety of factors contribute to a\nhappy relationship. Couples are supposed to communicate with each other well to make their relationship\nhappy. With this, harmonious family and harmonious society will no longer be a dream.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+[
+ {
+  "id": "TC-B01",
+  "fn": "nextStudyDay0400",
+  "input": {
+   "now": "2026-10-24T03:59:00"
+  },
+  "expected": {
+   "nextStudyDay0400": "2026-10-24T04:00"
+  }
+ },
+ {
+  "id": "TC-B02",
+  "fn": "nextStudyDay0400",
+  "input": {
+   "now": "2026-10-24T04:00:00"
+  },
+  "expected": {
+   "nextStudyDay0400": "2026-10-25T04:00"
+  }
+ },
+ {
+  "id": "TC-B03",
+  "fn": "insertRetry",
+  "input": {
+   "queue": [
+    "C",
+    "D",
+    "E"
+   ],
+   "pos": 0,
+   "k": 3,
+   "id": "B"
+  },
+  "expected": {
+   "queue": [
+    "C",
+    "D",
+    "E",
+    "B"
+   ]
+  }
+ },
+ {
+  "id": "TC-B04",
+  "fn": "insertRetry",
+  "input": {
+   "queue": [],
+   "pos": 0,
+   "k": 3,
+   "id": "B"
+  },
+  "expected": {
+   "queue": [
+    "B"
+   ]
+  }
+ },
+ {
+  "id": "TC-B05",
+  "fn": "insertRetry",
+  "input": {
+   "queue": [
+    "C",
+    "D"
+   ],
+   "pos": 0,
+   "k": 3,
+   "id": "B",
+   "retryCountBefore": 4,
+   "maxRetry": 5
+  },
+  "expected": {
+   "queue": [
+    "C",
+    "D"
+   ],
+   "requeued": false,
+   "retryCountAfter": 5,
+   "dueAt": "nextStudyDay0400",
+   "unstable": true
+  }
+ },
+ {
+  "id": "TC-B06",
+  "fn": "refillQueue",
+  "input": {
+   "queue": [
+    "X",
+    "Y"
+   ],
+   "buffer": 3,
+   "dueReviews": [
+    {
+     "id": "R1",
+     "dueAt": 1000
+    },
+    {
+     "id": "R2",
+     "dueAt": 500
+    }
+   ],
+   "newWords": [
+    "N1"
+   ]
+  },
+  "expected": {
+   "queue": [
+    "X",
+    "Y",
+    "R2"
+   ]
+  }
+ }
+]

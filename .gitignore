@@ -1,0 +1,50 @@
+# 依赖与构建产物
+node_modules
+dist
+dist-ssr
+coverage
+*.local
+
+# 编辑器 / 系统
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+Thumbs.db
+
+# 日志
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# PWA 插件生成的中间产物
+dev-dist
+
+# Electron 桌面版
+dist-desktop
+dist-electron
+release
+build/icon.ico
+
+# WorkBuddy 项目数据（含记忆/skills/个人配置，禁止提交到远程）
+.workbuddy/
+
+# 环境变量 / 密钥
+.env
+.env.*
+
+# Capacitor iOS 构建产物（Pods 由 CI 重新安装，不提交）
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+*.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+
+# 本地配置 / 备份（含敏感凭据，禁止提交）
+*.local.json
+*.bak
+
+# 原始语料 / 开发期数据（非构建所需，体积大，勿提交到仓库）
+# 若需版本化请用 Git LFS 单独管理
+data-raw/

@@ -1,0 +1,2345 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2019 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2019-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Many people have looked to the stars and wondered what it would be like to take a trip into outer space. Ever since the space program began, traveling beyond Earth has been a privilege for a select few, namely, astronauts. The rest of us have had to imagine what it would be like, but that may soon change. Those who favor expanding space exploration feel that it is time to go beyond the government-funded\nNational Aeronautics and Space Administration(NASA) program and to create opportunities for individuals\nand businesses to explore outer space. Imagine privately financed research outposts in space, missions to Mars, and mining operations on the Moon. The space frontier could indeed be the next gold rush!\nImagine what it would be like to travel in space. Those who have been lucky enough to visit space have\nall called it an amazing experience. The view of Earth and the stars must be spectacular, and the experience of\nliving in\"zero gravity \"would be fascinating. The first American woman to visit space, Sally Ride, said that it\nwas the greatest fun of her life. Imagine the thrill of booking a flight for a weekend stay (or longer )at a space\nhotel. It turns out that a space hotel would be much easier to design and build than the International Space\nStation; early estimates of the cost to build the hotels indicate that they would be less expensive if the orbiting\nhotels were built to accommodate large numbers of space travelers. The space hotel and the other projects businesses might think up would allow people to see what is\nhappening in space with their own eyes. That may lead to more support of NASA and its space research and\ngreater appreciation of the funding that the space program now receives. Those who oppose expanding space exploration argue that the costs are overwhelming and unrealistic. They point to the billions of dollars that would have to be raised through consumers or corporate sponsorship. In addition, civilian space travel is potentially dangerous, and there are many unknown risks Involved. Who would determine the safety of commercial orbiting vehicles, and how would they be insured?Issues\nlike this require time for discussion among groups from many different businesses. Companies that specialize\nin manufacturing, travel, marketing, insurance, law and finance would all have to be involved. Others believe there are simply too many unanswered questions to put civilians in space any time\nsoon.There are also those who question investing in space exploration when there are widespread problems\nlike poverty and disease that need to be addressed on Earth. For these people, commercial space travel will\nremain science fiction, at least for many years to come."
+    },
+    {
+      "id": "e2019-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "As 170 people sat down to dinner, I breathed a sigh of relief: The conference was going well. Running it\nwas part of my job as a university program manager, working on a project to boost biotech collaborations\nbetween academia and industry. When I started in the role a few years earlier, I thought that maybe, after years\nof career exploration, I had finally found the right job for me. But at the conference, I found myself wondering\nwhether that was really what I wanted from my career. I'm a scientist, not an event planner--but I had been too\nbusy organizing the conference to appreciate the research being discussed. Was it time for yet another change?\nI started off as a lab scientist, but then discovered that the highly focused nature of lab work wasn't for\nme. My next job was at a pharmaceutical company -conducting literature searches. I enjoyed the work, which\nallowed me to stay close to research and interact with a variety of people. But I was only offered a short-term\ncontract, so after a year I had to move on. I then became a scientific journal editor, I loved the breadth of\nscience that I was exposed to, but the job required a lengthy commute. So, I made another dramatic change\nand moved back to the ivory tower for my current job. It had become a pattern: I spent a few years in each role only to find that it wasn't quite the right fit. I also\nrealized that maybe I was searching for something that didn’t exist. I began to think about creative ways to add the scientific stimulation I sought to my work life. With my\nprevious knowledge and my experience as an editor, I realized I had the skill set to do that through freelance\nscience writing, such as news articles for journals and blogs. With my former colleagues positive responses, I finally decided I could do my university job on a less\nthan full-time schedule. Fortunately my manager agreed. For the last year, I have been a university program manager/freelance writer, and I've never been happier. Weaving the two roles together has been a bit tricky at times. But I finally feel I have a career that is tailored\nto my needs. I’ve realized that a career doesn’t need to be off the shelf. Jobs can be mixed and matched to get\nto one that fits."
+    },
+    {
+      "id": "e2019-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Senator Kamala Harris was half right when she said in her speech launching her 2020 presidential\ncampaign, when she said we need to address climate change based on “science fact, not science fiction. \" The\ntruth is, we need both. Science fiction has an important role to play in rescuing the future from the huge\nchallenges were facing---and the responses to Harnis' statement illustrate this perfectly. When Harris statement about climate change went out on social media, a number of people pointed out\nthe truth: Science fiction has been helping us to prepare for a world of potential climate disasters for years. But an equal number of loud voices disagreed with Harris warnings about climate change, because in our\npost-truth era, the scientific consensus about what humans are doing to our planet is still somehow a matter of\nopinion. And that's why science fiction is more important than Harris gives it credit for. No amount of scientific\nevidence will convince deniers--or the vast number of people who merely live in a state of denial. We live in a\npost truth era in which facts and fiction are blurring into an indistinguishable mess and power belongs to\nwhoever can tell the best story, true or not. What matters is just how something makes us feel--which is why\nwe need better stories, that, in the words of author Neil Gaiman, \" lie in order to tell the truth.\" Stories about climate change might be fiction, but they can help to sway peoples hearts and minds in a\ndifferent way than a recitation of the undeniable facts. Science fiction creators have been looking for ways to\nrestore people's faith in the future. Authors such as Alexandra Rowland have started a conversation about\ncreating a new type of stories called \"Hope punk\" that show people reasons to believe we really can do the\nhard work of fixing our problems. Some other authors are creating a new genre called \"Solar punk\" that aims\nto tell stories about using technological and scientific innovation to help the environment. When the truth becomes near-impossible to distinguish through the fog of disinformation and alternative\nfacts, \"people tend to feel powerless to change the world. Activist L A. Kauffman says people need to be\nreminded that they \"have more collective power than they realize, \"Adds Kauffman, \"There are truths we can\nget to through the imagination that are hard to get to through purely factual accounts.”"
+    },
+    {
+      "id": "e2019-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "You've probably heard a lot more about\"e-Sports\"lately. Major television networks are broadcasting\ncompetitions, and even more mainstream media coverage is planned for the near future. What are e-Sports and\nwhy are they so popular?\nLoosely defined, e-Sports are video game competitions. These can be anything from a local tournament\n(锦标赛)in a video game store to those staged in 25, 000-seat arenas, watched live by millions of people\naround the world. In practical terms, “e-Sports\"refers to the competitions engineered by global organizations\nthat culminate in big-money championship tournaments---dollar figures that can exceed $1, 000,000 for\nwinners. The second question--\"why are they getting so popular?\"---is more nuanced. The biggest reason is that\nfans of games enjoy watching them played at the highest level. It's fun seeing the top players in the world do\nwhat they do best. There are plenty of other reasons the e-Sports community is growing. All of the\ncontroversies, drama, and compelling individuals from the mainstream sports world exist in e-Sports as well. Top players move from team to team like free agents, retire and return to competition unexpectedly, and\nexperience unlikely come-from-behind victories and crushing defeats. New challengers consistently emerge\non the scene, ready to take down championship teams and generate compelling rivalries. The parallels with\ntraditional sports and e-Sports are more numerous than many realize. Perhaps the biggest difference between traditional sports and e-Sports is the viewers. Unlike\nmainstream athletic competitions, consumers of e-Sports are overwhelmingly young and male. For example, over 70 percent of League of Legends viewers are males, and the vast majority of them are under 26. This\nmeans a couple of things, both of them appealing to advertisers looking to reach this young and profitable\nmarket--the audience will grow as more youngsters are introduced, and as they get older, their purchasing\npower Increases."
+    },
+    {
+      "id": "e2019-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "blog and comments are followed by questions or unfinished statements, each with four suggested\nanswers A, B, C and D. Choose the best answer and mark your answer on the Answer Sheet. If you try to contact Indy Cube (a provider of workspaces) after 5 pm, you receive an automatic message\nthat would make a good demonstration for the fast-growing four-day week movement. \"Well get back to you\npretty quickly during working hours, \"it says. \"If you're messaging us outside of these, we're probably busy\nwith other things, like horse-riding, dancing, or good sleep.” The firm is one of a growing number of employers giving their workers an extra day off for the same pay\nas a five-day week. There is emerging evidence that it can boost productivity for bosses and happiness for\nworkers. And it is not just small businesses that might be spotting a chance to save a little money by turning the\nlights off one day a week. One of the biggest organizations to make the switch is Perpetual Guardian, whose\nshift has generated huge global interest, with 400 organizations from around the world asking it for advice. This week we have had people contact us from Japan, Canada, the UK, France, Switzerland, \"said its\nfounder Andrew Barnes. The day off that each worker takes varies, depending on the team’s needs at the time, but there has been a change in culture with\"less time surfing on social media and fewer unnecessary\nmeetings.,”said Barnes. However, Kate Cooper, policy director at the Institute of Leadership and Management argues the reasons\nbehind increases in productivity are not yet clear. Cooper said that\"the Hawthorne effect\"may be in play, that\nis, people change their behaviour simply because they feel they are being observed--in this case they feel that\nby being granted a four-day week they believe their bosses are interested in their work.\"How sustainable is\nthat?\"Cooper doubts\nComment 1\nI don’t exactly disagree with a 4-day week so long as I still have the option to work 5 days and get more\nmoney for it. Comment 2\nMiddle class conception of work-life balance. It's an interesting idea, but so much needs to happen in the\nUK before this becomes an option for the majority. Comment 3\nTrue for all these reasons. And I feel there is actually a greater reason: the environment. We need to start\n8\nproducing less stuff in order to reduce the stress on our planet. Comment 4\nI thought this was supposed to be here 20 years ago with the advances in technology. Comment 5\n3 days off a week? Preparing for 7 days off a week."
+    },
+    {
+      "id": "e2019-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "your computer’s hard drive. It 46 computing over a network, where a program or application may run\non many connected computers at the same time. For some, cloud computing is a metaphor (隐喻 )for the Internet. It 47 uses connected hardware\nmachines called servers. Individual users can use the server’s processing power to run an application, store\ndata, or 48 any other computing task. For businesses, cloud computing is an ideal way to reduce 49 .For example, companies may buy\nservices in the cloud. That is to say, instead of 50 applications on every single computer in the company, cloud computing would allow workers to log into a Web-based service(a cloud) which hosts all the 51\nindividual users would need for their job. While cloud computing could change the entire computer industry, there are still some 52 about the\nsecurity of the data stored on the remote machines. It is true that it promises to save a lot of work. However, this technology 53 a fundamental question. Is it safe to store one's data on someone else's computer?\nThe cloud service provide needs to establish relevant policies that describe 54 the data of each cloud user\nwill be accessed and used. Cloud service users should also be able to encrypt(加密) 55 that is processed or\nstored within the cloud to prevent unauthorized access."
+    },
+    {
+      "id": "e2019-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. optimal\nB. beverages\nC. coupled\nD. perceptions\nPhrases:\nA.information on consumer 56 and understanding\nB. 57 with a unique nutrient package\nC.plant-based juices and other 58\nD. important to support 59 growth\n\nIn July 2018, the debate over how to define milk in the future was brought to the forefront when the FDA\nbegan examining_ 60 of plant-based foods and beverages. With the exception of certain soy beverages, 61 are not appropriate to replace milk as a main beverage choice, particularly for young children. Drinks\nmade from almonds or other nuts, oats or coconuts often contain little to no protein and lack other key\nnutrients 62 .Dairy milk has the most balanced distribution of energy from carbohydrates, protein and fat, 63 that can be difficult to replace in healthy dietary patterns"
+    },
+    {
+      "id": "e2019-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. tips\nB. suggested\nC. recover\nPhrases:\nA. 64 they could\nB. 65 the balance back to “yes” C. help people 66 from depression and stress disorder\n\nFor decades, scientists have debated whether the birth of new cells was possible in an area of the brain\nthat is responsible for learning, memory and mood regulation. A growing body of research 67 , but then\na Nature paper last year raised doubts. Now, a new study 68 If the memory center of the human brain can\ngrow new cells, it might 69 and offer new insights into memory and learning. If not, well then, it's just one\nother way people are different from rats and birds."
+    },
+    {
+      "id": "e2019-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "Phrases:\n\n10\nA. petition B. started C require\nA launched an online 70\nB. 71 female workers to wear high heels\nC. 72 a movement to end the requirement\nWomen across Japan are fed up with having to wear high-heeled shoes to work. One woman is so fed up\nthat she 73 for female employees to wear the shoes. The movement has the #KuToo#. This is a\ncombination of the Japanese words \"kutsu\" (which means shoe) and \"kutsuu\" (which is the Japanese word for\npain). The movement was started by Japanese actress Yumi Ishikawa. She tweeted about her belief that\nemployers in Japan should not 74 .Ms Ishikawa also 75 . It asks Japan's Ministry of Health, Labor\nand Welfare to forbid employers from requiring women to wear certain types of shoes.\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2019-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Girl:  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "You’ve been saying that forever!"
+        },
+        {
+          "key": "B",
+          "text": "There must be ten here."
+        },
+        {
+          "key": "C",
+          "text": "Let’s read this book."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】通读对话,是女儿让爸爸给她读书的内容。根据空格前所述,爸爸说要先读完报纸,可\n知小女孩一定会抱怨父亲的行为,因此选 A,你总是这样说。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Girl: That’s boring.  ____  It's about a bear and a cat that become friends. And these books too. Dad: Whoa, I thought you said one book. 3",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "You’ve been saying that forever!"
+        },
+        {
+          "key": "B",
+          "text": "There must be ten here."
+        },
+        {
+          "key": "C",
+          "text": "Let’s read this book."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】爸爸又提出建议说一起读报纸的商业部分,女儿拒绝了说觉得很无聊。而空格后,小女\n孩描述了一本书的内容。所以前面应该填的是我们一起来读一本书吧,因此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Girl: That’s boring. 2 It's about a bear and a cat that become friends. And these books too. Dad: Whoa, I thought you said one book.  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "You’ve been saying that forever!"
+        },
+        {
+          "key": "B",
+          "text": "There must be ten here."
+        },
+        {
+          "key": "C",
+          "text": "Let’s read this book."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前,父亲说我以为你说的是一本书,后面应该是一个转折,因此选 B,这儿肯\n定有 10 本书了。\n【参考译文】\n女孩:爸爸,你能读书给我听吗?\n爸爸:恩,让我先读完这份报纸。\n女孩:你永远都这样说!\n爸爸:好吧,那我们一起来读这份报纸上的商业新闻,怎么样?\n女孩:这个好无聊,我们来读这本书吧,讲的是一只小熊和一只小猫儿成为了好朋友。还有这些\n书呀。\n爸爸:我以为你说的是一本书。这得有 10 本书了吧。\n女孩:格林老师说了,你每天晚上都要给我读书,报纸不算数。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2019-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Juliane: Hi, Jenny.  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "Got any plans after the class?"
+        },
+        {
+          "key": "B",
+          "text": "That sounds like a good idea."
+        },
+        {
+          "key": "C",
+          "text": "They are due today."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】先看三个选项,A 是下课后有什么计划?B 听起来是个好主意 C 他们今天要到期了。第\n四题是朱莉安娜的话,出现在句首,下文是珍妮的一个回答。说明第 4 题是问句。 因此选 A。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Jenny: Sure, I need to return some books.  ____  Besides, I can also read some magazines and the",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Got any plans after the class?"
+        },
+        {
+          "key": "B",
+          "text": "That sounds like a good idea."
+        },
+        {
+          "key": "C",
+          "text": "They are due today."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此空为珍妮说的话,先说要还一些书,选项中跟书有关的是选项 C“它们今天到期”。因\n此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）newspapers there. Juliane: Fantastic! We can go swimming in the gym after that. Jenny:  ____  We can chill out a little in such a hot summer.",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "Got any plans after the class?"
+        },
+        {
+          "key": "B",
+          "text": "That sounds like a good idea."
+        },
+        {
+          "key": "C",
+          "text": "They are due today."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】看前文,朱莉安娜提议说之后去游泳。所以第六题是珍妮的一个答复。因此选 A“听起来\n是个好主意”。\n【参考译文】\n朱利安娜:珍妮,下课之后有什么计划吗?\n珍妮:没有,你呢?\n朱利安娜:我有一篇课程论文要写。所以我打算去图书馆找一些书,在图书馆学习。你要一起去\n吗?\n珍妮:可以,刚好我要还书。这些书今天就要到期了。而且我还能在那儿读一些杂志和报纸。\n朱利安娜:太棒啦!结束之后我们还可以去体育馆游泳。\n珍妮:听起来不错。在这样炎热的夏天,我们可以放松一下。\n2\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2019-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Karen: Yes. I hope so. I would like to register for Comp Lit 287. Stuart: I'm sorry.  ____  And also, students are supposed to register through the touch-tone registration",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "You're a Comp Lit major?"
+        },
+        {
+          "key": "B",
+          "text": "What is your name?"
+        },
+        {
+          "key": "C",
+          "text": "but the system won't let me."
+        },
+        {
+          "key": "D",
+          "text": "But that class is already full."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】本题是学生和学校管理员的对话,一问一答的模式,先看选项,再通读一边文章,基本\n能确定 9、10 题的选项。看第 7 题前面,凯伦说想要注册一门课,管理员说抱歉,接下来是阐述原因,\n后面才会说 and also(并且)。所以从 C、D 选项中选择。C 意思为系统不允许我,很明显这句话应该\n是凯伦说的,因为管理员的工作就是操作系统。因此选 D。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）system. Karen: I know that. I already tried to register by phone,  ____ ",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "You're a Comp Lit major?"
+        },
+        {
+          "key": "B",
+          "text": "What is your name?"
+        },
+        {
+          "key": "C",
+          "text": "but the system won't let me."
+        },
+        {
+          "key": "D",
+          "text": "But that class is already full."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】结合第七题的排除,并且下文斯图尔特说是因为已经满了,所以此题肯定不会选 D(但\n是教室已经满了),因此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）Stuart: That's because it's full. Karen: But I'm a new student here. I thought maybe there was some way I could get into the class. Stuart: Well, I could put you on a waiting list. But that doesn’t guarantee you will get into the class.  ____ ",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "You're a Comp Lit major?"
+        },
+        {
+          "key": "B",
+          "text": "What is your name?"
+        },
+        {
+          "key": "C",
+          "text": "but the system won't let me."
+        },
+        {
+          "key": "D",
+          "text": "But that class is already full."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格后的回答“我叫凯伦”,本题问的应是“名字叫什么”,结合选项,因此选 B。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）Karen: I'm a comparative literature major. Stuart: Wait a minute.  ____ ",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "You're a Comp Lit major?"
+        },
+        {
+          "key": "B",
+          "text": "What is your name?"
+        },
+        {
+          "key": "C",
+          "text": "but the system won't let me."
+        },
+        {
+          "key": "D",
+          "text": "But that class is already full."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格后是回答,所以第十题应该是一般疑问句,因此应该选择 A。\n【参考译文】\n斯图尔特:您好,有什么能帮您的吗?\n凯伦:恩,我希望如此。我想注册比较文学 287 这门课。\n斯图尔特:很抱歉,这门课已经满了。而且学生应该通过拨号注册系统选课。\n凯伦:我知道,我已经用手机试过了,但是系统无法使用。\n斯图尔特:那是因为这门课已经满了。\n凯伦:但是我是新生。我在想也许有其他方式能够让我参加这门课。\n斯图尔特:好吧,我可以把你放到候补名单中。但是也不保证你能选中这门课。你叫什么名字?\n凯伦:我叫凯伦。\n斯图尔特:好的,你是什么专业的?\n凯伦:我是比较文学专业。\n斯图尔特:等一下。你是比较文学专业的?\n凯伦:是的,科恩教授让我参加比较文学 287 这门课。\n斯图尔特:学校的电脑系统在比较文学 287 课程中,为比较文学专业的学生留了额外的位置。\n凯伦:尽管课程已经被选完了?\n斯图尔特:是的。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "The supply of silver in the mine had diminished, causing great concern among the people of the town.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "expired"
+        },
+        {
+          "key": "B",
+          "text": "erupted"
+        },
+        {
+          "key": "C",
+          "text": "declined"
+        },
+        {
+          "key": "D",
+          "text": "disappeared"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 diminished 减少;削弱。\nA. expired 过期,失效 B. erupted 爆发,长出\nC. declined 下降,衰退 D. disappeared 消失,失踪\n【译文】矿井里的银矿供应减少了,引起了镇上居民的极大担忧。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "A deficiency of soil nutrients can cause the crop to be of low quality.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "source"
+        },
+        {
+          "key": "B",
+          "text": "number"
+        },
+        {
+          "key": "C",
+          "text": "supply"
+        },
+        {
+          "key": "D",
+          "text": "lack"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 deficiency 缺陷,缺点。\nA.source 来源,水源 B. number 号码,数字\nC. supply 供给,补给 D. lack 缺乏,不足\n【译文】土壤养分的缺乏会导致农作物品质低下。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "He claimed that he had a wonderful job and was well paid, but his mother knew that he had made it all up.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "collected"
+        },
+        {
+          "key": "B",
+          "text": "corrected"
+        },
+        {
+          "key": "C",
+          "text": "invested"
+        },
+        {
+          "key": "D",
+          "text": "invented"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中短语 made up 构成,编造。\nA.collected 收集,收藏 B. corrected 纠正,改正\nC.invested 投资,投入 D. invented 发明,虚构\n3\n【译文】他说他有一份很好的工作,工资也很高,但是他妈妈知道这都是他编造的。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "Though many people witnessed the accident, they were not sure about the exact consequences.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "causes"
+        },
+        {
+          "key": "B",
+          "text": "results"
+        },
+        {
+          "key": "C",
+          "text": "processes"
+        },
+        {
+          "key": "D",
+          "text": "orders"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 consequences 后果,结果。\nA.causes 原因,理由 B. results 结果,后果\nC. processes 过程,进程 D. orders 顺序,命令\n【译文】虽然许多人目睹了这次事故,但他们不确定确切的结果。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "Supported by sufficient evidence, his argument seems to have a great deal of validity.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "utility"
+        },
+        {
+          "key": "B",
+          "text": "truth"
+        },
+        {
+          "key": "C",
+          "text": "value"
+        },
+        {
+          "key": "D",
+          "text": "challenge"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 validity 有效,正确。\nA.utility 实用,效用 B. truth 真理,事实\nB.value 价值,价格 D. challenge 挑战,困难\n【译文】有充分的证据支持,他的论点似乎很有说服力。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "The scene has shocked me because it is something alien to me.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "unfamiliar"
+        },
+        {
+          "key": "B",
+          "text": "unfair"
+        },
+        {
+          "key": "C",
+          "text": "uncomfortable"
+        },
+        {
+          "key": "D",
+          "text": "unnecessary"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 alien 外国的,相异的。\nA. unfamiliar 不熟悉的,不常见的 B. unfair不公平的,不公正的\nC. uncomfortable 不舒服的;不安的 D. unnecessary多余的,无用的\n【译文】这情景使我震惊,因为它对我来说是陌生的。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "The new situation in this area calls for a change in our financial policies.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "requires"
+        },
+        {
+          "key": "B",
+          "text": "suggests"
+        },
+        {
+          "key": "C",
+          "text": "identifies"
+        },
+        {
+          "key": "D",
+          "text": "demonstrates"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中短语 calls for 需要,提倡。\nA. requires 需要,要求 B. suggests 暗示,建议\nC. identifies 识别,认明 D.demonstrates 证明,展示\n【译文】这方面的新形势要求我们改变财政政策。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "Once a bed is completed in the factory, it undergoes a rigorous quality control process.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "complete"
+        },
+        {
+          "key": "B",
+          "text": "strict"
+        },
+        {
+          "key": "C",
+          "text": "complex"
+        },
+        {
+          "key": "D",
+          "text": "long"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 rigorous 严格的,严厉的。\nA. complete 完整的;完全的 B. strict 严格的,严厉的\nC. complex 复杂的,合成的 D.long 长的,长时间的\n【译文】工厂里的床一旦完工,就要经过严格的质量控制程序。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "It saved them an hour during a procedure that would normally take three hours.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "rarely"
+        },
+        {
+          "key": "B",
+          "text": "usually"
+        },
+        {
+          "key": "C",
+          "text": "possibly"
+        },
+        {
+          "key": "D",
+          "text": "merely"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 normally 通常地,一般地。\nA.rarely 很少地,难得 B. usually通常,经常\nC.possibly 可能地, 也许 D. merely 仅仅,只不过\n【译文】这个过程他们通常要花三个小时,这为他们节省了一个小时。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "The universe is presumed to contain many other planets with some form of life.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "intended"
+        },
+        {
+          "key": "B",
+          "text": "destined"
+        },
+        {
+          "key": "C",
+          "text": "supposed"
+        },
+        {
+          "key": "D",
+          "text": "expected 3"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 presumed 假定的;推测的。\nA. intended 故意的,有意的 B. destined 注定的;命定的\nC. supposed 假定的,据说的 D. expected 预期的;预料的\n【译文】据推测,宇宙中还有许多其他存在生命形式的行星。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q21",
+      "sectionType": "reading",
+      "passageId": "e2019-p1",
+      "seq": 21,
+      "stem": "The expression\"the next gold rush\"(Para. 2 )probably means that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "space exploration could be the next investment hot spot"
+        },
+        {
+          "key": "B",
+          "text": "investors are enthusiastic about gold mining in space"
+        },
+        {
+          "key": "C",
+          "text": "private businesses are more interested in space travel"
+        },
+        {
+          "key": "D",
+          "text": "gold might be discovered on remote planets"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】词义辨析题\n【解析】“下一个淘金热”指的是什么?\n4\n回到第二段,结尾出现“下一个淘金热”的关键词。看前句...and to create opportunities for individuals\nand businesses to explore outer space.Imagine privately financed research outposts in space, missions to Mars, and mining operations on the Moon. “该为个人和企业探索外太空创造机会了。想象一下私人资助的太空\n研究前哨、火星任务和月球采矿作业”,表明太空中有很多可以进行投资的机会,所以说这个“淘金热” 就是在太空中投资,故 A 选项为正确答案。\n【误项排除】B 项“投资者热衷于在太空中开采黄金”,C 项“私营企业对太空旅行更感兴趣”,D 项\n“在遥远的行星上可能发现黄金”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q22",
+      "sectionType": "reading",
+      "passageId": "e2019-p1",
+      "seq": 22,
+      "stem": "It can be learned from Paragraph 3 that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "space hotels would be very uncomfortable"
+        },
+        {
+          "key": "B",
+          "text": "Sally Ride enjoyed her visit to outer space 4"
+        },
+        {
+          "key": "C",
+          "text": "the view of Earth and the stars is boring"
+        },
+        {
+          "key": "D",
+          "text": "space visitors regret what they have done"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】从第三段我们能知道?\n先去看选项,再读原文看跟哪个选项的意思更贴近。第三段原文“space hotel would be much easier to\ndesign and build”只提及 space hotel 很容易设计与建造,并没有提及入住的舒适程度,所以 A 项排除。\nC 选项意思与原文“The view of Earth and the stars must be spectacular”相反,D 选项原文没有提及。因此\n选 B 项“萨莉·莱德很喜欢她的外太空之旅”。\n【误项排除】A 项“太空旅馆会很不舒服”,C 项“地球和星星的景色很无聊”,D 项“太空游客后悔\n他们所做的一切”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q23",
+      "sectionType": "reading",
+      "passageId": "e2019-p1",
+      "seq": 23,
+      "stem": "All of the following are objections to commercial space travel EXCEPT .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "potential dangers"
+        },
+        {
+          "key": "B",
+          "text": "overwhelming costs"
+        },
+        {
+          "key": "C",
+          "text": "government opposition"
+        },
+        {
+          "key": "D",
+          "text": "unknown risks"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】判断题\n【解析】商业太空旅行所提及的阻碍有哪些?\n根据题干,可以在第五段找到答案,可以在原文中找到 A、B、D 三个选项的内容,而第五段并没\n有提及政府反对相关内容。因此选 C 项“政府反对”。\n【误项排除】A 项“潜在危险”,B 项“巨大的花销”,D 项“未知的危险”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q24",
+      "sectionType": "reading",
+      "passageId": "e2019-p1",
+      "seq": 24,
+      "stem": "The authors attitude toward commercial space travel is_______.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Indifferent"
+        },
+        {
+          "key": "B",
+          "text": "objective"
+        },
+        {
+          "key": "C",
+          "text": "supportive"
+        },
+        {
+          "key": "D",
+          "text": "opposing"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】态度题\n【解析】作者对商业太空旅行的态度是?\n作者的态度是根据文章的布局反映出来的,本文先阐述了对外太空的探索很热门,接下来从支持\n者和反对者两个角度进行描写。作者并没有提现个人态度的语句,从正反两方面写探索外太空的现实\n情况,非常客观的阐述事实。所以选 B 项“客观的”。\n【误项排除】A 项“漠不关心”,C 项“支持的”,D 项“反对”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q25",
+      "sectionType": "reading",
+      "passageId": "e2019-p1",
+      "seq": 25,
+      "stem": "Which of the following might be the best title of the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Exploration off Outer Space"
+        },
+        {
+          "key": "B",
+          "text": "Future of Private Space Businesses"
+        },
+        {
+          "key": "C",
+          "text": "Hotels in Space"
+        },
+        {
+          "key": "D",
+          "text": "Civilians in Space"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】标题题\n【解析】该篇文章的最佳标题是什么。\n文章主要讲述了个人商业机构探索太空、太空旅行以及太空旅馆建设的美好的理想和现实问题。\n因此,B 项“私人太空商业的未来”正确。\n【误项排除】A 项“外太空的探索”,C 选项“太空旅馆”,D 项“人类在太空”,这三项不符合题意。\n【参考译文】\n很多人看着天空中的星星,想象着如果能到外太空旅游会是什么光景。自从太空项目开始,去地\n球以外的地方旅游已经成为了精选出来的少数人的特权—宇航员。但是,其余的人只能去期待宇宙光\n景的形式可能要有所转变了。\n那些喜欢去太空旅行的人觉得这是时候去摆脱政府支持的 NASA 组织,让个人或者私人组织能够\n去探索外太空。想象一下私人资助的太空研究前哨站、火星任务和月球采矿作业。\n想象一下在太空旅行是什么样子。那些有幸访问过太空的人都称这是一次奇妙的经历。地球和星\n星的景色一定很壮观,生活在“零重力”下的体验一定很迷人。第一位访问太空的美国女性 Sally Ride 说,\n这是她一生中最大的乐趣。想象一下在太空旅馆预订周末(或更长时间)的航班是多么激动人心。事实证\n明,太空旅馆的设计和建造要比国际空间站容易得多;早期对建造这些旅馆的费用的估计表明,如果\n5\n建造轨道旅馆是为了容纳大量的太空旅行者,旅馆的费用就会降低。\n太空旅馆和其他企业可能想到的项目将允许人们亲眼看到太空中正在发生的事情。这可能会导致\n美国宇航局及其太空研究得到更多的支持,并使太空计划目前获得的资金得到更多的赞赏。\n那些反对扩大太空探索的人认为,太空探索的成本是巨大的,不切实际,他们指出,必须通过消\n费者或企业赞助筹集数十亿美元。此外,民用太空旅行有潜在的危险,其中涉及许多未知的风险。\n谁将决定商业轨道飞行器的安全性,以及如何为它们投保?像这样的问题需要时间在来自不同行业\n的小组之间进行讨论。专攻制造、旅游、营销、保险、法律和金融的公司都必须参与其中。\n另一些人则认为,有太多悬而未决的问题,短期内无法将平民送入太空。还有一些人对在太空探\n索上投资提出质疑,因为在地球上存在着贫困和疾病等需要解决的普遍问题。至少在未来的许多年,\n对这些人来说,商业太空旅行将仍然是科幻小说。\nPassage Two\n【文章介绍】本文主要以第一人称描述了自己的职场经历,经过不断地根据自己的兴趣调整工作,\n最后得出结论:“工作可以混合和匹配,以得到一个适合的。”由此找到了,最适合自己的工作。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q26",
+      "sectionType": "reading",
+      "passageId": "e2019-p2",
+      "seq": 26,
+      "stem": "What did the author think of his conference organizing job in Paragraph 1?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It proved that he was making progress in his career"
+        },
+        {
+          "key": "B",
+          "text": "It was not as meaningful as scientific research"
+        },
+        {
+          "key": "C",
+          "text": "It was too challenging for him"
+        },
+        {
+          "key": "D",
+          "text": "It gave him a sense of achievement"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】作者认为第一段中他的会议组织工作怎么样?\n文章第一段,作者说自己很疑惑这份工作是不是他想要的,他作为一个科学家,并不是一个活动\n策划者,但是却无暇顾及会议上的内容,一直忙于策划的工作。A、C、D 三个选项在文中并没有提及。\n所以 B 项“它不如科学研究有意义”正确。\n【误项排除】A 项“这证明他的事业正在取得进步”,C 项“这对他来说太有挑战性了”,D 项“这给\n了他一种成就感”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q27",
+      "sectionType": "reading",
+      "passageId": "e2019-p2",
+      "seq": 27,
+      "stem": "The author left the job as a scientific journal editor because .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "he was not satisfied with the pay"
+        },
+        {
+          "key": "B",
+          "text": "it demanded high work intensity"
+        },
+        {
+          "key": "C",
+          "text": "it was too far from home 5"
+        },
+        {
+          "key": "D",
+          "text": "he was offered only a short contract"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】作者辞去科学期刊编辑的工作是因为?\n第二段提到作者换的三份工作 lab scientist,conducting literature searches,scientific journal editor,\n找到题目中的 scientific journal editor,去文中定位“the job required a lengthy commute”翻译为这项工作需\n要很长的通勤时间。所以 C 项“离家太远了”正确。\n【误项排除】A 项“他对工资不满意”,B 项“它要求高强度的工作”,D 项“他只得到一份短期合同”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q28",
+      "sectionType": "reading",
+      "passageId": "e2019-p2",
+      "seq": 28,
+      "stem": "What does\"something\"(Para. 3)possibly mean?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "An ideal job"
+        },
+        {
+          "key": "B",
+          "text": "A balanced life"
+        },
+        {
+          "key": "C",
+          "text": "A fixed pattern"
+        },
+        {
+          "key": "D",
+          "text": "A suitable role"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】第三段的“something”可能意味着什么?\n文章第三段描述作者尝试不同的 role,去弄清楚哪一个角色适合,哪一个不适合。因此此题选 D 项\n“合适的身份”。\n【误项排除】A 项“理想的工作”,B 项“平衡的生活”,C 项“稳定的模式”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q29",
+      "sectionType": "reading",
+      "passageId": "e2019-p2",
+      "seq": 29,
+      "stem": "What is the author's present job?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "He is an event planner and also a program manager."
+        },
+        {
+          "key": "B",
+          "text": "He teaches in a university and also writes books."
+        },
+        {
+          "key": "C",
+          "text": "He is a full-time manager and also a freelance writer."
+        },
+        {
+          "key": "D",
+          "text": "He works in a university and also writes on the side."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】作者目前的工作是什么?\n文章最后一段“For the last year, I have been a university program manager/freelance writer”。因此此题\n选 D 项“他在一所大学工作,也兼职写作。”。\n【误项排除】A 项“他既是活动策划人,也是项目经理。”,B 项“他在一所大学教书,也写书。”,\nC 项“他是一名全职经理,也是一名自由撰稿人。”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q30",
+      "sectionType": "reading",
+      "passageId": "e2019-p2",
+      "seq": 30,
+      "stem": "What is this passage mainly about?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The author's clear career plan."
+        },
+        {
+          "key": "B",
+          "text": "The author's changing perception of career."
+        },
+        {
+          "key": "C",
+          "text": "The author's persistence in the face of obstacles ."
+        },
+        {
+          "key": "D",
+          "text": "The author's failure in securing a work contract."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】主旨题\n6\n【解析】这篇文章主要讲的是什么?\n本文主要用第一人称描述了自己的职场经历,经过不断地根据自己的兴趣调整工作,最后得出结\n论:“工作可以混合和匹配,以得到一个适合的。”由此找到了,最适合自己的工作。因此此题选 B 项“作\n者改变了对职业的看法”。\n【误项排除】A 项“作者清晰的职业规划。”,C 项“作者在困难面前坚持不懈,D 项“作者未能获得\n工作合同”,这三项不符合题意。\n【参考译文】\n当 170 人坐下来吃饭时,我松了一口气:会议进行得很顺利。作为一名大学项目经理,我的工作\n之一就是管理这个项目,致力于促进学术界和产业界之间的生物技术合作。当我几年前开始这个角色\n的时候,我想也许经过多年的职业探索,我终于找到了适合我的工作。但在会议上,我自己在想,这\n是不是我真正想从我的职业生涯中得到的。我是一名科学家,不是一名活动策划者——但我一直忙于\n组织会议,无暇欣赏正在讨论的研究。是时候做出另一个改变了吗?\n我一开始是一名实验室科学家,但后来发现,高度专注的实验室工作并不适合我。我的下一份工\n作是在一家制药公司做文献检索。我喜欢这份工作,这让我能够密切关注研究。但我只拿到了一份短\n期合同,所以一年后我不得不离开。后来我成为了一名科学期刊编辑,我热爱我接触到的广泛的科学,\n但这份工作需要很长的通勤时间。所以,我做了另一个重大的改变,得到了现在的工作。\n这已经成为一种模式:我在每个角色上花了几年时间,却发现它并不完全适合我。我也意识到,\n也许我在寻找一些不存在的东西。\n我开始思考一些创造性的方法,为我的工作生活增添我所寻求的科学刺激。凭借我之前的知识和\n编辑经验,我意识到我有能力通过自由科学写作来做到这一点,比如为杂志和博客撰写新闻文章。\n在我的前同事的积极回应下,我最终决定,我可以用少于全日制的时间来做我的大学工作。幸运\n的是,我的经理同意了。\n在过去的一年里,我一直是一名大学项目经理/自由撰稿人,我从未像现在这样快乐过。将这两个\n角色交织在一起有时有点棘手。但我终于觉得我有了一个适合我需要的职业。我已经意识到,职业并\n不一定是现成的。工作可以混合和匹配,以得到一个适合的。\nPassage Three\n【文章介绍】本文主要讲述科幻小说对于我们面对一些现实问题中的作用。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q31",
+      "sectionType": "reading",
+      "passageId": "e2019-p3",
+      "seq": 31,
+      "stem": "How does the author comment on Senator Harris statement about climate change?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Partially true"
+        },
+        {
+          "key": "B",
+          "text": "Quite convincing"
+        },
+        {
+          "key": "C",
+          "text": "Totally wrong"
+        },
+        {
+          "key": "D",
+          "text": "Really confusing"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】态度题\n【解析】作者如何评论参议员哈里斯关于气候变化的声明?\n文章第一段原文“Senator Kamala Harris was half right”参议院哈里斯说的只有一半是正确的。因此\n选 A 项“部分正确”。\n【误项排除】B 项“很有说服力”,C 项“完全错误”,D 项“非常困惑”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q32",
+      "sectionType": "reading",
+      "passageId": "e2019-p3",
+      "seq": 32,
+      "stem": "The deniers in Paragraph 3 refer to those who deny that . 6",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "we are in a post truth era"
+        },
+        {
+          "key": "B",
+          "text": "climate change is a serious issue"
+        },
+        {
+          "key": "C",
+          "text": "our opinions actually matter"
+        },
+        {
+          "key": "D",
+          "text": "science fiction is important"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】第 3 段中的否认者指那些否认\n根据第二段最后两句话句所述:“Science fiction has been helping us to prepare for a world of potential\nclimate disasters for years”多年来,科幻小说一直在帮助我们为一个充满潜在气候灾难的世界做准备。\n以及第三段第一句话,“这就是为什么科幻小说比哈里斯认为的更重要”,很多人不同意上述观点。因\n此选 D 项“科幻小说很重要”。\n【误项排除】A 项“我们正处在后真相时代”,B 项“气候变化是一个严重的问题”,C 项“我们的观\n点实际上很重要”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q33",
+      "sectionType": "reading",
+      "passageId": "e2019-p3",
+      "seq": 33,
+      "stem": "The author cites Neil Gaiman in order to emphasize that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "the power of fiction is overestimated"
+        },
+        {
+          "key": "B",
+          "text": "fiction makes us feel better about ourselves"
+        },
+        {
+          "key": "C",
+          "text": "it is difficult to tell fact from fiction"
+        },
+        {
+          "key": "D",
+          "text": "fiction may better convey the truth"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】推断题\n7\n【解析】作者引用尼尔·盖曼的话为了强调\n文章第三段“lie in order to tell the truth.”为尼尔·盖曼的原话“为了事实去说谎”,需要追溯到省略号\n前寻找答案—“重要的是一些事情给我们什么样的感觉”。因此选 B 项“小说让我们自我感觉更好”。\n【误项排除】A 项“小说的力量被高估了”,C 项“很难分清事实与虚构”,D 项“小说能更好地传达\n真相”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q34",
+      "sectionType": "reading",
+      "passageId": "e2019-p3",
+      "seq": 34,
+      "stem": "What do\"Hope punk\"and\"Solar punk\"have in common?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "An intention to broaden our horizons"
+        },
+        {
+          "key": "B",
+          "text": "A focus on technological innovation"
+        },
+        {
+          "key": "C",
+          "text": "An optimistic outlook for the future"
+        },
+        {
+          "key": "D",
+          "text": "A vivid description of the harsh reality"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】“Hope punk”和“Solar punk”有什么共同点?\n第四段分别讲述了“Hope punk” show people reasons to believe we really can do the hard work of\nfixing our problems 和“Solar punk”using technological and scientific innovation to help the environment 的释\n义。两个名词的含义都是告诉我们经过努力可以改变我们的现状。因此选 C 项“对未来持乐观展望”。\n【误项排除】A 项“拓宽我们视野的目的”,B 项“注重技术创新”,D 项“对严酷现实的生动描述”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q35",
+      "sectionType": "reading",
+      "passageId": "e2019-p3",
+      "seq": 35,
+      "stem": "What might be Kauffmans attitude toward science fiction?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Concerned"
+        },
+        {
+          "key": "B",
+          "text": "Negative."
+        },
+        {
+          "key": "C",
+          "text": "Unclear"
+        },
+        {
+          "key": "D",
+          "text": "Appreciative"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】态度题\n【解析】考夫曼对科幻小说的态度如何?\n最后一段原文“There are truths we can get to through the imagination that are hard to get to through\npurely factual accounts.”释义为“我们可以通过想象得到一些事实,而这些事实是很难通过纯粹的事实描\n述得到的。”由此此题选 D 项“欣赏的”。\n【误项排除】A 项“担心的”,B 项“消极的”,C 项“不清楚的”,这三项不符合题意。\n【参考译文】\n参议员卡玛拉·哈里斯(Kamala Harris)说的有一半是对的,她说我们需要基于“科学事实,而不是科\n幻小说”来解决气候变化问题。事实上,我们两者都需要。科幻小说在把未来从我们面临的巨大挑战中\n拯救出来方面扮演着重要的角色,而对哈里斯声明的回应完美地说明了这一点。\n当哈里斯在社交媒体上发表关于气候变化的声明时,许多人指出了真相:多年来,科幻小说一直\n在帮助我们为一个充满潜在气候灾难的世界做准备。但是同样多的人不同意哈里斯关于气候变化的警\n告。\n这就是为什么科幻小说比哈里斯认为的更重要。任何科学证据都无法说服否认者,也无法说服大\n量生活在否认状态中的人。我们生活在一个后真相时代,在这个时代,事实和虚构正在模糊成难以分\n辨的混乱,权力属于任何能讲出最好故事的人,不管真实与否。重要的是一些事情让我们产生什么样\n的感觉——这就是为什么我们需要更好的故事,用作家尼尔·盖曼(Neil Gaiman)的话来说,就是“为了讲\n真话而撒谎”。\n关于气候变化的故事可能是虚构的,但它们能以一种不同于背诵不可否认的事实的方式,影响人\n们的心灵和思想。科幻小说的作者一直在寻找恢复人们对未来信心的方法。亚历山德拉•罗兰(Alexandra\nRowland)等作家已经开始讨论创造一种名为“Hope punk”的新型故事,让人们有理由相信,我们真的可\n以通过努力解决问题。其他一些作家正在创作一种名为“太阳朋克”的新体裁,旨在讲述利用科技和科\n学创新来保护环境的故事。\n当真相在虚假信息和另类事实的迷雾中变得几乎无法分辨时,“人们往往感到无力改变世界。考夫\n曼说,人们需要被提醒,他们“拥有比他们意识到的更多的集体力量,”考夫曼补充说,“我们可以通过\n想象得到一些事实,而这些事实是很难通过纯粹的事实描述得到的。” Passage four\n【文章介绍】\n本文主要解释说明最近盛行的“电子竞技”。阐述了其定义,受欢迎的原因以及和传统体育竞技相\n比的异同点。\n8",
+      "score": 1
+    },
+    {
+      "id": "e2019-q36",
+      "sectionType": "reading",
+      "passageId": "e2019-p4",
+      "seq": 36,
+      "stem": "It is stated in Paragraph I that e Sports have .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "caused competition among media"
+        },
+        {
+          "key": "B",
+          "text": "drawn an increasing number of youths"
+        },
+        {
+          "key": "C",
+          "text": "created many broadcasting companies"
+        },
+        {
+          "key": "D",
+          "text": "attracted major television networks"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】根据第一段内容,“电子竞技”已经如何。\n在文章第一段第二句我们可以找到答案:主要的电视网络都正在转播电子竞技比赛,而且在不久\n的将来,将有更多主流媒体会对此进行报道。因此,此题选 D 项“吸引了主流电视网络”。\n【误项排除】A 项“引起媒体之间的竞争”,B 项“吸引了越来越多的年轻人”,C 项“创造了许多广\n播公司”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q37",
+      "sectionType": "reading",
+      "passageId": "e2019-p4",
+      "seq": 37,
+      "stem": "According to Paragraph 2, e-Sports .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "can be staged only in local stadiums 7"
+        },
+        {
+          "key": "B",
+          "text": "can lead to a huge sum of award"
+        },
+        {
+          "key": "C",
+          "text": "may be hard to define precisely"
+        },
+        {
+          "key": "D",
+          "text": "may be loosely linked to video games"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】根据第二段的内容,“电子竞技”如何。\n在文章第二段最后一句我们可以找到答案:实际上,“电子竞技”指的是由国际组织发起的奖金丰\n厚的世锦赛—赢家能在这些比赛中获取超过 100 万美元的奖金。因此,此题选 B 项“会带来巨额奖金”。\n【误项排除】A 项“只能在地方体育馆举行”,C 项“很难给出精确的定义”,D 项“和电子游戏联系\n不密切”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q38",
+      "sectionType": "reading",
+      "passageId": "e2019-p4",
+      "seq": 38,
+      "stem": "The word\"nuanced\"(Para. 3)most probably means .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "strange"
+        },
+        {
+          "key": "B",
+          "text": "outstanding"
+        },
+        {
+          "key": "C",
+          "text": "specific"
+        },
+        {
+          "key": "D",
+          "text": "complicated"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】词义理解\n【解析】第三段中的 nuanced 最可能的意思是什么。\n通过后面的语境来推测该词词义。后面文章介绍了“电子竞技”盛行的主要原因是什么,紧接着还\n说,除此之外,还有很多别的原因。由此我们可以看出造成其流行的因素很多,这个问题比较复杂。\n因此,此题选 D 项“复杂的”。\n【误项排除】A 项“奇怪的”,B 项“出色的”,C 项“ 明确的,具体的”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q39",
+      "sectionType": "reading",
+      "passageId": "e2019-p4",
+      "seq": 39,
+      "stem": "Which of the following is NOT a reason for the growth of the e-Sports community?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The stories about the top players"
+        },
+        {
+          "key": "B",
+          "text": "The fun of watching top-level performance"
+        },
+        {
+          "key": "C",
+          "text": "The investment from governments"
+        },
+        {
+          "key": "D",
+          "text": "The parallels with the mainstream sports"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】以下哪一项不是“电子竞技”群体人数增长的原因。\n文章第三段第二、三句谈及到“电子竞技”受欢迎的最大原因是因为粉丝们喜欢观看顶级选手较量,\n他们觉得这非常有趣。所以排除 B 项;第三段最后四句谈到了世界顶级选手成功抑或是失败的故事和\n“电子竞技”同传统体育比赛的相同点,所以排除 AD 二项。因此,此题选 C 项“来自政府的投资”。\n【误项排除】A 项“顶级选手们的故事”,B 项“观看高水平比赛的乐趣”,D 项“和主流体育比赛的\n相似之处”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q40",
+      "sectionType": "reading",
+      "passageId": "e2019-p4",
+      "seq": 40,
+      "stem": "Traditional sports and e-Sports are different mainly in .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "their rules"
+        },
+        {
+          "key": "B",
+          "text": "their importance"
+        },
+        {
+          "key": "C",
+          "text": "their profits"
+        },
+        {
+          "key": "D",
+          "text": "their audiences"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】“电子竞技”和传统体育比赛主要的不同点在于什么。\n在文章第四段第一句我们可以找到答案:也许传统体育和“电子竞技”之间最大的区别是观众。因\n此,此题选 D 项“它们的观众”。\n【误项排除】A 项“它们的规则”,B 项“它们的重要性”,C 项“它们的获利”,这三项不符合题意。\n【参考译文】\n关于“电子竞技”, 你最近可能听闻很多。主要的电视网络都正在转播电子竞技比赛,而且在不久\n的将来,将有更多主流媒体会对此进行报道。那么什么是“电子竞技”?为什么它这么受欢迎?\n宽泛的讲,电子竞技指的是电子游戏比赛。它可以是在电子游戏商店内举行的地方性锦标赛,也\n可以是在拥有 25000 个坐席的竞技场举行的大型直播赛事,由全世界数百万人观看。实际上,“电子竞\n技”指的是由国际组织发起的奖金丰厚的世锦赛--赢家能在这些比赛中获取超过 100 万美元的奖金。\n第二个问题--“为什么它们这么受欢迎?”----更复杂。最大的原因是,游戏的粉丝们喜欢观看高级\n别的赛事。观看世界顶级选手,竭尽全力,彼此较量,很有趣。电子竞技玩家人数增长还有很多其他\n原因。“电子竞技”界中也存在主流体育世界中存在的争议、戏剧性的事件以及引人注目的个人。顶级\n选手就像自由无约的职业队员一样从一个团队跳槽到另外一个团队,以大众意想不到的方式退赛或是\n9\n复出,经历看似不可能的逆风翻盘或是惨败。并且新的挑战者不断涌现,随时准备拿下冠军队伍,形\n成激烈的竞争。传统体育和“电子竞技”的相似之处比许多人认识到的要多很多。\n也许传统体育和“电子竞技”之间最大的区别是观众。与主流体育比赛不同的是,“电子竞技”的消费\n者绝大多数是年轻人和男性。例如,超过 70%的《英雄联盟》的观众是男性,其中绝大多数在 26 岁以\n下。这意味着有两件事,它们都吸引着希望进入这个年轻而有利可图的市场的广告商---一、随着越来\n越多的年轻人了解“电子竞技”,其观众会增长;二、随着年龄的增长,他们的购买力也会增加。\nSection B\n【文章介绍】\n本篇博文就有些公司采取一周工作四天的制度进行评述。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q41",
+      "sectionType": "reading",
+      "passageId": "e2019-p5",
+      "seq": 41,
+      "stem": "What can we learn about Indy Cube?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It is the first company to start the four-day week."
+        },
+        {
+          "key": "B",
+          "text": "Its boss should be happy with a higher productivity."
+        },
+        {
+          "key": "C",
+          "text": "Its employees are worried about their future income."
+        },
+        {
+          "key": "D",
+          "text": "It is one of the biggest providers of workspaces."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节推断\n【解析】关于 Indy Cube 这个公司,我们可以知道什么。\n文章第二段第二句:有新的证据表明,这种做法可以提升生产力和员工的幸福感。从这句我们推\n断如果一个公司生产力提升的话,其老板肯定是很开心的。因此,此题选 B 项“其老板对更高的生产率\n应该满意”。\n【误项排除】A 项“它是第一个采取每周四天工作制的公司”,C 项“它的雇员担心自己的未来收入”,\nD 项“它是最大的办公区提供商之一”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q42",
+      "sectionType": "reading",
+      "passageId": "e2019-p5",
+      "seq": 42,
+      "stem": "Barnes thinks the four-day week schedule .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "has made a positive impact on his companies culture"
+        },
+        {
+          "key": "B",
+          "text": "has greatly enhanced his workers' sense of wellbeing"
+        },
+        {
+          "key": "C",
+          "text": "will soon be adopted by other companies in the world"
+        },
+        {
+          "key": "D",
+          "text": "benefits big companies more than smaller ones"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】巴恩斯认为四天工作制如何。\n在文章第四段第二句后半句我们可以找到答案:“...但随着花费在社交媒体上的时间减少,不必要\n的会议减少,我们的企业文化已经发生了变化。”巴恩斯说。因此,此题选 A 项“对其公司的企业文化\n已经产生了积极的影响。” 【误项排除】B 项“极大的提升了其员工的幸福感”,C 项“将很快被世界上其他公司采用”,D 项“大\n公司要比小公司从中更受益”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q43",
+      "sectionType": "reading",
+      "passageId": "e2019-p5",
+      "seq": 43,
+      "stem": "By the Hawthorne effect\", Cooper suggests that the effect of a four-day week is .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "beneficial"
+        },
+        {
+          "key": "B",
+          "text": "obvious"
+        },
+        {
+          "key": "C",
+          "text": "uncertain"
+        },
+        {
+          "key": "D",
+          "text": "lasting"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】关于“霍桑效应”,库珀认为四天工作制的影响是怎样的。\n文章第五段说凯特·库珀认为生产率提高的原因尚不清楚,可能是“霍桑效应”在发挥作用。说明她\n对四天工作制能提高生产力的因果关联并不确定,因此,此题 C 选项“不确定的”。\n【误项排除】A 项“有益的”,B 项“明显的”,D 项“持久的”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q44",
+      "sectionType": "reading",
+      "passageId": "e2019-p5",
+      "seq": 44,
+      "stem": "Which of the following suggests that the four-day week is currently enjoyed by only a small part of the work force?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 5"
+        },
+        {
+          "key": "B",
+          "text": "Comment 3"
+        },
+        {
+          "key": "C",
+          "text": "Comment 2"
+        },
+        {
+          "key": "D",
+          "text": "Comment 1"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】以下哪一评论表明目前只有少数员工享有四天工作制。\n从第二个评论我们可以找到答案:这是中产阶级关于平衡工作生活的观念。这是一个有趣的想法,\n但在这成为英国大多数人的选择之前,还需要做很多工作。因此,此题选 C 项“评论 2”。\n【误项排除】A 项“评论 5”,B 项“评论 3”,D 项“评论 1”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q45",
+      "sectionType": "reading",
+      "passageId": "e2019-p5",
+      "seq": 45,
+      "stem": "Which of the following expresses the greatest concern about the four-day week?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 5"
+        },
+        {
+          "key": "B",
+          "text": "Comment 4"
+        },
+        {
+          "key": "C",
+          "text": "Comment 2"
+        },
+        {
+          "key": "D",
+          "text": "Comment 1"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】以下哪一个评论最担忧四天工作制。\n从第五个评论我们可以找到答案:一周休息三天?准备一周休息 7 天吧。表明他觉得这个制度不\n靠谱。因此,此题选 A 项“评论 5”。\n【误项排除】B 项“评论 4”,C 项“评论 2”,D 项“评论 1”,这三项不符合题意。\n【参考译文】\n10\n如果您在下午 5 点之后尝试联系 Indy Cube 公司(办公区提供商),则会收到一个自动消息,该消\n息将会很好的展示四天工作制增长趋势。 它回复说:“会在工作日尽快回复你”, “如果你在非工作日给\n我们发信息,我们可能会忙于别的事情,比如骑马、跳舞或者睡个好觉。” 这家公司是越来越多的雇主中的一员,他们给员工额外的一天假期,薪资却和一周工作五天的薪\n资相同。有新的证据表明,这种做法可以提升生产力和员工的幸福感。\n发现可以通过每周关一天灯来省钱这一机会的并不只是小企业。永久守护者是采取一周四天工作\n制的大公司之一,它对工作时间的调整引起了全球巨大兴趣,来自世界各地的 400 个企业向它征求意\n见。\n该公司的创始人安德鲁·巴恩斯说:“本周,有来自日本、加拿大、英国、法国和瑞士的人与我们联\n系”“每个员工的休息日不同,这取决于团队当时的需求,但随着花费在社交媒体上的时间减少,不必\n要的会议减少,我们的企业文化已经发生了变化。”巴恩斯说。\n然而,领导和管理学院的政策主任凯特·库珀认为提高生产率的原因尚不清楚。库珀说,可能是“霍\n桑效应”在发挥作用,也就是说,人们之所以改变了自己的行为,只是因为他们觉得自己正在受到关注。\n---在这种情况下,他们认为,老板让一周只工作四天,说明对自己的工作感兴趣。\n库珀质疑:“这种增长可持续吗”。\n评论 1\n只要我还能选择一周 5 天工作制,并由此获得更多的薪资,我不太反对一周 4 天工作制。\n评论 2\n这是中产阶级关于平衡工作生活的观念。这是一个有趣的想法,但在这成为英国大多数人的选择\n之前,还需要做很多工作。\n评论 3\n所有这些原因都是正确的。我觉得实际上有一个更大的原因:环境。我们需要开始生产更少的东\n西,以减少对地球环境造成的压力。\n评论 4\n我认为随着技术进步,20 年前就应该实现一周 4 天工作制。\n评论 5 一周休息三天?准备一周休息 7 天吧。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q46",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "involves"
+        },
+        {
+          "key": "B",
+          "text": "replaces"
+        },
+        {
+          "key": "C",
+          "text": "affects"
+        },
+        {
+          "key": "D",
+          "text": "predicts 9"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】这一句紧接着上一句进一步阐述云计算通过网络运行的本质。因此选 A 项 involves:牵\n涉;涉及。\n【误项排除】B 项 replaces:替代;C 项 affects:影响;D 项 predicts:预测,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q47",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "possibly"
+        },
+        {
+          "key": "B",
+          "text": "typically"
+        },
+        {
+          "key": "C",
+          "text": "really"
+        },
+        {
+          "key": "D",
+          "text": "necessarily"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查副词的辨析。\n【解析】这一句解释云计算通常是如何实现的:通常使用被称之为服务器的连接硬件机器。因此\n选 B 项 typically:通常。\n【误项排除】A 项 possibly:可能,大概;C 项 really:真正地;D 项 necessarily:必要地,该三\n项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q48",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "perform"
+        },
+        {
+          "key": "B",
+          "text": "get"
+        },
+        {
+          "key": "C",
+          "text": "assign"
+        },
+        {
+          "key": "D",
+          "text": "show"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】空格所在句子说单个用户可以使用服务器的处理能力来运行应用程序、存储数据或_____ 其他计算任务。根据语境选 A 项 perform“执行”合适。\n11\n【误项排除】B 项 get 获得;C 项 assign 分派;D 项 show 表明,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q49",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "income"
+        },
+        {
+          "key": "B",
+          "text": "profits"
+        },
+        {
+          "key": "C",
+          "text": "money"
+        },
+        {
+          "key": "D",
+          "text": "expenses"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词的辨析。\n【解析】空格后面说公司可以购买云服务,免去了花钱购买硬件设备或软件的必要。由此可见云\n化可以帮助企业降低开支,节省成本。因此选 D 项 expenses 开支。\n【误项排除】A 项 income 收入;B 项 profits 利益;C 项 money 金钱,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q50",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "developing"
+        },
+        {
+          "key": "B",
+          "text": "fitting"
+        },
+        {
+          "key": "C",
+          "text": "installing"
+        },
+        {
+          "key": "D",
+          "text": "writing"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词搭配使用。\n【解析】此处考查的是向电脑上安装应用如何表达,我们选 C 项 installing 安装。\n【误项排除】A 项 developing 发展;B 项 fitting 适合,符合;D 项 writing 写,该三项不符合原\n文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q51",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "programs"
+        },
+        {
+          "key": "B",
+          "text": "documents"
+        },
+        {
+          "key": "C",
+          "text": "schedules"
+        },
+        {
+          "key": "D",
+          "text": "projects"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词的辨析。\n【解析】我们知道云用户是通过购买云服务来“租用”应用的,云上有客户工作所需的所有程序。\n因此选 A 项 programs 程序。此词和上文中 application 应用一词形成语义上的重复。\n【误项排除】B 项 documents 文件;C 项 schedules 日程表;D 项 projects 项目,该三项不符合原\n文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q52",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "advantages"
+        },
+        {
+          "key": "B",
+          "text": "effects"
+        },
+        {
+          "key": "C",
+          "text": "cases"
+        },
+        {
+          "key": "D",
+          "text": "concerns"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词的辨析。\n【解析】解此题准确把握上下文逻辑关系很重要。此段上一段在谈云计算的优势,空格所在段第\n三句出现了逻辑转折词 however,说明这段和上一段语义相反,说明这一段作者会论述云计算的不足,\n人们对它的担忧。因此选 D 项 concerns 忧虑,担忧。\n【误项排除】A 项 advantages 优势;B 项 effects 影响;C 项 cases 事例,情况,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q53",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "collects"
+        },
+        {
+          "key": "B",
+          "text": "proposes"
+        },
+        {
+          "key": "C",
+          "text": "raises"
+        },
+        {
+          "key": "D",
+          "text": "manage"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】空格前面一句说云计算大大降低了人们的工作量。然后转折说但是它也给人们______ 一\n个问题。很显然我们这里根据语义,选 A 项 raises 提出,带来。\n【误项排除】A 项 collects 收集;D 项 manage 管理,不符合此处语义逻辑;B 项 proposes 提出;\n此词通常和想法,建议,解决方法搭配使用,后面不跟 question。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q54",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "why"
+        },
+        {
+          "key": "B",
+          "text": "what"
+        },
+        {
+          "key": "C",
+          "text": "how"
+        },
+        {
+          "key": "D",
+          "text": "whether"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查语法知识点。\n【解析】The cloud service provide needs to establish relevant policies that describe the data of each\ncloud user will be accessed and used. 这里 that 引导的是个定语从句,修辞先行词 policies,that 在从句中\n做主语,从句的谓语动词是 describe,那么后面是它的宾语成分,这里缺少个宾语从句的引导词,而四\n个选项都可以引导宾从,但它们的含义不一样,这里根据前后语义我们选 C 项 how:怎样,作者要表\n达的是规定存储在云上的私有数据的访问和使用方式。\n【误项排除】B 项 what 什么,表内容,此项可以首先排除,因为它通常在句中做主/宾语,而子从\n句主宾齐全;A 项 why 为什么,表原因,在句中做状语;D 项 whether 是否,这二项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q55",
+      "sectionType": "cloze",
+      "passageId": "e2019-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "data"
+        },
+        {
+          "key": "B",
+          "text": "knowledge"
+        },
+        {
+          "key": "C",
+          "text": "system"
+        },
+        {
+          "key": "D",
+          "text": "storage"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词的辨析。\n【解析】把握和主题相关原则,全文都在讲云计算是通过网络来储存,获取数据的。并且全文多\n次出现数据一词,因此选 A 项 data 数据。\n【误项排除】B 项 knowledge 知识;C 项 system 系统;D 项 storage 存储,该三项不符合原文。\n【参考译文】\n云计算是指通过互联网而不是计算机硬盘来存储和访问数据和程序。它在网络上进行运算,其中\n12\n程序或应用可以同时在许多连接的计算机上运行。\n对一些人来说,云计算是互联网的一种比喻说法。它通常使用被称为服务器的连接硬件机器。单\n个用户可以使用服务器的处理能力来运行应用程序、存储数据或执行其他计算任务。\n对于企业来说,云计算是减少开支的理想方法。例如,公司可以在云中购买服务。也就是说,云\n计算不是给公司每台电脑上安装上应用程序,而是允许员工登录一个基于网络的服务(云),该云上有个\n人用户工作所需的所有应用程序。\n虽然云计算可以改变整个计算机行业,但人们就存储在远程计算机上的数据的安全性,仍有些担\n忧。的确,它可以帮助我们省去大量的工作。然而,这个技术带来了一个根本性的问题:把自己的数\n据存储在别人的电脑上安全吗?为了规范云服务使用,我们需要制定相关的政策来规定每个云用户的\n数据被访问和使用的方式。云服务用户还应该能够对云中处理或存储的的数据进行加密,以防止未经\n授权的访问。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A.information on consumer  ____  and understanding",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】and 前后不管在语义还是结构上都是相似的,因此我们选一个名词并且和 understanding\n语义接近的一项,D 项 perceptions:认知,观念,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B.  ____  with a unique nutrient package",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】coupled with,固定搭配,表示“加上,与......相结合”,可知 C 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C.plant-based juices and other  ____ ",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前有连词 and,说明这个空是和 juice 并列,意思是“植物果汁和其他饮料”,可知 B\n项 beverages:饮料,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 59,
+      "stem": "（第 59 空）D. important to support  ____  growth",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】optimal 形容词,做定语,意为“最佳的”,通常放在名词前,optimal growth 表示最佳成\n长。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…e milk in the future was brought to the forefront when the FDA began examining_  ____  of plant-based foods and beverages. With the exception of certain soy beverages, 61 are…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】这里缺少宾语成分,通常名词或名词性词组可以担任宾语。符合这一条件的有 AC 二项,\n根据语义,可知 A 项正确,连在一起:消费者对植物食品和饮料的认知和理解信息。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…f plant-based foods and beverages. With the exception of certain soy beverages,  ____  are not appropriate to replace milk as a main beverage choice, particularly for young c…",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】很显然这里缺少主语,主语通常由名词、代词、动名词、不定式、主语从句或相当于名\n词的成分充当,选项中名词性短语只剩下 C 项:植物性果汁和其他饮料,因此正确。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 62,
+      "stem": "（第 62 空）…ats or coconuts often contain little to no protein and lack other key nutrients  ____  .Dairy milk has the most balanced distribution of energy from carbohydrates, protein an…",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】这句话主谓宾齐全,缺一些次要修辞成分,如定状补等。D 项是个形容词性短语,做后\n置定语,修辞 nutrients,意思是:缺乏维持最佳生长需要的其他重要营养物质。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p7",
+      "seq": 63,
+      "stem": "（第 63 空）…s the most balanced distribution of energy from carbohydrates, protein and fat,  ____  that can be difficult to replace in healthy dietary patterns",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】这句说牛奶营养均衡,含有成长需要的多种营养物质,可知 B 项:再加上其独特的营养\n组合,符合题意。\n【参考译文】\n2018 年 7 月,美国食品和药物管理局开始审查消费者对植物食品和饮料的感知和理解信息时,有\n关如何定义未来牛奶的辩论被提到了最重要的位置。除某些大豆饮料外,植物性果汁和其他植物性饮\n料不适合替代牛奶作为主要饮料选择,特别是对幼儿而言。由杏仁或其他坚果、燕麦或椰子制成的饮\n料通常含有少量或不含蛋白质,并且还缺乏维持最佳生长需要的其他重要营养物质。牛奶含有碳水化\n合物、蛋白质和脂肪最均衡的配比,再加上其独特的营养组合,在健康的饮食模式中很难替代。\n13\nText two\n【文章介绍】本文主要讲大脑负责学习、记忆和情绪管理的区域是否会诞生新的脑细胞。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p8",
+      "seq": 64,
+      "stem": "（第 64 空）A.  ____  they could",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "tips"
+        },
+        {
+          "key": "B",
+          "text": "suggested"
+        },
+        {
+          "key": "C",
+          "text": "recover"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处选 B 项 suggested, 表明它们(新的脑细胞)可以(产生),其余二项语义不符。如\n果选不出,可以先做后二题,先易后难,采取排除法。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p8",
+      "seq": 65,
+      "stem": "（第 65 空）B.  ____  the balance back to “yes” C. help people 66 from depression and stress disorder",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "tips"
+        },
+        {
+          "key": "B",
+          "text": "suggested"
+        },
+        {
+          "key": "C",
+          "text": "recover"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】tips 在这里是动词,含义是倾斜,翻倒,tips the balance 打破均衡,扭转局势。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p8",
+      "seq": 66,
+      "stem": "（第 66 空）B. 65 the balance back to “yes” C. help people  ____  from depression and stress disorder",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "tips"
+        },
+        {
+          "key": "B",
+          "text": "suggested"
+        },
+        {
+          "key": "C",
+          "text": "recover"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】help sb do sth,此处选动词原形,只有 C 项符合这一条件,并且 recover 可与介词 from 搭\n配使用,表示从中....恢复。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…esponsible for learning, memory and mood regulation. A growing body of research  ____  , but then a Nature paper last year raised doubts. Now, a new study 68 If the memory ce…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "tips"
+        },
+        {
+          "key": "B",
+          "text": "suggested"
+        },
+        {
+          "key": "C",
+          "text": "recover"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】观察三个备选项,都缺主语。需要注意三个谓语动词的形式,A 项是谓语动词的单三形\n式,B 项是-ed(过去式)形式,C 项是动词原形。从语法上来讲 67 题,AB 二个都可以选。但是在逗\n号后面我们看到了 then,那时,说明前面说的是过去的情况,因此排除 B 项 tips...,选 A 项 suggested....。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p8",
+      "seq": 68,
+      "stem": "（第 68 空）…research 67 , but then a Nature paper last year raised doubts. Now, a new study  ____  If the memory center of the human brain can grow new cells, it might 69 and offer new i…",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "tips"
+        },
+        {
+          "key": "B",
+          "text": "suggested"
+        },
+        {
+          "key": "C",
+          "text": "recover"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前的主语是 a new study 是单数,后面谓语动词需要和主语的数保持一致,用单三形\n式,只有 B 项 tips...可以入选。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p8",
+      "seq": 69,
+      "stem": "（第 69 空）…w study 68 If the memory center of the human brain can grow new cells, it might  ____  and offer new insights into memory and learning. If not, well then, it's just one other…",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "tips"
+        },
+        {
+          "key": "B",
+          "text": "suggested"
+        },
+        {
+          "key": "C",
+          "text": "recover"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题是三个题中最容易的一个,might 助动词后需用动词原形,可知 C 项 help....符合题意。\n【参考译文】\n几十年来,科学家们就大脑中负责学习、记忆和情绪调节的区域是否可能诞生新的细胞进行了辩\n论。越来越多的研究表明,可以产生新的脑细胞。但去年发表在自然杂志上的一篇论文却对此提出质\n疑。如今,有新的研究使天平倾向于肯定的答案。\n如果人类大脑的记忆中心能够生长出新的细胞,它可能会帮助人们从抑郁症和应激障碍中恢复过\n来,并为人们的记忆和学习提供新的见解。如果不是,那么,记忆功能只是人类与老鼠和鸟类不同的\n一种方式罢了。\nText three\n【文章介绍】本文主要讲述了日本女性雇员抗议穿高跟鞋上班。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p9",
+      "seq": 70,
+      "stem": "（第 70 空）10 A. petition B. started C require A launched an online  ____  B. 71 female workers to wear high heels C. 72 a movement to end the requirement Women a…",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】很显然空格处缺少个名词成分,an online petition 表示一封网络请愿书。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p9",
+      "seq": 71,
+      "stem": "（第 71 空）10 A. petition B. started C require A launched an online 70 B.  ____  female workers to wear high heels C. 72 a movement to end the requirement Women across…",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】考查固定搭配,require sb to do sth,含义是要求某人做某事,而 start 没有这一用法。因\n此 C 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…ed C require A launched an online 70 B. 71 female workers to wear high heels C.  ____  a movement to end the requirement Women across Japan are fed up with having to wear hig…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】started a movement,意思是发起一项运动。可知 B 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…with having to wear high-heeled shoes to work. One woman is so fed up that she  ____  for female employees to wear the shoes. The movement has the #KuToo#. This is a combina…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据语义关联原则,空格所在句子后一句,我们看到了 the movement,说明该词前文有\n出现,因此选 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…Yumi Ishikawa. She tweeted about her belief that employers in Japan should not  ____  .Ms Ishikawa also 75 . It asks Japan's Ministry of Health, Labor and Welfare to forbid…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据前后语境,这位演员在推特上发表自己的看法,她认为雇主不应该怎么样。和她理\n念一致的自然是 B 项:反对雇主要求女性穿高跟鞋上班。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2019-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…weeted about her belief that employers in Japan should not 74 .Ms Ishikawa also  ____  . It asks Japan's Ministry of Health, Labor and Welfare to forbid employers from requir…",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "optimal"
+        },
+        {
+          "key": "B",
+          "text": "beverages"
+        },
+        {
+          "key": "C",
+          "text": "coupled"
+        },
+        {
+          "key": "D",
+          "text": "perceptions"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】在发表完反对的言辞之后,该女士还采取了什么举措。根据前后文,可知 A 项,还发起\n了网上请愿书符合题意。\n14\n【参考译文】\n日本各地的妇女都厌倦了必须穿高跟鞋上班。一位女士对此已厌倦至极,她发起了一场运动,目\n的在于结束对女员工穿高跟鞋的要求。这个运动叫做#KuToo。这是个混合词,由“kutsu”(日文中意思\n是鞋)和“kutsuu”(日文中意思是痛苦)组成。\n该运动是由日本女演员 YumiIshikawa 开始的。她在 Twitter 上表达了她的信念,即日本的雇主不应\n该要求女性工作者穿高跟鞋上班。石川女士还发起了网上请愿书。它要求日本卫生、劳动和福利部门\n禁止雇主要求女性员工穿某些类型的鞋子。",
+      "score": 1
+    },
+    {
+      "id": "e2019-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nIn life, once on a path, we tend to follow it, for better or worse. What's sad is that even if it's the latter we\noften accept it anyway because we are so accustomed to the way things are that we don 't even recognize that\nthey could be different. Here are some techniques that could help broaden the way you think. First, look as if you've never\nseen.\"Beginner's mind\"allows you to remain open to new experiences despite any expertise you may have. Then, shift into positivity. Take a few moments to think about the things in your life that are going well. This\nwill brighten your mood and free your brain.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "人生中,一旦选择了一条路,无论好坏,我们往往会继续走下去。然而令人难过的是,即便这条路是不\n好的那条路,我们也经常会接受它,因为我们如此习惯于事物存在的方式,以至于我们甚至没有意识\n到可能有不同的路可以走。这里有一些技巧可以帮你拓展思路。首先,当作你从来没有遇到过这样的情\n况。尽管之前你可能有专业的知识,但“初学者思维”让你对于崭新经历保持开放的态度。然后,让自己\n变得积极。花点时间想想生活中进展顺利的事情。这会让你心情愉快,让你的大脑得到解放。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2019-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write an essay in no less than 150 words on the topic: Ways to Live a Simpler Life in a\nModern World. You could write according to the clues given below Write your essay on the Answer Sheet.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "Ways to live a simpler life in modern world\nThe past few decades has witnessed rapid economic and social development in China. Life pace is\nbecoming increasingly fast and when the moment we wake up every morning, we are taught to earn more\nmoney, to know more people, to do this and that. Sometimes we do forget how to relax ourselves and refresh\nour mind to live simpler and more comfortable. To my best knowledge, these factors may help make life simpler. On the one hand, there is no doubt that\nwe are live in a money-oriented society and almost everybody looks up towards benefits he or she can get. But\nthe money we earned usually spent in something we do not really need, like boy’s sport shoes or girl’s\nlipsticks. We bought many for vanity. It is time to learn how to cut those non-necessities off our life. On the\nother hand, compared with a variety of social activities, (to have a dinner or play video games together after\nwork, etc.) maybe we are supposed to look for something more worthy to treasure such as family, learning and\npersonal achievement. We could cook for parents, take children to the park, or leave some time for ourselves\nto learn something new or something we are interested in. These are efficient for us to clam down and ease the\npressure. From what has been discussed above, we may safely conclude that many factors contribute to a simple\nlife. As for individual, therefore, we could try best to live simpler and at the same time look forward to a\npleasing and harmonious society.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

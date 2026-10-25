@@ -1,0 +1,215 @@
+/**
+ * 设计令牌（ARCHITECTURE 7.3）
+ *
+ * 规则：组件里禁止硬编码色值 / 圆角 / 间距，一律用这里定义的 CSS 变量
+ * （Tailwind 已在 tailwind.config.ts 里把语义色映射到这些变量）。
+ * 深色模式只覆盖颜色类变量，布局、字号、间距保持不变。
+ */
+
+:root {
+  /* ---------- 背景与文字（浅色·冷灰蓝调） ---------- */
+  --c-bg: #f7f8fc; /* 页面底色 */
+  --c-surface: #ffffff; /* 卡片面 */
+  --c-surface-2: #f0f2f8; /* 次级面（分区底、禁用底） */
+  --c-border: #e4e7f0; /* 分隔线与描边 */
+  --c-text: #111827; /* 主文字 */
+  --c-text-2: #4b5563; /* 次要文字 */
+  --c-text-3: #9ca3af; /* 弱化文字（占位、说明） */
+
+  /* ---------- 主色（靛蓝系 + 渐变，单一主色） ---------- */
+  --c-primary: #4f46e5;
+  --c-primary-hover: #4338ca;
+  --c-primary-soft: #eef2ff; /* 选中态底色 */
+  --c-primary-fg: #ffffff; /* 主色上的文字 */
+  --grad-primary: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); /* 品牌渐变（按钮/图标/头图） */
+  --grad-primary-soft: linear-gradient(135deg, #eef2ff 0%, #f5f3ff 100%);
+
+  /* ---------- 语义色 ---------- */
+  --c-success: #10b981;
+  --c-warn: #f59e0b;
+  --c-danger: #f43f5e;
+  --c-danger-soft: #ffe4e9;
+  /* 危险色块上的文字色（架构 7.3 未定义，为避免组件里写死 #fff 而补充） */
+  --c-on-danger: #ffffff;
+
+  /* ---------- 四档评分（按钮与分布条共用） ---------- */
+  --c-rate-1: #f43f5e; /* 不认识 */
+  --c-rate-2: #f59e0b; /* 模糊 */
+  --c-rate-3: #3b82f6; /* 认识 */
+  --c-rate-4: #10b981; /* 熟识 */
+
+  /* ---------- 高亮底色（笔记与高亮批次，浅色下用柔和粉彩） ---------- */
+  --c-hl-1: #fde68a; /* 黄 */
+  --c-hl-2: #bbf7d0; /* 绿 */
+  --c-hl-3: #bfdbfe; /* 蓝 */
+  --c-hl-4: #fbcfe8; /* 粉 */
+
+  /* ---------- 七题型标识色 ---------- */
+  --c-sec-dialogue: #64748b;
+  --c-sec-vocabulary: #3b82f6;
+  --c-sec-reading: #06b6d4;
+  --c-sec-cloze: #8b5cf6;
+  --c-sec-short: #f97316;
+  --c-sec-translation: #10b981;
+  --c-sec-writing: #ec4899;
+
+  /* ---------- 真题域语义色（T13/T14/T15 答题卡 / 倒计时 / 暂停蒙层） ---------- */
+  --c-exam-unanswered: #eef2ff; /* 答题卡未答格底色 */
+  --c-exam-answered: #10b981; /* 答题卡已答格 */
+  --c-exam-flagged: #f59e0b; /* 已标记描边 */
+  --c-exam-on-state: #ffffff; /* 状态格上的文字 */
+  --c-exam-pause-overlay: rgba(15, 23, 42, 0.78); /* 暂停蒙层 */
+  --c-exam-target: #4338ca; /* 词汇题考点词（加粗+下划线），比主色深一档保证浅色底对比度 */
+
+  /* ---------- 圆角 ---------- */
+  --r-sm: 8px;
+  --r-md: 12px;
+  --r-lg: 16px;
+  --r-xl: 20px;
+  --r-full: 999px;
+
+  /* ---------- 间距（4 的倍数） ---------- */
+  --sp-1: 4px;
+  --sp-2: 8px;
+  --sp-3: 12px;
+  --sp-4: 16px;
+  --sp-5: 20px;
+  --sp-6: 24px;
+  --sp-7: 28px;
+  --sp-8: 32px;
+  --sp-10: 40px;
+  --sp-12: 48px;
+
+  /* ---------- 字号（rem，随 --fs-scale 缩放） ---------- */
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-lg: 1.125rem;
+  --fs-xl: 1.375rem;
+  --fs-2xl: 1.75rem;
+  --fs-3xl: 2.25rem;
+
+  /* ---------- 行高 ---------- */
+  --lh-tight: 1.25;
+  --lh-normal: 1.6;
+
+  /* ---------- 阴影（分层柔和，微带主色温度） ---------- */
+  --sh-1: 0 1px 2px rgba(17, 24, 39, 0.05), 0 1px 3px rgba(17, 24, 39, 0.04);
+  --sh-2: 0 4px 12px rgba(17, 24, 39, 0.07), 0 2px 4px rgba(17, 24, 39, 0.04);
+  --sh-3: 0 12px 32px rgba(79, 70, 229, 0.16), 0 4px 8px rgba(17, 24, 39, 0.05);
+
+  /* ---------- 遮罩（Dialog / Sheet 用） ---------- */
+  --c-overlay: rgba(0, 0, 0, 0.45);
+
+  /* ---------- 布局尺寸 ---------- */
+  --nav-h: 56px; /* 顶栏 / 底部标签栏高度 */
+  --sidebar-w: 220px; /* ≥1280px 侧边栏 */
+  --rail-w: 72px; /* 1024~1279px 图标导轨 */
+  --content-max: 1200px; /* 内容最大宽度 */
+  --card-min-h: 320px; /* 单词卡片最小高度 */
+
+  /* ---------- 安全区（iOS 必需，依赖 viewport-fit=cover） ---------- */
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+  --safe-left: env(safe-area-inset-left, 0px);
+  --safe-right: env(safe-area-inset-right, 0px);
+
+  /* ---------- 动效 ---------- */
+  --ease: cubic-bezier(0.2, 0.8, 0.2, 1);
+  --dur-fast: 120ms;
+  --dur-base: 200ms;
+
+  /* ---------- 字号缩放（设置页 fontScale 写这里） ---------- */
+  --fs-scale: 1;
+
+  /* ---------- 桌面玻璃层（Electron 亚克力透出，仅导航/顶栏使用） ---------- */
+  --c-glass: rgba(247, 248, 252, 0.62); /* 玻璃面：浅色下偏白半透明 */
+  --c-glass-border: rgba(255, 255, 255, 0.5);
+
+  /* ---------- 页内 sticky 定位基准（答题页顶栏等；桌面形态下叠加标题栏高度） ---------- */
+  --sticky-top: var(--nav-h);
+}
+
+/* ---------- 背景颜色主题（浅色态底色风格，设置页选择；深色态不受影响） ----------
+ * 注意：本区块必须位于 html.dark 之前——两选择器特异性相同，深色块后写者胜出。
+ */
+html[data-bg='green'] {
+  --c-bg: #e4f0e2; /* 护眼绿页面底色 */
+  --c-surface: #f2faf0;
+  --c-surface-2: #d9e9d8;
+  --c-border: #c9dcc9;
+  --c-glass: rgba(228, 240, 226, 0.62);
+}
+
+html[data-bg='paper'] {
+  --c-bg: #f4eede; /* 米黄纸页面底色 */
+  --c-surface: #faf6ea;
+  --c-surface-2: #ece4cf;
+  --c-border: #ddd3b8;
+  --c-glass: rgba(244, 238, 222, 0.62);
+}
+
+html[data-bg='gray'] {
+  --c-bg: #eff1f4; /* 中性浅灰页面底色 */
+  --c-surface: #ffffff;
+  --c-surface-2: #e6e9ee;
+  --c-border: #d8dce3;
+  --c-glass: rgba(239, 241, 244, 0.62);
+}
+
+/* 深色：只覆盖颜色变量，布局与字号不变 */
+html.dark {
+  --c-bg: #0b0f1a;
+  --c-surface: #141a2e;
+  --c-surface-2: #1d2440;
+  --c-border: #2a3354;
+  --c-text: #eef1f8;
+  --c-text-2: #a8b1c7;
+  --c-text-3: #6b7490;
+
+  --c-primary: #818cf8;
+  --c-primary-hover: #a5b4fc;
+  --c-primary-soft: #232757;
+  --c-primary-fg: #0b0f1a;
+  --grad-primary: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  --grad-primary-soft: linear-gradient(135deg, #1d2440 0%, #232757 100%);
+
+  --c-success: #34d399;
+  --c-warn: #fbbf24;
+  --c-danger: #fb7185;
+  --c-danger-soft: #3f1d2b;
+  /* 深色下危险色偏亮，文字改深色对比度更好 */
+  --c-on-danger: #2a0e14;
+
+  --c-rate-1: #fb7185;
+  --c-rate-2: #fbbf24;
+  --c-rate-3: #60a5fa;
+  --c-rate-4: #34d399;
+
+  /* 深色下高亮改为半透明感的深色块，保证正文对比度 */
+  --c-hl-1: #78350f;
+  --c-hl-2: #14532d;
+  --c-hl-3: #1e3a8a;
+  --c-hl-4: #831843;
+
+  --c-exam-unanswered: #232757;
+  --c-exam-answered: #34d399;
+  --c-exam-flagged: #fbbf24;
+  --c-exam-on-state: #0b0f1a;
+  --c-exam-pause-overlay: rgba(5, 8, 16, 0.85);
+  --c-exam-target: #a5b4fc;
+
+  --sh-1: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --sh-2: 0 4px 12px rgba(0, 0, 0, 0.5);
+  --sh-3: 0 12px 32px rgba(0, 0, 0, 0.55);
+
+  --c-overlay: rgba(5, 8, 16, 0.65);
+
+  --c-glass: rgba(11, 15, 26, 0.55);
+  --c-glass-border: rgba(255, 255, 255, 0.08);
+}
+
+/* 根字号 = 16px × 缩放系数；所有 rem 字号随之缩放（ARCHITECTURE 7.3） */
+html {
+  font-size: calc(16px * var(--fs-scale));
+}

@@ -1,0 +1,363 @@
+%% 同等学力英语备考 PWA · 核心类型关系图
+%% 从 docs/ARCHITECTURE.md 第 3 章抽取
+
+classDiagram
+    direction LR
+
+    class Syncable {
+        <<interface>>
+        +number updatedAt
+        +number deletedAt
+    }
+
+    class WordBook {
+        +string id
+        +string name
+        +string source
+        +number wordCount
+        +boolean enabled
+        +number priority
+        +number createdAt
+    }
+
+    class Word {
+        +string id
+        +string bookId
+        +string headword
+        +string norm
+        +string phoneticUS
+        +string phoneticUK
+        +string[] pos
+        +Sense[] meaning
+        +string meaningRaw
+        +Example[] examples
+        +string mnemonic
+        +WordRoot[] roots
+        +number frequencyRank
+        +number createdAt
+    }
+
+    class Sense {
+        +string pos
+        +string text
+    }
+
+    class WordState {
+        +string stateKey
+        +string wordId
+        +string bookId
+        +number level
+        +number dueAt
+        +number lastRating
+        +number lastReviewAt
+        +number firstLearnedAt
+        +number reviewCount
+        +number correctCount
+        +number wrongCount
+        +number lapseCount
+        +number retryCountToday
+        +string retryDay
+        +boolean unstable
+        +boolean isStarred
+        +number masteredAt
+    }
+
+    class CardItem {
+        +string key
+        +string wordId
+        +string stateKey
+        +string kind
+        +number round
+    }
+
+    class RetryPoolEntry {
+        +string stateKey
+        +string wordId
+        +number retryCount
+        +number nextAppearPos
+        +string kind
+    }
+
+    class QueueState {
+        +CardItem[] queue
+        +RetryPoolEntry[] retryPool
+        +number answeredCount
+        +number plannedTotal
+        +string status
+    }
+
+    class StudySession {
+        +string id
+        +string studyDay
+        +number startedAt
+        +number endedAt
+        +number newCount
+        +number reviewCount
+        +number answerCount
+        +number correctCount
+        +number durationSec
+        +string[] unstableWordIds
+        +string deviceId
+    }
+
+    class SessionSnapshot {
+        +string sessionId
+        +string studyDay
+        +number startedAt
+        +number updatedAt
+        +number answeredCount
+        +RetryPoolEntry[] retryPool
+        +string[] carryOverWordIds
+    }
+
+    class ReviewLog {
+        +string id
+        +string wordId
+        +string stateKey
+        +string sessionId
+        +number rating
+        +number prevLevel
+        +number newLevel
+        +number prevDueAt
+        +number newDueAt
+        +number answeredAt
+        +number durationMs
+        +boolean isRetry
+        +string deviceId
+    }
+
+    class NotebookEntry {
+        +string id
+        +string wordId
+        +string headword
+        +string source
+        +string sourceRef
+        +string note
+        +number createdAt
+    }
+
+    class StudyDay {
+        +string studyDay
+        +number newLearned
+        +number reviewed
+        +number answerCount
+        +number correctCount
+        +number durationSec
+        +number retryAnswers
+    }
+
+    class Exam {
+        +string id
+        +string title
+        +string source
+        +Section[] sections
+        +number totalQuestions
+        +number totalScore
+        +number timeLimitSec
+        +string parseStatus
+        +number createdAt
+    }
+
+    class Section {
+        +string type
+        +number order
+        +number score
+        +number questionCount
+        +string[] passageIds
+    }
+
+    class Passage {
+        +string id
+        +string paperId
+        +string sectionType
+        +number order
+        +string content
+        +string translation
+    }
+
+    class Question {
+        +string id
+        +string paperId
+        +string sectionType
+        +string passageId
+        +number seq
+        +string stem
+        +number blankIndex
+        +QuestionOption[] options
+        +string answerKey
+        +string referenceAnswer
+        +string explanation
+        +number score
+        +boolean isObjective
+    }
+
+    class Attempt {
+        +string id
+        +string paperId
+        +string mode
+        +string sectionType
+        +number startedAt
+        +number submittedAt
+        +number durationSec
+        +number objectiveScore
+        +number subjectiveScore
+        +number totalScore
+        +string deviceId
+    }
+
+    class AttemptAnswer {
+        +string id
+        +string attemptId
+        +string questionId
+        +string choice
+        +string text
+        +boolean isCorrect
+        +boolean flagged
+        +number selfScore
+        +number answeredAt
+    }
+
+    class WrongItem {
+        +string id
+        +string questionId
+        +string paperId
+        +string sectionType
+        +number wrongCount
+        +number lastWrongAt
+        +boolean resolved
+    }
+
+    class Settings {
+        +string id
+        +string examDate
+        +string[] activeBookIds
+        +string bookMode
+        +number newWordLimit
+        +string newWordLimitMode
+        +number retryGapMin
+        +number retryGapMax
+        +number maxRetry
+        +number dayStartHour
+        +number sessionBatchSize
+        +boolean ttsEnabled
+        +boolean ttsAutoPlay
+        +number ttsRate
+        +string ttsAccent
+        +string theme
+        +number fontScale
+        +boolean syncEnabled
+        +string webdavUrl
+        +string webdavUser
+        +boolean useProxy
+        +string proxyUrl
+        +string deviceId
+        +number lastSyncAt
+        +number lastExportAt
+        +number schemaVersion
+    }
+
+    class SecretRecord {
+        +string id
+        +string value
+        +number updatedAt
+    }
+
+    class SyncMeta {
+        +string entity
+        +number dirtyAt
+        +number lastPulledAt
+        +string lastEtag
+        +number pendingCount
+    }
+
+    class RemoteFileEntry {
+        +string name
+        +string etag
+        +string lastModified
+        +number contentLength
+        +boolean isDirectory
+    }
+
+    class SyncReport {
+        +number startedAt
+        +number finishedAt
+        +Map uploaded
+        +Map downloaded
+        +number conflicts
+        +object error
+    }
+
+    class PlanEstimate {
+        +number daysToExam
+        +number effectiveDays
+        +number remainingWords
+        +number autoNew
+        +number effectiveNew
+        +string estimatedFinishDate
+        +boolean willMissDeadline
+        +string reviewLoadWarning
+        +number manualOverride
+    }
+
+    class DailyStats {
+        +string studyDay
+        +number newLearnedToday
+        +number reviewedToday
+        +number dueReviewCount
+        +number masteredCount
+        +number totalLearnedCount
+        +number accuracyToday
+        +number streakDays
+        +number unstableCount
+        +number totalDurationSec
+    }
+
+    class SrsConfig {
+        +number maxLevel
+        +number masterLevel
+        +number[] intervalLadder
+        +number dayStartHour
+        +number maxRetry
+    }
+
+    Syncable <|-- WordBook
+    Syncable <|-- Word
+    Syncable <|-- WordState
+    Syncable <|-- StudySession
+    Syncable <|-- NotebookEntry
+    Syncable <|-- StudyDay
+    Syncable <|-- Exam
+    Syncable <|-- Passage
+    Syncable <|-- Question
+    Syncable <|-- Attempt
+    Syncable <|-- WrongItem
+    Syncable <|-- Settings
+
+    WordBook "1" --> "many" Word : 包含
+    Word "1" --> "many" Sense : meaning[]
+    Word "1" --> "1" WordState : stateKey 派生自 norm
+    WordState "1" --> "many" ReviewLog : 产生流水
+    StudySession "1" --> "many" ReviewLog : 归属
+    StudySession "1" --> "0..1" SessionSnapshot : 异常退出快照
+    SessionSnapshot "1" --> "many" RetryPoolEntry : 遗留重现池
+    QueueState "1" --> "many" CardItem : 队列
+    QueueState "1" --> "many" RetryPoolEntry : 重现池
+    CardItem --> Word : wordId 取内容
+    CardItem --> WordState : stateKey 取状态
+
+    Exam "1" --> "many" Section : 组成
+    Exam "1" --> "many" Passage : 含文章
+    Exam "1" --> "many" Question : 含题目
+    Section "1" --> "many" Passage : passageIds
+    Passage "1" --> "many" Question : passageId
+    Exam "1" --> "many" Attempt : 可多次作答
+    Attempt "1" --> "many" AttemptAnswer : 逐题明细
+    Question "1" --> "many" AttemptAnswer : 作答
+    Question "1" --> "0..1" WrongItem : 答错入库
+
+    Settings "1" --> "many" SecretRecord : 密码独立存放
+    Settings --> SrsConfig : 提供参数
+    WordState --> PlanEstimate : 参与推算
+    ReviewLog --> DailyStats : 参与统计
+    SyncMeta --> RemoteFileEntry : ETag 比对
+    SyncMeta --> SyncReport : 汇总结果

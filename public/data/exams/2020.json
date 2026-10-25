@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2020 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2020-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "It sounds like something straight out of a science fiction movie or a silly cartoon: a futuristic traveling\ntube that can quickly shoot people wherever they want to go, inside a tiny pod. But this may be just around the\ncorner for people looking for a faster, easier, and cheaper-than-ever way to travel. South African-American inventor and billionaire Elon Musk, who, in the past, has worked on both\nprivate space flight and electric cars, recently announced he has been working on the design of this traveling\ntube, which could forever change the way we travel the world. In an interview, Musk described the new tube as a fifth kind of transportation. \"We have planes, trains, automobiles, and boats,” he explained. \"What if there was a fifth mode? I have a name for it. It's called the\nHyperloop.\" “This system I have in mind... can never crash, is immune to weather, it goes three or four times faster\nthan the bullet train...it goes at an average speed of twice what an aircraft would do. You would go from\ndowntown L.A. to downtown San Francisco in under 30 minutes.” People using the Hyperloop would shoot around in pods, which are each just over six-and-a-half feet\nacross, and the pods would travel through tubes located either above ground or under water. The Hyperloop could even run 24/7,be cheap, and allow people to travel on their own schedule. People\ncould show up at the Hyperloop station whenever they want and be quickly sent on their way. Additionally Musk believes the Hyperloop could be completely powered by the sun-making it more\nenvironmentally friendly than cars, airplanes, or train systems. Someday it could possibly move people\nbetween the East and West Coasts of the United States in less than an hour. Eventually the Hyperloop would\nbe able to move people around the world. Musk not the first person outside of science fiction novelists to dream up vacuum tube technology for\nmoving people. The idea has been around for some time, and inventors in other countries, including China, are\nreportedly working on similar technology."
+    },
+    {
+      "id": "e2020-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "How are you feeling today? I've got a few aches and pains, but nothing serious. However, when things\nbecome more critical, 1 would normally book myself an appointment with my doctor-although by the time I\nget to see him, the problem will have probably gone away. That's because in the UK at least, we usually have\nto wait a few days before the doctor can fit us in. Luckily today, technology has come to our rescue. There are thousands of apps available on our\nsmartphones that can offer first aid advice and allow us to self-diagnose our sickness--ranging from a simple\ncold or flu to some exotic disease. And together with the internet, we have an ocean of medical information at\nour fingertips. But is too much knowledge a good thing? By reading up on an illness, we discover its side-effects and\nwhat could happen in a worst-case situation. More worrying is that we give ourselves the wrong diagnosis, and then worry ourselves sick that we're going to die. This health anxiety, fueled by the internet, is called\n\"cyberchondria\". It gives sufferers a deep fear of diseases and, according to experts, it's on the rise. Professor\nPeter Tyrer from Imperial College London said, \"We find that approximately four out of five of our patients\nwith health anxiety spend literally hours on the internet. One of the first things we do in treatment is to tell\nthem to stop browsing the internet.\" A study a few years ago also found many doctors felt intimidated by the increasing numbers of web-wise\npatients arriving in surgeries. One doctor admitted to not being very happy about patients using the internet, saying: \"They all seemed to come to me with things I'd never heard of and very often with things which seem\nrather bizarre or inappropriate.\" Of course there is no doubt, the world wide web has most of the information we need to diagnose our\nsymptoms, but Doctor Tyrer points out, \"it doesn't have any judgment associated with it.\" This is why having\na consultation with a doctor face-to-face still has its benefits. It would seem then that a virtual online doctor can prescribe a dose of useful advice, but technology\nhasn't replaced the human medical expert just yet."
+    },
+    {
+      "id": "e2020-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Many of the major supermarket chains have come under fire with accusations of various unethical acts\nover the past decade. They've wasted tons of food, they've underpaid their suppliers and they've contributed to\nexcessive plastic waste in their packaging, which has had its impact on our environment. But supermarkets and grocers are starting to sit up and take notice. In response to growing consumer\nresentment against the huge amounts of plastic waste generated by plastic packaging, some of the largest UK\nsupermarkets have signed up to a pact promising to transform packaging and cut plastic wastage. In a pledge\nto reuse, recycle or convert all plastic wastage by 2025, supermarkets are now beginning to take some\nresponsibility for the part they play in contributing to the damage to our environment, with one major\nsupermarket announcing their plan to eliminate all plastic packaging in their cwm-brand products by 2023. In response to criticisms over food waste, some supermarkets are donating some of their food surplus. However, charities estimate that they are only accessing two percent of supermarkets' total food surplus, so\nthis hardly seems to be solving the problem. Some say that supermarkets are simply not doing enough. Most supermarkets operate under a veil of\nsecrecy when asked for exact figures of food wastage, and without more transparency it is hard to come up\nwith a systematic approach to avoiding waste and to redistributing surplus food. Some smaller companies are now taking matters into their own hands and offering consumers a greener\noption. Shops like Berlin's Original Unverpakt and London's Bulk Market are plastic-free shops that have\nopened in recent years, encouraging customers to use their own containers or convertible bags. Online grocer\nFarmdrop eliminates the need for large warehouses and the risk of huge food surplus by delivering fresh\nproduce from local farmers to its customers on a daily basis via electric cars, offering farmers the lion's share\nof the retail price. There is no doubt that we still have a long way to go in reducing food waste and plastic waste. But\nperhaps the major supermarkets might take inspiration from these smaller grocers and gradually move towards\na more sustainable future for us all."
+    },
+    {
+      "id": "e2020-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "We all know people who say they have \"no sense of direction.\" Yet for some people that description is\ntrue in all circumstances: If they take a single wrong turn on an established route they often become totally\nlost. This happens even when they are just a few miles from where they live. This condition is called developmental topographic disorientation (DTD), the inability to orient within\nthe environment. It didn't even have a formal name until 2009, when Giuseppe Iaria reported his first case in\nthe journal Neuropsychologia. Ellen Rose had been a patient of mine for years before I realized that she had this life-long learning\ndisability. Like other people with DTD, she can follow a route in pieces, but it never becomes part of a larger\nspatial understanding. That's because she does not have a larger spatial understanding of her environment. I asked her to draw a diagram of the second floor of the house she shares with her daughter and\nson-in-law. It was a difficult task for her (she lives on the first floor but is very familiar with the second). She\ndescribed her effort not as a bird looking down from above, but as a spider crawling across the paper tracing a\nroute from one room to the Ellen has always wondered what was wrong with her. She knew that when others\nascribed her problems to simply not paying attention they were mistaken She worried that her problems in\ntraveling might be a sign of something more serious than just getting lost easily, but I had no idea what that\nmight be. Finding out that she had DTD was a relief. Knowing that something has a name can be a liberating\nexperience. All of a sudden it is a thing, a concept with defining characteristics. It is in a way, a kind of map."
+    },
+    {
+      "id": "e2020-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "and comments arc followed by questions or unfinished statements, each with four suggested answers A,B,C\nand D. Choose the best answer and mark your answer on the Answer Sheet. Face masks are one of the best defenses against the spread of COVID-19, but their growing adoption is\nhaving a second, unintended effect: breaking facial recognition algorithms(算法)。\nWearing face masks that adequately cover the mouth and nose causes the error rate of some of the most\nwidely used facial recognition algorithms to rise to between 5 percent and 50 percent, a study by the US\nNational Institute of Standards and Technology (NIST) has found. Black masks were more likely to cause\nerrors than blue masks, and the more of the nose covered by the mask, the harder the algorithms found it to\nidentify the face. “We need to understand how face recognition technology deals with masked faces,” said the author of the\nreport and NIST computer scientist. “We have begun by focusing on how an algorithm developed before the\npandemic(大流行病)might be affected by subjects wearing face masks. Later this summer, we plan to test the\naccuracy of algorithms that were intentionally developed with masked faces in mind.” Facial recognition algorithms such as those tested by NIST work by measuring the distances between\nfeatures in a target's face. Masks reduce the accuracy of these algorithms by removing most of these features, although some still remain. This is slightly different from how facial recognition works on iPhones, for\nexample, which use depth sensors for extra security, ensuring that the algorithms can't be fooled by showing\nthe camera a picture (a danger that is not present in the scenarios NIST is concerned with). Comment 1\nWell, that's one good thing to come out of the pandemic. Mass surveillance is nonsense. Time to pair\nmasks up with sunglasses to deliver the decisive stroke. Comment 2\nWearing face masks that adequately cover the mouth and nose causes the error rate of some of the most\n8\n8\nwidely used facial recognition algorithms to rise sharply\" Rubbish technology! I would've never guessed. Comment3\nThere's a reason why some country is already using gait(步态)analysis. Facial recognition is too easy to\nblock or to fool. Comment 4\nPretty soon they are going to do...analysis. With the development of AI, there will be a way out. Comment 5\nThe AI's getting better, though, so soon it won't matter. Just like how you can pick out a relative or close\nfriend even in bad CCTV footage, so too can AI. Your height, walking gait, mannerisms, voice, ears, clothing, etc, all add up to YOU."
+    },
+    {
+      "id": "e2020-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "that there are no traffic jams, no pollution, and no crime. In some places, this is true; but in 46 it is not. Small towns and villages are becoming more and more 47 ;people have more space and most\nhouses have gardens. But problems are 48 . Lots of people want to live in the country and work in the\ncity; so more and more people travel 49 distances each day, to go to work. Of course they don't use\nbuses or trains; they use cars. Little villages now have traffic problems in the morning, just 50 big\ncities!\nThe problems are very complicated! If everyone moves into the country, the peace of the countryside will\n9\n9\n51 ! People leave cities and big towns, to escape from urban problems; but more and more, they are 52\ntheir problems with them. On warm summer days, and cold winter days, air pollution can be a big problem in\nlarge 53 of the south of England, not just in London. Perhaps there is 54 for the future. Soon Britain's population will stop rising. From about the year\n2030, it will perhaps start to fall. In 100 years’ time, there will be less people in Britain than today - perhaps\ntwo million less. No doubt there will be 55 pollution too; oil and petrol will probably be rare by then."
+    },
+    {
+      "id": "e2020-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. connected\nB. healthy\nC. immune\nPhrases:\nA. eating 56 meals at regular times\nB. can also impair our 57 system function\nC. are 58 to the body clock\n\nA lack of quality sleep not only affects how we feel during the daytime, but 59 ,which is vital in\nprotecting us from common viral illnesses. Efforts needed to sleep well that include following a sleep routine, 60 and not drinking too much coffee. All of these things are really interconnected in terms of their function. All of them 61 . The body is like an orchestra where there's an orchestra leader that's sort of the main\ntimer, but everybody else is playing it together and they're optimizing what they are doing."
+    },
+    {
+      "id": "e2020-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. share\nB. demands\nC. force\nPhrases:\nA. true happiness 62 that we have it in our lives\nB. they freely 63 their ups and downs\nC. as it is a driving 64 in our nature\n\nOne of the basic needs we have as humans is to connect with others. We have done this since the\n\n10\n10\nbeginning of time 65 . Close intimate friendships fill that need. There is simply no replacement for this\nin our lives. You can't buy it, borrow it or steal it, but 66 . Experts found that people who can name\nseveral close, supportive friends-friends with whom 67 —live with greater health and happiness."
+    },
+    {
+      "id": "e2020-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. future\nB. shape\nC. form\nD. safety\nPhrases:\nA. will adjust themselves for your 68 and comfort\nB. will 69 the way we live in astonishing ways\nC. mimicked human 70 and thinking\nD. gains a truer glimpse of our robotic 71\n\nTiny technologies are a key to the future of robots. The old science-fiction notion of a robot pictured a\nlarge machine that 72 . But a visitor to the Artificial Intelligence Laboratory at Cambridge 73 . In this microworld, scientists and engineers are building new machines in other fields such as medicine and\naerospace. Soon, you'll be driving smart car and living in smart home that 74 . It is already clear that our\ntiny new tools 75 . By \"thinking small,\" scientists and dreamers are enlarging and enriching the future\nfor all of us.\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2020-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Steve: I'm going over to the gym,  ____ ",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "Are you kidding?"
+        },
+        {
+          "key": "B",
+          "text": "I'll go over to the gym too."
+        },
+        {
+          "key": "C",
+          "text": "I want to do some running."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】通读对话,是说去体育馆锻炼的谈话,根据语言逻辑和选项对比,可知是史蒂夫打算去\n体育馆,去体育馆做什么呢,因此选 C,我想去跑步。同时也和下面一句的 run 形成前后呼应。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Steve:  ____  Do you know how cold it is today?",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "Are you kidding?"
+        },
+        {
+          "key": "B",
+          "text": "I'll go over to the gym too."
+        },
+        {
+          "key": "C",
+          "text": "I want to do some running."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】约瑟夫问为什么不去室外跑步?(前面提到体育馆室内,前后呼应也是口语交际选题的\n原则之一),下文空格后面提到 “你知道今天多冷吗?”根据语义逻辑可知选择 A,你在跟我开玩笑吗?\n这么冷的天叫我去室外跑步,符合逻辑。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Joseph: Yeah, I suppose. I guess it isn't healthy to run in this weather. Steve: No, it's not. Not at all. I'd probably freeze my lungs. Joseph: Wait a minute.  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "Are you kidding?"
+        },
+        {
+          "key": "B",
+          "text": "I'll go over to the gym too."
+        },
+        {
+          "key": "C",
+          "text": "I want to do some running."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前,约瑟夫说等我一分钟,和下文的让我穿上我的运动衣,说明也是要一起去\n运动,因此选择 B。\n【参考译文】\n史蒂夫:我要去健身房,我想跑步。\n约瑟夫:你为什么不到外面跑?\n史蒂夫:你在开玩笑吧?你知道今天有多冷吗?\n约瑟夫:我想是的。我想在这种天气跑步对身体不好。\n史蒂夫:不,不适合。一点儿也不适合。我的肺可能会冻僵。\n约瑟夫:等一下。我也去趟健身房。\n史蒂夫:你?\n约瑟夫:是的,为什么不去呢?让我先把运动服准备好。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2020-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Woman: Well, let's look at this city guide here.  ____  Why don't we first visit the art museum in the",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "Well, I'm not really interested in going there."
+        },
+        {
+          "key": "B",
+          "text": "How about going to an Indian restaurant?"
+        },
+        {
+          "key": "C",
+          "text": "Uh, here's something interesting."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】先看三个选项,A:是我真的对去那不感兴趣 ,B:去印度餐厅怎么样,C:啊,这里有\n些有趣的东西。第 4 题是女人说的话,对男人提问的去哪里进行回答,根据空格后面,提出去艺术馆,\n那么应该是有趣的地方,感兴趣才会想去,所以选择 C。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Woman:  ____  The guide recommends one downtown a few blocks from the museum. Man: That sounds great. After that, what do you think about visiting the zoo? Well, it says here that there",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "Well, I'm not really interested in going there."
+        },
+        {
+          "key": "B",
+          "text": "How about going to an Indian restaurant?"
+        },
+        {
+          "key": "C",
+          "text": "Uh, here's something interesting."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】第 5 题,对上文的去哪里吃午饭进行回答,B:去印度餐厅怎么样,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）are some very unique animals not found anywhere else. Woman:  ____  Why don't we take the subway down to the seashore and walk along the beach?",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "Well, I'm not really interested in going there."
+        },
+        {
+          "key": "B",
+          "text": "How about going to an Indian restaurant?"
+        },
+        {
+          "key": "C",
+          "text": "Uh, here's something interesting."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】第 6 题,对上文提出的去动物园的提议进行回答,空格后面又有新提议,说去海边去沙\n滩,那么是对动物园的否定,所以选择 A,我真的对去那(动物园)不感兴趣。\n【参考译文】\n男:那么,你明天想做什么?\n女:嗯,让我们看看这里的城市指南。这里有些有趣的东西。上午我们何不先去参观艺术博物馆呢?\n男:好的,我喜欢这个主意,你想去哪里吃午饭?\n女人:去印度餐馆怎么样?指南推荐去市中心离博物馆几个街区的一家。\n男:听起来不错。在那之后,你觉得参观动物园怎么样? 据说,这里有一些非常独特的动物在其他\n地方找不到。\n女:嗯,我对那里不太感兴趣。我们何不乘地铁到海边,然后沿着海滩散步呢?\n2\n男:听起来是个很棒的计划。\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2020-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Natasha: I need to get a job, or I won't be able to stay here next semester. I don't know what to do. Eric:  ____ ",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "Anyway, there must be some solution."
+        },
+        {
+          "key": "B",
+          "text": "But they don't have anything now."
+        },
+        {
+          "key": "C",
+          "text": "Have you tried some part-time job on campus?"
+        },
+        {
+          "key": "D",
+          "text": "You don't have to tell me that."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】上一句娜塔莎说不知道该怎么办,下一句娜塔莎问艾瑞克什么意思可知,艾瑞克在提供\n做兼职的建议,因此 C 项“你试过校园兼职吗?”符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）foreign students. Natasha: Yes, I know. I tried that.  ____ ",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "Anyway, there must be some solution."
+        },
+        {
+          "key": "B",
+          "text": "But they don't have anything now."
+        },
+        {
+          "key": "C",
+          "text": "Have you tried some part-time job on campus?"
+        },
+        {
+          "key": "D",
+          "text": "You don't have to tell me that."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据上下文,空格前面说试过 ,下文说对于外国学生很难找到工作,说明没有成功,But\n表示转折,因此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）Eric: Well, it's really hard since you're a foreign student. It's actually illegal for you to work in America. Natasha:  ____  I know I have the right to work for the university. That's legal. But they don't have a",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "Anyway, there must be some solution."
+        },
+        {
+          "key": "B",
+          "text": "But they don't have anything now."
+        },
+        {
+          "key": "C",
+          "text": "Have you tried some part-time job on campus?"
+        },
+        {
+          "key": "D",
+          "text": "You don't have to tell me that."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】在被告知外国学生找工作很难也不合法,那么应该是愤怒的,对应 D 的语气内容,说明\n不要告诉这些,她是有权利的,不认可上文内容的。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）job. And it's illegal for me to work elsewhere. Eric:  ____  You know there are many people working illegally in New York. Natasha: But I need a pretty decent job. I need to make enough to pay my rent at least.",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "Anyway, there must be some solution."
+        },
+        {
+          "key": "B",
+          "text": "But they don't have anything now."
+        },
+        {
+          "key": "C",
+          "text": "Have you tried some part-time job on campus?"
+        },
+        {
+          "key": "D",
+          "text": "You don't have to tell me that."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】只剩 A 选项,代入检查:艾瑞克回答的这肯定有一些解决方法,毕竟还是有很多人不合\n法的在纽约工作。符合语义逻辑。\n【参考译文】\n娜塔莎:我需要找份工作,否则下学期我就不能留在这里了。我不知道该怎么办。\n艾瑞克:你试过学校里的兼职工作吗?\n娜塔莎:你是什么意思?\n艾瑞克:我是说在图书馆,或者一些信息中心。该大学通常为外国学生提供兼职职位。\n娜塔莎:是的,我知道。我试过。但是他们现在什么都没有了。\n艾瑞克:嗯,因为你是一个外国学生,所以真的很难。你在美国工作实际上是违法的。\n娜塔莎:你不必告诉我。我知道我有权利为大学工作。这是合法的。但是他们没有工作。我在其他\n地方工作是违法的。\n艾瑞克:不管怎样,一定有办法的。你知道有很多人在纽约非法工作。\n娜塔莎:但我需要一份相当体面的工作。我至少需要挣足够的钱来付房租。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "There will be a ten-minute interval halfway through the performance.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "period"
+        },
+        {
+          "key": "B",
+          "text": "time"
+        },
+        {
+          "key": "C",
+          "text": "length"
+        },
+        {
+          "key": "D",
+          "text": "break"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 interval 间隔;间距;幕间休息\nA.period 周期,期间;时期 B. time 时间,次数,节拍\nC. length长度,长 D. break 间断;休息\n【译文】演出进行到一半时,将有十分钟的幕间休息。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "Most of Egypt's inhabitants live in the Nile valley and delta, with the rest of the country sparsely populated.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "randomly"
+        },
+        {
+          "key": "B",
+          "text": "thinly"
+        },
+        {
+          "key": "C",
+          "text": "densely"
+        },
+        {
+          "key": "D",
+          "text": "evenly"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 sparsely 稀疏地;贫乏地\nA. randomly 随便地,任意地 B. thinly 薄;稀疏地\nC. densely 浓密地;密集地 D. evenly 均匀地;平衡地\n【译文】大部分埃及居民居住在尼罗河谷和三角洲地区,其余地区人口稀少。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "The hotel owner was authorized to sell alcoholic drinks in his hotel.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "inclined"
+        },
+        {
+          "key": "B",
+          "text": "prepared"
+        },
+        {
+          "key": "C",
+          "text": "required"
+        },
+        {
+          "key": "D",
+          "text": "licensed"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中 authorized 经授权的;经认可的\nA.inclined 有……倾向 B. prepared 准备好的\nC. required 必需的;(美)必修的 D. licensed 得到许可的(等于 licenced)\n【译文】旅馆老板被许可在他的旅馆里出售含酒精的饮料。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "Your lawyer's presence in the court room is critical since he may prevent you from being misdirected.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Impressive"
+        },
+        {
+          "key": "B",
+          "text": "wonderful"
+        },
+        {
+          "key": "C",
+          "text": "favorable"
+        },
+        {
+          "key": "D",
+          "text": "crucial"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 critical 决定性的;评论的,关键的\n3\nA. impressive 感人的;令人钦佩的 B. wonderful 极好的,精彩的\nC. favorable 有利的;良好的 D. crucial 重要的;决定性的\n【译文】你的律师出现在法庭上是至关重要的,因为他可以防止你被误导。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "Some books are not for you to leaf through, but for you to think through.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "browse"
+        },
+        {
+          "key": "B",
+          "text": "appreciate"
+        },
+        {
+          "key": "C",
+          "text": "recommend"
+        },
+        {
+          "key": "D",
+          "text": "debate"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 leaf 匆匆翻阅,浏览\nA.browse 浏览;吃草 B. appreciate欣赏;感激;领会\nC.recommend推荐;建议 D. debate讨论,辩论\n【译文】有些书不是让你翻阅的,而是让你思考的。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "I was denied access to my account after I typed in the wrong password three times in a row.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "abandoned"
+        },
+        {
+          "key": "B",
+          "text": "delayed"
+        },
+        {
+          "key": "C",
+          "text": "warned"
+        },
+        {
+          "key": "D",
+          "text": "refused"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 denied 拒绝;拒签\nA. abandoned 被废弃的;无约束的 B. delayed 延时的;定时的\nC. warned 已警告的 D. refused 遭拒绝的\n【译文】我连续三次输入错误的密码,我被拒绝进入我的帐户。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "Lots of people make long-distance commuting to work daily in big cities",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "contact"
+        },
+        {
+          "key": "B",
+          "text": "discussion"
+        },
+        {
+          "key": "C",
+          "text": "travel"
+        },
+        {
+          "key": "D",
+          "text": "call"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中短语 commuting 乘公交车上下班;经常往来;通勤\nA. contact 接触,联系 B. discussion 讨论,议论\nC. travel 长途旅行;经过(某地区) D. call 呼叫;要求\n【译文】在大城市里,许多人每天要长途通勤上班。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "Guests at Four Seasons Hotels can enjoy delicious meals served on fine china.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "delicate"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "shining"
+        },
+        {
+          "key": "D",
+          "text": "desirable"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 fine 好的;精致的。\nA. delicate 精美的,雅致的 B. special 特别的;重要的\nC. shining 光亮的;华丽的 D. desirable 可取的,值得拥有的\n【译文】在四季酒店,客人可以享用用精美瓷器盛装的美味佳肴。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "The energy value of dried fruits is considerably in excess of that of fresh items.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "short of"
+        },
+        {
+          "key": "B",
+          "text": "equal to"
+        },
+        {
+          "key": "C",
+          "text": "more than"
+        },
+        {
+          "key": "D",
+          "text": "different from"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 in excess of 超过;较…为多。\nA. short of 缺乏;不足 B. equal to等于;胜任\nC. more than 多于;超出 D. different from 与…...不同\n【译文】干果的能量值远远超过新鲜水果的能量值。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "When disasters like this happen, we set aside whatever pretty disagreements we may have.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "discuss"
+        },
+        {
+          "key": "B",
+          "text": "retain"
+        },
+        {
+          "key": "C",
+          "text": "reveal"
+        },
+        {
+          "key": "D",
+          "text": "dismiss"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 set aside 把......抛在脑后;不顾。\nA. discuss 讨论;论述 B. retain 保持;雇;记住\nC. reveal显示;透露 D. dismiss 不考虑;解雇\n【译文】当这样的灾难发生时,我们会抛开所有可能存在的分歧。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q21",
+      "sectionType": "reading",
+      "passageId": "e2020-p1",
+      "seq": 21,
+      "stem": "The phrase \"just around the corner\" (Para. 1) means“ ”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "preferable"
+        },
+        {
+          "key": "B",
+          "text": "forthcoming"
+        },
+        {
+          "key": "C",
+          "text": "reliable"
+        },
+        {
+          "key": "D",
+          "text": "available"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】同义词替换\n【解析】 短语“just around the corner”(第 1 段)的意思是“ _______”。\n根据第一段前文可知,未来旅行管道速度很快,目前还未实现,听起来像科幻小说和卡通中的交\n通工具,接着 But 表明了意思上转折,另外根据第二段可知,马斯克已经在设计更快捷的旅行管道,\n4\n说明这项技术有望在不遥远的未来实现,即“即将到来”,选项 B 符合题意。A.更合适的 C 可靠的,可\n信的 D 可用的,可得到的 ,均不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q22",
+      "sectionType": "reading",
+      "passageId": "e2020-p1",
+      "seq": 22,
+      "stem": "The “pod” mentioned in the passage is a(n) .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "tube-shaped music player"
+        },
+        {
+          "key": "B",
+          "text": "wireless earphone"
+        },
+        {
+          "key": "C",
+          "text": "engine that provides a driving force"
+        },
+        {
+          "key": "D",
+          "text": "vehicle that carries passengers"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】同义词替换\n【解析】段落中提到的”pod”是_______。\n根据第五段可知,人通过乘坐 pod 再发射出去,因此 pod 应该是载客的车辆。D 项符合题意。A. 管状音乐播放器 B.无线耳机 C.提供动力的发动机均,不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q23",
+      "sectionType": "reading",
+      "passageId": "e2020-p1",
+      "seq": 23,
+      "stem": "Which of the following is NOT true of Elon Musk?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "He draws insights from science fictions."
+        },
+        {
+          "key": "B",
+          "text": "He has tried his hand at space flight."
+        },
+        {
+          "key": "C",
+          "text": "He has manufactured electric cars."
+        },
+        {
+          "key": "D",
+          "text": "He cares for environmental protection."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】以下哪个对 Elon Musk 不适用?\nA.他从科幻小说中汲取了见识. B.他曾尝试过太空飞行。\nC.他制造了电动汽车\nD.他关心环境保护。\n在第 2 段中找到马斯克以前曾做过私人空间飞行和电动车。排除 B、C 两个选项;\n在第 7 段,马斯克相信 Hyperloop 可以太阳能驱动,比车,飞机和火车更友好环境。所以马斯克也很关\n心环境保护,可以排除 C。而选项 A,原文中并没有说明马斯克是从科幻小说中汲取的见识。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q24",
+      "sectionType": "reading",
+      "passageId": "e2020-p1",
+      "seq": 24,
+      "stem": "What can be learned about the Hyperloop?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It could be developed at a low cost."
+        },
+        {
+          "key": "B",
+          "text": "It would remind people of their schedule. 4 4"
+        },
+        {
+          "key": "C",
+          "text": "It could operate round the clock."
+        },
+        {
+          "key": "D",
+          "text": "It would run at regular intervals."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】关于 Hyperloop 可以学到什么?\nA.它可以低成本开发。文中第六段只说了马斯克构运行这个 hyperloop 会比较便宜。 但是并没有\n说 hyperloop 的开发成本低,排除。\nB.这会让人们想起他们的日程安排。文中没有体现,排除。\nC.它可以全天候运行。文中第 6 段,The Hyperloop could even run 24/7, 可以运行 7 天 24 小时,所\n以是全天候运行的,正确。\nD.它可以定期运行。既然是全天候运行的就不会是定期运行的了,排除。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q25",
+      "sectionType": "reading",
+      "passageId": "e2020-p1",
+      "seq": 25,
+      "stem": "China is mentioned in the last paragraph in order to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "demonstrate that it is an innovative country"
+        },
+        {
+          "key": "B",
+          "text": "give an example of those working on similar technology"
+        },
+        {
+          "key": "C",
+          "text": "show a successful model of vacuum tube traveling"
+        },
+        {
+          "key": "D",
+          "text": "indicate a potential for international cooperation"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】最后一段提到中国是为了______。\n根据 China 前后句意,可以发现作者只是在举例说明从事类似技术工作的人,所以选 B。\nA.证明它是一个创新的国家\nB.举例说明那些从事类似技术工作的人\nC.显示成功的真空管行进模型\nD.表明国际合作的潜力\n【参考译文】\n这听起来像是科幻电影或傻傻的的动画片中的某种东西:一种未来派旅行电子管,可以在小小的\n仓间内快速将人们发射到想要去的地方。但人们寻求比以往更快,更轻松,更便宜的出行方式,这可\n能指日可待了。\n南非裔发明家和亿万富翁埃隆·马斯克(Elon Musk)过去曾从事私人太空飞行和电动汽车领域的研\n究,最近宣布他一直在研究这种旅行管,这可能永远改变我们世界旅行的方式。\n在一次采访中,马斯克将新管形容为第五种运输方式。他解释说:“我们有飞机,火车,汽车和轮\n船。如果有第五种模式将如何?我给它命名为 Hyperloop。”\n“我构思的这个系统……永远不会坠毁,不受天气影响,其运行速度比子弹头火车快三到四倍……\n它的平均速度是飞机的两倍。您将在 30 分钟内从洛杉矶市中心到达旧金山市中心。” 使用 Hyperloop 的人会在舱中向四周发射,每个舱刚好横跨六英尺半,并且舱会穿过陆上或水下的\n5\n管道。\nHyperloop 甚至可以 24 小时/7 天运行,费用还很便宜,并允许人们按自己的时间表旅行。人们可\n以随时在 Hyperloop 站出现,并迅速地将他们送到想去的地方。\n另外,马斯克认为,超级高铁可能完全由阳光驱动,从而使其比汽车,飞机或火车系统更加环保。有\n一天,它有可能在不到一个小时的时间内将人们在美国东海岸和西海岸之间互相转移。最终,Hyperloop\n能够将人们运送到世界各地。\n马斯克不是科幻小说家之外的第一个为移动人们而幻想真空管技术的人。这个想法已经存在了一\n段时间,据报道,包括中国在内的其他国家的发明者也在研究类似技术。\nPassage Two\n【文章介绍】本文主要以英国预约医生看病难做为切入点,引出人们开始倾向于借助网络来诊断\n自己的疾病,从而导致的健康焦虑症患的出现,根据这一现象,得出结论网络医生有帮助,但是还未\n到能取代实际医生的,面对面诊断还是很必要的。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q26",
+      "sectionType": "reading",
+      "passageId": "e2020-p2",
+      "seq": 26,
+      "stem": "What does the author try to emphasize in Paragraph 1?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The low efficiency of the healthcare system."
+        },
+        {
+          "key": "B",
+          "text": "The tips for making appointments with doctors."
+        },
+        {
+          "key": "C",
+          "text": "The treatment for common health problems."
+        },
+        {
+          "key": "D",
+          "text": "The critical challenges for general hospitals."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】主旨题\n【解析】作者在第一段中试图强调什么?\n文章第一段,作者说自己不舒服会预约医生,但是约到医生的时候往往都是几天之后,病可能都\n已经好了。由此可以看出,作者想强调的是医疗保健系统效率低下。答案选 A 项。\nA.医疗保健系统效率低下。\nB.与医生预约的小建议。\nC.常见健康问题的治疗。\nD.普通医院面临的严峻挑战。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q27",
+      "sectionType": "reading",
+      "passageId": "e2020-p2",
+      "seq": 27,
+      "stem": "Cyberchondria(Para 3)can be defined as .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Over dependence on the internet for medical advice"
+        },
+        {
+          "key": "B",
+          "text": "too much knowledge about health problems"
+        },
+        {
+          "key": "C",
+          "text": "health concerns caused by online information"
+        },
+        {
+          "key": "D",
+          "text": "incorrect diagnosis based on web knowledge 5 5"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】Cyberchondria(第 3 段)可以定义为______。\n根据文中 This health anxiety, fueled by the internet, is called cyberchondria\". 由互联网助长引起的这\n种健康焦虑被称为“cyberchondria”。因此可以得出选项 C. A.过度依赖互联网寻求医疗建议\nB.对健康问题的知识过多\nC.在线信息引起的健康问题\nD.基于网络知识的错误诊断",
+      "score": 1
+    },
+    {
+      "id": "e2020-q28",
+      "sectionType": "reading",
+      "passageId": "e2020-p2",
+      "seq": 28,
+      "stem": "According to the doctors, cyberchondria .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "can be prevented"
+        },
+        {
+          "key": "B",
+          "text": "is not unusual"
+        },
+        {
+          "key": "C",
+          "text": "is hard to predict"
+        },
+        {
+          "key": "D",
+          "text": "may not last long"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】据医生说,cyberchondria ______?\n根据第四段 A study a few years ago also found many doctors felt intimidated by the increasing numbers\nof web-wise patients arriving in surgeries. 可以判断出这个 cyberchondria 症状数量在增多,所以并不罕见,\n选 B 项。\nA.可以预防,B.并不罕见,C.很难预测,D.可能不会持续很长时间",
+      "score": 1
+    },
+    {
+      "id": "e2020-q29",
+      "sectionType": "reading",
+      "passageId": "e2020-p2",
+      "seq": 29,
+      "stem": "How do doctors in general feel about web-wise patients?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "They are surprised at patients' wise use of online information."
+        },
+        {
+          "key": "B",
+          "text": "They are frightened by patients' blind trust of internet information."
+        },
+        {
+          "key": "C",
+          "text": "They are satisfied with patients' sufficient knowledge about diseases."
+        },
+        {
+          "key": "D",
+          "text": "They are troubled by patients' excessive search for health information."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】一般而言,医生对网络患者的感觉如何?\nA study a few years ago also found many doctors felt intimidated by the increasing numbers of web-wise\npatients arriving in surgeries 中 Felt intimidated 表示被吓到。web-wise patients 网络智慧病人,此处表示\n盲目信任网络信息的病人。医生被网络智慧病人吓到。由此可以推断出正确选项为 B 项。\nA.他们对患者明智地使用在线信息感到惊讶。 B.患者对互联网信息的盲目信任使他们感到恐惧。\n6\nC.他们对患者对疾病的充分了解感到满意。D.他们因患者过度搜索健康信息而感到困扰。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q30",
+      "sectionType": "reading",
+      "passageId": "e2020-p2",
+      "seq": 30,
+      "stem": "According to Doctor Tyrer, what is the problem with online medical information?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "It is usually not sufficient."
+        },
+        {
+          "key": "B",
+          "text": "It is not always accurate."
+        },
+        {
+          "key": "C",
+          "text": "It fails to give judgment."
+        },
+        {
+          "key": "D",
+          "text": "It provides too much information."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】根据 Tyrer 医生的说法,在线医疗信息有什么问题?\n文中\"it doesn't have any judgment associated with it.\" This is why having a consultation with a doctor\nface-to-face still has its benefits.表明网络有大量关于疾病的医疗信息,但不能做出相关的诊断。选择 C\n项。A.通常这是不够的。B.并不总是准确的。C.无法作出判断。D 它提供了太多信息。\n【参考译文】\n你今天感觉如何?我有些酸痛,但不严重。可是,当事情变得更加紧急时,通常我会给自己预约\n一次医生-尽管等到我去见他时,问题可能已经消失了。那是因为,至少在英国,我们通常需要等待几\n天才能约到医生。\n今天幸运的是,科技来救我们了。我们的智能手机上有成千上万的应用程序,这些应用程序可以\n提供急救建议并允许我们自我诊断疾病-从简单的感冒或流感到某些外来疾病。与互联网一起,医学信\n息的海洋让我们触手可及。\n但是,太多的知识是件好事吗?通过阅读疾病,我们发现了它的副作用以及在最坏情况下可能发\n生的情况。更令人担忧的是,我们给自己做出错误的诊断,然后担心自己生病,可能要死了。这种由\n互联网推动的健康焦虑被称为“网络软骨症”。它使患者对疾病深感恐惧,而且据专家称,这种情况正\n在增加。伦敦帝国理工学院的彼得·泰勒教授说:“我们发现大约五分之四的人患有这种疾病,花了数小\n时在互联网上的健康焦虑症患。我们要做的第一件事就是告诉他们停止浏览互联网。” 几年前的一项研究还发现,许多医生被的数量增加的来就诊的网络智慧病患吓到。一位医生承认\n对使用互联网的患者不是很满意,他说:“他们似乎都是带着我从未听说过的东西来找我的,而且那些\n东西常常是看上去很奇怪或不合适。” 当然,毫无疑问,万维网具有诊断症状所需的大多数信息,但是 Tyrer 医生指出:“它没有任何与\n之相关的判断。”这就是为什么要咨询医生面对面仍然有其好处。\n这样看来,虚拟的在线医生可以开出一些有用的建议,但是技术尚未取代人类医学专家。\nPassage Three\n【文章介绍】本文主要讲超市中食物浪费和塑料浪费,以及应对的处理办法。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q31",
+      "sectionType": "reading",
+      "passageId": "e2020-p3",
+      "seq": 31,
+      "stem": "Which is NOT mentioned as an unethical act of major supermarket chains?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Wasting large amounts of food. 6 6"
+        },
+        {
+          "key": "B",
+          "text": "Producing excessive plastic waste."
+        },
+        {
+          "key": "C",
+          "text": "Under paying their suppliers."
+        },
+        {
+          "key": "D",
+          "text": "Selling goods of poor quality."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】哪项大型连锁超市的不道德行为没有被提及?\n文章第一段原文 They've wasted tons of food, They've underpaid their suppliers and they've contributed\nto excessive plastic waste in their packaging, which has had its impact on our environment. 文中提到了欠供\n供应商款,浪费大量食物,产生过多塑料垃圾,所以可以排除 A、B、C 项,A.浪费大量食物,B 产生\n过多的塑料废物 ,C.欠供应商款,D 销售劣质商品。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q32",
+      "sectionType": "reading",
+      "passageId": "e2020-p3",
+      "seq": 32,
+      "stem": "The word \"pact\"(Para.2) is closest in meaning to\" .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "agreement"
+        },
+        {
+          "key": "B",
+          "text": "organization"
+        },
+        {
+          "key": "C",
+          "text": "campaign"
+        },
+        {
+          "key": "D",
+          "text": "program"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】同义词替换\n【解析】第 2 段“ pact”一词的含义与“ ______”最接近,\nIn response to growing consumer resentment against the huge amounts of plastic waste generated by\nplastic packaging, some of the largest UK supermarkets have signed up to a pact promising to transform\npackaging and cut plastic wastage. 签署了一个 pact,来保证改变包装,减少塑料废物。联系上下文推断,\n此处应为协议,签署协议,选择 A 项。\nA.协议,B.组织,C.运动,D.程序",
+      "score": 1
+    },
+    {
+      "id": "e2020-q33",
+      "sectionType": "reading",
+      "passageId": "e2020-p3",
+      "seq": 33,
+      "stem": "According to Paragraph 3, supermarkets' donation of their food surplus .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "receives high praises"
+        },
+        {
+          "key": "B",
+          "text": "is considered as a good charity"
+        },
+        {
+          "key": "C",
+          "text": "is regarded as not doing enough"
+        },
+        {
+          "key": "D",
+          "text": "arouses more criticisms"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n7\n【解析】根据第 3 段,超市将剩余食品的捐赠______。\nHowever, charities estimate that they are only accessing two per cent of supermarkets' total food surplus, so this hardly seems to be solving the problem. 慈善机构估计,他们只能获得超市剩余食品总量的 2%,\n因此这似乎无法解决问题。所以推断出超市被认为做得不够,选择 C 项。\nA.受到好评,B.被认为是一个很好的慈善机构, C.被认为做得不够,D.引来更多批评",
+      "score": 1
+    },
+    {
+      "id": "e2020-q34",
+      "sectionType": "reading",
+      "passageId": "e2020-p3",
+      "seq": 34,
+      "stem": "Farmdrop is mentioned as an example that provides .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "plastic-free bags and containers"
+        },
+        {
+          "key": "B",
+          "text": "easier access to fresh produce"
+        },
+        {
+          "key": "C",
+          "text": "a great variety of healthy foods"
+        },
+        {
+          "key": "D",
+          "text": "goods at more competitive prices"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】提及 Farmdrop 作为提供______的示例. 倒数第二段段落前半部分讲公司采取各种绿色措施,一些新开的店铺提供无塑料袋购物,鼓励顾\n客使用自己的箱子或袋子。后半部分讲 farmdrop 将新鲜的蔬菜直接从农场运到客户,不需要用到塑料\n袋或者容器。所以提及 Farmdrop 就是作为公司采取绿色措施的示例之一。\nA.无塑料袋和容器,B.更容易获得新鲜农产品,C.各种各样的健康食品,D.价格更具竞争力的商品",
+      "score": 1
+    },
+    {
+      "id": "e2020-q35",
+      "sectionType": "reading",
+      "passageId": "e2020-p3",
+      "seq": 35,
+      "stem": "It can be inferred from the last paragraph that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "some businesses are reluctant to reduce their waste"
+        },
+        {
+          "key": "B",
+          "text": "major supermarkets refuse to do public good"
+        },
+        {
+          "key": "C",
+          "text": "some small companies better protect the environment"
+        },
+        {
+          "key": "D",
+          "text": "a more sustainable future for all is soon to come"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】判断题\n【解析】从最后一段可以推断出______ ?\n最后一段原文“But perhaps the major supermarkets might take inspiration from these smaller grocers\nand gradually move towards a more sustainable future for us all.”释义为“但也许大型超市可能会从这些较\n小的杂货店中汲取灵感,并逐步朝着我们所有人更可持续的未来发展。”由此此题选 C 项, 向小公司学\n习保护环境。\nA.一些企业不愿减少浪费,B.大型超市拒绝做公益,C.一些小公司更好地保护环境,D.所有人的可\n持续发展的未来即将到来\n【参考译文】\n在过去十年中,许多大型连锁超市都因各种不道德行为而受到指责。他们浪费了很多食物,他们\n给供应商的工资不足,并且造成了包装中过多的塑料浪费,这对我们的环境造成了影响。\n但是,超市和杂货店开始兴起并引起注意。为了回应消费者对塑料包装所产生的大量塑料废料的\n不满情绪,英国一些最大的超级市场已签署一项协议,承诺改变包装并减少塑料浪费。为了保证在 2025\n年之前重新利用,回收或转换所有塑料浪费,超市现在开始对它们在破坏环境中所起的作用承担一些\n责任,一家大型超市宣布了其计划消除所有塑料包装的计划。到 2023 年他们的 cwm 品牌产品。\n为了回应对食物浪费的批评,一些超市正在捐赠剩余的食物。但是,慈善机构估计,他们只能获\n得超市总粮食过剩的 2%,因此这似乎无法解决问题。\n有人说,超市根本做得不够。当要求提供确切的食物浪费数字时,大多数超市都处于保密状态,\n如果没有更高的透明度,很难提出一种避免浪费和重新分配剩余食物的系统方法。\n一些较小的公司现在将事情交到自己手中,并为消费者提供更绿色的选择。柏林的 Original\nUnverpakt 和伦敦的 Bulk Market 等商店都是无塑料商店,近年来已经开业,它们鼓励顾客使用自己的\n容器或可转换的袋子。在线杂货商 Farmdrop 通过每天通过电动汽车从当地农民向其客户交付新鲜农产\n品的方式为农民提供零售价格的最大份额,从而消除了大型仓库的需要和巨大的食物过剩的风险。\n毫无疑问,我们在减少食物浪费和塑料浪费方面还有很长的路要走。但也许大型超市可能会从这\n些较小的杂货店中汲取灵感,并逐步朝着我们所有人更可持续的未来发展\nPassage four\n【文章介绍】\n本文主要讲 DTD 疾病的症状和情况。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q36",
+      "sectionType": "reading",
+      "passageId": "e2020-p4",
+      "seq": 36,
+      "stem": "What is the relation between Ellen and the author?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Student and teacher"
+        },
+        {
+          "key": "B",
+          "text": "Subject and researcher 7 7"
+        },
+        {
+          "key": "C",
+          "text": "Employee and employer"
+        },
+        {
+          "key": "D",
+          "text": "Patient and doctor."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】艾伦和作者之间有什么关系?\n8\n在文章第三段第一句我们可以找到答案:Ellen Rose had been a patient of mine for years。Ellen 是我\n多年的病人,因此,此题选 D 项,医生与病人。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q37",
+      "sectionType": "reading",
+      "passageId": "e2020-p4",
+      "seq": 37,
+      "stem": "It can be learned that people with DTD .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "are unable to find their position in an environment"
+        },
+        {
+          "key": "B",
+          "text": "find it difficult to remember where they have been"
+        },
+        {
+          "key": "C",
+          "text": "dislike traveling to a faraway place on their own"
+        },
+        {
+          "key": "D",
+          "text": "are characterized by their inability to concentrate"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】可以了解到 DTD 为_______的人 。\n文章第一段 If they take a single wrong turn on an established route they often become totally lost 如果\n他们在既定路线上走错了一条路线,则往往会完全迷失方向,第二段 the inability to orient within the\nenvironment.无法在环境中定向。可以总结出 DTD 人是无法在环境中找到自己的位置的,A 选项符合\n题意。\nA.无法在环境中找到自己的位置,B.很难记住他们去过的地方,C.不喜欢自己一个人去遥远的地\n方,D.其特点是无法专心",
+      "score": 1
+    },
+    {
+      "id": "e2020-q38",
+      "sectionType": "reading",
+      "passageId": "e2020-p4",
+      "seq": 38,
+      "stem": "From Ellen's difficulty in drawing her own house, we can infer that .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "observing from high above is more effective than from the bottom"
+        },
+        {
+          "key": "B",
+          "text": "common people tend to perceive a space from a bird's eye view"
+        },
+        {
+          "key": "C",
+          "text": "it is useful to get familiar with our living environment"
+        },
+        {
+          "key": "D",
+          "text": "people with DTD have a poor sense of vision"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解题\n【解析】从艾伦(Ellen)画自己的房子的困难中,我们可以推断出______。 。\nShe described her effort not as a bird looking down from above, but as a spider crawling across the paper\ntracing a route from one room to the Ellen has always wondered what was wrong with her. 文中 Ellen 画房子\n不是以鸟的视野俯瞰,而是以蜘蛛爬行的方式感知。 而 Ellen 是患有 DTD 的,所以可以推断出普通\n人更倾向于从鸟瞰的角度感知空间,而文中 ACD 三个选项都没有体现,所以选 B 项。\nA.从高处观察比从底部观察更有效,B.普通人倾向于从鸟瞰的角度感知空间,C.熟悉我们的生活\n环境很有用,D.患有 DTD 的人视力不好。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q39",
+      "sectionType": "reading",
+      "passageId": "e2020-p4",
+      "seq": 39,
+      "stem": "How did Ellen feel about her DTD?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "She had a clear idea what it was and how to deal with it."
+        },
+        {
+          "key": "B",
+          "text": "She worried that she might misunderstand people around her."
+        },
+        {
+          "key": "C",
+          "text": "She thought she could improve her condition by paying more attention."
+        },
+        {
+          "key": "D",
+          "text": "She was afraid that it might bring problems other than disorientation."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】艾伦对她的 DTD 感觉如何?\n倒数第二段中 She worried that her problems in traveling might be a sign of something more serious\nthan just getting lost easily, 她担心自己在旅行中遇到的问题可能是严重的征兆,而不仅仅是容易迷路,\n由此可以推断出答案选 D 项。\nA.她很清楚这是什么以及如何处理,B.她担心自己可能会误解周围的人,C.她认为可以通过更多\n的关注来改善自己的状况,D 她担心这会带来一些问题,不仅仅是迷失方向。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q40",
+      "sectionType": "reading",
+      "passageId": "e2020-p4",
+      "seq": 40,
+      "stem": "The word “map” in the last paragraph probably means“ ”.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "cure"
+        },
+        {
+          "key": "B",
+          "text": "design"
+        },
+        {
+          "key": "C",
+          "text": "proposal"
+        },
+        {
+          "key": "D",
+          "text": "clue"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】同义替换\n【解析】最后一段中的“地图”一词可能意味着“ _______”。题目问的是 map 的含义。根据定位句可\n推断,当确诊自己患的是 DTD,她松了口气,因为不用对未知的病感到担心,就像有线索可依,故选\nD 项。A.治愈 ,B.设计 ,C.提案 ,D.线索。\n【参考译文】\n我们都知道有人说他们“没有方向感”。但是对于某些人来说,这种描述在所有情况下都是正确的:\n如果他们对既定路线采取了一次错误的转弯,则往往会完全迷失方向。即使距离他们居住的地方只有\n几英里,也会发生这种情况。\n这种情况称为发育地形定向障碍(DTD),无法在环境中定向。直到 2009 年,朱塞佩·伊亚里亚\n(Giuseppe Iaria)在《神经精神病学》杂志上报道了他的第一例病例后,它才正式取名。\n在我意识到她患有终生学习障碍之前,Ellen Rose 一直是我的患者。像其他患有 DTD 的人一样,\n她可以分段行走,但永远不会成为更大空间理解的一部分。那是因为她对自己的环境没有更大的空间\n了解。\n我请她在与女儿和女 son 同住的房子的二楼画一张图。这对她来说是一项艰巨的任务(她住在一\n楼,但对二楼非常熟悉)。她将自己的努力描述为不是一只鸟从上方俯视,而是一只蜘蛛在纸上爬行,\n9\n追踪从一个房间到艾伦的路线,一直想知道她出了什么问题。她知道,当其他人将自己的问题归因于\n根本不注意时,他们就错了。她担心自己的旅行问题可能是严重的征兆,而不仅仅是容易迷路,但我\n不知道那是什么。\n得知她患有 DID 感到宽慰。知道某事有名字可以是一种解放的经历。突然之间,这是一个事物,\n一个具有定义特征的概念。在某种程度上,它是一种地图。\nSection B\n【文章介绍】口罩对面部识别影响的讨论。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q41",
+      "sectionType": "reading",
+      "passageId": "e2020-p5",
+      "seq": 41,
+      "stem": "What is the passage mainly about?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The best way to defend against COVID-19."
+        },
+        {
+          "key": "B",
+          "text": "Efforts to improve facial recognition technology."
+        },
+        {
+          "key": "C",
+          "text": "Methods to fool the facial recognition system."
+        },
+        {
+          "key": "D",
+          "text": "The impact of masks on facial recognition accuracy."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】主旨题\n【解析】这段文章主要是关于什么的?\n抵御 COVID-19 的最佳方法 B.努力改善面部识别技术\nC. 愚弄面部识别系统的方法 D.口罩对面部识别精度的影响",
+      "score": 1
+    },
+    {
+      "id": "e2020-q42",
+      "sectionType": "reading",
+      "passageId": "e2020-p5",
+      "seq": 42,
+      "stem": "The NIST study found that compared with blue masks, black masks .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "were more widely used by the public"
+        },
+        {
+          "key": "B",
+          "text": "caused more errors in facial recognition"
+        },
+        {
+          "key": "C",
+          "text": "provided better protection against the virus"
+        },
+        {
+          "key": "D",
+          "text": "required less complex algorithms"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】NIST 研究发现,与蓝色口罩相比,黑色口罩______。\n第二段 Black masks were more likely to cause errors than blue masks,与蓝色口罩相比,黑色口罩更容\n易引起错误,因此选项 B 正确。\nA.被公众广泛使用 B.造成更多人脸识别错误 C.提供了更好的病毒防护 D.需要较少复杂的算法",
+      "score": 1
+    },
+    {
+      "id": "e2020-q43",
+      "sectionType": "reading",
+      "passageId": "e2020-p5",
+      "seq": 43,
+      "stem": "Comment 1 seems to be .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "in favor of the rules for wearing face masks"
+        },
+        {
+          "key": "B",
+          "text": "in favor of the facial recognition technology"
+        },
+        {
+          "key": "C",
+          "text": "against the wide use of facial recognition"
+        },
+        {
+          "key": "D",
+          "text": "against the requirements for wearing face masks"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】评论 1 似乎是______。\n文中说“摆脱大流行的一件好事。大规模监视是胡扯。是时候将口罩与太阳镜配对以发挥决定性的\n作用了。”可以推断出评论 1 是在赞成戴口罩的规则,所以选 A 项。\nA.赞成戴口罩的规则 ,B.支持面部识别技术 C.反对广泛使用面部识别 D.反对戴口罩的要求",
+      "score": 1
+    },
+    {
+      "id": "e2020-q44",
+      "sectionType": "reading",
+      "passageId": "e2020-p5",
+      "seq": 44,
+      "stem": "Which comment views the current facial recognition technology with contempt?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 2"
+        },
+        {
+          "key": "B",
+          "text": "Comment 3"
+        },
+        {
+          "key": "C",
+          "text": "Comment 4"
+        },
+        {
+          "key": "D",
+          "text": "Comment 5"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】哪些评论对当前的面部识别技术持鄙视态度?\n评论 2 观点“戴上足以掩盖口鼻的口罩会导致一些最广泛使用的面部识别算法的错误率急剧上升。\n垃圾技术!万万没想到。”所以答案为选项 A,观点 2。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q45",
+      "sectionType": "reading",
+      "passageId": "e2020-p5",
+      "seq": 45,
+      "stem": "Which of the following is positive about the future technological advance?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 2 and Comment 3."
+        },
+        {
+          "key": "B",
+          "text": "Comment 1 and Comment 4."
+        },
+        {
+          "key": "C",
+          "text": "Comment 3 and Comment 5."
+        },
+        {
+          "key": "D",
+          "text": "Comment 4 and Comment 5."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节理解\n【解析】以下哪项对未来的技术进步是积极的?\n评论 1 赞成戴口罩的规则\n评论 2 对当前的面部识别技术持鄙视态度\n评论 3 某些国家已经在使用步态分析是有原因的。面部识别太容易被阻止或愚弄。\n评论 4 随着 AI 的发展,将会有一条出路。\n评论 5 人工智能正在变得越来越好\n综上可以得到评论 4 和评论 5 是积极的态度,答案选 D。\n【参考译文】\n面罩是抵御 COVID-19 传播的最佳防御方法之一,但是其日益普及的使用具有第二种意想不到的\n效果:打破面部识别算法。\n美国国家标准技术研究院(NIST)进行的一项研究发现,戴上口罩充分覆盖口和鼻会导致一些最\n广泛使用的面部识别算法的错误率上升到 5%至 50%之间。与蓝色面具相比,黑色面具更容易引起错\n误,并且面具遮盖的鼻子越多,算法发现它来识别面部的难度就越大。\n10\n报告的作者和 NIST 计算机科学家说:“我们需要了解人脸识别技术如何处理蒙面人脸。” “我们首\n先关注的是戴大口罩的受试者可能会对大流行病之前开发的算法产生影响。今年夏天晚些时候,我们\n计划测试考虑到戴面具的人故意开发的算法的准确性。 ” 诸如 NIST 测试的面部识别算法通过测量目标面部特征之间的距离来工作。遮罩会删除大部分这些\n功能,从而降低了这些算法的准确性,尽管有些功能仍然存在。这与面部识别在 iPhone 上的工作方式\n稍有不同,例如,iPhone 使用深度传感器提供额外的安全性,从而确保不会通过向相机显示图片来欺\n骗算法(在 NIST 场景中不存在这种危险)关注于)。\n评论 1\n好吧,这是摆脱大流行的一件好事。大规模监视是胡说八道。是时候将口罩与太阳镜配对以发挥\n决定性的作用了。\n评论 2\n“戴上足以掩盖口鼻的口罩会导致一些最广泛使用的面部识别算法的错误率急剧上升”垃圾技术!\n我永远不会猜到。\n评论 3\n某些国家已经在使用步态分析是有原因的。面部识别太容易被阻止或愚弄。\n评论 4\n很快他们将要做...分析。随着 AI 的发展,将会有一条出路。\n评论 5\n不过,人工智能正在变得越来越好,所以很快就没关系了。就像即使在 CCTV 录像中也可以挑选\n出亲戚或密友一样,人工智能也是如此。您的身高,步行步态,举止,声音,耳朵,衣服等,全都加\n在一起。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q46",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "other"
+        },
+        {
+          "key": "B",
+          "text": "the others"
+        },
+        {
+          "key": "C",
+          "text": "others"
+        },
+        {
+          "key": "D",
+          "text": "another"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查词的辨析。\n【解析】这一句紧接着上一句讲英国其他的乡村环境并不如人们想象的这样美好。同时\n“some...others...”表示“有些......另一些......”因此选 C 项, others=other +复数名词,泛指部分。\n【误项排除】A 项 other:其他的,另外的;B 项 the others:两者中的;D 项 another:又一,另一;\n另外的。文章中需要一个具有名词性的代词,因此该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q47",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "famous"
+        },
+        {
+          "key": "B",
+          "text": "beautiful"
+        },
+        {
+          "key": "C",
+          "text": "secure"
+        },
+        {
+          "key": "D",
+          "text": "popular"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查形容词的辨析。\n【解析】这一句是讲述小镇和乡村生活变得越来越流行,有更多的空间和可以设置花园,因此选\nD 项 popular:流行的。\n【误项排除】A 项 famous:著名的;B 项 beautiful:漂亮的;C 项 secure:安全的,该三项不符\n合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q48",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "declining"
+        },
+        {
+          "key": "B",
+          "text": "growing"
+        },
+        {
+          "key": "C",
+          "text": "solved"
+        },
+        {
+          "key": "D",
+          "text": "involved"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】空格所在句子说问题在增长。根据语境和搭配选 B 项 growing:“增长”合适。同时也和上\n面一空的流行形成呼应,越来越流行,随着而来问题增大。\n【误项排除】A 项 declining:下降;衰退;C 项 solved:解决;解答;D 项 involved:涉及;使参\n与,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q49",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "far"
+        },
+        {
+          "key": "B",
+          "text": "short"
+        },
+        {
+          "key": "C",
+          "text": "remote"
+        },
+        {
+          "key": "D",
+          "text": "long"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查形容词的辨析。\n11\n【解析】空格后面说住在乡村去城市上班。由此可见应该是远距离的。与 distance 搭配因此选 D\n项 long:长的,远的。\n【误项排除】A 项 far 远的;久远的,一般与 away 搭配表示距离远;B 项 short 短的;不足的;C\n项 remote 遥远的;偏僻的,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q50",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "like"
+        },
+        {
+          "key": "B",
+          "text": "as"
+        },
+        {
+          "key": "C",
+          "text": "for"
+        },
+        {
+          "key": "D",
+          "text": "to"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查介词使用。\n【解析】此处考查的是小乡村早上的交通像大城市一样拥堵,我们选 A 项 like:像,如同。\n【误项排除】B 项 as 像,如同;当……时,一般和 as well as 连用表示像;C 项 for 因为;D 项 to\n朝;位于……,该三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q51",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "arise"
+        },
+        {
+          "key": "B",
+          "text": "emerge"
+        },
+        {
+          "key": "C",
+          "text": "continue"
+        },
+        {
+          "key": "D",
+          "text": "disappear"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】文中说的如果每个人都搬往乡村,那么乡村的宁静将会消失。因此选 D 项 disappear 消失。\n【误项排除】A 项 arise 出现;上升;B 项 emerge 浮现;C 项 continue 继续,延续,该三项不符\n合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q52",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "developing"
+        },
+        {
+          "key": "B",
+          "text": "bringing"
+        },
+        {
+          "key": "C",
+          "text": "causing"
+        },
+        {
+          "key": "D",
+          "text": "creating"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】解此题准确把握上下文逻辑关系很重要。上文讲人们离开城市城镇去逃脱交通拥挤问题,\nBut 表示转折,说明是不好的,与此同时也会带来问题。因此选 B 项 bring:带来;提供;引起。\n【误项排除】A 项 developing 发展;成长;C 项 causing 产生,导致;D 项 creating 创造,该三项\n不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q53",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "parts"
+        },
+        {
+          "key": "B",
+          "text": "places"
+        },
+        {
+          "key": "C",
+          "text": "cities"
+        },
+        {
+          "key": "D",
+          "text": "blocks"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词的辨析。\n【解析】空气污染会越来越严重,在英格兰的大部分地区,不仅仅是伦敦的大部分地区,选 A 项\nparts 部分。伦敦本来就是个城市,应该是伦敦的大部分地区\n【误项排除】B 项 places 地点;位置;C 项 cities 城市;D 项 blocks 街区;积木。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q54",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "fear"
+        },
+        {
+          "key": "B",
+          "text": "plan"
+        },
+        {
+          "key": "C",
+          "text": "hope"
+        },
+        {
+          "key": "D",
+          "text": "vision"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词的辨析。\n【解析】与未来搭配,根据选项和逻辑语义,应该选择 C hope 希望\n【误项排除】A 项 fear 害怕,恐惧;B 项 plan 计划;D 项 vision 视力;美景。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q55",
+      "sectionType": "cloze",
+      "passageId": "e2020-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "more"
+        },
+        {
+          "key": "B",
+          "text": "less"
+        },
+        {
+          "key": "C",
+          "text": "much"
+        },
+        {
+          "key": "D",
+          "text": "few"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查前后呼应。\n【解析】人少了,环境污染也会少 ,因此选 B 项 less 更少。\n【误项排除】A 项 more 更多;C 项 much 多;D 项 few 少,该三项不符合原文。\n【参考译文】\n英国乡村有一种经典的景象。人们想象乡村的生活是缓慢而平静的;没有交通堵塞,没有污染,没\n有犯罪。在某些地方,这是事实;但在其他国家却不是这样。\n小城镇和村庄变得越来越受欢迎;人们有了更多的空间,大多数房子都有花园。但问题正在增加。\n很多人想住在农村,在城市工作;所以越来越多的人每天长途旅行,去工作。当然他们不用公共汽车或\n火车;他们使用汽车。小村庄现在早上也有交通问题,就像大城市一样!\n问题很复杂!如果每个人都搬到农村去,农村的宁静就会消失!人们离开城市和大城市,以逃避城市\n问题;但越来越多的是,他们也带来了自己的问题。在温暖的夏天和寒冷的冬天,空气污染不仅仅是伦\n敦,在英格兰南部的大部分地区都是一个大问题。\n也许未来还有希望。英国人口很快就会停止增长。大约从 2030 年开始,它可能会开始下降。100\n年后,英国的人口将比今天少——可能少 200 万。毫无疑问,污染也会减少;到那时,石油和汽油可能\n会变得稀缺。\n12",
+      "score": 1
+    },
+    {
+      "id": "e2020-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A. eating  ____  meals at regular times",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "connected"
+        },
+        {
+          "key": "B",
+          "text": "healthy"
+        },
+        {
+          "key": "C",
+          "text": "immune"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】eating ___meals 动宾结构,需要一个形容词修饰 meals,B 项 healthy:健康的,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B. can also impair our  ____  system function",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "connected"
+        },
+        {
+          "key": "B",
+          "text": "healthy"
+        },
+        {
+          "key": "C",
+          "text": "immune"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据选项和空格前后,system 系统需要一个形容词修饰,可知 C 项:免疫的,符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. are  ____  to the body clock",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "connected"
+        },
+        {
+          "key": "B",
+          "text": "healthy"
+        },
+        {
+          "key": "C",
+          "text": "immune"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】be connected to 和…….有关,固定搭配,因此 A 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p7",
+      "seq": 59,
+      "stem": "（第 59 空）A lack of quality sleep not only affects how we feel during the daytime, but  ____  ,which is vital in protecting us from common viral illnesses. Efforts needed to sleep w…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "connected"
+        },
+        {
+          "key": "B",
+          "text": "healthy"
+        },
+        {
+          "key": "C",
+          "text": "immune"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据前后文段语义,缺少睡眠不仅会影响我们的日常,还会影响我们的免疫系统功能,\nnot only……but also……因此根据语义和语法结构选择 B。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…illnesses. Efforts needed to sleep well that include following a sleep routine,  ____  and not drinking too much coffee. All of these things are really interconnected in term…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "connected"
+        },
+        {
+          "key": "B",
+          "text": "healthy"
+        },
+        {
+          "key": "C",
+          "text": "immune"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】and 并列连词,前后语句形式一致,following a sleep rountine, ____ and not drinking too much\ncoffee,可知 A 项 eating healthy meals at regular times 与前后并列,正确",
+      "score": 1
+    },
+    {
+      "id": "e2020-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…these things are really interconnected in terms of their function. All of them  ____  . The body is like an orchestra where there's an orchestra leader that's sort of the ma…",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "connected"
+        },
+        {
+          "key": "B",
+          "text": "healthy"
+        },
+        {
+          "key": "C",
+          "text": "immune"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】很显然这里缺少谓语结构,只剩下 C 项,代入题中,他们都和生物钟有关,前后语言呼\n应,因此正确。\n【参考译文】\n缺乏高质量的睡眠不仅会影响我们白天的感觉,还会损害我们的免疫系统功能,而免疫系统功能\n对保护我们免受常见病毒疾病至关重要。要想睡得好,你需要努力做到以下几点:有规律的睡眠,有规\n律的饮食,不要喝太多的咖啡。所有这些东西在功能上都是相互联系的。所有这些都与生物钟相连身\n体就像一个管弦乐队,有一个管弦乐队指挥,他是主要的计时器,但是其他人一起演奏他们优化他们\n所做的。\nText two\n【文章介绍】本文主要讲亲密的友谊对人生活的意义。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A. true happiness  ____  that we have it in our lives",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "share"
+        },
+        {
+          "key": "B",
+          "text": "demands"
+        },
+        {
+          "key": "C",
+          "text": "force"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处选 B 项 demands, 表明真正的幸福要求我们在生活中拥有它,其余二项语义不符。\n如果选不出,可以先做后二题,先易后难,采取排除法。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B. they freely  ____  their ups and downs",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "share"
+        },
+        {
+          "key": "B",
+          "text": "demands"
+        },
+        {
+          "key": "C",
+          "text": "force"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格后面 ups and downs:快乐和忧伤,按照语义应该是分享快乐和忧伤,因此选择 A。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C. as it is a driving  ____  in our nature",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "share"
+        },
+        {
+          "key": "B",
+          "text": "demands"
+        },
+        {
+          "key": "C",
+          "text": "force"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】driving force 固定词组:驱动力,推动力",
+      "score": 1
+    },
+    {
+      "id": "e2020-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p8",
+      "seq": 65,
+      "stem": "（第 65 空）…is to connect with others. We have done this since the  10 10 beginning of time  ____  . Close intimate friendships fill that need. There is simply no replacement for this in…",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "share"
+        },
+        {
+          "key": "B",
+          "text": "demands"
+        },
+        {
+          "key": "C",
+          "text": "force"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处为原因状语,解释为什么一出生就会与他人联系。我们从一开始就这样做,因为这\n是我们本性的驱动力,因此选择 C 项。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…replacement for this in our lives. You can't buy it, borrow it or steal it, but  ____  . Experts found that people who can name several close, supportive friends-friends with…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "share"
+        },
+        {
+          "key": "B",
+          "text": "demands"
+        },
+        {
+          "key": "C",
+          "text": "force"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前的一直在重复 it, You can't buy it, borrow it or steal it, but____ 说明是并列句,和 it 有\n关,所以选项中只有 A 包含,代入检测: 你买不到它,借不到它,也偷不到它,但真正的幸福要求\n我们在生活中拥有它。符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…nd that people who can name several close, supportive friends-friends with whom  ____  —live with greater health and happiness.",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "share"
+        },
+        {
+          "key": "B",
+          "text": "demands"
+        },
+        {
+          "key": "C",
+          "text": "force"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此题是三个题中最容易的一个,空格前面 friends with whom 和朋友,按照逻辑,应该是\n和朋友一起分享快乐和喜悦,因此选择 B,\n13\n【参考译文】\n作为人类,我们最基本的需求之一就是与他人建立联系。我们从一开始就这样做,因为这是我们\n本性的驱动力。亲密的友谊填补了这种需要。在我们的生活中,没有任何东西可以替代它。你买不到\n它,借不到它,也偷不到它,但真正的幸福要求我们在生活中拥有它。专家发现,能说出几个亲密、\n相互支持的朋友——可以自由分享生活起伏的朋友——的人生活得更健康、更快乐。。\nText three\n【文章介绍】本文主要讲述了微型技术未来将会普及我们的生活",
+      "score": 1
+    },
+    {
+      "id": "e2020-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 68,
+      "stem": "（第 68 空）A. will adjust themselves for your  ____  and comfort",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】很显然空格处缺少和 comfort 舒适同类型的形容词,选项中只有 D 项符合",
+      "score": 1
+    },
+    {
+      "id": "e2020-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 69,
+      "stem": "（第 69 空）B. will  ____  the way we live in astonishing ways",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】考查固定搭配和词义辨析,形成某种生活方式可以 form,shape,结合 70 题,可知 B 项\n符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 70,
+      "stem": "（第 70 空）C. mimicked human  ____  and thinking",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】模仿人类思考和外形(的机器人)。shape 做名词,多指事物的形状,如果说是人的外形,\n则应该用 form,可知 C 项符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 71,
+      "stem": "（第 71 空）D. gains a truer glimpse of our robotic  ____ ",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】缺少名词,对机器人的未来有了真实的了解 ,因此选 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…robots. The old science-fiction notion of a robot pictured a large machine that  ____  . But a visitor to the Artificial Intelligence Laboratory at Cambridge 73 . In this mic…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据前后语境,介绍的是机器人,应该是有着人类的形状和思考。因此选择 C 项",
+      "score": 1
+    },
+    {
+      "id": "e2020-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…that 72 . But a visitor to the Artificial Intelligence Laboratory at Cambridge  ____  . In this microworld, scientists and engineers are building new machines in other field…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】前面讲的是古老的科幻小说中的机器人介绍,那么后面讲的是剑桥大实验室对机器人的\n介绍,这种介绍应该是更加真实的,所以选 D 项。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…and aerospace. Soon, you'll be driving smart car and living in smart home that  ____  . It is already clear that our tiny new tools 75 . By \"thinking small,\" scientists and…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据使用智能汽车、智能家居,它们会根据你的安全和舒适自我调整。因此选择 A 项。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2020-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…and living in smart home that 74 . It is already clear that our tiny new tools  ____  . By \"thinking small,\" scientists and dreamers are enlarging and enriching the future f…",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "future"
+        },
+        {
+          "key": "B",
+          "text": "shape"
+        },
+        {
+          "key": "C",
+          "text": "form"
+        },
+        {
+          "key": "D",
+          "text": "safety"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】微型新工具会形成一个新的生活方式,选择 B 项。\n【参考译文】\n微型技术是未来机器人的关键。古老的科幻小说中关于机器人的概念描绘了一个模仿人类形态和\n思维的大型机器。但剑桥大学人工智能实验室的参观者可以更真实地看到我们机器人的未来。在这个\n微观世界里,科学家和工程师们正在建造其他领域的新机器,如医学和航空航天。很快,你就会开着\n智能汽车,生活在智能家居中,它们会根据你的安全和舒适自我调整。很明显,我们的微型新工具将\n以惊人的方式改变我们的生活方式。通过“从小处着眼”,科学家和梦想家们正在扩大和丰富我们所有\n人的未来。",
+      "score": 1
+    },
+    {
+      "id": "e2020-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nPersonality is the pattern of thoughts, feelings and behaviors unique to a person. People tend to think of\npersonality as fixed. But according to psychologists, that's not how it works. Personality is a developmental\nphenomenon. It's not just a static thing that you're stuck with and can't get over. That's not to say that you're a\ndifferent person each day you wake up. In the short term, change can be nearly imperceptible. Longitudinal\nstudies, in which researchers survey the personalities of participants regularly over many years, suggest that\nour personality is actually stable on shorter time scales.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "个性是一个人特有的思维、感觉和行为模式。人们往往认为个性是固定不变的。但是心理学家表\n示并非如此。个性是一个发展的现象。它不是一个一成不变、摆脱不了的静态事物。这不是说你每天\n早上醒来都是一个不同的人。短期来看,改变几乎是察觉不到的。在延续多年的纵向研究中,研究人\n员对参与者的个性进行了定期调查。结果显示,实际上我们的个性在较短时间内是稳定的。\n\n14",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2020-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a compo osition in no less than 150 words on th topic: The benefits and the dis- advantages ofonline learning ? You could write according to the clues given below. Write your composi- tion\non the Answer Sheet. As the coronavirus(COVID19) pandemic seems to be here to stay, we perhaps have to choose online\ninstruction sometimes. The mode of instruction and learning may have its Advantages, but...",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "Benefits and Disadvantages of Online Learning\nNowadays, with the development of internet technology, there is a growing trend of online education. Whether adults or children, they are all willing to study through online education. My views on online\neducation are as follows. On one hand, I think that there are some advantages in online education. Firstly, the timetable of online\neducation is flexible, and we can select appropriate study time. Secondly, it isn’t limited by space, so we can\nget online education everywhere, especially under the special circumstances of COVID-19 pandemic in 2020. On the other hand, some disadvantages of online education are also obvious. First of all, it works under the\ncondition of good network. If we are in a worse network place, we cannot study online smoothly. Then, online\neducation restrains students from communicating with teachers face to face, and if we want to ask for\nteacher’s help, they cannot respond to us quickly. In a word, every coin has two sides. We may as well make full use of merits of online education and\navoid its demerits, so that we can gain what we need.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

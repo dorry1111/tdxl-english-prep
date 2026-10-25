@@ -1,0 +1,14 @@
+# tdxl-pwa：PWA 静态站 + WebDAV 同源反代
+# 部署位置：飞牛 NAS（fnOS Docker / Compose）
+# 说明：NAS 上的存储卷路径以实际为准（fnOS 一般为 /vol<n>/业务/...），
+#       部署脚本 deploy/deploy-nas.mjs 会用 fnos-cli 探明后再写入真实路径。
+services:
+  tdxl-pwa:
+    image: nginx:alpine
+    container_name: tdxl-pwa
+    ports:
+      - "8100:80"
+    volumes:
+      - /vol1/业务/tdxl-pwa/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - /vol1/业务/tdxl-pwa/html:/usr/share/nginx/html:ro
+    restart: unless-stopped

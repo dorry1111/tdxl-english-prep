@@ -1,0 +1,2321 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2018 年同等学力人员申请硕士学位英语水平全国统一考试试题",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2018-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "Alice Paul Tapper was on a fourth-grade field trip last year when she noticed something that bothered her. The girls were standing in the back of the room, listening politely as the guide spoke. The boys crowded\ntogether in the front. They raised their hands to respond to questions, even if they didn't know the answer. Alice, 10, often doesn't raise her hand in class, even if she's pretty sure she knows the answer. She's\nnervous she'll get it wrong and feel embarrassed. On that field trip, she figured a lot of other girls were\nprobably keeping quiet, too. Alice told her mom what she saw. They talked about how girls are often told to be quiet and polite, while\nboys are encouraged to be bold and assertive. Alice and her mom talk about that kind of thing a lot. She wants\nboys and girls to have the same opportunities. \"Girls are important, and their ideas are important,\" Alice says. \"They should be heard. \" Alice's mom is the leader of Alice's Girl Scout troop,in Washington, D.C. She and Alice brought the\nissue up at their next Girl Scout meeting. Alice found she was right. The other girls said they, too, sometimes\nhesitated to raise their hands, and they worried that this could hold them back in life. Alice wanted to change\nthat. If a girl raises her hand, it's one step toward becoming a great leader, \" she says. Alice's troop decided to ask the Girl Scouts organization to create a new patch. The new patch was\nintroduced in October 2017. It is called the Raise Your Hand patch. To earn it, a girl has to do three things. She must pledge to raise her hand in class when she thinks she knows the answer--even if she's not 100% sure. She must recruit three girls to make the same pledge. And she must talk about how raising her hand makes her\nfeel. So far, more than 5,400 girls have earned the Raise Your Hand patch. They live in every state in the U.S., plus Canada, the United Kingdom, Australia, and Ireland. \"Girls are powerful,\" Alice says. \"They should raise\ntheir hands so they can release the power inside them.\""
+    },
+    {
+      "id": "e2018-p2",
+      "sectionType": "reading",
+      "order": 2,
+      "content": "Stephen Hawking was born on 8 January. 1942 and grew up in St Albans,the eldest of four brothers and\nsisters. His father was a research biologist and his mother a medical research secretary, so it was not surprising\nthat he was interested in science. As a student he was drawn to physics and maths as he believed they offered\nthe most fundamental insights into the world. But nothing marked him out as special from his classmates or in\nhis first term at Oxford University. Stephen got first in Physics from Oxford, and started a PhD at Cambridge. His own private universe\nexpanded when he proposed to his future wife. Jane was also from St Albans , and was a modern languages\nundergraduate. She had met Hawking at a New Year's party, before his diagnosis. The couple decided to marry\nquickly, because they did not know how long Stephen bad to live. As Stephen's health deteriorated, he took to\nwalking with stick. Hawking escaped the limits of his disability by training his mind to work in a new way. As he started to\nlose the use of his limbs, he developed a way of visualizing problems in his mind to reach a solution instead of\nby writing equations .Some of his colleagues have suggested that this way of thinking has led to his greatest\ndiscoveries. Hawking was now working on one of science's most bizarre ideas-black holes, an extreme\nprediction of Einstein's general theory of relativity. Hawking's work on black holes helped prove the idea of a \"Big Bang\" at the birth of the Universe. Developed in the 1940s, Big Bang theory was still not accepted by all scientists. Working with mathematician\nRoger Penrose, Hawking realized that black holes were like the Big Bang in reverse—and that meant the\nmaths he'd used to describe black boles also described the Big Bang. It was a key moment in showing the Big\nBang really happened. As his body deteriorated, Hawking's career was taking off."
+    },
+    {
+      "id": "e2018-p3",
+      "sectionType": "reading",
+      "order": 3,
+      "content": "Imagine that you're a fly. You're just looking for a place to rest,when you see a nice pink leaf. That looks\nlike a nice place to land. As you rest your feet on the leaf, you notice something strange .This leaf is hairy. You begin to make your move, but you trigger the plant's reaction. Snap! In one-tenth of a second, you are\ncaught in the Venus flytrap. You will be digested in five to twelve days. Out of about 391,000 plant species in the world, only 600 or so are carnivorous. We call them this\nbecause they attract, trap,and eat bugs. Like other plants, they get energy from the sun. But unlike other\nplants, they get their nutrients from their prey (猎物).Carnivorous plants live in places where the soil lacks\nnutrients. Most plants get nutrients from the soil. Carnivorous plants have turned to other sources. Pitcher plants trick their prey into landing on them. They offer nectar (花蜜)bribes to the foolish insects\nthat would take them. True to their name, pitcher plants have deep chambers. Their landing surface is slippery. They have inward pointing hairs, making it hard to escape. The fly lands on the pitcher plant to eat but slips\ninto a pit filled with digestive fluids. Corkscrew plants have inviting stems. Curved hairs line the inside of these stems. These hairs allow\ninsects to go up the stems, but not back. Going forward leads to the plant's stomach. Bugs who wander into\nthe corkscrew plant find that they are unable to escape. They must march to their own death. And then there are the bladderworts. They live in water and float near the surface. Their traps are like\nsmall bladders(囊状物)hidden beneath the water. Only their flowers are visible from the surface. When bugs\nswim into the trigger hairs, the plant reacts. The bladder sucks up the prey and the water surrounding it. The\nprey will be digested within hours."
+    },
+    {
+      "id": "e2018-p4",
+      "sectionType": "reading",
+      "order": 4,
+      "content": "Serenity (宁静)is difficult to find in today's fast-paced world. A moment of complete calm seems to be a\nrare and wonderful find. For me, those precious moments occur on a boat. As legendary sailor Vito Dumas\nonce said: \"It's out there at sea that you are really yourself.\" On deck, enjoying awe-inspiring views, the cares\nof everyday life blown away on the sea breeze, you can appreciate his point. Flying is a misery. From airport chaos to the confined space of an aircraft, nothing about commercial\naviation appeals to my sense of adventure—or comfort. Favouring boat travel isn't just about managing flight\nfear, though. Whether I'm on a short ferry crossing or a cruise, the sea provides a true sense of travel, from the\nimpressive physical shift of a ship leaving port to its navigation of the open water. \"We are tied to the\nocean,\"John F. Kennedy said. As my ship steers towards an exciting new destination, I feel that affinity. And I'm not alone. \"The journey is part of the holiday,\"says travel writer Helen Ochyra. I'll stand out on\ndeck, whatever the weather, and watch the ropes being untied, the boat slipping away from the dock and the\nlandscape drifting farther and farther away.\" Tom Bourlet,founder of the Spaghetti Traveller blog, agrees\": On a plane,it's difficult to make out much\nmore than grassland; on the ferry, there is something exciting about seeing land slowly getting closer.\" For Cathy Winston, travel editor, it's about the sense of adventure .\"Even on a fairly simple journey from\nA to B, she says, \"wide wide, open sea makes it feel like you could be off to discover new lands. There's a\ncertain romance you don't get on a plane or on a motorway.\" Winston also values the family-friendly aspects\nof sea travel. \"There's something so relaxing about being on the water, especially with kids,\" she says. Whether it's for kid-happy convenience or sheer romance, boats will always be the preferred mode of\ntransport for many travelers. A boat gets me where I want to go, avoiding the rush—and terror— of air travel. And out on the waves, as reality melts away, I always rediscover my own passion for the sea."
+    },
+    {
+      "id": "e2018-p5",
+      "sectionType": "reading",
+      "order": 5,
+      "content": "and comments are followed by questions or unfinished statements, each with four suggested answer A,B,C and\nD. Choose the best answer and mark your answer on the Answer Sheet. At SXSW, the tech and culture conference in Austin, London Mayor Sadiq Khan criticized big tech\ncompanies and regulators for failing to stem the spread of hate, misinformation and radical viewpoints online. The mayor said that governments have been in \"dereliction of duty\" when it comes to passing regulations\nto combat the ways technology has negatively affected society. \"One of the biggest problems over the last\nfew years is that politicians and governments have just been passive—sitting on their hands—while the tech\nrevolution has happened around them,\"Khan said in his remarks. Ultimately, he said, it's up to governments to work with technology businesses and leaders to make sure\nthat technological advancement has the proper checks. Social media firms are already under new regulatory pressure in Europe, thanks to German laws enacted\nin January that will fine companies that don't take down problematic content within 24 hours of it being\nreported. Khan did not call for this type of regulation but warned that even stricter regulation could be on its way if\ncompanies don't respond to government concerns.\"Ultimately—there must be greater responsibility taken by\nsome tech companies for the impact they're having on the world.\" Comment 1:\nLooking at this from the point of view of \"industry regulation\" is simply flawed. At the core of this, it is\nindividuals who are making choices to \"post\" each and every time. What our society seems to have lost is a\nsense of personal responsibility. Comment 2:\nIt's not exactly easy to implement laws that targets content online. The bigger issue is that law\nenforcement simply doesn't have the resources to act on all these crimes happening on the Internet. Comment 3:\nI agree that technology has failed us in at least one very important way: Twitter, Facebook, etc, published\nand continues to publish untruths and fake \"news\", that some people assume are accurate. They must do\nsomething. Comment 4:\nThe companies at issue promote the content being objected to. That is the content that drives their\nrevenues and profits. So self-regulation just never works without the threat of harsh regulation. Comment 5:\nInformation and Communications Technology (ICT), through its evolution, has generally been perceived\nas beneficial, furthering progress and the common good. But, ICT has not had the foresight to see how the\nevolving industry can produce unintended consequences. It's time for ICT to step up."
+    },
+    {
+      "id": "e2018-p6",
+      "sectionType": "cloze",
+      "order": 6,
+      "content": "who-knows-what. Forks, knives, and spoons all stuck with bits of this and that. At the end of a long day of\nwork, cooking, cleaning, and, for many, negotiating with small children, a couple has to 46 the big\nquestion: Who is going to do the 47 ?\nA recent report on family dynamics suggests that the answer to that question can have a significant\nimpact 48 the health and long lasting of a relationship. The study examined a variety of different\nhousehold tasks, 49_ shopping, laundry and housecleaning, and found that, for women in families, it's more\nimportant to 50 the responsibility of doing the dishes than any other task. Women who wash the vast\nmajority of the dishes themselves report 51 relationship conflict and less relationship satisfaction than\nwomen with husbands 52 help. Women are happier about sharing dish washing 53 than they are about\nsharing any other household task. What is it about dishes? Dan Carlson, assistant professor of family and consumer studies at the\nUniversity of Utah, and the lead author of the study, offers his own observations: \"Doing dishes is gross. 54 , unlike some other household tasks such as cooking or gardening, doing dishes well does not 55\npraises.\""
+    },
+    {
+      "id": "e2018-p7",
+      "sectionType": "short-completion",
+      "order": 7,
+      "content": "A. so plentiful\nB. showered with\nC. exchange rings\nPhrases:\nA. the bride and groom often 56\nB. where the food is 57\nC. the couple is often 58 handfuls of uncooked rice\n\nWedding ceremonies in the United States vary as much as the people do. But many weddings, no matter\nwhere or how they are performed, include certain traditional customs. For instance, 59 at the ceremony. The rings are usually worn on the fourth finger of the left hand, and are exchanged in the middle of the\nceremony. After the ceremony, 60 by friends and family. Rice, as we know, shows productivity and harvest. And\nthen, there is often a party, 61 that it almost takes the attention away from the people."
+    },
+    {
+      "id": "e2018-p8",
+      "sectionType": "short-completion",
+      "order": 8,
+      "content": "A. who\nB. only\nC. the way\nPhrases:\nA.That number 62 increases\nB.they change 63 their brains work\nC.children 64 use too much technology\n\nMore than a third of children under the age of two use mobile media. 65 as children age, with 95%\nof teens 12-17 spending time online. The time spent with technology doesn't just give kids novel ways of doing things; it can lead to\ndistraction and decreased memory. For example, while video games may condition the brain to pay attention\nto multiple stimuli, 66 . Children who always use search engines may become very good at finding information—but not very\ngood at remembering it. In addition, 67 may not have enough opportunities to use their imagination or to\nread and think deeply about the material."
+    },
+    {
+      "id": "e2018-p9",
+      "sectionType": "short-completion",
+      "order": 9,
+      "content": "A. temperature\nB. special\nC. think\nD. other\nPhrases:\nA. have created a 68 technique\nB. 69 of eating the peel\nC.at a freezing cold 70\nD.Similar to 71 countries\n\nIt almost seems too hard to believe, but there is now a banana that has an eatable peel. Most people\nwould never 72 of a banana. However, banana farmers in Japan 73 for growing bananas with a\npeel we can eat.\n\n10\nFarmers in Okayama, in the west of Japan, keep their banana trees 74 of -60°C. The farmers then\nreplant the trees in 27℃ temperatures. The huge change in temperature makes the tree suddenly grow too\nquickly for the peel to fully mature. This makes the skin thin, soft and sweet enough to eat. Bananas are the\nmost popular fruit in Japan. 75 ,Japan imports most of its bananas. About 99% of bananas in Japanese\nstores are imported. The new technique could mean Japanese people eat more home-grown bananas.\nPaper Two(试卷二) (50minutes)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2018-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "（第 1 空）Tina: I'm so glad the weekend's finally here. Lewis: Me too. Imagine!  ____  We've got three days in a row. Tina: So, where’re you going?",
+      "blankIndex": 1,
+      "options": [
+        {
+          "key": "A",
+          "text": "How about you?"
+        },
+        {
+          "key": "B",
+          "text": "Wanna join us?"
+        },
+        {
+          "key": "C",
+          "text": "It's a long weekend."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】通读对话,可知两人是在讨论如何过周末。根据空格处后所述,有连续 3 天的假期(three\ndays in a row),可知这个周末假期相对要长,因此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "（第 2 空）Lewis: I don't have any plan yet. I'll just play it by ear.  ____ ",
+      "blankIndex": 2,
+      "options": [
+        {
+          "key": "A",
+          "text": "How about you?"
+        },
+        {
+          "key": "B",
+          "text": "Wanna join us?"
+        },
+        {
+          "key": "C",
+          "text": "It's a long weekend."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】蒂娜问路易斯周末有什么计划时,路易斯只是随兴而定(play it by ear),还没有计划。而\n空格后,蒂娜说了她们的计划,可以推知此处是路易斯是在问蒂娜打算怎么过周末。因此选 A。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "（第 3 空）Tina:  ____ ",
+      "blankIndex": 3,
+      "options": [
+        {
+          "key": "A",
+          "text": "How about you?"
+        },
+        {
+          "key": "B",
+          "text": "Wanna join us?"
+        },
+        {
+          "key": "C",
+          "text": "It's a long weekend."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】路易斯听了蒂娜的计划,觉得不错,而对话最后路易斯表达了需要考虑下再告知蒂娜,\n可以推知此处是蒂娜在问路易斯要不要加入,因此选 B。\n【参考译文】\n蒂娜:总算到周末了,太开心了。\n路易斯:我也一样。想像一下,这个长周末我们有连续 3 天的假期。\n蒂娜: 所以,你打算去哪?\n路易斯: 目前没有任何计划。我只是随兴而定。你呢?\n蒂娜: 我们打算去山中徒步和露营。\n路易斯: 听起来令人兴奋。\n蒂娜:想加入我们吗?\n路易斯:呣,让我想想。晚点告诉你。\nDialogue Two",
+      "score": 1
+    },
+    {
+      "id": "e2018-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "（第 4 空）Caller: Yes, I'd like to make a flight reservation for the twenty-third of this month. Travel Agent: Okay.  ____ ",
+      "blankIndex": 4,
+      "options": [
+        {
+          "key": "A",
+          "text": "And I'd like the cheapest flight available."
+        },
+        {
+          "key": "B",
+          "text": "What is your destination?"
+        },
+        {
+          "key": "C",
+          "text": "And when will you be returning?"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】订购机票对话场景。根据空缺处后一句:我将飞往芬兰的赫尔辛基。可以推知此处是询\n问目的地,因此选 B。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "（第 5 空）Caller: Well. I'm flying to Helsinki, Finland. Travel Agent: Okay. Let me check what flights are available.  ____ ",
+      "blankIndex": 5,
+      "options": [
+        {
+          "key": "A",
+          "text": "And I'd like the cheapest flight available."
+        },
+        {
+          "key": "B",
+          "text": "What is your destination?"
+        },
+        {
+          "key": "C",
+          "text": "And when will you be returning?"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空缺处后一句打电话人说的:我想乘坐 29 号的飞机回来,可以推知此处是询问往返\n的时间,因此选 C。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "（第 6 空）Caller: Uh, well, I'd like to catch a return flight on the twenty-ninth.  ____ ",
+      "blankIndex": 6,
+      "options": [
+        {
+          "key": "A",
+          "text": "And I'd like the cheapest flight available."
+        },
+        {
+          "key": "B",
+          "text": "What is your destination?"
+        },
+        {
+          "key": "C",
+          "text": "And when will you be returning?"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据对话最后服务人员所述的机票情况及价格仅 980 美元。可知推知此处打电话者想要\n最便宜的机票,因此选 A。\n【参考译文】\n旅行社:自由旅行社,有什么可以帮助你的?\n打电话者:是的,我想预定一张本月 23 号的飞机票。\n旅行社 :好的,你想飞往那里?\n打电话者:呃,我将飞往芬兰的赫尔辛基。\n旅行社:好的,我查一下是否有机票。你往返的时间是什么是时候?\n打电话者:呃,我想乘坐 29 号的飞机回来。嗯,我想要最便宜的机票。\n旅行社:好的,我查一下,呃...... 1070 次航班,从盐湖城飞往纽约,在肯尼迪机场再转机 90 次航\n班从肯尼迪飞往赫尔辛基。仅 980 美元。\n打电话者:好的,就订那个。\n2\nSection B",
+      "score": 1
+    },
+    {
+      "id": "e2018-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "（第 7 空）Trump: Well,  ____  for what we're doing here, Washington, you really need heart, because you're",
+      "blankIndex": 7,
+      "options": [
+        {
+          "key": "A",
+          "text": "I think the big difference is,"
+        },
+        {
+          "key": "B",
+          "text": "What have you done to make this yours?"
+        },
+        {
+          "key": "C",
+          "text": "how they look in the Oval Office."
+        },
+        {
+          "key": "D",
+          "text": "you don't need so much heart. On Donald Trump' s 100th day as U.S. president,he spoke with \"Face the Nation\" host and Chief"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】本题是采访类题材,一问一答的模式,弄清楚提的问题是关键,回答者都是围绕问题而\n展开论述的。根据迪克森的提问:在华盛顿与商业中谈判有什么区别,可知此处是回答该问题,结合\n选项,因此选 A。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "（第 8 空）talking about a lot of people. Whereas business,  ____  You want to make a good deal. Dickerson: Every president makes the Oval Office theirs. 9",
+      "blankIndex": 8,
+      "options": [
+        {
+          "key": "A",
+          "text": "I think the big difference is,"
+        },
+        {
+          "key": "B",
+          "text": "What have you done to make this yours?"
+        },
+        {
+          "key": "C",
+          "text": "how they look in the Oval Office."
+        },
+        {
+          "key": "D",
+          "text": "you don't need so much heart. On Donald Trump' s 100th day as U.S. president,he spoke with \"Face the Nation\" host and Chief"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】特朗普对比了华盛顿谈判与商业谈判,称前者真的得用心考虑,而后者只要做好交易就\n行,可见后者不需要那么费心,结合选项,因此选 D。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "（第 9 空）talking about a lot of people. Whereas business, 8 You want to make a good deal. Dickerson: Every president makes the Oval Office theirs.  ____ ",
+      "blankIndex": 9,
+      "options": [
+        {
+          "key": "A",
+          "text": "I think the big difference is,"
+        },
+        {
+          "key": "B",
+          "text": "What have you done to make this yours?"
+        },
+        {
+          "key": "C",
+          "text": "how they look in the Oval Office."
+        },
+        {
+          "key": "D",
+          "text": "you don't need so much heart. On Donald Trump' s 100th day as U.S. president,he spoke with \"Face the Nation\" host and Chief"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据空格前迪克森所述,每一届总统会把总统办公室变成他们自己的风格。那么刚刚上\n任满 100 天的特朗普又会如何做呢?因此选 B。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "（第 10 空）Guard flag over here. And I said, \"Well, let's see  ____  \"So the flags were up. The picture",
+      "blankIndex": 10,
+      "options": [
+        {
+          "key": "A",
+          "text": "I think the big difference is,"
+        },
+        {
+          "key": "B",
+          "text": "What have you done to make this yours?"
+        },
+        {
+          "key": "C",
+          "text": "how they look in the Oval Office."
+        },
+        {
+          "key": "D",
+          "text": "you don't need so much heart. On Donald Trump' s 100th day as U.S. president,he spoke with \"Face the Nation\" host and Chief"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据特朗普所述,他在总统办公室放置了很多旗帜,而空格处正是他自己所言,想看看\n这么多旗帜在办公室是怎样的景象。因此选 C。\n【参考译文】\n在唐纳德·特朗普任职美国总统满 100 天的时候,《面向全国》的主持人,同时也是华盛顿首席记\n者,约翰·迪根森采访了特朗普。\n迪克森:你觉得在华盛顿与在商业中谈判有什么不同?\n特朗普:嗯,我认为最大的区别是,在华盛顿,在这里我们正在做的这一切,你真的需要用心去\n考虑,因为你涉及的是很多人。而在商业中,你不用花费太多的心思,做好一笔交易就行。\n迪克森: 每一届总统会把总统办公室变成他们自己的风格,你对办公室做了哪些改变?\n特朗普:嗯,做了好些改变。这里挂了许多的旗帜,包括美国国旗, 加拿大海岸巡逻队旗帜。而且\n我说过,“让我们来看看这些旗帜挂在办公室里感觉如何”。这样这些旗帜就被挂起来了。我挂了托马\n斯·杰斐逊的画像。我还挂了安德鲁·杰克逊的画像,因为他们说他的竞选和我的竞选往往互为镜像。因\n此我们做了许多—实际上我们做了许多的工作。总统办公室跟以前相比,有很大不同。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "According to the minister, measures are being taken to introduce more diversity into the education system.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "difference"
+        },
+        {
+          "key": "B",
+          "text": "adversity"
+        },
+        {
+          "key": "C",
+          "text": "unity"
+        },
+        {
+          "key": "D",
+          "text": "variety"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中 diversity 意为多样性。\nA. difference 不同,区别 B. adversity 困境,逆境\nC. unity 统一,一致 C. variety 多样化,种类\n【译文】据部长透露,正在采取措施让教育系统更多元化。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "He would once in a while lose his temper when he found himself involved in an argument.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "rarely"
+        },
+        {
+          "key": "B",
+          "text": "often"
+        },
+        {
+          "key": "C",
+          "text": "occasionally"
+        },
+        {
+          "key": "D",
+          "text": "seldom"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中短语 once in a while 偶尔,有时。\nA.rarely 少见地,很少 B. often 经常\nC. occasionally 偶尔,间或 D. seldom 很少,不常\n【译文】在陷入争吵时,他偶尔会发脾气。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "Intuition is something that cannot be proven, but many people believe in it and use it for decision making.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Instinct"
+        },
+        {
+          "key": "B",
+          "text": "Intelligence"
+        },
+        {
+          "key": "C",
+          "text": "Rationality"
+        },
+        {
+          "key": "D",
+          "text": "Experience"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 intuition 直觉。\nA.instinct 本能,直觉 B. intelligence 智力,智能\nC. rationality 理智,理性 D. experience 经历,经验\n【译文】虽然直觉无法被证实,但很多人仍相信直觉并根据直觉来做决定。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "A global company must be sensitive to the cultures and customs of the countries where it operates.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "patient"
+        },
+        {
+          "key": "B",
+          "text": "generous"
+        },
+        {
+          "key": "C",
+          "text": "emotional"
+        },
+        {
+          "key": "D",
+          "text": "responsive"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 sensitive 敏感的。\nA.patient 耐心的 B. generous 慷慨的\n3\nC. emotional 情绪的 D. responsive 响应的,敏感的\n【译文】跨国公司必须对它所在国家的文化习俗保持敏感。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "At last John Smith stepped down as the company' s CEO and returned to his roots in software research.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "retired"
+        },
+        {
+          "key": "B",
+          "text": "resigned"
+        },
+        {
+          "key": "C",
+          "text": "revived"
+        },
+        {
+          "key": "D",
+          "text": "reacted"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中短语 step down 辞职,退位。\nA. retired 退休 B. resigned 辞职\nC. revived 复活 D. reacted 反应\n【译文】最终,约翰史密斯选择辞去公司首席执行官的职务,回到老本行软件研究领域。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "Immersed in their experiment, they had no idea what happened just outside their lab.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Concentrated"
+        },
+        {
+          "key": "B",
+          "text": "Addicted"
+        },
+        {
+          "key": "C",
+          "text": "Absorbed"
+        },
+        {
+          "key": "D",
+          "text": "Committed"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 immersed 浸入的,专注的。\nA.Concentrated 集中的(后接 on) B. Addicted 上瘾的(后接 to)\nC. Absorbed 专心致志的(后接 in) D. Committed 坚定的(后接 to)\n【译文】他们完全沉浸在实验中,因此对实验室外所发生的事一无所知。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "Last month the government initiated a public debate on the future direction of the sport policy.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "transmitted"
+        },
+        {
+          "key": "B",
+          "text": "followed"
+        },
+        {
+          "key": "C",
+          "text": "promoted"
+        },
+        {
+          "key": "D",
+          "text": "launched"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 initiated 开始,发起。\nA.transmitted 传播,传输 B. followed 跟随\nC. promoted 促进,提升 D. launched 发起\n【译文】上个月,政府发起了一场关于体育政策未来走向的公开讨论。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "My beard started to grow, and I unwillingly complied with the order to shave it off.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "considered"
+        },
+        {
+          "key": "B",
+          "text": "questioned"
+        },
+        {
+          "key": "C",
+          "text": "supported"
+        },
+        {
+          "key": "D",
+          "text": "observed"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中短语 complied with 遵守。\nA.considered 考虑 B. questioned 质疑,提问\nC. supported 支持 D. observed 观察,遵守\n【译文】我开始长胡须了,但是我不愿按要求把它刮掉。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "As the fighting intensified, the chances of any peace deal diminished.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "decreased"
+        },
+        {
+          "key": "B",
+          "text": "changed"
+        },
+        {
+          "key": "C",
+          "text": "disappeared"
+        },
+        {
+          "key": "D",
+          "text": "expanded"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 diminished 减少,变少。\nA. decreased 减少 B. changed 改变\nC. disappeared 消失 D. expanded 扩大\n【译文】随着战争的加剧,签署和平协议的几率降低了。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "However superficially appealing such an idea might appear, it was irrational and reckless.",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "possibly"
+        },
+        {
+          "key": "B",
+          "text": "seemingly"
+        },
+        {
+          "key": "C",
+          "text": "apparently"
+        },
+        {
+          "key": "D",
+          "text": "practically"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】句中词 superficially 表面地。\nA.possibly 可能地 B. seemingly 似乎,看上去\nC. apparently 明显地 D. practically 实际地\n【译文】无论这种想法显得多么吸引人,它仍是鲁莽且不理智的。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q21",
+      "sectionType": "reading",
+      "passageId": "e2018-p1",
+      "seq": 21,
+      "stem": "What bothered Alice on her field trip last year?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "The guide was impolite to the girls."
+        },
+        {
+          "key": "B",
+          "text": "There were more boys than girls."
+        },
+        {
+          "key": "C",
+          "text": "The boys made trouble as the guide spoke."
+        },
+        {
+          "key": "D",
+          "text": "The girls were less responsive than the boys."
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】在去年的野外旅行中,是什么困扰着爱丽丝?\n文章第一段主要描述了在野外旅行中,爱丽丝发现在导游发言时,男生都挤在前面积极回应,而\n女生则在后面倾听。这一现象困扰着爱丽丝,因此此题选 D 项“女生的反应不如男孩子积极”。\n【误项排除】A 项“导游对女生不礼貌”,B 项“男生比女生多”,C 项“导游说话时,男生在捣乱”,\n4\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q22",
+      "sectionType": "reading",
+      "passageId": "e2018-p1",
+      "seq": 22,
+      "stem": "Girls often don't raise their hands in class because they .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "don't know the answer pretty well"
+        },
+        {
+          "key": "B",
+          "text": "don't want to get too much attention"
+        },
+        {
+          "key": "C",
+          "text": "are taught to be quiet and polite"
+        },
+        {
+          "key": "D",
+          "text": "are given fewer chances than boys"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】女生在课程上不经常举手的原因是因为女生什么。\n文章第二段描述了爱丽丝不举手的缘由,第三段爱丽丝跟她妈妈讨论了女生不举手的原因:人们\n常常教导女生要文静礼貌,男生要大胆坚定。这造成了许多女生不举手的现象。因此选 C 项“被教导要\n文静礼貌”。\n【误项排除】A 项“完全不知道答案”,B 项“不想引起太多的关注”,D 项“获得的机会比男生要少”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q23",
+      "sectionType": "reading",
+      "passageId": "e2018-p1",
+      "seq": 23,
+      "stem": "The Raise Your Hand patch was created to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "encourage girls to speak up"
+        },
+        {
+          "key": "B",
+          "text": "improve girls' talent for organization"
+        },
+        {
+          "key": "C",
+          "text": "call for more support from girls"
+        },
+        {
+          "key": "D",
+          "text": "highlight the importance of girls"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】创建“举手”徽章为了什么。\n根据题干,定位到第五段,本段描述了为了获得该徽章,女生要做的三件事,都是鼓励女生要敢\n于发言,说出自己的感受等。因此选 A 项“鼓励女生发言”。\n【误项排除】B 项“提高女生组织才能”,C 项 “呼吁对女生更多的支持” ,D 项“强调女生的重要\n性”这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q24",
+      "sectionType": "reading",
+      "passageId": "e2018-p1",
+      "seq": 24,
+      "stem": "The Raise Your Hand patch .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "has helped girls become leaders 4"
+        },
+        {
+          "key": "B",
+          "text": "is popular in some states in the U.S."
+        },
+        {
+          "key": "C",
+          "text": "is spreading all over the world"
+        },
+        {
+          "key": "D",
+          "text": "has attracted thousands of girls"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】“举手”徽章是什么。\n根据文章最后一段论述,已有 5400 多名女孩获得了“举手” 徽章。她们来自于美国的各个州,还\n有的来自加拿大、英国、澳大利亚和爱尔兰。所以选 D 项“吸引了数以千计的女生”。\n【误项排除】A 项“帮助女生成为领袖”,B 项“在美国的一些州受欢迎”,C 项“传播到整个世界”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q25",
+      "sectionType": "reading",
+      "passageId": "e2018-p1",
+      "seq": 25,
+      "stem": "Which of the following can be the best title of the passage?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "A Show of Hands"
+        },
+        {
+          "key": "B",
+          "text": "A Campaign for Equality"
+        },
+        {
+          "key": "C",
+          "text": "The Girl Scouts Organization"
+        },
+        {
+          "key": "D",
+          "text": "The Story of a New Patch"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】主旨题\n【解析】该篇文章的最佳标题是什么。\n文章主要讲述了爱丽丝在野营活动中,注意到女生举手反应不如男生积极,从而探讨出其深层原\n因是女生应当要文静礼貌,男生要大胆坚定。但爱丽丝不认同,觉得女生是强大的,其想法也是重要\n的,女生也应当积极发言。于是创建了其团队及通过女童子军组织创建了“举手” 徽章,鼓励女生积极\n发言,该活动赢得了全美国人的关注。这是讲了一个关于新徽章的故事,所以选 D 项“新徽章的故事”。\n【误项排除】A 项“举手表决”,B 项“争取平等运动”,C 选项“女童子军组织”,这三项不符合题意。\n【参考译文】\n去年,爱丽丝·保罗·塔珀参加了一次四年级野外旅行的活动,也就在那时,她发现有些事困扰着她。\n在导游发言时,女生们都站在房间后面安静地听着,而男生们都挤在前面,他们举手积极回答问题,\n即使他们不知道答案。\n10 岁的爱丽丝不经常在课堂上举手,即使她对答案很肯定。她紧张自己会出错并感到尴尬。在那\n次户外活动中,她觉得其他女生也很可能跟她一样保持安静。\n爱丽丝把自己看到的告诉了妈妈。她们谈论到,女生经常被要求要文静,要礼貌,然而却鼓励男\n生要大胆和坚定。并且谈论了许多与此相关的的事。爱丽丝想要男生与女生都有同样的机会。爱丽丝\n说:“女孩很重要,她们的想法也很重要,人们应该要听听女生的想法。” 爱丽丝的妈妈是华盛顿地区女童子军的领导。她和爱丽丝在之后的女童子军会议上提出了这件事。\n爱丽丝发现她是对的。其他女孩说她们也有时会犹豫着举手,她们担心这样做会使她们在生活中变得\n畏缩不前。爱丽丝想改变这种状况。“假如女生举手了,这是迈出成功的第一步。”她说道。\n爱丽丝的团队决定请求女童子军组织创建一个新的徽章。该徽章在 2017 年 10 月被采用,它叫“举\n手” 徽章。为了获得该徽章,女生们需要做三件事。一是当她知道答案,即使不能百分之百地确定,\n5\n她必须在班上举手。二是她必须招募三位女生做出同样的承诺。三是她必须说出她举手时的感受。\n到目前为止,已有 5400 多名女生获得了“举手” 徽章。她们来自于美国的各个州,还有的来自加\n拿大、英国、澳大利亚和爱尔兰。“女生们非常强大,” 爱丽丝说。“她们应该举起她们的手,这样才\n能释放出她们内在的力量。”\nPassage Two\n【文章介绍】本文主要阐述了霍金的生平历程,包括他的出生、家庭、所受的教育和身体状况。\n尽管他的身体日益恶化,他对黑洞和宇宙大爆炸的研究仍获得巨大突破。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q26",
+      "sectionType": "reading",
+      "passageId": "e2018-p2",
+      "seq": 26,
+      "stem": "Hawking developed an early interest in science because .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "his brothers and sisters loved it"
+        },
+        {
+          "key": "B",
+          "text": "he took related lessons as a kid"
+        },
+        {
+          "key": "C",
+          "text": "he excelled in maths and physics"
+        },
+        {
+          "key": "D",
+          "text": "his parents influenced him"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】霍金早期对科学感兴趣的原因是什么。\n文章首段说明了霍金父母的职业都与科学相关,使得他对科学感兴趣。因此此题选 D 项“他的父母\n影响了他”。\n【误项排除】A 项“他的兄妹喜欢科学”,B 项“当霍金还是个孩子时,他就开始学习相关的课程了”,\nC 项“他在数学和物理学方面特别优秀”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q27",
+      "sectionType": "reading",
+      "passageId": "e2018-p2",
+      "seq": 27,
+      "stem": "What can be learned about Hawking's wife Jane?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "She and Hawking came from the same place."
+        },
+        {
+          "key": "B",
+          "text": "She and Hawking went to the same school."
+        },
+        {
+          "key": "C",
+          "text": "She married Hawking on New Year's Day."
+        },
+        {
+          "key": "D",
+          "text": "She didn't know of his disease before their marriage."
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】关于霍金的妻子—简,可以得知什么。\n文章第二段阐述了霍金与其妻子简的故事。他们都来自圣奥尔本斯,相识在新年聚会上。\n并在霍金的疾病确诊后,快速结了婚。所以 A 项“她和霍金来自同一个地方”正确。\n【误项排除】B 项“她和霍金在同一所学校上学”,C 项“她和霍金在新年那天结的婚”, D 项“在结\n婚前,她并不知道霍金患病的事”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q28",
+      "sectionType": "reading",
+      "passageId": "e2018-p2",
+      "seq": 28,
+      "stem": "Hawking's self-trained way of working .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "helped the recovery of his health"
+        },
+        {
+          "key": "B",
+          "text": "required a lot of equation writing"
+        },
+        {
+          "key": "C",
+          "text": "relied heavily on mental images 5"
+        },
+        {
+          "key": "D",
+          "text": "was copied by his colleagues"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】霍金自我训练的方式是什么。\n文章第三段描述了霍金因身体疾病的限制,他找到了自我训练思维的方式:通过大脑把问题视觉\n化来获得解决方法。因此此题选 C 项“很大程度上依靠大脑想像画面”。\n【误项排除】A 项“帮助恢复健康”,B 项“要求列写许多方程”,D 项“被他的同事效仿”这三项不符\n合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q29",
+      "sectionType": "reading",
+      "passageId": "e2018-p2",
+      "seq": 29,
+      "stem": "The following statements about the Big Bang theory are true EXCEPT .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Hawking was its founder"
+        },
+        {
+          "key": "B",
+          "text": "it was connected with black holes"
+        },
+        {
+          "key": "C",
+          "text": "Hawking's research supported it"
+        },
+        {
+          "key": "D",
+          "text": "not all scientists agreed with it"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】态度题\n【解析】下面关于“大爆炸”理论的陈述错误的是哪个。\n本题是一道细节题,需要排除三个正确选项后才能得出本题的答案。根据题目所含定位词 the Big\nBang theory 很快定位到本文最后一段。从中不难发现 Hawking’s work on black boles helped prove the\nidea of a \"Big Bang\",Big Bang theory was still not accepted by all scientists 以及 and that meant the maths\nhe'd used to describe black boles also described the Big Bang 分别对应 C、D、B 三项,唯独 A 没有对应的\n叙述。\n【误项排除】B 项“大爆炸”与黑洞有关”,C 项“霍金的研究论证了该理论”,D 项“不是所有的科学\n家都同意这个观点” 这三项在文中均有体现,不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q30",
+      "sectionType": "reading",
+      "passageId": "e2018-p2",
+      "seq": 30,
+      "stem": "As a leading figure in science, Hawking .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "lived for fifty-five years"
+        },
+        {
+          "key": "B",
+          "text": "wrote many best-selling novels"
+        },
+        {
+          "key": "C",
+          "text": "led some organizations for the disabled"
+        },
+        {
+          "key": "D",
+          "text": "fought against his disease most of his life"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】作为科学界的领军人物,霍金是怎么样的。\n全文描述了霍金虽身患重病,但这并没有阻碍他对科学的热爱。即使身体日益恶化,他仍然努力\n克服疾病带来的不便,并致力于科学研究,取得了重大成就。因此此题选 D 项“一生大部分都在与疾病\n抗战”。\n6\n【误项排除】A 项“在世存活了 55 年”,B 项“写了许多畅销小说”,C 项“领导了一些专为残疾人\n士的机构”,这三项不符合题意。\n【参考译文】\n斯蒂芬·霍金出生于 1942 年 1 月 8 日,在圣奥尔本斯长大,他在四兄妹中排行老大。他父亲是一\n位研究生物学家,他母亲在一家医疗研究所担任秘书。可见,霍金对科学感兴趣并不奇怪。在学生时\n代时,霍金就被物理和数学所吸引。在他看来,物理和数学为他了解世界提供了最基本的见解。但是\n在牛津大学第一学期,他跟其他同学一样,并没有什么特别之处。\n斯蒂芬在牛津大学物理专业以第一名毕业,并开始到剑桥大学读博。当他向未来的妻子求婚时,\n他的世界多了一人。简也是来自圣奥尔本斯,是一名现代语言学的大学生。简在一次新年聚会时认识\n了霍金,那个时候,霍金还没被诊断出患病。他们决定尽快结婚,因为他们不知道霍金还能活多久。\n随着霍金的病情恶化,他需要拄着拐杖走路了。\n为了避免身体残疾带来的限制,霍金采用一种新的方式来训练思维。当他的手臂无法使用时,他采用\n了一种新的方式:不再是手写方程式,而是通过大脑把问题视觉化来获得解决方法。他的一些同事认\n为这种思维方式造就了他巨大的发现。霍金现在正致力于研究科学上最奇异的问题之一—黑洞,也是\n对爱因斯坦广义相对论的预测。\n霍金对黑洞的研究证实了宇宙初始“大爆炸”的存在。“大爆炸”理论形成于 20 世纪 40 年代,但仍不\n被科学家们接受。霍金在与数学家罗杰·彭罗斯一起研究时,他意识到黑洞就像反向的大爆炸,这就意\n味着他用来描述黑洞的数学也能描述大爆炸。这对证明大爆炸确实存在是个关键时刻。随着霍金身体\n的恶化,他的职业生涯开始腾飞。\nPassage Three\n【文章介绍】本文主要介绍了几种食肉性植物如捕蝇草、猪笼草、 螺旋狸藻等及其捕食方式。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q31",
+      "sectionType": "reading",
+      "passageId": "e2018-p3",
+      "seq": 31,
+      "stem": "The word \"carnivorous\"(Para. 2) is closest in meaning to \" \".",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "nutritious"
+        },
+        {
+          "key": "B",
+          "text": "bug-eating"
+        },
+        {
+          "key": "C",
+          "text": "plant-eating"
+        },
+        {
+          "key": "D",
+          "text": "attractive"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义题\n【解析】本题问的第二段中的“carnivorous”意思最接近的是哪项。\n文章第二段主要对比了食肉性植物与其它植物,在 carnivorous 词后,就解说了其缘由:他们能够\n迷惑、诱捕并吃掉虫子。因此选 B 项“食虫的”。\n【误项排除】A 项“有营养的”,C 项“食草的”,D 项“有吸引力的”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q32",
+      "sectionType": "reading",
+      "passageId": "e2018-p3",
+      "seq": 32,
+      "stem": "Which statement would the author most likely agree with?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "There are too many species of carnivorous plants."
+        },
+        {
+          "key": "B",
+          "text": "There are too few plant species in the world."
+        },
+        {
+          "key": "C",
+          "text": "Only a small number of plant species are carnivorous."
+        },
+        {
+          "key": "D",
+          "text": "The majority of plants are carnivorous."
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】作者最可能认同的是哪项。\n根据第二段第一句所述:全球约有 391,000 种植物,只有 600 来种植物是食肉性的。因此选 C 项\n“只有少量的植物是食肉性的”。\n【误项排除】A 项“有太多的食肉性植物物种”,B 项“世界上的植物种类太少了”,D 项“大多数指\n物都是食肉性的”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q33",
+      "sectionType": "reading",
+      "passageId": "e2018-p3",
+      "seq": 33,
+      "stem": "Carnivorous plants get their nutrients mainly from .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Other plants"
+        },
+        {
+          "key": "B",
+          "text": "the soil"
+        },
+        {
+          "key": "C",
+          "text": "the sun"
+        },
+        {
+          "key": "D",
+          "text": "their prey"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】食肉性植物的营养主要来源于哪里?\n文章第二段第四句直接陈述了食肉性植物从它们的猎物中获得营养。因此选 D 项“它们的猎物”。\n【误项排除】A 项“其它植物”,B 项“土壤” ,C 项“太阳”, 这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q34",
+      "sectionType": "reading",
+      "passageId": "e2018-p3",
+      "seq": 34,
+      "stem": "Which of the following best expresses the main idea of the third paragraph ?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "There are many studies of carnivorous plants. 6"
+        },
+        {
+          "key": "B",
+          "text": "The pitcher plant tricks bugs into its stomach"
+        },
+        {
+          "key": "C",
+          "text": "The pitcher plant kills its prey in various ways."
+        },
+        {
+          "key": "D",
+          "text": "Some plants attract bugs by offering them nectar."
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】段落归纳\n【解析】第三段大意的最佳表达是哪项。\n第三段描述了猪笼草是如何捕猎的,它通过提供花粉诱使猎物进入到身体里,然后利用自身结构\n的种种特点,最终使猎物滑入其充满消化液的体腔中,而该段的最后一句中的 pit filled with digestive\n7\nfluids 正是该植物的胃 stomach。因此选 B 项“猪笼草引诱虫子进入它的胃部”。\n【误项排除】A 项“食肉性植物的研究有许多”,C 项“猪笼草用多种方式灭掉它的猎物”,D 项“一\n些植物通过提供花粉来诱惑虫子”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q35",
+      "sectionType": "reading",
+      "passageId": "e2018-p3",
+      "seq": 35,
+      "stem": "As can be inferred, the corkscrew's chamber for digestion is located .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "somewhere towards its root"
+        },
+        {
+          "key": "B",
+          "text": "somewhere towards its top"
+        },
+        {
+          "key": "C",
+          "text": "inside its flowers"
+        },
+        {
+          "key": "D",
+          "text": "inside its leaves"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】推断题\n【解析】推断螺旋植物的消化器官位于哪里。\n最后一段描述了螺旋植物是如何捕食的,锁定该段前四句,题目中 chamber of digestion 就等于文\n中的 stomach(同义替换),所以昆虫沿着茎往上爬就会来到 chamber of digestion。由此此题选 B 项“在其\n顶部的某处”。\n【误项排除】A 项“在其根部的某处”,C 项“在它的花朵里”,D 项“在它的叶子里”,这三项不符合\n题意。\n【参考译文】\n想像你是一只苍蝇,你正在寻找一处落脚的地方。当你看到一片粉色的叶子,看似一块可以落脚\n的好地方。当你双脚落在这片叶子上时,你注意到了有些不对劲。这片叶子有毛。当你想要移动时,\n却发现自己引起了这个植物的反应。 喀嚓!不到十分之一秒的时间,你被捕蝇草逮住了,并将在 5 到\n12 天内被消化掉。\n全球约有 391,000 种植物,只有 600 种左右 的植物是食肉性的。我们称之为食肉性植物,是因\n为他们能够迷惑、诱捕并吃掉虫子。和其它指物一样,它们通过太阳获得能量。但又和其它植物不一\n样的是,它们通过猎物获得营养。食肉性植物居住的地方,土壤缺乏营养。许多植物从土壤中获得营\n养,但食肉性植物却不得不转向其它来源。\n猪笼草诱惑猎物着落到它们身上,利用花粉做诱饵,迷惑那些愚蠢的昆虫。正如其名, 猪笼草呈\n深桶型。瓶口表面很光滑,而且它们内部有着粗毛,这让落入的虫子无法逃脱。这只苍蝇被诱落在猪\n笼草上,并滑入了全是消化液的囊中。\n螺旋狸藻有开口的茎,茎中有弯曲的毛发。这些毛发让虫子只能向上爬向树干,但却无法返回。\n向上通向植物的胃。落入螺旋狸藻里的虫子发现自己无法逃脱,它们只能走向死亡。\n还有狸藻类植物。它们生长在水中,漂浮在水面。狸藻的捕食器类似囊状物,隐藏在水下,而在\n水面只能看到它的花。当虫子游近刺毛时,捕虫囊就开始活动了。它随着水流吸食着猎物,猎物将在\n数小时内会被消化掉。\nPassage Four\n【文章介绍】本文主要介绍了海上旅行的优点。相比航空旅行,乘船出行让人心情放松,享受平\n静。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q36",
+      "sectionType": "reading",
+      "passageId": "e2018-p4",
+      "seq": 36,
+      "stem": "Which aspect of sea travel is emphasized in the first paragraph?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Extraordinary view"
+        },
+        {
+          "key": "B",
+          "text": "Complete freedom"
+        },
+        {
+          "key": "C",
+          "text": "Peace of mind"
+        },
+        {
+          "key": "D",
+          "text": "Sense of adventure"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】第一段强调了海上出行的哪一方面。\n文章第一句话就描述了宁静的难得,而作者在海上出行却能感受到这宁静时刻,是多么的珍贵。\n因此选 C 项“心灵的平静”。\n【误项排除】A 项“特别的景致”,B 项“完全自由”,D 项“冒险精神”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q37",
+      "sectionType": "reading",
+      "passageId": "e2018-p4",
+      "seq": 37,
+      "stem": "The word\"affinity\"(Para. 2) is closest in meaning to .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "strong emotion"
+        },
+        {
+          "key": "B",
+          "text": "close connection"
+        },
+        {
+          "key": "C",
+          "text": "sheer excitement"
+        },
+        {
+          "key": "D",
+          "text": "impressive moment"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义题\n【解析】与 affinity 词义最接近的是哪一项。\n文章第二段描述了相比飞行,海上出行让作者感到真实,且约翰·肯尼迪说:“我们与海洋是相连的,\n是一体的。”因此选 B 项“紧密相联”。\n【误项排除】A 项“强烈的情感”,C 项“极度的激动”,D 项“令人难忘的时刻”,这三项不符合题意。\n8",
+      "score": 1
+    },
+    {
+      "id": "e2018-q38",
+      "sectionType": "reading",
+      "passageId": "e2018-p4",
+      "seq": 38,
+      "stem": "Who is deeply impressed while watching the boat leaving the dock?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Helen Ochyra"
+        },
+        {
+          "key": "B",
+          "text": "Vito Dumas"
+        },
+        {
+          "key": "C",
+          "text": "Cathy Winston"
+        },
+        {
+          "key": "D",
+          "text": "John F. Kennedy"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】看着船离港时,谁印象最深刻。\n文章第三段主要是海伦·奥奇拉描述船离港时,自己的感受,因此选 A 项“海伦·奥奇拉”。\n【误项排除】B 项“维托·杜马”,C 项“凯西·温斯顿”,D 项“约翰·肯尼迪”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q39",
+      "sectionType": "reading",
+      "passageId": "e2018-p4",
+      "seq": 39,
+      "stem": "According to Tom Bourlet, sea travel is better than air travel in that it .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "enables people to engage in deeper thought"
+        },
+        {
+          "key": "B",
+          "text": "gives passengers a better chance to relax 7"
+        },
+        {
+          "key": "C",
+          "text": "provides a more comfortable environment"
+        },
+        {
+          "key": "D",
+          "text": "offers a clearer view of the landscape"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】细节题\n【解析】汤姆·布里特认为乘船出行比乘飞机出行要好的原因是什么。\n根据人名,定位到文章第四段,汤姆·布里特认为在船上可以看到越来越近的陆地,让人兴奋。因\n此选 D 项“提供更为清晰的地面风景”。\n【误项排除】A 项“让人陷入深思” ,B 项“给乘客更好的放松机会”,C 项“提供更舒适的环境”,\n这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q40",
+      "sectionType": "reading",
+      "passageId": "e2018-p4",
+      "seq": 40,
+      "stem": "According to the last two paragraphs, sea travel has all the following benefits EXCEPT .",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "being family-friendly"
+        },
+        {
+          "key": "B",
+          "text": "satisfying an adventurous heart"
+        },
+        {
+          "key": "C",
+          "text": "promoting a healthy lifestyle"
+        },
+        {
+          "key": "D",
+          "text": "providing relaxation"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】推断题\n【解析】根据最后两段,下面哪一项不是海上出行的优势。\n整篇文章阐述了海上出行的优点,只有 C 项“提升健康的生活方式”在原文并没有提及。因此选 C。\n【误项排除】A 项“适宜家庭出行”,B 项“满足冒险的心”,D 项“让人放松”,这三项不符合题意。\n【参考译文】\n在现如今快节奏的生活中,很难找到一片宁静。片刻的宁静似乎是罕见且奇妙的。对我来说,最\n珍贵的时刻发生在一艘船上。正如传说中的水手维托·杜马曾说过,“在海上,你才是真正的自己。”在\n甲板上,享受着令人惊叹的景色,海风吹走了每日的烦恼。他的观点值得欣赏。\n飞行是一种痛苦。从喧嚣的机场到空间狭隘的机舱,商业航空并没有什么能吸引我去冒险—或让\n我感到舒适。然而,喜欢乘船出行并不只是因为对飞行的恐惧。不论我是在短途的摆渡船上还是在海\n上航游,海洋给我一种真正的旅行,从船只离港到航向开阔的海域,这种航行令人印象深刻。约翰·肯\n尼迪说:“我们与海洋是一体的。”当我的船驶向一个令人兴奋地新目的地时,我感到了一种亲切感。\n我并不孤单。旅行作家海伦·奥奇拉说:“旅程也是假期的一部分。无论天气如何,我都要站在甲板\n上,观看绳子解开,然后船从码头滑入水中,岸边的风景离我越来越远。” 斯帕盖蒂旅行博客的创始人汤姆·布里特认为,在飞机上很难看清地面,但在船上,看着越来越近\n的陆地是多少兴奋的一件事。\n对于旅行编辑凯西·温斯顿来说,这是一种冒险,即使在从 A 到 B 极为简单的旅行中,宽广的海域\n似乎能让你去探索新的领域。而在船上的这种浪漫,你在飞机上或高速公路上是无法感受到的。温斯\n顿也很重视海上航行带来的友好家庭生活。她说:“在水上,尤其是和孩子在一起,感觉特别放松。” 无论是为了与孩子相处的便利还是纯粹的浪漫,船一直都是许多旅行者喜爱的交通方式。船能把\n我到我想去的地方,避免了飞行时的匆忙和恐惧。在海上,随着现实世界的远离,我总能再次找到自\n己对大海的热情。\nSection B\n【文章介绍】本文主要讲述了伦敦市长在 SXSW 科技文化大会上针对科技公司的监管提出了自己\n的意见。他认为,科技公司对社会影响面大,因此政府和监督机构必须合作,共同解决网络上出现的\n问题。对于市长的发言,有 4 条不同的评论。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q41",
+      "sectionType": "reading",
+      "passageId": "e2018-p5",
+      "seq": 41,
+      "stem": "The word\"dereliction\"(Para. 2) probably means \" \".",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "deliberate neglect"
+        },
+        {
+          "key": "B",
+          "text": "potential abuse 8"
+        },
+        {
+          "key": "C",
+          "text": "constant misjudgment"
+        },
+        {
+          "key": "D",
+          "text": "apparent misunderstanding"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】语义题\n【解析】第二段的 dereliction 是什么意思。\n根据第二段第二句可知,过去几年最大的问题是在科技革命发生时,政客和政府都很\n消极,且是一种袖手旁观的态度。因此此题选 A 项“有意忽视”。\n9\n【误项排除】B 项“潜在滥用”,C 项“持续的错误判断”,D 项“明显误解”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q42",
+      "sectionType": "reading",
+      "passageId": "e2018-p5",
+      "seq": 42,
+      "stem": "What does Khan emphasize with his remarks in the last paragraph?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Strict British regulation"
+        },
+        {
+          "key": "B",
+          "text": "German-style regulatory laws"
+        },
+        {
+          "key": "C",
+          "text": "Government-industry cooperation"
+        },
+        {
+          "key": "D",
+          "text": "Self-regulation of the industry"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】例证题\n【解析】最后一段汗在发言中强调了什么。\n博客最后一段,汗强调如果公司不能回应政府的担忧,他警示将有可能制定更严厉的监管措施。\n因此选 D 项“产业的自我监管”。\n【误项排除】A 项“严厉的英国制度” ,B 项“德式的监管法律”,C 项“政府和行业合作”,这三项\n不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q43",
+      "sectionType": "reading",
+      "passageId": "e2018-p5",
+      "seq": 43,
+      "stem": "According to Comment 1, who is to blame for the spread of misinformation?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Businesses"
+        },
+        {
+          "key": "B",
+          "text": "Individuals"
+        },
+        {
+          "key": "C",
+          "text": "Government officials"
+        },
+        {
+          "key": "D",
+          "text": "Industry leaders"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】推断题\n【解析】评论 1 中,传播错误消息谁应受到责问。\n根据评论 1 可知,从“行业监管”的角度来看,这是有缺陷的。这个问题的核心是个人,是他们选\n择是否“上传”。强调个人的重要性,因此选 B 项“个人”。\n【误项排除】A 项“公司”,C 项“政府官员”,D 项“企业领导”,这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q44",
+      "sectionType": "reading",
+      "passageId": "e2018-p5",
+      "seq": 44,
+      "stem": "Which of the comments favors strict government regulation?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comment 2"
+        },
+        {
+          "key": "B",
+          "text": "Comment 3"
+        },
+        {
+          "key": "C",
+          "text": "Comment 4"
+        },
+        {
+          "key": "D",
+          "text": "Comment5"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】推断题\n【解析】以下哪个评论支持政府严格监管。\n根据评论 4 可知,没有严厉的监管约束,自我监管永远不会起作用。因此选 C 项“评论 4”。\n【误项排除】A 项“评论 2”,B 项“评论 3”,D 项“评论 5”这三项不符合题意。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q45",
+      "sectionType": "reading",
+      "passageId": "e2018-p5",
+      "seq": 45,
+      "stem": "Which comments agree with Khan on the role of tech companies?",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "Comments 1and 4"
+        },
+        {
+          "key": "B",
+          "text": "Comments 2 and 3"
+        },
+        {
+          "key": "C",
+          "text": "Comments 4and 5"
+        },
+        {
+          "key": "D",
+          "text": "Comments 3 and 5"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】推断题\n【解析】以下哪些评论认同汗对于科技公司的看法。\n评论 3 提到 I agree that technology has failed us in at least one very important way......所以本评论是赞\n同汗关于技术公司是虚假信息传播的责任方这一观点的。评论 5 提到 But, ICT has not had the foresight to\nsee how the evolving industry can produce unintended consequences, 即 ICT 未能遇见行业发展导致出现意\n料之外的后果(即虚假信息的传播),故应该对此负责,所以评论 5 表达的观点与汗的观点也是基本一\n致的。\n【误项排除】A 项“评论 1 和 4”,B 项“评论 2 和 3”,C 项“评论 4 和 5”,这三项不符合题意。\n【参考译文】\n在奥斯汀举办的 SXSW 科技文化大会上,伦敦市长萨迪·汗批判了大型科技公司和监管机构,他们\n没能阻止网络上仇恨、错误消息和激进观点的传播。\n该市长说,政府在通过法规来打击科技给社会带来的负面影响是失职的。汗在评论中说到,过去\n几年最大的问题是在科技革命发生时,政客和政府都很消极,且是一种袖手旁观的态度。\n最后,他说政府应该要与科技企业和领导者合作,确保科技进步有合适的检查机制。\n在欧洲,社交媒体公司现已面临新的监管压力。这归功于德国今年 1 月颁布的法律,该项法律将\n对报道出现问题且没有在 24 小时内撤销的公司处以罚款。\n汗并不提倡这类监管,但是如果公司不能回应政府的担忧,他警示将有可能制定更严厉的监管措\n施。最后,由于这些科技公司因其对世界的影响,必定要承当更大的责任。\n评论 1:\n从“行业监管”的角度来看,这是有缺陷的。这个问题的核心是个人,是他们选择是否“上传”。我们\n的社会似乎已经失去了个人责任感。\n评论 2:\n针对网上的内容要实施法律制裁并不容易。更大的问题是,执法部门根本没有资源去处理所有在\n发生中的网络犯罪行为。\n评论 3:\n10\n我认同科技公司至少在一个非常重要的方面让我们失望了:通过推特、脸谱等发布或持续发布不\n实和虚假的新闻,一些人信以为真,他们必须要做些什么。\n评论 4:\n这些有争议的公司推送着不实的内容,而该内容给他们带来收入和利润。没有严厉的监管约束,\n自我监管永远不会起作用。\n评论 5:\n通过演变,信息与通讯科技(ICT)总体被认为是有益的,它推动了进步和共同利益。但是 ICT\n并没有预测到不断发展的产业会如何产生未知的后果。ICT 是时候提升了。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q46",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 46,
+      "stem": "（完形第 46 空）",
+      "blankIndex": 46,
+      "options": [
+        {
+          "key": "A",
+          "text": "make"
+        },
+        {
+          "key": "B",
+          "text": "ask"
+        },
+        {
+          "key": "C",
+          "text": "face"
+        },
+        {
+          "key": "D",
+          "text": "deal"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词辨析\n【解析】首段描述了桌子上的一片狼藉状况,可知夫妻要面临最大的问题就是洗刷。因此 C 项 face\n面临,符合原文。\n【误项排除】A 项 make 使得,B 项 ask 询问,D 项 deal 处理,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q47",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 47,
+      "stem": "（完形第 47 空）",
+      "blankIndex": 47,
+      "options": [
+        {
+          "key": "A",
+          "text": "cooking"
+        },
+        {
+          "key": "B",
+          "text": "laundry"
+        },
+        {
+          "key": "C",
+          "text": "homework"
+        },
+        {
+          "key": "D",
+          "text": "dishes"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词辨析\n【解析】从后文反复出现的 dishes 可知,本文谈论的是洗碗问题,且本题与 50 题后面的 do the dishes\n相呼应,所以 D 项 dishes 餐具,符合原文。\n【误项排除】A 项 cooking 烹饪,B 项 laundry 洗衣,C 项 homework 家务,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q48",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 48,
+      "stem": "（完形第 48 空）",
+      "blankIndex": 48,
+      "options": [
+        {
+          "key": "A",
+          "text": "on"
+        },
+        {
+          "key": "B",
+          "text": "for"
+        },
+        {
+          "key": "C",
+          "text": "to"
+        },
+        {
+          "key": "D",
+          "text": "at"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查介词搭配\n【解析】此处考查的是短语搭配:have an impact on sth,对……有影响。因此 A 项符合题意。\n【误项排除】其它三项,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q49",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 49,
+      "stem": "（完形第 49 空）",
+      "blankIndex": 49,
+      "options": [
+        {
+          "key": "A",
+          "text": "requiring"
+        },
+        {
+          "key": "B",
+          "text": "including"
+        },
+        {
+          "key": "C",
+          "text": "undertaking"
+        },
+        {
+          "key": "D",
+          "text": "organizing"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词辨析\n【解析】此句意为:该报告分析了许多不同的家务:______购物,洗衣和打扫,可见前后是包含\n关系,因此 B 项 include 包括符合原文。\n【误项排除】A 项 require 要求,C 项 undertake 承担,D 项 organize 组织,管理,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q50",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 50,
+      "stem": "（完形第 50 空）",
+      "blankIndex": 50,
+      "options": [
+        {
+          "key": "A",
+          "text": "exchange"
+        },
+        {
+          "key": "B",
+          "text": "shoulder"
+        },
+        {
+          "key": "C",
+          "text": "take"
+        },
+        {
+          "key": "D",
+          "text": "share"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词辨析\n【解析】前文阐述了谁来洗碗对于健康和持久的家庭关系影响巨大。此句意为:对于家\n庭中的女性来说,相比其它家务,女性更愿意______洗碗的任务。shoulder/take / share 均可以与\nresponsibility 搭配,但 shoulder responsibility 和 take responsibility 的意思相近,都有承担责任的意思,\n但根据前后文语境,此处表达与配偶分担责任,所以选 D 项 share 分享,分担。\n【误项排除】A 项 exchange 交换,B 项 shoulder 承担;C 项 take 拿,采取,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q51",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 51,
+      "stem": "（完形第 51 空）",
+      "blankIndex": 51,
+      "options": [
+        {
+          "key": "A",
+          "text": "less"
+        },
+        {
+          "key": "B",
+          "text": "fewer"
+        },
+        {
+          "key": "C",
+          "text": "further"
+        },
+        {
+          "key": "D",
+          "text": "more"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查比较级\n【解析】此句意为:相比于丈夫帮忙洗碗的女性来说,独自承担洗碗的女性的家庭会有_____冲突,\n满意度也更低。可推知没人帮忙做家务的家庭冲突会更多,因此选 D 项 more 更多的。\n【误项排除】A 项 less 较少的;B 项 fewer 更少的,C 项 further 更远的,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q52",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 52,
+      "stem": "（完形第 52 空）",
+      "blankIndex": 52,
+      "options": [
+        {
+          "key": "A",
+          "text": "which"
+        },
+        {
+          "key": "B",
+          "text": "who"
+        },
+        {
+          "key": "C",
+          "text": "what"
+        },
+        {
+          "key": "D",
+          "text": "whom"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查定语从句\n【解析】此处考查的是定语从句,先行词是人:husbands,本句缺少关系代词,在从句中做主语,\n11\n因此选 B 项 who。\n【误项排除】A 项 which 的先行词是物;C 项 what 引导名词性从句;D 项 whom 在句中做宾语,\n不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q53",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 53,
+      "stem": "（完形第 53 空）",
+      "blankIndex": 53,
+      "options": [
+        {
+          "key": "A",
+          "text": "duties"
+        },
+        {
+          "key": "B",
+          "text": "problems"
+        },
+        {
+          "key": "C",
+          "text": "questions"
+        },
+        {
+          "key": "D",
+          "text": "troubles"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查名词辨析\n【解析】此句意为:相比于分享其它家务,女性会更乐于共同分享洗碗的______。这里指的是洗\n碗的任务,所以选 A 项 duty 任务,职责。\n【误项排除】B 项 problem 问题,C 项 question 疑问,D 项 trouble 麻烦,此三项不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q54",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 54,
+      "stem": "（完形第 54 空）",
+      "blankIndex": 54,
+      "options": [
+        {
+          "key": "A",
+          "text": "Seemingly"
+        },
+        {
+          "key": "B",
+          "text": "However"
+        },
+        {
+          "key": "C",
+          "text": "Besides"
+        },
+        {
+          "key": "D",
+          "text": "Finally"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查副词辨析\n【解析】此句意为:洗碗很糟糕,______不像其它的家务如烹饪或园艺,洗碗并不能_____称赞。\n可推知前后为递进关系,因此选 C 项 besides 此外,而且,符合原文。\n【误项排除】A 项 seemingly 似乎;B 项 however 然而,D 项 finally 最终,不符合原文。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q55",
+      "sectionType": "cloze",
+      "passageId": "e2018-p6",
+      "seq": 55,
+      "stem": "（完形第 55 空）",
+      "blankIndex": 55,
+      "options": [
+        {
+          "key": "A",
+          "text": "demand"
+        },
+        {
+          "key": "B",
+          "text": "generate"
+        },
+        {
+          "key": "C",
+          "text": "mention"
+        },
+        {
+          "key": "D",
+          "text": "provide"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【考点】考查动词辨析\n【解析】根据上一题句意,可推知洗碗并不能得到称赞。因此选 B 项 generate 产生,符合原文。\n【误项排除】A 项 demand 要求; C 项 mention 提及,D 项 provide 提供,不符合原文。\n【参考译文】\n每天,它们不断地累积。盘子里满是调味汁和面包屑。碗里装着一层不明物体。叉子、刀子和勺\n子上都沾有这种和那种的食物。在结束一整天的工作后,做饭、打扫和商量带孩子,夫妻面临最大问\n题就是:谁来洗碗?\n关于家庭动力学,最近的一份报告显示,谁来洗碗这个问题的答案,对健康和家庭关系的持久性\n有着很大的影响。该报告分析了许多不同的家务:包括购物,洗衣和家庭卫生,而且对于家庭中的女\n性来说,相比其它的家务,女性更愿意分享洗碗的任务。相比于丈夫帮忙洗碗的女性来说,独自承担\n洗碗的女性的家庭会有更多的冲突,满意度也更低。相比于分享其它家务,女性会更乐于共同分享洗\n碗的任务。\n丹·卡森,研究家庭与消费者关系的犹他大学副教授,同时也是该项研究的主作者,提出了自己的\n观点:洗碗很糟糕,而且不像其它的家务如烹饪或园艺,洗碗并不能得到称赞。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q56",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p7",
+      "seq": 56,
+      "stem": "（第 56 空）A. the bride and groom often  ____ ",
+      "blankIndex": 56,
+      "options": [
+        {
+          "key": "A",
+          "text": "so plentiful"
+        },
+        {
+          "key": "B",
+          "text": "showered with"
+        },
+        {
+          "key": "C",
+          "text": "exchange rings"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:此处缺少动宾成分,而且 often 主要和现在时搭配,所以选择 C。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q57",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p7",
+      "seq": 57,
+      "stem": "（第 57 空）B. where the food is  ____ ",
+      "blankIndex": 57,
+      "options": [
+        {
+          "key": "A",
+          "text": "so plentiful"
+        },
+        {
+          "key": "B",
+          "text": "showered with"
+        },
+        {
+          "key": "C",
+          "text": "exchange rings"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:本句是系表结构,此处缺少表语,需要一个形容词作为表语,且本句意是:\n在这里食物是怎样的,结合选项,只有 A 项“如此丰富”符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q58",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p7",
+      "seq": 58,
+      "stem": "（第 58 空）C. the couple is often  ____  handfuls of uncooked rice",
+      "blankIndex": 58,
+      "options": [
+        {
+          "key": "A",
+          "text": "so plentiful"
+        },
+        {
+          "key": "B",
+          "text": "showered with"
+        },
+        {
+          "key": "C",
+          "text": "exchange rings"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:本句所缺的词是描述一对夫妻与一把把大米之间的关系,而该句中已给了 be\n动词,可推断空格前后是被动关系。结合选项,只有 B 项符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q59",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p7",
+      "seq": 59,
+      "stem": "（第 59 空）…e or how they are performed, include certain traditional customs. For instance,  ____  at the ceremony. The rings are usually worn on the fourth finger of the left hand, and…",
+      "blankIndex": 59,
+      "options": [
+        {
+          "key": "A",
+          "text": "so plentiful"
+        },
+        {
+          "key": "B",
+          "text": "showered with"
+        },
+        {
+          "key": "C",
+          "text": "exchange rings"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:本句缺少一个句子,根据前后语意,可推断此处描述的跟戒指有关。结合选\n项,因此选 A 项“新郎新娘通常会交换戒指”。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q60",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p7",
+      "seq": 60,
+      "stem": "（第 60 空）…left hand, and are exchanged in the middle of the ceremony. After the ceremony,  ____  by friends and family. Rice, as we know, shows productivity and harvest. And then, ther…",
+      "blankIndex": 60,
+      "options": [
+        {
+          "key": "A",
+          "text": "so plentiful"
+        },
+        {
+          "key": "B",
+          "text": "showered with"
+        },
+        {
+          "key": "C",
+          "text": "exchange rings"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处空白后面 by friends and family 暗示选项是被动语态;其次是紧接的下一句主语 rice,\n与选项中 rice 相呼应,有合理的逻辑关系,故选 C。\n12",
+      "score": 1
+    },
+    {
+      "id": "e2018-q61",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p7",
+      "seq": 61,
+      "stem": "（第 61 空）…, as we know, shows productivity and harvest. And then, there is often a party,  ____  that it almost takes the attention away from the people.",
+      "blankIndex": 61,
+      "options": [
+        {
+          "key": "A",
+          "text": "so plentiful"
+        },
+        {
+          "key": "B",
+          "text": "showered with"
+        },
+        {
+          "key": "C",
+          "text": "exchange rings"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处空白前面是逗号,满足非限制性定语从句的结构,同时空白后面 that 引导结果状语\n从句,与选项中 so 相呼应,B 项符合题意。\n【参考译文】\n美国的婚礼有很多不同的形式。但是,不管在哪或是用何种方式举行的婚礼,婚礼都会包含一些\n传统习俗。比如,在婚礼上,新郎新娘通常会交换戒指。在仪式中,交换的戒指通常会被双方带在左\n手的第四根手指上。\n婚礼仪式后,朋友和家人会向小两口身上抛洒大米。众所周知,大米象征着高产和收获。之后通\n常就是举办宴会,在宴席上会有很多的食物,会吸引在场人们的注意。\nText Two\n【文章介绍】本文主要阐述了孩子使用网络的利与弊。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q62",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p8",
+      "seq": 62,
+      "stem": "（第 62 空）A.That number  ____  increases",
+      "blankIndex": 62,
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】本句是主谓结构,缺少一个修饰动词的副词,只有 B 项:only 符合,即:副词 only 修\n饰动词 increases。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q63",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p8",
+      "seq": 63,
+      "stem": "（第 63 空）B.they change  ____  their brains work",
+      "blankIndex": 63,
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:空格处是作 change 的宾语, 结合选项,只有 C 项:the way 符合,既能充当\nchange 的宾语,又能引导其后的从句。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q64",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p8",
+      "seq": 64,
+      "stem": "（第 64 空）C.children  ____  use too much technology",
+      "blankIndex": 64,
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前面是先行词 children,后面的定语从句缺少指人的关系代词。只有 A 项符合,即:\nwho 引导的定语从句,修饰 children。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q65",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p8",
+      "seq": 65,
+      "stem": "（第 65 空）More than a third of children under the age of two use mobile media.  ____  as children age, with 95% of teens 12-17 spending time online. The time spent with tech…",
+      "blankIndex": 65,
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:此处缺少主句,且位于句首,选项的首字母需要大写。只有 A 项“该数只会增\n加”符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q66",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p8",
+      "seq": 66,
+      "stem": "（第 66 空）…while video games may condition the brain to pay attention to multiple stimuli,  ____  . Children who always use search engines may become very good at finding information—bu…",
+      "blankIndex": 66,
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:while 引导是个从句,此处缺少主句,结合选项,只有 B 项“他们会改变孩子\n大脑的运作方式”符合题意。\n式”符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q67",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p8",
+      "seq": 67,
+      "stem": "（第 67 空）…y good at finding information—but not very good at remembering it. In addition,  ____  may not have enough opportunities to use their imagination or to read and think deeply…",
+      "blankIndex": 67,
+      "options": [
+        {
+          "key": "A",
+          "text": "who"
+        },
+        {
+          "key": "B",
+          "text": "only"
+        },
+        {
+          "key": "C",
+          "text": "the way"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:此处缺少主语,结合选项,只有 C 项“过多依靠科技产品的孩子”符合。\n【参考译文】\n超过三分之一的两岁以下儿童使用移动媒体。该数字随着孩子年龄的增长在增加,95%的青少年\n(12 岁至 17 岁)都会上网。\n长时间上网并不能让孩子做事的方式有新意,它会导致孩子注意力分散和记忆力下降。比如,尽\n管视频游戏会让大脑适应多种刺激,但是也会改变孩子大脑的运作方式。\n经常使用搜索引擎的孩子可能会很擅长寻找信息—但并不擅长记忆这些信息。此外,过多依靠科\n技产品的孩子可能没有足够的机会去发挥想象力或是去阅读和深入思考这些材料。\nText Three\n【文章介绍】 本文主要介绍了日本农民研制了一种皮可食用的香蕉。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q68",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 68,
+      "stem": "（第 68 空）A. have created a  ____  technique",
+      "blankIndex": 68,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】空格前面是 a,后面是名词 technique,此处缺少修饰的形容词且以辅音开头,只有 B 项 “特\n殊的” 符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q69",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 69,
+      "stem": "（第 69 空）B.  ____  of eating the peel",
+      "blankIndex": 69,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "13\n【解析】此处考查的是 think of 短语的搭配。结合选项,只有 C 项 “考虑” 符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q70",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 70,
+      "stem": "（第 70 空）C.at a freezing cold  ____ ",
+      "blankIndex": 70,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】结合句意,此处缺少能被 freezing cold 修饰的名词,结合选项,只有 A 项“温度”符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q71",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 71,
+      "stem": "（第 71 空）D.Similar to  ____  countries",
+      "blankIndex": 71,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】此处所缺的词修饰 countries,结合选项,只有 D 项“其它的”符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q72",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 72,
+      "stem": "（第 72 空）…ve, but there is now a banana that has an eatable peel. Most people would never  ____  of a banana. However, banana farmers in Japan 73 for growing bananas with a peel we can…",
+      "blankIndex": 72,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "B",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:此处缺少动宾成分,would never 后面应该加动词原形,而且该句的前一句提\n到了食用香蕉皮的事情,因此选择 B think of eating a peel, 这样前后构成合理的逻辑关系。。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q73",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 73,
+      "stem": "（第 73 空）…peel. Most people would never 72 of a banana. However, banana farmers in Japan  ____  for growing bananas with a peel we can eat.  10 Farmers in Okayama, in the west of Japa…",
+      "blankIndex": 73,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "A",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:此处缺少动宾成分,且 B 项已被选,只有 A 项符合。该句意为:日本的农民\n发明了一项特殊的技术,能种植出皮可食用的香蕉。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q74",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 74,
+      "stem": "（第 74 空）…can eat.  10 Farmers in Okayama, in the west of Japan, keep their banana trees  ____  of -60°C. The farmers then replant the trees in 27℃ temperatures. The huge change in te…",
+      "blankIndex": 74,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "C",
+      "referenceAnswer": null,
+      "explanation": "【解析】根据语意,此处是跟温度有关,再结合选项,只有 C 项 “处于冰冷的温度”符合。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q75",
+      "sectionType": "short-completion",
+      "passageId": "e2018-p9",
+      "seq": 75,
+      "stem": "（第 75 空）…hin, soft and sweet enough to eat. Bananas are the most popular fruit in Japan.  ____  ,Japan imports most of its bananas. About 99% of bananas in Japanese stores are importe…",
+      "blankIndex": 75,
+      "options": [
+        {
+          "key": "A",
+          "text": "temperature"
+        },
+        {
+          "key": "B",
+          "text": "special"
+        },
+        {
+          "key": "C",
+          "text": "think"
+        },
+        {
+          "key": "D",
+          "text": "other"
+        }
+      ],
+      "answerKey": "D",
+      "referenceAnswer": null,
+      "explanation": "【解析】分析结构:该句已有主句,所填处位于句首,需要大写开头,结合选项,只有 D 项 “和\n其它国家类似”符合,在句中作状语。\n【参考译文】\n现在有一种香蕉,其皮是可食用的,这令人难以置信。很多人可能永远都想不到去吃香蕉皮。然\n而,日本农民发明了一项特殊的技术,种植的香蕉的皮是可以食用的。在日本西部冈山的农民,先把\n香蕉树置于零下 60 度的冰冷环境,随后再移植到 27 摄氏度左右的环境中。巨大的温差使得香蕉能够\n迅速进入生长状态,香蕉皮来不及完全成熟。这样香蕉皮变得薄、软且甜,足以连皮带肉一起食用。\n香蕉在日本是最受欢迎的水果。和其它国家类似,日本的许多香蕉都是进口的。日本商店中约有 99%\n的香蕉都是进口来的。这项新技术意味着日本人们能吃到更多本土产的香蕉。",
+      "score": 1
+    },
+    {
+      "id": "e2018-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\nIt's harder and harder to find peace and, especially, quiet. Even in the most remote parts of Alaska the\nsound of a jet crossing overhead is all too common. Scientists set off across the U.S. to study the audio\necology. They recorded more than a million hours of sound from various sources. They found that noise pollution is not good for people and it's even worse for animals with more\nsensitive ears. And the problem is not confined to land but echoes across the seas as well, where\nhuman-produced noise interferes with the lives of various ocean dwellers. These days on Earth it's rare to hear \"silence\".",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "寻求安宁越来越难,想要安静更难。即使在阿拉斯加最偏远的地区,头上传来飞机的声音也是件\n很寻常的事。科学家们纷纷动身前往美国各地研究 “音频生态”。他们从各个地方记录下了超过 100 万\n小时的声音。\n科学家发现,噪音污染对人类有害,对于那些听觉灵敏的动物们危害更甚。而且,噪音污染问题\n并不仅限于大陆,它的害处也波及到了海洋。人类制造的噪音同样干扰了居住在海洋里的生物。“安静” 在地球上越来越罕见了。",
+      "explanation": "",
+      "score": 10
+    },
+    {
+      "id": "e2018-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "Directions: Write a composition in no less than 150 words on the topic: The Ideal Public Libraries You\ncould write according to the clues given below write your composition an the Answer Sheet. A library is a place in which reading materials, such as books, periodicals, and newspapers, and often\nother materials such as musical and video recordings, are kept for use or lending. Describe the public library\nyou would like to have in your neighborhood.",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "The Ideal Public Libraries\nWith the improvement of living standards, a public library plays an increasingly important role in\npeople’s life , where people can not only gain vast knowledge, but also enrich their minds. From my\nperspective, an ideal nearby public library should include the following aspects. To begin with, the library should store countless print books, periodicals, and newspapers,as well as a\nwide range of audio-books, which should be updated in line with the needs of people. Secondly, the library\nshould provide quiet areas, so the readers can fully enjoy themselves while reading and studying. Last but not\nleast, the library should be equipped with public facilities for people to get access to the electronic resources\nor the Internet. It goes without saying that a public library is regarded as the best place to read. Therefore, I wish an ideal\npublic library in my neighborhood can satisfy requirements for different groups of people.",
+      "explanation": "",
+      "score": 15
+    }
+  ]
+}

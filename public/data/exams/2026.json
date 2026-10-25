@@ -1,0 +1,257 @@
+{
+  "schemaVersion": 1,
+  "paper": {
+    "title": "2026 年同等学力人员申请硕士学位英语水平全国统一考试试题（回忆版）",
+    "timeLimitSec": 9000,
+    "totalScore": 100,
+    "sections": [
+      {
+        "type": "dialogue",
+        "order": 1,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 15
+      },
+      {
+        "type": "vocabulary",
+        "order": 2,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "reading",
+        "order": 3,
+        "questionCount": 25,
+        "score": 25,
+        "minutes": 45
+      },
+      {
+        "type": "cloze",
+        "order": 4,
+        "questionCount": 10,
+        "score": 10,
+        "minutes": 10
+      },
+      {
+        "type": "short-completion",
+        "order": 5,
+        "questionCount": 20,
+        "score": 20,
+        "minutes": 20
+      },
+      {
+        "type": "translation",
+        "order": 6,
+        "questionCount": 1,
+        "score": 10,
+        "minutes": 20
+      },
+      {
+        "type": "writing",
+        "order": 7,
+        "questionCount": 1,
+        "score": 15,
+        "minutes": 30
+      }
+    ]
+  },
+  "passages": [
+    {
+      "id": "e2026-p1",
+      "sectionType": "reading",
+      "order": 1,
+      "content": "tnemegagne-tnemtimmoc.02\ndetrats-dehcnual.91\nerongi-koolrevo.81\n4.Theeconomicbenefitsofspaceexploration."
+    },
+    {
+      "id": "e2026-p2",
+      "sectionType": "cloze",
+      "order": 2,
+      "content": "Youcouldwriteaccordingtothehintsgivenbelow. ImportanceofLifelongLearning.\nThe Writeacompositioninnolessthan150wordsonthetopic: Directions:"
+    }
+  ],
+  "questions": [
+    {
+      "id": "e2026-q31",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 31,
+      "stem": "Whatisthemainideaaboutthemassage? .erutufgniraf thananengineeringchallenge-itisamoralandpoliticalimperativeforourspace- environmentorapolluted,collision-pronewasteland.Recyclingspacejunkismore latibroelbissecca,elbasuasnoitarenegerutufevaelewrehtehwenimreted Itisaboutredefininghumanity'srelationshipwithspace.Ouractionstodaywill tjustaboutcleaninguporbitaltrash. Theshifttoacircularspaceeconomyisno .secitcarpecapsralucrictpodaotsessenisubrofsevitnecni Governmentsmustalsofundresearchintodebris-removaltechnologiesandother willcontinuetoprioritizeshort-termprofitoverlong-termsustainability. Withoutsuchrules,privatecompaniesracingtoexpandsatelliteconstellations forthespacehardwaretheylaunch. bindingagreementsareneededtorequirecompaniesandnationstotakeresponsibility debrisremoval,satelliteend-of-lifedisposalandorbitalresourcemanagement.New nations.Currentinternationalspacetreatiesareoutdatedandlackclearrulesfor cooperationandlegalreformtoenforcecircularpracticesacrossallspace-faring Technologyalone,however,cannotsolvethespace-junkcrisis.Weneedglobal .ytilibasuer Newlightweight,durablematerialsarealsobeingtestedtoreducewasteandimprove edtolaunchrawmaterialsfromEarth. componentsdirectlyinspace,eliminatingthene harvestmetal,plasticandothermaterialsfromdiscardedspacecraftandbuildnew existingsatellitesinorbit.In-spacemanufacturingtechniqueswillallowusto Roboticservicingvehiclesarebeingdevelopedtoinspect,refuel,repairandrefit Severaltechnologicalinnovationsaremakingthiscircularvisionpossible. .desuer inally,wemustremovelarge,high-riskpiecesof'debristhatcannotberecycledor f foruseonnewmissions,withouthavingtobringthesatellitesbacktoEarth.And extendtheirlifecycles.Thethirdistorecyclematerialsfromdefunctsatellites generatelesswaste.Thesecondistorepairsatellites’brokenpartsinorbitto firststepistodesignspacecraftusingmaterialsthatminimizepollutionand end-of-lifeofaproducttobedesignedfortheobiect'sreuseorrecycling.The Circularityinthissensereferstowaste-managementprinciplescallingforthe hereuse,recyclingandefficientmanagementofspaceresources. movetowardacircularspaceeconomy-asustainablewaytousespacethatemphasizes believewemustleavebehindourlinearspaceeconomy,whereweuseandabandon,and movetoastrategyanchoredinstewardshipandsoundwaste-managementprinciples.I thereisagrowingmovementtorethinkourapproachtousingthespaceenvironment-to Aswecontinuetopushtheboundariesofspaceexplorationandcommercialization, .secneuqesnoc themuntiltheyfail,thenabandontheminorbitwithlittleregardforlong-term our“take-make-dispose”linearspaceeconomy:webuildsatellites,launchthem,use unusableforfuturemissions.Thegrowingcrisisofspacejunkisadirectproductof astheKesslerSyndrome,whichcouldonedayrenderlargeswathesoforbitalspace Thesecollisionscreatemoredebris,triggeringadangerouschainreactionknown .tfarcecapsfo s satellitesruntheriskofcollidingwithbitsofgarbagefrompreviousgeneration satellitestoused-uprocketparts.Theregionisalreadysocrowdedthatworking humanactivityinouterspacehasfilledEarthorbitwithspacetrash,fromdead launchmorethan26,000,withnoprospectsforslowingdown.Thisrapidexpansionof Adecadeago,humanitylaunchedaround200objectsintospaceperyear.Nowwe C.Comment2and4 ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q45",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 45,
+      "stem": "Whichcommentsstresstheimportanceofsocialinteraction? B.Comment2 ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q46",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 46,
+      "stem": "Whichcommentimpliesthathappinesshasnothingtodowithtechnology? ssenhsifleS.B ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q47",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 47,
+      "stem": "The“growingego”incommentIprobablymeans? D.depressingnewsdrawsalotofattention ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q48",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 48,
+      "stem": "Theauthorwouldprobablyagreethat noitcaretnilaicossetatilicafygolonhceT.D ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q49",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 49,
+      "stem": "Whichisnotmentionedasthebenefitsoftechnology? Sheet. bestanswerandmarkyouranswerontheAnswer fourchoicesA,B,CandD.Choosethe Theblogandcommentsarefollowedbyquestionsorumfinishedstatements,eachwith Directions:Inthissection,youarerequiredtoreadoneblogandthecommentsonit SectionB C.Increasedyearsofeducation ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q50",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 50,
+      "stem": "Whatwasakeyfactorinthecognitivediferentbetweenthetwogroups? D.Thelater-borngrouphadnoorerphysicalfitness ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q51",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 51,
+      "stem": "WhatwasonesurprisingresultfromtheFinnishstudies? oredhigherinphysicalandcognitivetests B.Thelater-borngroupsc ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q52",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 52,
+      "stem": "WhichwasafindingfromtheFinnishstudiescomparingthetwogroups? A.Inallareas ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q53",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 53,
+      "stem": "Whatdoesthephrase“acrosstheboard\"(Para,2)probablymean? snoitarenegssorcagnigafonosirapmoC.B ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q54",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 54,
+      "stem": "Whatisthemainideaofthepassage? PassageFour D.Thebreakdownofrocket. C.Thecollisionbetweentwosatellites B.Thecrash.... A.Thelaunchofanewsatellite. ",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q55",
+      "sectionType": "reading",
+      "passageId": "e2026-p1",
+      "seq": 55,
+      "stem": "Whateventin2009resultedinnearly2000debrisfragments? D.Thehistoryofsatellitelaunchesinspace. C.Theincreasingdangerofspacedebris. B.Theroleofprivatecompaniesinspaceexploration. 56 57 58 59 60 61 62 63 64 65 66 67 taolf.C B.themainiceshelf",
+      "blankIndex": null,
+      "options": [
+        {
+          "key": "A",
+          "text": "themassivesizeof TextThree 参考答案:CABCAB turnedonthiscanleadtothedevelopmentofanxietydisorders fightresponseshouldbetriggered.Whenthestructureistooeasilytriggeredoris fearresponse.Oneparticularstructureisandwhetherornotthefightor Oneofthemainfumnctionsofthissystemistowarnusofdangerandtriggera"
+        },
+        {
+          "key": "B",
+          "text": "whenathreatisn't iblefortheemotionalsignificanceofinformation A.Respons Phrases: gnissessa..Cwonk.Btnedive.A TextTwo 参考答案BCACAB .seihposolihp EasternculturesviewdreamsasPeoplehavebeen,writepoetry,andcreate Inwesternculture,dreamsareoftenseenasanddesires,Incontrast, sthguohtsuoicsnocbuss'enofoa.C ybderipsni.B A.communicationwith Phrases: smaerd.C B.thedivineorspiritualreal noitcefer.A enOtxeT AnswerSheet. lettersthatindicateyouanswersonthe completedphrasestofillintheblanksofthetext,Noteyoushouldblackenthe First,usethechoicesprovidedintheboxtocompletethephrases.Second,usethe from56to75).Aboveeachtexttherearethreeorfourphrasestobecompleted. Inthispart,therearethreeincompletetextswith20questions(Ranging"
+        },
+        {
+          "key": "C",
+          "text": "asthefightorfightreaction"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": "",
+      "score": 1
+    },
+    {
+      "id": "e2026-q76",
+      "sectionType": "translation",
+      "passageId": null,
+      "seq": 76,
+      "stem": "将下面短文译成汉语：\n",
+      "blankIndex": null,
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "PaperTwo(试卷二)\n\nsplit,calledChasm-1,thatrunsalongtheiceshelfmass.\n\nprocessofshrinkingicebergs.Scientistssaytheywillcontinuetomonitortheentire\n\neinsealevelispartlyaresultofthisrapid metrictonsperyear.Theglobalris\nnoillib051foetaregarevanatagnitlemsiacitcratnAtahtlaeverserugiF\n\ntheiceberg.\n\neventresearchscientistsrecentlymovedtheirstationandarenotcurrentlybasedon\n\nFortunately,theexception.Scientistsmonitoringthebreakagesayitisasignificant\n\nAntarcticaarecommonandblamedonclimatechange,thisoneisan75(D)theiceberg.\n\nAntarcticabreaks.Thenewicebergwill74(C).Althoughcracksaroundtheedgesof\n\nslinkto ThefloatingiceshelfisanextensionofAntarctica.Asitextends,it\n.2102ecnis)B(37grebeci\n\nmajorcrackintheBruntlceShelf.Picturescapturedbysatelliteshowthatthevast\n\nknownascalving.Itisthesecondicebergtobreakoffintwoyearsbecauseofa\n\nmeasuring1,550squarekilometers72(A).Thesplitispartofanaturalprocess\n\nAntarcticahaslostanicebergtheequivalentsizeofGreaterLondon.Theiceberg\n\nF.becauseof71(A)\n\nE.eventually70(C)outtosea\n\nD.hasbeen69(D)\n\nC.separatedfrom68(B)\n\nPhrases:\nyawagnikaerb.D\n\nteachers may harm one's ability of independent thinking( 举 例 )\nit liberates oneself from the constraintsof\ntime and location(原因一) it offers people a broader range of choices(原因\n二 )\nit contributes to social advance and progress(原因三)\n.tisdrawotedutittaelbatiusadlohot\n\ncouldnotbeignoredandwouldbringabouteffectsintoourlives.Itissignificant\n\nTakingalltheseintoaccount,wecandrawaconclusionthatitsadvantages\n\n. awarenessthat\n\n,whichisanothertruthwemustface.Lastbutnotleast,thereisagrowing\n,sediseB.\n\nFirstofall,peoplemostlyagreethat\n\nManypointscoulddemonstratemyview,andthreemainonesarelistedasfollows.\n\nconcerned,theadvantagesoutweighitsdisadvantages.\naIsarafsA. m",
+      "explanation": "",
+      "score": 10
+    }
+  ]
+}

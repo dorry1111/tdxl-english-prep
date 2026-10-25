@@ -1,0 +1,442 @@
+[
+ {
+  "id": "TC-L00-R1",
+  "initialLevel": 0,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L00-R2",
+  "initialLevel": 0,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L00-R3",
+  "initialLevel": 0,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 1,
+  "expectedDueAt": "now + 30min",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L00-R4",
+  "initialLevel": 0,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L01-R1",
+  "initialLevel": 1,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L01-R2",
+  "initialLevel": 1,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 1,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L01-R3",
+  "initialLevel": 1,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 2,
+  "expectedDueAt": "now + 12h",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L01-R4",
+  "initialLevel": 1,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L02-R1",
+  "initialLevel": 2,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L02-R2",
+  "initialLevel": 2,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 2,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L02-R3",
+  "initialLevel": 2,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 3,
+  "expectedDueAt": "now + 1d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L02-R4",
+  "initialLevel": 2,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L03-R1",
+  "initialLevel": 3,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L03-R2",
+  "initialLevel": 3,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 3,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L03-R3",
+  "initialLevel": 3,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 4,
+  "expectedDueAt": "now + 2d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L03-R4",
+  "initialLevel": 3,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L04-R1",
+  "initialLevel": 4,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L04-R2",
+  "initialLevel": 4,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 4,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L04-R3",
+  "initialLevel": 4,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 5,
+  "expectedDueAt": "now + 4d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L04-R4",
+  "initialLevel": 4,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L05-R1",
+  "initialLevel": 5,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L05-R2",
+  "initialLevel": 5,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 5,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L05-R3",
+  "initialLevel": 5,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 6,
+  "expectedDueAt": "now + 7d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L05-R4",
+  "initialLevel": 5,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L06-R1",
+  "initialLevel": 6,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L06-R2",
+  "initialLevel": 6,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 6,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L06-R3",
+  "initialLevel": 6,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 7,
+  "expectedDueAt": "now + 15d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L06-R4",
+  "initialLevel": 6,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L07-R1",
+  "initialLevel": 7,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L07-R2",
+  "initialLevel": 7,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 7,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L07-R3",
+  "initialLevel": 7,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 8,
+  "expectedDueAt": "now + 30d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L07-R4",
+  "initialLevel": 7,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L08-R1",
+  "initialLevel": 8,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L08-R2",
+  "initialLevel": 8,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 8,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L08-R3",
+  "initialLevel": 8,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 8,
+  "expectedDueAt": "now + 30d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L08-R4",
+  "initialLevel": 8,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 10,
+  "expectedDueAt": "now + 120d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L09-R1",
+  "initialLevel": 9,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L09-R2",
+  "initialLevel": 9,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 9,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L09-R3",
+  "initialLevel": 9,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 9,
+  "expectedDueAt": "now + 60d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L09-R4",
+  "initialLevel": 9,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 10,
+  "expectedDueAt": "now + 120d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L10-R1",
+  "initialLevel": 10,
+  "initialLapseCount": 2,
+  "rating": 1,
+  "expectedLevel": 0,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "requeue",
+  "expectedLapseCount": 3
+ },
+ {
+  "id": "TC-L10-R2",
+  "initialLevel": 10,
+  "initialLapseCount": 2,
+  "rating": 2,
+  "expectedLevel": 10,
+  "expectedDueAt": "nextStudyDay0400",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L10-R3",
+  "initialLevel": 10,
+  "initialLapseCount": 2,
+  "rating": 3,
+  "expectedLevel": 10,
+  "expectedDueAt": "now + 120d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ },
+ {
+  "id": "TC-L10-R4",
+  "initialLevel": 10,
+  "initialLapseCount": 2,
+  "rating": 4,
+  "expectedLevel": 10,
+  "expectedDueAt": "now + 120d",
+  "expectedQueueAction": "dequeue",
+  "expectedLapseCount": 2
+ }
+]

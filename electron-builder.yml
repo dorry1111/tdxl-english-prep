@@ -1,0 +1,37 @@
+# electron-builder 配置（NSIS 安装包）
+# 桌面版与 PWA 双形态：PWA 用 dist/（不打包进安装包），桌面版用 dist-desktop/
+appId: com.dorry.tdxl
+productName: 同等学力英语备考
+copyright: 同等学力英语备考
+
+directories:
+  # 必须用纯英文绝对路径：NSIS makensis 对中文项目路径的输出文件名会编码错乱（Can't open output file）
+  output: C:/tdxl-release
+  buildResources: build
+
+# 只打包桌面版运行所需，不把 devDependencies 带进去
+files:
+  - package.json
+  - dist-desktop/**/*
+  - dist-electron/**/*
+  - node_modules/koffi/**/*
+
+# koffi 的 prebuilds 二进制必须在 asar 外才能被 FFI 加载
+asarUnpack:
+  - node_modules/koffi/**
+
+win:
+  icon: build/icon.ico
+  target:
+    - target: nsis
+      arch:
+        - x64
+
+nsis:
+  oneClick: false
+  perMachine: false
+  allowToChangeInstallationDirectory: true
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: 同等学力备考
+  artifactName: TDXL-English-Prep-${version}-Setup.exe
