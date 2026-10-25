@@ -36,25 +36,31 @@ public class TtsBridge: CAPPlugin {
             call.reject("missing text")
             return
         }
-        configureAudioSession()
         let lang = call.getString("lang") ?? "en-US"
         let rate = call.getDouble("rate") ?? 1.0
-        // AVSpeechUtterance rate 范围 0.0~1.0（默认 0.5）；我们的 UI rate 是 0.5~1.5（1.0=正常）。
-        // 线性映射：1.0 -> 0.5（默认音速），并夹在 [0,1]。
-        let avRate = min(1.0, max(0.0, rate * 0.5))
-        let utterance = AVSpeechUtterance(string: text)
-        if let voice = AVSpeechSynthesisVoice(language: lang) {
-            utterance.voice = voice
+        // Capacitor 插件方法默认在后台线程执行；AVSpeechSynthesizer / AVAudioSession
+        // 需在主线程操作，否则可能无声。
+        DispatchQueue.main.async {
+            self.configureAudioSession()
+            // AVSpeechUtterance rate 范围 0.0~1.0（默认 0.5）；我们的 UI rate 是 0.5~1.5（1.0=正常）。
+            // 线性映射：1.0 -> 0.5（默认音速），并夹在 [0,1]。
+            let avRate = min(1.0, max(0.0, rate * 0.5))
+            let utterance = AVSpeechUtterance(string: text)
+            if let voice = AVSpeechSynthesisVoice(language: lang) {
+                utterance.voice = voice
+            }
+            utterance.rate = Float(avRate)
+            self.synthesizer.stopSpeaking(at: .immediate)
+            self.synthesizer.speak(utterance)
+            call.resolve()
         }
-        utterance.rate = Float(avRate)
-        synthesizer.stopSpeaking(at: .immediate)
-        synthesizer.speak(utterance)
-        call.resolve()
     }
 
     @objc func stop(_ call: CAPPluginCall) {
-        synthesizer.stopSpeaking(at: .immediate)
-        call.resolve()
+        DispatchQueue.main.async {
+            self.synthesizer.stopSpeaking(at: .immediate)
+            call.resolve()
+        }
     }
 
     @objc func isSupported(_ call: CAPPluginCall) {
