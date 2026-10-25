@@ -18,6 +18,8 @@ import { SegmentedControl } from '@/components/ui/SegmentedControl';
 import { getSecret, getSettings, patchSettings, setSecret } from '@/db/repos/settingsRepo';
 import { IS_DESKTOP } from '@/lib/desktop';
 import { syncNow, SYNC_ERROR_MESSAGES } from '@/lib/sync/engine';
+import { NasDiscovery, type NasService } from '@/lib/nasDiscovery';
+import { checkAndApplyDatasetUpdates } from '@/lib/dataset';
 import { fmtDate } from '@/lib/time';
 import { useUiStore } from '@/store/uiStore';
 import type { SyncReport } from '@/types';
@@ -28,6 +30,7 @@ const INPUT_CLASS =
 export function SyncCard() {
   const showSuccess = useUiStore((state) => state.toast.success);
   const showError = useUiStore((state) => state.toast.error);
+  const showInfo = useUiStore((state) => state.toast.info);
 
   const settings = useLiveQuery(() => getSettings(), [], undefined);
   /** 库里是否已存密码（只显示状态，绝不回显明文） */
@@ -57,10 +60,22 @@ export function SyncCard() {
     }
   }, [settings]);
 
+  // 组件卸载时清理 mDNS 监听，避免原生插件泄漏回调
+  useEffect(() => {
+    return () => {
+      void stopDiscovery();
+    };
+  }, []);
+
   const [saving, setSaving] = useState(false);
   const [syncing, setSyncing] = useState(false);
   const [report, setReport] = useState<SyncReport | null>(null);
   const [lastSyncAt, setLastSyncAt] = useState<number | null>(null);
+
+  // 局域网发现（mDNS，原生端可用）
+  const [discovered, setDiscovered] = useState<NasService[]>([]);
+  const [discovering, setDiscovering] = useState(false);
+  const discoveryHandleRef = useRef<{ remove: () => void } | null>(null);
 
   /**
    * 校验并把当前表单内容持久化（「保存配置」与「立即同步」共用）。
@@ -141,6 +156,57 @@ export function SyncCard() {
       }
     } finally {
       setSyncing(false);
+    }
+  };
+
+  const stopDiscovery = async (): Promise<void> => {
+    try {
+      await NasDiscovery.stopDiscovery();
+    } catch {
+      /* 非原生端无插件，忽略 */
+    }
+    discoveryHandleRef.current?.remove();
+    discoveryHandleRef.current = null;
+    setDiscovering(false);
+  };
+
+  const startDiscovery = async (): Promise<void> => {
+    if (discovering) {
+      return;
+    }
+    setDiscovered([]);
+    setDiscovering(true);
+    try {
+      const handle = await NasDiscovery.addListener('serviceFound', (s: NasService) => {
+        setDiscovered((prev) =>
+          prev.some((p) => p.host === s.host && p.port === s.port) ? prev : [...prev, s],
+        );
+      });
+      discoveryHandleRef.current = handle;
+      await NasDiscovery.startDiscovery({ types: ['_http._tcp', '_https._tcp', '_webdav._tcp'] });
+      setTimeout(() => void stopDiscovery(), 5000);
+    } catch {
+      setDiscovering(false);
+      showError('当前端不支持自动发现，请手动填写 NAS 地址');
+    }
+  };
+
+  const selectService = async (s: NasService): Promise<void> => {
+    const filled = `${s.scheme}://${s.host}:${s.port}/`;
+    setUrl(filled);
+    setEnabled(true);
+    await stopDiscovery();
+    showSuccess(`已填入 ${s.name}（${filled}），请在上方输入账号密码后点「立即同步」`);
+  };
+
+  const handleCheckUpdates = async (): Promise<void> => {
+    const r = await checkAndApplyDatasetUpdates();
+    if (r.error) {
+      showError(`数据更新失败：${r.error}`);
+    } else if (r.applied > 0) {
+      showSuccess(`已更新 ${r.applied} 个数据包`);
+    } else {
+      showInfo('已是最新，无可用更新');
     }
   };
 
@@ -243,12 +309,51 @@ export function SyncCard() {
           />
         </div>
 
+        {/* 局域网发现（mDNS）：原生端自动扫 NAS，免手填地址 */}
+        <div className="flex flex-col gap-2 rounded-md border border-border bg-surface-2 p-3">
+          <div className="flex items-center justify-between gap-2">
+            <span className="text-xs font-medium text-text-2">局域网 NAS 发现</span>
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => void (discovering ? stopDiscovery() : startDiscovery())}
+              disabled={saving || syncing}
+            >
+              {discovering ? '停止扫描' : '扫描局域网 NAS'}
+            </Button>
+          </div>
+          <p className="text-xs text-text-3">
+            仅原生端（iOS/Android）可用，扫描约 5 秒。发现后点选即可自动填入服务器地址并开启同步。
+          </p>
+          {discovered.length > 0 ? (
+            <ul className="flex flex-col gap-1">
+              {discovered.map((s) => (
+                <li key={`${s.host}:${s.port}`}>
+                  <button
+                    type="button"
+                    onClick={() => void selectService(s)}
+                    className="w-full rounded-md border border-border bg-surface px-3 py-2 text-left text-sm text-text hover:border-primary hover:bg-surface-2"
+                  >
+                    <span className="font-medium">{s.name}</span>
+                    <span className="ml-2 text-xs text-text-3">
+                      {s.scheme}://{s.host}:{s.port}
+                    </span>
+                  </button>
+                </li>
+              ))}
+            </ul>
+          ) : null}
+        </div>
+
         <div className="flex flex-wrap gap-2">
           <Button variant="secondary" onClick={() => void handleSave()} disabled={saving}>
             {saving ? SETTINGS_SYNC.saving : SETTINGS_SYNC.save}
           </Button>
           <Button onClick={() => void handleSync()} disabled={syncing}>
             {syncing ? SETTINGS_SYNC.syncing : SETTINGS_SYNC.syncNow}
+          </Button>
+          <Button variant="ghost" onClick={() => void handleCheckUpdates()}>
+            检查数据更新
           </Button>
         </div>
 

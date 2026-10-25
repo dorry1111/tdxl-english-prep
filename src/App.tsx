@@ -14,6 +14,7 @@ import { usePwaUpdate } from '@/hooks/usePwaUpdate';
 import { AppRoutes } from '@/router';
 import { useUiStore } from '@/store/uiStore';
 import { maybeAutoSync } from '@/lib/sync/autorun';
+import { checkAndApplyDatasetUpdates } from '@/lib/dataset';
 
 export default function App() {
   const { needRefresh, offlineReady, applyUpdate, dismiss } = usePwaUpdate();
@@ -26,10 +27,15 @@ export default function App() {
     }
   }, [offlineReady, showInfo]);
 
-  // 启动即尝试一次自动同步（已配置 NAS 时静默拉取最新进度）；之后每 5 分钟兜底一次
+  // 启动即尝试一次自动同步 + 数据更新（已配置 NAS 时静默拉取最新进度/词包）；
+  // 之后每 5 分钟兜底一次，连接上 NAS 即自动同步，无需手动触发
   useEffect(() => {
     void maybeAutoSync();
-    const timer = setInterval(() => void maybeAutoSync(), 5 * 60 * 1000);
+    void checkAndApplyDatasetUpdates();
+    const timer = setInterval(() => {
+      void maybeAutoSync();
+      void checkAndApplyDatasetUpdates();
+    }, 5 * 60 * 1000);
     return () => clearInterval(timer);
   }, []);
 

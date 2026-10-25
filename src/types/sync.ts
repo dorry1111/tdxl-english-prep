@@ -64,6 +64,8 @@ export interface Settings {
   deviceId: string;
   lastSyncAt: Timestamp | null;
   lastExportAt: Timestamp | null;
+  /** 已应用的 NAS 数据集版本（datasets/manifest.json 的 version），用于增量更新判断 */
+  datasetVersion?: number;
 
   // AI 释义（搜索弹窗用；三个字段都可选：旧记录缺省时回退 provider 预设，无需迁移。
   // API Key 不在此处 —— 走 secrets 表 id='llm-key'，只存本机不参与同步）

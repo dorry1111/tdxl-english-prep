@@ -23,7 +23,7 @@ workflows:
       - name: Build unsigned IPA (签名交给全能签)
         script: |
           cd ios/App
-          xcodebuild -project App.xcodeproj -scheme App -configuration Release \
+          xcodebuild -project App.xcodeproj -target App -configuration Release \
             -archivePath build/App.xcarchive archive \
             CODE_SIGNING_ALLOWED=NO CODE_SIGN_IDENTITY="" CODE_SIGNING_REQUIRED=NO
           mkdir -p build/Payload
