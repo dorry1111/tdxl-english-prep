@@ -6,6 +6,22 @@
  * 前端代码严禁直接 process.versions 之类判断（jsdom 测试环境会挂）。
  */
 
+/** 主进程网络桥请求载荷（v1.9.1，与 electron/preload.ts 保持一致） */
+export interface HttpRequestPayload {
+  url: string;
+  method: string;
+  headers: Record<string, string>;
+  body?: string;
+  timeoutMs?: number;
+}
+
+/** 主进程网络桥响应（v1.9.1） */
+export interface HttpResponsePayload {
+  status: number;
+  headers: Record<string, string>;
+  body: string;
+}
+
 /** 与 electron/preload.ts 暴露的 API 保持一致 */
 export interface TdxlDesktopApi {
   isDesktop: true;
@@ -21,6 +37,8 @@ export interface TdxlDesktopApi {
   setThemeSource: (mode: 'system' | 'light' | 'dark') => Promise<void>;
   /** 本机局域网 IPv4 列表（同步卡「连接 NAS」子网探测用，v1.9.0） */
   getLanIps: () => Promise<string[]>;
+  /** 主进程网络桥（v1.9.1）：桌面 HTTP 走主进程 net.request，绕过 CORS/混合内容限制 */
+  httpRequest: (payload: HttpRequestPayload) => Promise<HttpResponsePayload>;
   openDataDir: () => Promise<void>;
   exportFile: (defaultName: string, contents: string) => Promise<string | null>;
   pickImportFile: () => Promise<{ name: string; content: string } | null>;

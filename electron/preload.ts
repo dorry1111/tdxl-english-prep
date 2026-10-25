@@ -13,6 +13,22 @@ export interface DesktopConfigBridge {
   autoLaunch: boolean;
 }
 
+/** 主进程网络桥请求载荷（v1.9.1，与 src/lib/desktop.ts 保持一致） */
+export interface HttpRequestBridgePayload {
+  url: string;
+  method: string;
+  headers: Record<string, string>;
+  body?: string;
+  timeoutMs?: number;
+}
+
+/** 主进程网络桥响应（v1.9.1） */
+export interface HttpResponseBridge {
+  status: number;
+  headers: Record<string, string>;
+  body: string;
+}
+
 const api = {
   /** 桌面形态标记（web 端 undefined） */
   isDesktop: true as const,
@@ -42,6 +58,10 @@ const api = {
 
   // 本机局域网 IPv4（同步卡「连接 NAS」子网探测用）
   getLanIps: (): Promise<string[]> => ipcRenderer.invoke('tdxl:get-lan-ips'),
+
+  // 主进程网络桥（v1.9.1）：绕过 tdxl:// 安全源的 CORS/混合内容限制
+  httpRequest: (payload: HttpRequestBridgePayload): Promise<HttpResponseBridge> =>
+    ipcRenderer.invoke('tdxl:http-request', payload),
 
   // 数据目录
   openDataDir: (): Promise<void> => ipcRenderer.invoke('tdxl:open-data-dir'),

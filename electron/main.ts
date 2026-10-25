@@ -218,6 +218,92 @@ function createWindow(): void {
   });
 }
 
+/**
+ * 主进程网络桥（v1.9.1）请求/响应载荷。
+ *
+ * 背景：页面跑在 tdxl:// 自定义协议（standard + secure 源）上，
+ * 渲染进程 fetch 到局域网 http:// 会被 CORS 预检（PROPFIND +
+ * Authorization 触发 OPTIONS）与混合内容策略双重拦截。
+ * 主进程 net.request 无这些限制，桌面版 HTTP 一律经此桥转发。
+ */
+export interface HttpRequestPayload {
+  url: string;
+  method: string;
+  headers: Record<string, string>;
+  body?: string;
+  timeoutMs?: number;
+}
+
+export interface HttpResponsePayload {
+  status: number;
+  headers: Record<string, string>;
+  body: string;
+}
+
+/** net.request 的 IncomingMessage 头归一化为 Record<string, string>（数组值逗号拼接） */
+function normalizeHeaders(headers: Record<string, string | string[]>): Record<string, string> {
+  const out: Record<string, string> = {};
+  for (const [key, value] of Object.entries(headers)) {
+    if (typeof value === 'string') {
+      out[key] = value;
+    } else if (Array.isArray(value)) {
+      out[key] = value.join(', ');
+    }
+  }
+  return out;
+}
+
+/** 主进程网络桥：用 net.request 完成 HTTP 请求（无 CORS / 无混合内容限制） */
+function handleHttpRequest(payload: HttpRequestPayload): Promise<HttpResponsePayload> {
+  return new Promise((resolve, reject) => {
+    const timeoutMs = payload.timeoutMs ?? 15_000;
+    const request = net.request({ url: payload.url, method: payload.method });
+    for (const [key, value] of Object.entries(payload.headers ?? {})) {
+      request.setHeader(key, value);
+    }
+    // settled 防止超时/错误后 response 事件再触发 resolve/reject 竞态
+    let settled = false;
+    const timer = setTimeout(() => {
+      if (settled) {
+        return;
+      }
+      settled = true;
+      request.abort();
+      reject(new Error(`请求超时（${timeoutMs}ms）: ${payload.url}`));
+    }, timeoutMs);
+    request.on('response', (response) => {
+      const chunks: Buffer[] = [];
+      response.on('data', (chunk: Buffer) => {
+        chunks.push(chunk);
+      });
+      response.on('end', () => {
+        if (settled) {
+          return;
+        }
+        settled = true;
+        clearTimeout(timer);
+        resolve({
+          status: response.statusCode ?? 0,
+          headers: normalizeHeaders(response.headers as Record<string, string | string[]>),
+          body: Buffer.concat(chunks).toString('utf8'),
+        });
+      });
+    });
+    request.on('error', (error) => {
+      if (settled) {
+        return;
+      }
+      settled = true;
+      clearTimeout(timer);
+      reject(error instanceof Error ? error : new Error(String(error)));
+    });
+    if (payload.body !== undefined && payload.body !== '') {
+      request.write(payload.body, 'utf8');
+    }
+    request.end();
+  });
+}
+
 /** 材质/主题变化后重刷（tint 颜色跟深浅色联动；覆盖主窗口与弹窗） */
 function refreshMaterial(): void {
   for (const win of BrowserWindow.getAllWindows()) {
@@ -389,6 +475,11 @@ function registerIpc(): void {
     }
     return result;
   });
+
+  // --- 主进程网络桥（v1.9.1）：渲染进程 fetch 受 CORS/混合内容限制，统一走这里 ---
+  ipcMain.handle('tdxl:http-request', (_event, payload: HttpRequestPayload) =>
+    handleHttpRequest(payload),
+  );
 
   // --- 数据目录 ---
   ipcMain.handle('tdxl:open-data-dir', async () => {
