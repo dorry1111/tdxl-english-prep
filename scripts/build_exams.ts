@@ -1855,9 +1855,9 @@ function main(): void {
   }
 }
 
-/** 仅在直接执行时运行主流程（被 import 时不跑） */
-const invokedDirectly =
-  process.argv[1] && import.meta.url.endsWith(path.basename(process.argv[1]));
-if (invokedDirectly) {
+/** 直接执行时运行主流程（被 import 时不跑；兼容 node 与 vite-node 两种 argv 形态） */
+const isMain =
+  import.meta.url.endsWith('build_exams.ts') || import.meta.url.endsWith('build_exams.js');
+if (isMain) {
   main();
 }

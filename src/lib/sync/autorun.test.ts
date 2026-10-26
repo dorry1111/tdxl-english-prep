@@ -3,8 +3,9 @@
  *
  * - 并发调用只跑一次（后到者返回 null，不重复打 NAS）；
  * - syncEnabled=false 不触发、不发请求；
- * - 距上次成功同步 < 5 分钟不触发；
- * - 同步结束后守卫释放（可再次触发）。
+ * - 距上次成功同步 < 30 秒不触发（AUTO_SYNC_MIN_INTERVAL_MS）；
+ * - 同步结束后守卫释放（可再次触发）；
+ * - installRealtimeSync：前台切换/聚焦/可见轮询触发，卸载后停。
  *
  * 模块级 inFlight 在整个文件共享，因此每个用例都完整 await 到同步结束。
  */
@@ -15,7 +16,7 @@ import { buildDefaultSettings } from '@/db/seed';
 import { ensureSettings, setSecret } from '@/db/repos/settingsRepo';
 import type { Settings } from '@/types';
 
-import { AUTO_SYNC_MIN_INTERVAL_MS, isAutoSyncRunning, maybeAutoSync } from './autorun';
+import { AUTO_SYNC_MIN_INTERVAL_MS, installRealtimeSync, isAutoSyncRunning, maybeAutoSync } from './autorun';
 import type { FetchLike } from './webdav';
 
 const NOW_TS = 1_792_000_000_000;
@@ -137,5 +138,112 @@ describe('maybeAutoSync 触发门槛', () => {
     gate.resolveGate();
     const report = await task;
     expect(report?.error).toBeNull();
+  });
+});
+
+describe('installRealtimeSync（v1.10.0 实时同步）', () => {
+  let visibilityState: string;
+
+  /** 测试用短轮询间隔（真实计时器，避免 fake timers 与 Dexie 冲突） */
+  const POLL_MS = 25;
+
+  beforeEach(() => {
+    visibilityState = 'visible';
+    Object.defineProperty(document, 'visibilityState', {
+      configurable: true,
+      get: () => visibilityState,
+    });
+  });
+
+  afterEach(() => {
+    Object.defineProperty(document, 'visibilityState', {
+      configurable: true,
+      get: () => 'visible',
+    });
+  });
+
+  /** 清掉 lastSyncAt，让下一次触发越过 30 秒最小间隔 */
+  async function armTrigger(): Promise<void> {
+    await db.settings.update('global', { lastSyncAt: null });
+  }
+
+  /** 计数 fetch（同步真实完成，释放单飞守卫） */
+  function countingFetch(): { fetchImpl: FetchLike; calls: () => number } {
+    let callCount = 0;
+    return {
+      fetchImpl: async () => {
+        callCount += 1;
+        return new Response(
+          '<?xml version="1.0"?><D:multistatus xmlns:D="DAV:"></D:multistatus>',
+          { status: 207 },
+        );
+      },
+      calls: () => callCount,
+    };
+  }
+
+  it('页面回到前台（visibilitychange → visible）→ 立即触发同步', async () => {
+    const counter = countingFetch();
+    const stop = installRealtimeSync({ fetchImpl: counter.fetchImpl, nowTs: () => NOW_TS }, POLL_MS);
+    try {
+      // 后台状态下 visibilitychange 不触发
+      visibilityState = 'hidden';
+      await armTrigger();
+      document.dispatchEvent(new Event('visibilitychange'));
+      expect(isAutoSyncRunning()).toBe(false);
+
+      // 回到前台：立即触发并完成
+      visibilityState = 'visible';
+      await armTrigger();
+      document.dispatchEvent(new Event('visibilitychange'));
+      await vi.waitFor(() => expect(counter.calls()).toBeGreaterThan(0));
+      await vi.waitFor(() => expect(isAutoSyncRunning()).toBe(false));
+    } finally {
+      stop();
+    }
+  });
+
+  it('窗口 focus → 立即触发同步（桌面端）', async () => {
+    const counter = countingFetch();
+    const stop = installRealtimeSync({ fetchImpl: counter.fetchImpl, nowTs: () => NOW_TS }, POLL_MS);
+    try {
+      await armTrigger();
+      window.dispatchEvent(new Event('focus'));
+      await vi.waitFor(() => expect(counter.calls()).toBeGreaterThan(0));
+      await vi.waitFor(() => expect(isAutoSyncRunning()).toBe(false));
+    } finally {
+      stop();
+    }
+  });
+
+  it('轮询：页面可见时触发，后台标签页跳过', async () => {
+    const counter = countingFetch();
+    const stop = installRealtimeSync({ fetchImpl: counter.fetchImpl, nowTs: () => NOW_TS }, POLL_MS);
+    try {
+      await armTrigger();
+      await vi.waitFor(() => expect(counter.calls()).toBeGreaterThan(0));
+      await vi.waitFor(() => expect(isAutoSyncRunning()).toBe(false));
+
+      // 切到后台：后续轮询 tick 不触发
+      const before = counter.calls();
+      visibilityState = 'hidden';
+      await armTrigger();
+      await new Promise((resolve) => setTimeout(resolve, POLL_MS * 4));
+      expect(counter.calls()).toBe(before);
+    } finally {
+      stop();
+    }
+  });
+
+  it('卸载函数生效：stop 后轮询与事件均不再触发', async () => {
+    const counter = countingFetch();
+    const stop = installRealtimeSync({ fetchImpl: counter.fetchImpl, nowTs: () => NOW_TS }, POLL_MS);
+    stop();
+
+    await armTrigger();
+    window.dispatchEvent(new Event('focus'));
+    document.dispatchEvent(new Event('visibilitychange'));
+    await new Promise((resolve) => setTimeout(resolve, POLL_MS * 4));
+    expect(counter.calls()).toBe(0);
   });
 });

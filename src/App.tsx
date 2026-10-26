@@ -13,7 +13,7 @@ import { UPDATE } from '@/constants';
 import { usePwaUpdate } from '@/hooks/usePwaUpdate';
 import { AppRoutes } from '@/router';
 import { useUiStore } from '@/store/uiStore';
-import { maybeAutoSync } from '@/lib/sync/autorun';
+import { installRealtimeSync, maybeAutoSync } from '@/lib/sync/autorun';
 import { checkAndApplyDatasetUpdates } from '@/lib/dataset';
 import { isNativePluginAvailable } from '@/lib/nativePlugins';
 import { IS_NATIVE } from '@/lib/platform';
@@ -56,15 +56,19 @@ export default function App() {
   }, [offlineReady, showInfo]);
 
   // 启动即尝试一次自动同步 + 数据更新（已配置 NAS 时静默拉取最新进度/词包）；
-  // 之后每 5 分钟兜底一次，连接上 NAS 即自动同步，无需手动触发
+  // v1.10.0 实时同步：回到前台/窗口聚焦立即同步 + 可见时 30 秒轮询，
+  // 连接上 NAS 即自动同步，无需手动触发
   useEffect(() => {
     void maybeAutoSync();
     void checkAndApplyDatasetUpdates();
-    const timer = setInterval(() => {
-      void maybeAutoSync();
+    const datasetTimer = setInterval(() => {
       void checkAndApplyDatasetUpdates();
     }, 5 * 60 * 1000);
-    return () => clearInterval(timer);
+    const stopRealtimeSync = installRealtimeSync();
+    return () => {
+      clearInterval(datasetTimer);
+      stopRealtimeSync();
+    };
   }, []);
 
   return (

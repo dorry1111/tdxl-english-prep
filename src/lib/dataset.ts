@@ -25,6 +25,12 @@ export interface DatasetManifestItem {
   /** 该项所属的数据集版本（用于增量判断） */
   version: number;
   note?: string;
+  /**
+   * 仅 exam 用：是否走回忆版宽容校验。
+   * 回忆版卷（如 2026）客观题允许缺答案，必须置 true，
+   * 否则 importExamJson 默认严格校验会在已安装 app（未发版）上直接失败。
+   */
+  recalled?: boolean;
 }
 
 export interface DatasetManifest {
@@ -95,7 +101,10 @@ export async function checkAndApplyDatasetUpdates(): Promise<DatasetUpdateResult
       }
       try {
         if (item.type === 'exam') {
-          await importExamJson(JSON.parse(data), { paperId: item.id });
+          await importExamJson(JSON.parse(data), {
+            paperId: item.id,
+            ...(item.recalled ? { recalled: true } : {}),
+          });
         } else if (item.type === 'words') {
           await db.words.bulkPut(JSON.parse(data) as Word[]);
         }

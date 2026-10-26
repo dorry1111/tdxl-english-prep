@@ -8,236 +8,1121 @@
       {
         "type": "dialogue",
         "order": 1,
-        "questionCount": 10,
         "score": 10,
-        "minutes": 15
+        "questionCount": 10
       },
       {
         "type": "vocabulary",
         "order": 2,
-        "questionCount": 10,
         "score": 10,
-        "minutes": 10
+        "questionCount": 10
       },
       {
         "type": "reading",
         "order": 3,
-        "questionCount": 25,
         "score": 25,
-        "minutes": 45
+        "questionCount": 25
       },
       {
         "type": "cloze",
         "order": 4,
-        "questionCount": 10,
         "score": 10,
-        "minutes": 10
+        "questionCount": 10
       },
       {
         "type": "short-completion",
         "order": 5,
-        "questionCount": 20,
         "score": 20,
-        "minutes": 20
+        "questionCount": 20
       },
       {
         "type": "translation",
         "order": 6,
-        "questionCount": 1,
         "score": 10,
-        "minutes": 20
+        "questionCount": 1
       },
       {
         "type": "writing",
         "order": 7,
-        "questionCount": 1,
         "score": 15,
-        "minutes": 30
+        "questionCount": 1
       }
     ]
   },
-  "passages": [
-    {
-      "id": "e2026-p1",
-      "sectionType": "reading",
-      "order": 1,
-      "content": "tnemegagne-tnemtimmoc.02\ndetrats-dehcnual.91\nerongi-koolrevo.81\n4.Theeconomicbenefitsofspaceexploration."
-    },
-    {
-      "id": "e2026-p2",
-      "sectionType": "cloze",
-      "order": 2,
-      "content": "Youcouldwriteaccordingtothehintsgivenbelow. ImportanceofLifelongLearning.\nThe Writeacompositioninnolessthan150wordsonthetopic: Directions:"
-    }
-  ],
+  "passages": [],
   "questions": [
     {
-      "id": "e2026-q31",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 31,
-      "stem": "Whatisthemainideaaboutthemassage? .erutufgniraf thananengineeringchallenge-itisamoralandpoliticalimperativeforourspace- environmentorapolluted,collision-pronewasteland.Recyclingspacejunkismore latibroelbissecca,elbasuasnoitarenegerutufevaelewrehtehwenimreted Itisaboutredefininghumanity'srelationshipwithspace.Ouractionstodaywill tjustaboutcleaninguporbitaltrash. Theshifttoacircularspaceeconomyisno .secitcarpecapsralucrictpodaotsessenisubrofsevitnecni Governmentsmustalsofundresearchintodebris-removaltechnologiesandother willcontinuetoprioritizeshort-termprofitoverlong-termsustainability. Withoutsuchrules,privatecompaniesracingtoexpandsatelliteconstellations forthespacehardwaretheylaunch. bindingagreementsareneededtorequirecompaniesandnationstotakeresponsibility debrisremoval,satelliteend-of-lifedisposalandorbitalresourcemanagement.New nations.Currentinternationalspacetreatiesareoutdatedandlackclearrulesfor cooperationandlegalreformtoenforcecircularpracticesacrossallspace-faring Technologyalone,however,cannotsolvethespace-junkcrisis.Weneedglobal .ytilibasuer Newlightweight,durablematerialsarealsobeingtestedtoreducewasteandimprove edtolaunchrawmaterialsfromEarth. componentsdirectlyinspace,eliminatingthene harvestmetal,plasticandothermaterialsfromdiscardedspacecraftandbuildnew existingsatellitesinorbit.In-spacemanufacturingtechniqueswillallowusto Roboticservicingvehiclesarebeingdevelopedtoinspect,refuel,repairandrefit Severaltechnologicalinnovationsaremakingthiscircularvisionpossible. .desuer inally,wemustremovelarge,high-riskpiecesof'debristhatcannotberecycledor f foruseonnewmissions,withouthavingtobringthesatellitesbacktoEarth.And extendtheirlifecycles.Thethirdistorecyclematerialsfromdefunctsatellites generatelesswaste.Thesecondistorepairsatellites’brokenpartsinorbitto firststepistodesignspacecraftusingmaterialsthatminimizepollutionand end-of-lifeofaproducttobedesignedfortheobiect'sreuseorrecycling.The Circularityinthissensereferstowaste-managementprinciplescallingforthe hereuse,recyclingandefficientmanagementofspaceresources. movetowardacircularspaceeconomy-asustainablewaytousespacethatemphasizes believewemustleavebehindourlinearspaceeconomy,whereweuseandabandon,and movetoastrategyanchoredinstewardshipandsoundwaste-managementprinciples.I thereisagrowingmovementtorethinkourapproachtousingthespaceenvironment-to Aswecontinuetopushtheboundariesofspaceexplorationandcommercialization, .secneuqesnoc themuntiltheyfail,thenabandontheminorbitwithlittleregardforlong-term our“take-make-dispose”linearspaceeconomy:webuildsatellites,launchthem,use unusableforfuturemissions.Thegrowingcrisisofspacejunkisadirectproductof astheKesslerSyndrome,whichcouldonedayrenderlargeswathesoforbitalspace Thesecollisionscreatemoredebris,triggeringadangerouschainreactionknown .tfarcecapsfo s satellitesruntheriskofcollidingwithbitsofgarbagefrompreviousgeneration satellitestoused-uprocketparts.Theregionisalreadysocrowdedthatworking humanactivityinouterspacehasfilledEarthorbitwithspacetrash,fromdead launchmorethan26,000,withnoprospectsforslowingdown.Thisrapidexpansionof Adecadeago,humanitylaunchedaround200objectsintospaceperyear.Nowwe C.Comment2and4 ",
-      "blankIndex": null,
+      "id": "e2026-q1",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 1,
+      "stem": "口语交际 空位（1）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q2",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 2,
+      "stem": "口语交际 空位（2）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q3",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 3,
+      "stem": "口语交际 空位（3）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q4",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 4,
+      "stem": "口语交际 空位（4）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q5",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 5,
+      "stem": "口语交际 空位（5）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q6",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 6,
+      "stem": "口语交际 空位（6）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q7",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 7,
+      "stem": "口语交际 空位（7）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q8",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 8,
+      "stem": "口语交际 空位（8）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q9",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 9,
+      "stem": "口语交际 空位（9）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q10",
+      "sectionType": "dialogue",
+      "passageId": null,
+      "seq": 10,
+      "stem": "口语交际 空位（10）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q11",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 11,
+      "stem": "Acasualjacketis\neAnswerSheet. themeaningofthesentence.Markyouransweronth\nunderlined,ChoosetheonefromthefourchoicesmarkedA,B,CandDthatbestkeeps\ninthisparttherearetensentences,eachwithonewordorphrase Directions:\nPartIIVocabulary(l0points)\n参考答案:BDAC\nNeil:That'sinteresting.Ithinkyourbusinessisgoingtoverygoodandprofitable.\nBarry:Yes,theyhave.\n)01(:lieN\nalreadyconfirmedacoupleofshopsandcarworkshops.\nhavedonelotsofresearchonmarketingproductand Barry:IthinkIcan.BecauseI\nNeil:Canyou?\nBarry:(9).Theyaregoingtobringtheproductforme.\nNeil:Sohowareyougoingtodothat?\nBary:Yes,itdoes.\n）8（:lieN\nBarry:Yes,inthebeginning,Iamgoingtobring1000cartires.\nNeil:That'shuge.Sohaveyoudecidedwhatproductyouaregoingtobring?\nBarry:(7).Actually,IwasplanningtoimportsomevehicleproductsfromChina.\nNeil:Howareyoudoing,Barry?",
+      "options": [
+        {
+          "key": "D",
+          "text": "Thatmustneedadecentamountofinvestment?"
+        },
+        {
+          "key": "C",
+          "text": "Havetheyagreedtotakeaproductfromyou?"
+        },
+        {
+          "key": "B",
+          "text": "Iamplanningtostartanewbusiness."
+        },
+        {
+          "key": "A",
+          "text": "refusetopassatooltotheirchildren\n30.Infishingtasks,Gombemothersoftheir"
+        },
+        {
+          "key": "B",
+          "text": "Termitesareavaluablesourceofnutrients\n29.Wildchimpanzeesgathertermitesbecause\nimpanzees"
+        },
+        {
+          "key": "A",
+          "text": "Itcompareslearningbehaviorsoftwogroupsofch\n28.WhatistrueabouttheGombechimpanzeestudy?"
+        },
+        {
+          "key": "D",
+          "text": "Theirmotherteachthemmoredifficulttasks.\n27.Whatisthemainfindingaboutnon-humanprimatesmentionedbyMasGraves?"
+        },
+        {
+          "key": "B",
+          "text": "Tooluseisdifficultforthemtolearn\n26.Whichstatementistrueaboutwildchimpanzees?\nPassageTwo"
+        },
+        {
+          "key": "C",
+          "text": "peopleneedtobecarefulinidentifyingrealgreenwashingproducts\n25.Thelastparagraphindicatesthat"
+        },
+        {
+          "key": "D",
+          "text": "Ittrickspeopleintobelievingalltheirproductsareeco-firiendly.\n24.Whatcanbelearnedaboutthe“consciouscollection”?"
+        },
+        {
+          "key": "A",
+          "text": "Itmayincreasethecostofeco-friendlyproducts.\n23.WhichstatementisNOTtrueabouttheconsequencesofgreenwashing?"
+        },
+        {
+          "key": "B",
+          "text": "publicize\n22.Theword“showcase”(Para.2)isclosestinmeaningto"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q12",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 12,
+      "stem": "Thereisalotof",
+      "options": [
+        {
+          "key": "A",
+          "text": "convenient"
+        },
+        {
+          "key": "B",
+          "text": "awkward"
+        },
+        {
+          "key": "C",
+          "text": "insufficient"
+        },
+        {
+          "key": "D",
+          "text": "proper\namongtheelegantlydressedguestoftheceremony."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q13",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 13,
+      "stem": "Hetaughtmethetrick",
+      "options": [
+        {
+          "key": "A",
+          "text": "unclear"
+        },
+        {
+          "key": "B",
+          "text": "Technical"
+        },
+        {
+          "key": "C",
+          "text": "broad"
+        },
+        {
+          "key": "D",
+          "text": "general\ninterprettherules.\nlanguageinthelaw,anduncertaintyabouthowto"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q14",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 14,
+      "stem": "particularly-especially",
+      "options": [
+        {
+          "key": "D",
+          "text": "asfaras"
+        },
+        {
+          "key": "D",
+          "text": "ifonly"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q15",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 15,
+      "stem": "incredible-amazing",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q16",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 16,
+      "stem": "accustomedto-familiarwith",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q17",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 17,
+      "stem": "facet-aspect",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q18",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 18,
+      "stem": "overlook-ignore\n第 3 共页 8 页\n学晋网：https://www.eduego.com/\n<<<PAGE 4>>>\n4.Theeconomicbenefitsofspaceexploration.\n31.Whatisthemainideaaboutthemassage?\nfaringfuture.\nthananengineeringchallenge-itisamoralandpoliticalimperativeforourspace-\nenvironmentorapolluted,collision-pronewasteland.Recyclingspacejunkismore\ndeterminewhetherweleavefuturegenerationsausable,accessibleorbital\nItisaboutredefininghumanity'srelationshipwithspace.Ouractionstodaywill\ntjustaboutcleaninguporbitaltrash. Theshifttoacircularspaceeconomyisno\nincentivesforbusinessestoadoptcircularspacepractices.\nGovernmentsmustalsofundresearchintodebris-removaltechnologiesandother\nwillcontinuetoprioritizeshort-termprofitoverlong-termsustainability.\nWithoutsuchrules,privatecompaniesracingtoexpandsatelliteconstellations\nforthespacehardwaretheylaunch.\nbindingagreementsareneededtorequirecompaniesandnationstotakeresponsibility\ndebrisremoval,satelliteend-of-lifedisposalandorbitalresourcemanagement.New\nnations.Currentinternationalspacetreatiesareoutdatedandlackclearrulesfor\ncooperationandlegalreformtoenforcecircularpracticesacrossallspace-faring\nTechnologyalone,however,cannotsolvethespace-junkcrisis.Weneedglobal\nreusability.\nNewlightweight,durablematerialsarealsobeingtestedtoreducewasteandimprove\nedtolaunchrawmaterialsfromEarth. componentsdirectlyinspace,eliminatingthene\nharvestmetal,plasticandothermaterialsfromdiscardedspacecraftandbuildnew\nexistingsatellitesinorbit.In-spacemanufacturingtechniqueswillallowusto\nRoboticservicingvehiclesarebeingdevelopedtoinspect,refuel,repairandrefit\nSeveraltechnologicalinnovationsaremakingthiscircularvisionpossible.\nreused.\ninally,wemustremovelarge,high-riskpiecesof'debristhatcannotberecycledor f\nforuseonnewmissions,withouthavingtobringthesatellitesbacktoEarth.And\nextendtheirlifecycles.Thethirdistorecyclematerialsfromdefunctsatellites\ngeneratelesswaste.Thesecondistorepairsatellites’brokenpartsinorbitto\nfirststepistodesignspacecraftusingmaterialsthatminimizepollutionand\nend-of-lifeofaproducttobedesignedfortheobiect'sreuseorrecycling.The\nCircularityinthissensereferstowaste-managementprinciplescallingforthe\nhereuse,recyclingandefficientmanagementofspaceresources.\nmovetowardacircularspaceeconomy-asustainablewaytousespacethatemphasizes\nbelievewemustleavebehindourlinearspaceeconomy,whereweuseandabandon,and\nmovetoastrategyanchoredinstewardshipandsoundwaste-managementprinciples.I\nthereisagrowingmovementtorethinkourapproachtousingthespaceenvironment-to\nAswecontinuetopushtheboundariesofspaceexplorationandcommercialization,\nconsequences.\nthemuntiltheyfail,thenabandontheminorbitwithlittleregardforlong-term\nour“take-make-dispose”linearspaceeconomy:webuildsatellites,launchthem,use\nunusableforfuturemissions.Thegrowingcrisisofspacejunkisadirectproductof\nastheKesslerSyndrome,whichcouldonedayrenderlargeswathesoforbitalspace\nThesecollisionscreatemoredebris,triggeringadangerouschainreactionknown\nofspacecraft.\ns satellitesruntheriskofcollidingwithbitsofgarbagefrompreviousgeneration\nsatellitestoused-uprocketparts.Theregionisalreadysocrowdedthatworking\nhumanactivityinouterspacehasfilledEarthorbitwithspacetrash,fromdead\nlaunchmorethan26,000,withnoprospectsforslowingdown.Thisrapidexpansionof\nAdecadeago,humanitylaunchedaround200objectsintospaceperyear.Nowwe\n第 4 共页 8 页\n学晋网：https://www.eduego.com/\n<<<PAGE 5>>>",
+      "options": [
+        {
+          "key": "B",
+          "text": "Selfishness\n43.The“growingego”incommentIprobablymeans?"
+        },
+        {
+          "key": "D",
+          "text": "depressingnewsdrawsalotofattention\n42.Theauthorwouldprobablyagreethat"
+        },
+        {
+          "key": "C",
+          "text": "Increasedyearsofeducation\n40.Whatwasakeyfactorinthecognitivediferentbetweenthetwogroups?"
+        },
+        {
+          "key": "D",
+          "text": "Thelater-borngrouphadnoorerphysicalfitness\n39.WhatwasonesurprisingresultfromtheFinnishstudies?\noredhigherinphysicalandcognitivetests"
+        },
+        {
+          "key": "D",
+          "text": "Thebreakdownofrocket."
+        },
+        {
+          "key": "C",
+          "text": "Thecollisionbetweentwosatellites"
+        },
+        {
+          "key": "B",
+          "text": "Thecrash...."
+        },
+        {
+          "key": "A",
+          "text": "Thelaunchofanewsatellite.\n32.Whateventin2009resultedinnearly2000debrisfragments?"
+        },
+        {
+          "key": "D",
+          "text": "Thehistoryofsatellitelaunchesinspace."
+        },
+        {
+          "key": "C",
+          "text": "Theincreasingdangerofspacedebris."
+        },
+        {
+          "key": "C",
+          "text": "float"
+        },
+        {
+          "key": "B",
+          "text": "themainiceshelf"
+        },
+        {
+          "key": "C",
+          "text": "asthefightorfightreaction"
+        },
+        {
+          "key": "B",
+          "text": "whenathreatisn't\niblefortheemotionalsignificanceofinformation"
+        },
+        {
+          "key": "A",
+          "text": "Respons\nPhrases:"
+        },
+        {
+          "key": "A",
+          "text": "evident"
+        },
+        {
+          "key": "B",
+          "text": "know"
+        },
+        {
+          "key": "C",
+          "text": "aofone'ssubconsciousthoughts"
+        },
+        {
+          "key": "B",
+          "text": "inspiredby"
+        },
+        {
+          "key": "A",
+          "text": "communicationwith\nPhrases:"
+        },
+        {
+          "key": "C",
+          "text": "dreams"
+        },
+        {
+          "key": "B",
+          "text": "thedivineorspiritualreal"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q19",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 19,
+      "stem": "launched-started",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q20",
+      "sectionType": "vocabulary",
+      "passageId": null,
+      "seq": 20,
+      "stem": "commitment-engagement",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q21",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 21,
+      "stem": "ItisstatedonParagraphlthatgreenwashing\nPassageOne\nmarkyouranswerontheAnswerSheet.\nrchoicesA,B,Cand D.Choosethebestanswerand unfinishedstatements,eachwithfou\nInthissection,therearefounpassagesfollowedbyquestionsor Directions:\nPartIIIReadingComprehension(25points)\n20.commitment-engagement\n19.launched-started\n18.overlook-ignore\n第 3 共页 8 页\n学晋网：https://www.eduego.com/\n<<<PAGE 4>>>\n4.Theeconomicbenefitsofspaceexploration",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q22",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 22,
+      "stem": "Theword“showcase”(Para.2)isclosestinmeaningto",
+      "options": [
+        {
+          "key": "B",
+          "text": "deservesconsumers’attention"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q23",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 23,
+      "stem": "WhichstatementisNOTtrueabouttheconsequencesofgreenwashing?",
+      "options": [
+        {
+          "key": "B",
+          "text": "publicize"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q24",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 24,
+      "stem": "Whatcanbelearnedaboutthe“consciouscollection”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Itmayincreasethecostofeco-friendlyproducts."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q25",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 25,
+      "stem": "Thelastparagraphindicatesthat",
+      "options": [
+        {
+          "key": "D",
+          "text": "Ittrickspeopleintobelievingalltheirproductsareeco-firiendly."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q26",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 26,
+      "stem": "Whichstatementistrueaboutwildchimpanzees?\nPassageTwo",
+      "options": [
+        {
+          "key": "C",
+          "text": "peopleneedtobecarefulinidentifyingrealgreenwashingproducts"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q27",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 27,
+      "stem": "Whatisthemainfindingaboutnon-humanprimatesmentionedbyMasGraves?",
+      "options": [
+        {
+          "key": "B",
+          "text": "Tooluseisdifficultforthemtolearn"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q28",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 28,
+      "stem": "WhatistrueabouttheGombechimpanzeestudy?",
+      "options": [
+        {
+          "key": "D",
+          "text": "Theirmotherteachthemmoredifficulttasks."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q29",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 29,
+      "stem": "Wildchimpanzeesgathertermitesbecause\nimpanzees",
+      "options": [
+        {
+          "key": "A",
+          "text": "Itcompareslearningbehaviorsoftwogroupsofch"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q30",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 30,
+      "stem": "Infishingtasks,Gombemothersoftheir",
+      "options": [
+        {
+          "key": "B",
+          "text": "Termitesareavaluablesourceofnutrients"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q31",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 31,
+      "stem": "Whatisthemainideaaboutthemassage?\nfaringfuture.\nthananengineeringchallenge-itisamoralandpoliticalimperativeforourspace-\nenvironmentorapolluted,collision-pronewasteland.Recyclingspacejunkismore\ndeterminewhetherweleavefuturegenerationsausable,accessibleorbital\nItisaboutredefininghumanity'srelationshipwithspace.Ouractionstodaywill\ntjustaboutcleaninguporbitaltrash. Theshifttoacircularspaceeconomyisno\nincentivesforbusinessestoadoptcircularspacepractices.\nGovernmentsmustalsofundresearchintodebris-removaltechnologiesandother\nwillcontinuetoprioritizeshort-termprofitoverlong-termsustainability.\nWithoutsuchrules,privatecompaniesracingtoexpandsatelliteconstellations\nforthespacehardwaretheylaunch.\nbindingagreementsareneededtorequirecompaniesandnationstotakeresponsibility\ndebrisremoval,satelliteend-of-lifedisposalandorbitalresourcemanagement.New\nnations.Currentinternationalspacetreatiesareoutdatedandlackclearrulesfor\ncooperationandlegalreformtoenforcecircularpracticesacrossallspace-faring\nTechnologyalone,however,cannotsolvethespace-junkcrisis.Weneedglobal\nreusability.\nNewlightweight,durablematerialsarealsobeingtestedtoreducewasteandimprove\nedtolaunchrawmaterialsfromEarth. componentsdirectlyinspace,eliminatingthene\nharvestmetal,plasticandothermaterialsfromdiscardedspacecraftandbuildnew\nexistingsatellitesinorbit.In-spacemanufacturingtechniqueswillallowusto\nRoboticservicingvehiclesarebeingdevelopedtoinspect,refuel,repairandrefit\nSeveraltechnologicalinnovationsaremakingthiscircularvisionpossible.\nreused.\ninally,wemustremovelarge,high-riskpiecesof'debristhatcannotberecycledor f\nforuseonnewmissions,withouthavingtobringthesatellitesbacktoEarth.And\nextendtheirlifecycles.Thethirdistorecyclematerialsfromdefunctsatellites\ngeneratelesswaste.Thesecondistorepairsatellites’brokenpartsinorbitto\nfirststepistodesignspacecraftusingmaterialsthatminimizepollutionand\nend-of-lifeofaproducttobedesignedfortheobiect'sreuseorrecycling.The\nCircularityinthissensereferstowaste-managementprinciplescallingforthe\nhereuse,recyclingandefficientmanagementofspaceresources.\nmovetowardacircularspaceeconomy-asustainablewaytousespacethatemphasizes\nbelievewemustleavebehindourlinearspaceeconomy,whereweuseandabandon,and\nmovetoastrategyanchoredinstewardshipandsoundwaste-managementprinciples.I\nthereisagrowingmovementtorethinkourapproachtousingthespaceenvironment-to\nAswecontinuetopushtheboundariesofspaceexplorationandcommercialization,\nconsequences.\nthemuntiltheyfail,thenabandontheminorbitwithlittleregardforlong-term\nour“take-make-dispose”linearspaceeconomy:webuildsatellites,launchthem,use\nunusableforfuturemissions.Thegrowingcrisisofspacejunkisadirectproductof\nastheKesslerSyndrome,whichcouldonedayrenderlargeswathesoforbitalspace\nThesecollisionscreatemoredebris,triggeringadangerouschainreactionknown\nofspacecraft.\ns satellitesruntheriskofcollidingwithbitsofgarbagefrompreviousgeneration\nsatellitestoused-uprocketparts.Theregionisalreadysocrowdedthatworking\nhumanactivityinouterspacehasfilledEarthorbitwithspacetrash,fromdead\nlaunchmorethan26,000,withnoprospectsforslowingdown.Thisrapidexpansionof\nAdecadeago,humanitylaunchedaround200objectsintospaceperyear.Nowwe\n第 4 共页 8 页\n学晋网：https://www.eduego.com/\n<<<PAGE 5>>>\n C.Comment2and4",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q32",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 32,
+      "stem": "Whateventin2009resultedinnearly2000debrisfragments?",
+      "options": [
+        {
+          "key": "D",
+          "text": "Thehistoryofsatellitelaunchesinspace."
+        },
+        {
+          "key": "C",
+          "text": "Theincreasingdangerofspacedebris."
+        },
+        {
+          "key": "C",
+          "text": "float"
+        },
+        {
+          "key": "B",
+          "text": "themainiceshelf"
+        },
+        {
+          "key": "C",
+          "text": "asthefightorfightreaction"
+        },
+        {
+          "key": "B",
+          "text": "whenathreatisn't\niblefortheemotionalsignificanceofinformation"
+        },
+        {
+          "key": "A",
+          "text": "Respons\nPhrases:"
+        },
+        {
+          "key": "A",
+          "text": "evident"
+        },
+        {
+          "key": "B",
+          "text": "know"
+        },
+        {
+          "key": "C",
+          "text": "aofone'ssubconsciousthoughts"
+        },
+        {
+          "key": "B",
+          "text": "inspiredby"
+        },
+        {
+          "key": "A",
+          "text": "communicationwith\nPhrases:"
+        },
+        {
+          "key": "C",
+          "text": "dreams"
+        },
+        {
+          "key": "B",
+          "text": "thedivineorspiritualreal"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q36",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 36,
+      "stem": "Whatisthemainideaofthepassage?\nPassageFour",
+      "options": [
+        {
+          "key": "D",
+          "text": "Thebreakdownofrocket."
+        },
+        {
+          "key": "C",
+          "text": "Thecollisionbetweentwosatellites"
+        },
+        {
+          "key": "B",
+          "text": "Thecrash...."
+        },
+        {
+          "key": "A",
+          "text": "Thelaunchofanewsatellite."
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q37",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 37,
+      "stem": "Whatdoesthephrase“acrosstheboard\"(Para,2)probablymean?\n B.Comparisonofagingacrossgenerations",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q38",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 38,
+      "stem": "WhichwasafindingfromtheFinnishstudiescomparingthetwogroups?\nsaerallanI.A",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q39",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 39,
+      "stem": "WhatwasonesurprisingresultfromtheFinnishstudies?\noredhigherinphysicalandcognitivetests",
+      "options": [
+        {
+          "key": "B",
+          "text": "Thelater-borngroupsc"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q40",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 40,
+      "stem": "Whatwasakeyfactorinthecognitivediferentbetweenthetwogroups?",
+      "options": [
+        {
+          "key": "D",
+          "text": "Thelater-borngrouphadnoorerphysicalfitness"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q41",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 41,
+      "stem": "Whichisnotmentionedasthebenefitsoftechnology?\nSheet.\nbestanswerandmarkyouranswerontheAnswer fourchoicesA,B,Cand D.Choosethe\nTheblogandcommentsarefollowedbyquestionsorumfinishedstatements,eachwith\nDirections:Inthissection,youarerequiredtoreadoneblogandthecommentsonit\nSectionB",
+      "options": [
+        {
+          "key": "C",
+          "text": "Increasedyearsofeducation"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q42",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 42,
+      "stem": "Theauthorwouldprobablyagreethat",
+      "options": [
+        {
+          "key": "D",
+          "text": "Technologyfacilitatessocialinteraction"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q43",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 43,
+      "stem": "The“growingego”incommentIprobablymeans?",
+      "options": [
+        {
+          "key": "D",
+          "text": "depressingnewsdrawsalotofattention"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q44",
+      "sectionType": "reading",
+      "passageId": null,
+      "seq": 44,
+      "stem": "Whichcommentimpliesthathappinesshasnothingtodowithtechnology?",
+      "options": [
+        {
+          "key": "B",
+          "text": "Selfishness"
+        }
+      ],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
       "score": 1
     },
     {
       "id": "e2026-q45",
       "sectionType": "reading",
-      "passageId": "e2026-p1",
+      "passageId": null,
       "seq": 45,
-      "stem": "Whichcommentsstresstheimportanceofsocialinteraction? B.Comment2 ",
-      "blankIndex": null,
+      "stem": "Whichcommentsstresstheimportanceofsocialinteraction?\n B.Comment2",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q46",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 46,
-      "stem": "Whichcommentimpliesthathappinesshasnothingtodowithtechnology? ssenhsifleS.B ",
-      "blankIndex": null,
+      "id": "e2026-q56",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 56,
+      "stem": "短文完成 空位（56）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q47",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 47,
-      "stem": "The“growingego”incommentIprobablymeans? D.depressingnewsdrawsalotofattention ",
-      "blankIndex": null,
+      "id": "e2026-q57",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 57,
+      "stem": "短文完成 空位（57）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q48",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 48,
-      "stem": "Theauthorwouldprobablyagreethat noitcaretnilaicossetatilicafygolonhceT.D ",
-      "blankIndex": null,
+      "id": "e2026-q58",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 58,
+      "stem": "短文完成 空位（58）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q49",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 49,
-      "stem": "Whichisnotmentionedasthebenefitsoftechnology? Sheet. bestanswerandmarkyouranswerontheAnswer fourchoicesA,B,CandD.Choosethe Theblogandcommentsarefollowedbyquestionsorumfinishedstatements,eachwith Directions:Inthissection,youarerequiredtoreadoneblogandthecommentsonit SectionB C.Increasedyearsofeducation ",
-      "blankIndex": null,
+      "id": "e2026-q59",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 59,
+      "stem": "短文完成 空位（59）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q50",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 50,
-      "stem": "Whatwasakeyfactorinthecognitivediferentbetweenthetwogroups? D.Thelater-borngrouphadnoorerphysicalfitness ",
-      "blankIndex": null,
+      "id": "e2026-q60",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 60,
+      "stem": "短文完成 空位（60）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q51",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 51,
-      "stem": "WhatwasonesurprisingresultfromtheFinnishstudies? oredhigherinphysicalandcognitivetests B.Thelater-borngroupsc ",
-      "blankIndex": null,
+      "id": "e2026-q61",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 61,
+      "stem": "短文完成 空位（61）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q52",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 52,
-      "stem": "WhichwasafindingfromtheFinnishstudiescomparingthetwogroups? A.Inallareas ",
-      "blankIndex": null,
+      "id": "e2026-q62",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 62,
+      "stem": "短文完成 空位（62）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q53",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 53,
-      "stem": "Whatdoesthephrase“acrosstheboard\"(Para,2)probablymean? snoitarenegssorcagnigafonosirapmoC.B ",
-      "blankIndex": null,
+      "id": "e2026-q63",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 63,
+      "stem": "短文完成 空位（63）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q54",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 54,
-      "stem": "Whatisthemainideaofthepassage? PassageFour D.Thebreakdownofrocket. C.Thecollisionbetweentwosatellites B.Thecrash.... A.Thelaunchofanewsatellite. ",
-      "blankIndex": null,
+      "id": "e2026-q64",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 64,
+      "stem": "短文完成 空位（64）",
       "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
       "score": 1
     },
     {
-      "id": "e2026-q55",
-      "sectionType": "reading",
-      "passageId": "e2026-p1",
-      "seq": 55,
-      "stem": "Whateventin2009resultedinnearly2000debrisfragments? D.Thehistoryofsatellitelaunchesinspace. C.Theincreasingdangerofspacedebris. B.Theroleofprivatecompaniesinspaceexploration. 56 57 58 59 60 61 62 63 64 65 66 67 taolf.C B.themainiceshelf",
-      "blankIndex": null,
-      "options": [
-        {
-          "key": "A",
-          "text": "themassivesizeof TextThree 参考答案:CABCAB turnedonthiscanleadtothedevelopmentofanxietydisorders fightresponseshouldbetriggered.Whenthestructureistooeasilytriggeredoris fearresponse.Oneparticularstructureisandwhetherornotthefightor Oneofthemainfumnctionsofthissystemistowarnusofdangerandtriggera"
-        },
-        {
-          "key": "B",
-          "text": "whenathreatisn't iblefortheemotionalsignificanceofinformation A.Respons Phrases: gnissessa..Cwonk.Btnedive.A TextTwo 参考答案BCACAB .seihposolihp EasternculturesviewdreamsasPeoplehavebeen,writepoetry,andcreate Inwesternculture,dreamsareoftenseenasanddesires,Incontrast, sthguohtsuoicsnocbuss'enofoa.C ybderipsni.B A.communicationwith Phrases: smaerd.C B.thedivineorspiritualreal noitcefer.A enOtxeT AnswerSheet. lettersthatindicateyouanswersonthe completedphrasestofillintheblanksofthetext,Noteyoushouldblackenthe First,usethechoicesprovidedintheboxtocompletethephrases.Second,usethe from56to75).Aboveeachtexttherearethreeorfourphrasestobecompleted. Inthispart,therearethreeincompletetextswith20questions(Ranging"
-        },
-        {
-          "key": "C",
-          "text": "asthefightorfightreaction"
-        }
-      ],
+      "id": "e2026-q65",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 65,
+      "stem": "短文完成 空位（65）",
+      "options": [],
       "answerKey": null,
       "referenceAnswer": null,
-      "explanation": "",
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q66",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 66,
+      "stem": "短文完成 空位（66）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q67",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 67,
+      "stem": "短文完成 空位（67）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q68",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 68,
+      "stem": "短文完成 空位（68）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q69",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 69,
+      "stem": "短文完成 空位（69）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q70",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 70,
+      "stem": "短文完成 空位（70）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q71",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 71,
+      "stem": "短文完成 空位（71）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q72",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 72,
+      "stem": "短文完成 空位（72）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q73",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 73,
+      "stem": "短文完成 空位（73）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q74",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 74,
+      "stem": "短文完成 空位（74）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
+      "score": 1
+    },
+    {
+      "id": "e2026-q75",
+      "sectionType": "short-completion",
+      "passageId": null,
+      "seq": 75,
+      "stem": "短文完成 空位（75）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": null,
+      "explanation": null,
       "score": 1
     },
     {
@@ -245,13 +1130,24 @@
       "sectionType": "translation",
       "passageId": null,
       "seq": 76,
-      "stem": "将下面短文译成汉语：\n",
-      "blankIndex": null,
+      "stem": "将下列短文译成中文（见参考译文）",
       "options": [],
       "answerKey": null,
-      "referenceAnswer": "PaperTwo(试卷二)\n\nsplit,calledChasm-1,thatrunsalongtheiceshelfmass.\n\nprocessofshrinkingicebergs.Scientistssaytheywillcontinuetomonitortheentire\n\neinsealevelispartlyaresultofthisrapid metrictonsperyear.Theglobalris\nnoillib051foetaregarevanatagnitlemsiacitcratnAtahtlaeverserugiF\n\ntheiceberg.\n\neventresearchscientistsrecentlymovedtheirstationandarenotcurrentlybasedon\n\nFortunately,theexception.Scientistsmonitoringthebreakagesayitisasignificant\n\nAntarcticaarecommonandblamedonclimatechange,thisoneisan75(D)theiceberg.\n\nAntarcticabreaks.Thenewicebergwill74(C).Althoughcracksaroundtheedgesof\n\nslinkto ThefloatingiceshelfisanextensionofAntarctica.Asitextends,it\n.2102ecnis)B(37grebeci\n\nmajorcrackintheBruntlceShelf.Picturescapturedbysatelliteshowthatthevast\n\nknownascalving.Itisthesecondicebergtobreakoffintwoyearsbecauseofa\n\nmeasuring1,550squarekilometers72(A).Thesplitispartofanaturalprocess\n\nAntarcticahaslostanicebergtheequivalentsizeofGreaterLondon.Theiceberg\n\nF.becauseof71(A)\n\nE.eventually70(C)outtosea\n\nD.hasbeen69(D)\n\nC.separatedfrom68(B)\n\nPhrases:\nyawagnikaerb.D\n\nteachers may harm one's ability of independent thinking( 举 例 )\nit liberates oneself from the constraintsof\ntime and location(原因一) it offers people a broader range of choices(原因\n二 )\nit contributes to social advance and progress(原因三)\n.tisdrawotedutittaelbatiusadlohot\n\ncouldnotbeignoredandwouldbringabouteffectsintoourlives.Itissignificant\n\nTakingalltheseintoaccount,wecandrawaconclusionthatitsadvantages\n\n. awarenessthat\n\n,whichisanothertruthwemustface.Lastbutnotleast,thereisagrowing\n,sediseB.\n\nFirstofall,peoplemostlyagreethat\n\nManypointscoulddemonstratemyview,andthreemainonesarelistedasfollows.\n\nconcerned,theadvantagesoutweighitsdisadvantages.\naIsarafsA. m",
-      "explanation": "",
+      "referenceAnswer": "同样重要。每一份善行，都能产生深远的影响。新闻里看到的那些重大善行 校或住房。任何的善行或者和平的行为，再微小也不小。小的善举和围内做着善事。也许是帮新生找到对应的教室，也可能参加一个项目，帮助有需要的社区修建学范小在人通普万千有都，后背的主得奖尔贝诺位一每。好美更得变界世让能也，赫显名声必不你",
+      "explanation": null,
       "score": 10
+    },
+    {
+      "id": "e2026-q77",
+      "sectionType": "writing",
+      "passageId": null,
+      "seq": 77,
+      "stem": "以 Importance of Lifelong Learning 为题写一篇不少于150词的作文（提纲见参考）",
+      "options": [],
+      "answerKey": null,
+      "referenceAnswer": "（6）；（4）；(3)；(2)；（1）；(试卷一)；（回忆版）；(9)；(7)；(Para.2)；(Para,2)；(主题)；(现象总结)；(试卷二)；(D)；(C)；(B)；(A)；(A)；(C)；(B)；( 举 例 )；(原因一)；(原因\n二 )；(原因三)",
+      "explanation": null,
+      "score": 15
     }
   ]
 }

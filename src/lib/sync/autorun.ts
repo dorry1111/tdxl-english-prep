@@ -21,8 +21,11 @@ import type { SyncReport } from '@/types';
 
 import { syncNow, type SyncDeps } from './engine';
 
-/** 两次自动同步的最小间隔：5 分钟 */
-export const AUTO_SYNC_MIN_INTERVAL_MS = 5 * 60 * 1000;
+/** 两次自动同步的最小间隔：30 秒（实时同步口径，局域网载荷仅 KB 级，30s 轮询无压力） */
+export const AUTO_SYNC_MIN_INTERVAL_MS = 30 * 1000;
+
+/** 实时同步轮询间隔：30 秒（仅页面可见时轮询，后台标签页/挂起时跳过） */
+export const REALTIME_POLL_INTERVAL_MS = 30 * 1000;
 
 /** 进程内单飞守卫（同一浏览器上下文内保证只有一个同步在跑） */
 let inFlight: Promise<SyncReport> | null = null;
@@ -64,4 +67,43 @@ export async function maybeAutoSync(deps: SyncDeps = {}): Promise<SyncReport | n
     // 自动同步是尽力而为：任何意外异常都静默吞掉，不打断结算流程
     return null;
   }
+}
+
+/**
+ * 安装实时同步监听（v1.10.0「实时同步」）：
+ *
+ * 1. visibilitychange → 页面回到前台立即同步（修 iOS IPA/PWA 从后台切回不刷新）；
+ * 2. window focus → 桌面端窗口聚焦立即同步；
+ * 3. 30 秒轮询 → 仅页面可见时兜底（后台标签页/系统挂起时跳过，省电不打 NAS）。
+ *
+ * 全部走 maybeAutoSync：单飞守卫 + 30 秒最小间隔 + syncEnabled 门槛天然生效，
+ * 不会因频繁触发打出并发请求。返回卸载函数（React StrictMode 双挂载与测试用）。
+ *
+ * @param pollIntervalMs 测试可注入更短的轮询间隔（默认 REALTIME_POLL_INTERVAL_MS）
+ */
+export function installRealtimeSync(
+  deps: SyncDeps = {},
+  pollIntervalMs: number = REALTIME_POLL_INTERVAL_MS,
+): () => void {
+  const trigger = (): void => {
+    void maybeAutoSync(deps);
+  };
+  const onVisibility = (): void => {
+    if (typeof document !== 'undefined' && document.visibilityState === 'visible') {
+      trigger();
+    }
+  };
+  const onTick = (): void => {
+    if (typeof document === 'undefined' || document.visibilityState === 'visible') {
+      trigger();
+    }
+  };
+  document.addEventListener('visibilitychange', onVisibility);
+  window.addEventListener('focus', trigger);
+  const timer = setInterval(onTick, pollIntervalMs);
+  return () => {
+    document.removeEventListener('visibilitychange', onVisibility);
+    window.removeEventListener('focus', trigger);
+    clearInterval(timer);
+  };
 }
