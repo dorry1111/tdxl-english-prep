@@ -33,7 +33,7 @@ import { now } from '@/lib/time';
 import { IS_IOS } from '@/lib/platform';
 import type { Settings, WordBook } from '@/types';
 
-import { ensureSettings, getSecret, getSettings, patchSettings } from './repos/settingsRepo';
+import { applyLocalDefaults, ensureSettings, getSecret, getSettings } from './repos/settingsRepo';
 import { getBook, upsertBook } from './repos/bookRepo';
 import { getExam, savePaper } from './repos/examRepo';
 
@@ -200,9 +200,12 @@ export async function ensureSeeded(): Promise<SeedResult> {
   // TTS 默认口径 v2（2026-10-25）：英式发音 + 出卡自动朗读。
   // 这两个字段此前从未有设置 UI，`ttsDefaultsV2` 缺失即旧版默认值（us/false），
   // 一次性升级；升级后用户在设置页改出的任何组合都不会再被覆盖。
+  // v1.10.1：迁移改走 applyLocalDefaults（不顶 updatedAt、不标脏）——
+  // 否则迁移后本机 updatedAt 永远新于远端，settings.json 整条 LWW 死锁，
+  // 其它设备改的每日学习量等真实配置同步不进来。
   const current = await getSettings();
   if (current && current.ttsDefaultsV2 !== true) {
-    await patchSettings({ ttsAccent: 'uk', ttsAutoPlay: true, ttsDefaultsV2: true });
+    await applyLocalDefaults({ ttsAccent: 'uk', ttsAutoPlay: true, ttsDefaultsV2: true });
   }
 
   // iOS 同步默认开启迁移（v1.8.0 一次性，对标 ttsDefaultsV2 的标志位模式）：
@@ -214,10 +217,11 @@ export async function ensureSeeded(): Promise<SeedResult> {
   if (current && IS_IOS && current.iosSyncDefaultsApplied !== true) {
     const unconfigured = current.webdavUrl.trim() === '' && (await getSecret()) === null;
     if (unconfigured && current.syncEnabled !== true) {
-      await patchSettings({ syncEnabled: true, iosSyncDefaultsApplied: true });
+      // v1.10.1：applyLocalDefaults（不顶 updatedAt、不标脏），理由见 ttsDefaultsV2 迁移注释
+      await applyLocalDefaults({ syncEnabled: true, iosSyncDefaultsApplied: true });
       iosSyncEnabled = true;
     } else {
-      await patchSettings({ iosSyncDefaultsApplied: true });
+      await applyLocalDefaults({ iosSyncDefaultsApplied: true });
     }
   }
 

@@ -53,6 +53,26 @@ export async function patchSettings(partial: Partial<Omit<Settings, 'id'>>): Pro
 }
 
 /**
+ * 本机默认值写入（seed 一次性迁移专用，v1.10.1）：
+ * 落库但**不顶 updatedAt、不标脏**——迁移写入的是「本机默认口径」而非用户意图，
+ * 若顶时间戳会让本机设置在 settings.json 的整条 LWW 中永久胜出，
+ * 远端用户在其它设备改的真实配置（如每日学习量）永远无法同步进来（LWW 死锁）。
+ */
+export async function applyLocalDefaults(partial: Partial<Omit<Settings, 'id'>>): Promise<void> {
+  try {
+    await db.transaction('rw', db.settings, async () => {
+      const existing = await db.settings.get('global');
+      if (!existing) {
+        return;
+      }
+      await db.settings.put({ ...existing, ...partial, id: 'global' });
+    });
+  } catch (error) {
+    throw toDbError(error);
+  }
+}
+
+/**
  * 读取 WebDAV 应用密码。
  * 只返回给需要发起请求的同步模块，任何地方都不得把它写进日志或导出文件。
  */

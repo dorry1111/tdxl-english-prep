@@ -228,6 +228,19 @@ describe('ensureSeeded：TTS 默认口径 v2 迁移', () => {
     expect(settings.ttsAccent).toBe('us');
     expect(settings.ttsAutoPlay).toBe(false);
   });
+
+  it('v1.10.1 回归：迁移不顶 updatedAt、不标脏（防 settings.json LWW 死锁）', async () => {
+    const legacy = buildLegacySettings();
+    await db.settings.put(legacy);
+    await ensureSeeded();
+    const settings = (await db.settings.get('global'))!;
+    // updatedAt 保持原值——迁移写的是本机默认口径而非用户意图，
+    // 顶时间戳会让本机在 settings.json 整条 LWW 中永久胜出，远端配置永远同步不进来
+    expect(settings.updatedAt).toBe(legacy.updatedAt);
+    // 不标脏——迁移不应触发一次无意义的 settings.json 上传
+    const dirty = await db.syncMeta.toArray();
+    expect(dirty.find((row) => row.entity === 'settings.json')).toBeUndefined();
+  });
 });
 
 describe('ensureSeeded：iOS syncEnabled 一次性迁移（v1.8.0）', () => {
