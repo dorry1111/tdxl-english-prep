@@ -48,3 +48,4 @@ ios/App/DerivedData/
 # 原始语料 / 开发期数据（非构建所需，体积大，勿提交到仓库）
 # 若需版本化请用 Git LFS 单独管理
 data-raw/
+.tmp-nas/
